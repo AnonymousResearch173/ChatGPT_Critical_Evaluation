@@ -1,0 +1,74 @@
+Type,Content,Username,User Reputation,Upvotes,Is Moderator,Creation Date
+Question,"We can ask AI (like Chat GPT) for answers to almost any question. It usually provides multi-faceted and correct answers, and always remains calm. Especially for knowledge-based questions, AI has advantages of being fast, accurate, and rational
+Add：I knew well that AI made some mistakes, but humans did it too (even worse). And with the development of AI we have enough reasons to believe that it will become increasingly accurate and effective. So what do we want to get from humans? Emotion perhaps? But to what extent do emotions play a role in knowledge-based questions?
+Is the Q&A site still necessary? Why?
+",Rrravi,1,-22,0,2024-07-15 03:16:15 UTC
+Comment on Question,"Consider: if ChatGPT can answer all your work-related questions, it can (probably) do your job...",PM 2Ring,1555,1,0,2024-07-16 18:45:58 UTC
+Comment on Question,"Sure, feel free to use it, for yourself, in an isolated fashion, as many will do. Some will learn the hard way, on their own. Nobody here is saying anyone should refuse to use AI. We just don't want to contribute to that by having AI answers muddying the waters on Stack Overflow, for example, where answers are expected to be authoritative, and - unlike you asking some chatbot a question in isolation - the answers can be subject to scrutiny by humans, and corrected/improved when appropriate.",user1502910,0,0,0,2024-07-15 15:21:18 UTC
+Comment on Question,"@F1Krazy，Thank you.I am not making excuses for AI's mistakes，I just want to say making mistakes is not a logical reason to refuse to use it. Even if we choose humans, the same difficulty would arise.",Rrravi,1,0,0,2024-07-15 14:07:54 UTC
+Comment on Question,"""I knew well that AI made some mistakes ,but humans did it too(even worse )."" - tu quoque fallacy. ""with the development of AI we have enough reasons to believe that it will become increasingly accurate and effective."" - you're not the first person to make this argument, but it's not a very good one IMO. AI will likely improve in the future, yes, but only means that the site might become obsolete in the future once that's actually happened, not that it is obsolete now.",F1Krazy,3099,3,0,2024-07-15 12:24:51 UTC
+Comment on Question,"If you think it is always accurate, I have to wonder how many problems you’ve solved using ChatGPT exclusively. There are reasons it’s banned on most sites, and there have been many conversations about it here. AI is great for solving some problems but it’s just not aligned with the type of answers users have come to expect here - they want advice based on knowledge and experience, not regurgitated summaries of questionable authority.",user1502910,0,13,0,2024-07-15 03:29:04 UTC
+Answer,"TL;DR:A lot of reasons, which you will figure out very quickly from using AI to solve your problems/answer your questions.
+
+Accuracy
+
+AI is very often completely making things up, spreading completely wrong information, exaggeratting correct information, or otherwise not giving you a correct and working answer. Yes, people do that too, but here we have lots of people who know what they are doing and can point out if the answer is wrong.
+
+Bias
+
+If I ask AI something, it will change its answer heavily from very subtle biases in the question, in a way that a human will not. This isn't great, since the goal is to get an answer that works/answers your question, not one echoing your opinion.
+
+Sourcing
+
+A human can say where they got information from, and that can be verified to be true. An AI really can't (it will often say it can and then give non-extant sources, broken links, etc.)
+
+Not good for Q&A format
+
+AI generally responds with essays, not really answers like a human does here. This makes sense, as it is after all a chatbot. A chatbot is meant to chat, not to answer complex questions, and as such does it worse.
+",Starship,12153,-3,0,2024-07-15 03:42:54 UTC
+Answer,"
+An AI is never accountable. Most generative AI at present cannot account for even where it got its knowledge from. A human may forget, and occationally cargo cult things, but the knowledge started somewhere.
+While Plagiarism and link only answers are a problem as old as the network, a good chunk of our answers come from experience, either guided, or by experimentation. A human can hack at a problem till its correct, work through a process of reasoning, and even if they don't understand how an answer was derived, show you how they got there.
+An AI does not know if its answers are correct. It combines a statistically plausible set of words that may or may not be correct. It does not have the capacity to think through an answer (yet?) or to test it.
+It also doesn't have the capacity to think  or synthesize. When its good for simple questions, often Q&A involves reasoning
+I asked the 'free' version of chatgpt a version of this question.
+I don't know if it could parse my network config and output, and a human would start asking me about these things. I'd note this  is exactly what I started with as a problem, and the rest of the pair was from me hacking at it.
+
+I'm currently speed/capacity testing one of the onboard I226-V and the bundled AQC113. Each has its own (currently dynamic, but stable) IP. If I turn on the system, or reboot without the I226-V plugged into the network - I am unable to connect to the AQC113. The AQC113 comes up immediately on the I226V being connected. I can't ping the system if the I226V is unplugged even on the AQC113's IP at any time.
+Can you tell me how to fix this?
+
+Give it a shot, or even try the full question. It just has no idea. Neither did I but I had the hardware in front of me, and was willing to try, and eventually tied some seemingly unrelated knowledge to it.
+ChatGPT won't ask you 'what OS are you running' or 'can you share your network config"" it'll give you an answer, but not necessarily one that's confirmed to be correct.
+And that is the difference - a computer can't try things, have curiosity or get nerdbaited. ChatGPT and its equivalents are adequate for simple already existing answers (sometimes) but when they get complex or specialised, lack the breadth and depth.
+I've even had people write software to solve a problem or troubleshoot an issue I had. ChatGPT does not judge you, but it does not care about the problem either. It'll give you something that feels good, but is essentially informational (or maybe unformational) junk food.
+FWIW, it ended up being a poorly documented interaction between multigig cards, which ended up with me needing to set metrics manually for each interface. I have a theory but chatgpt wouldn't give me a good answer to why - I suspect its because 2 in 2.5 is a bigger number than the 1 in 10. But you can see the complete failure to try to solve the question. It gave me, well a practically useless checklist, without any real clear things to check.
+Pretty much it didn't answer my question - which admittedly was very niche. It did not judge me, but this was hardly multifaceted or correct. It didn't do any real troubleshooting outside providing me a list of vague things to try. It ideated but did not have an idea. It also completely missed the very subtle point here - which needed some niche knowledge I remembers from a completely different OS
+",Journeyman Geek,195964,3,0,2024-07-15 06:18:05 UTC
+Answer,"
+In today's era where artificial intelligence is becoming increasingly ubiquitous
+
+Saying that something is becoming ubiquitous sounds more like hype than fact, it's as if you want to valorize the buzzword, which like all trends will disappear and people will get used to it. Artificial Intelligence is just a tool and it is as a tool that it should be seen.
+
+what significance does a Q&A website still hold？
+
+Perhaps the right question is not to ask how significant Q&As are today. Q&A and LLM are different tools, with different objetives, aimed at different audiences.
+Possibly the right question is who are you these days? Are you a Q&A user or an LLM user?
+I think using Q&As or LLMs ia an individual matter and not transferable. Each one will decide for themselves and won't let other people's opinions influence their choice. Don't think about the choice your fellow has made, just consider what's best for you.
+If LLM provides you with answers that it considers good enough, then you are not a target audience for Q&A, so don't waste your time or ours. Be happy with the chat bot.
+Observing that the same professional whose questions are easily answered by an answer-generating machine is the same professional who can be replaced by a question-generating machine.
+If the LLM models can't answer your questions, or because they simply hallucinate, or because the required knowledge was produced after the AI cut-off date, or because they don't cite corroborated sources to back up the information they provide, or because they generate limited and repetitive explanations,or because LLM doesn't know logic or math....., or whatever reason you have for disliking and distrusting LLM-generated content; you may be a candidate for a Q&A user.
+Being a candidate Q&A user is not the same as being able to use a Q&A. Using Q&As takes effort and resilience, and the learning curve for the rules of a Q&A can be long and difficult at first.
+",Augusto Vasques,710,5,0,2024-07-15 05:22:59 UTC
+Answer,"TLDR; It feeds the monster on inquiries not needing human expertise or where subjective matter expertise or diverse community involvement adds value.
+So, a more relevant question would be:
+
+How relevant are Q&A sites to AI in today's era?
+
+",Pimp Juice IT,293,1,0,2024-07-15 04:52:17 UTC
+Answer,"
+it usually provide multi-faceted and correct answers, and always remain calm.
+
+The main issue is accuracy. LLMs and other AIs are still far from human-level  accuracy for open-domain question-answering. It does work well on many questions though.
+FYI: What quality threshold should be established for language models/question-answering systems to be allowed to write answers on Stack Exchange?
+",Franck Dernoncourt,51414,3,0,2024-07-15 04:00:13 UTC
+Summary,"{'Question Title': 'In today&#39;s era where artificial intelligence is becoming increasingly ubiquitous, what significance does a Q&amp;A website still hold？', 'No of Upvotes': -22, 'Total No of Answers': 5, 'Total No of Comments': 5, 'Question Asker Name': 'Rrravi', 'Question Asker Reputation': 1, 'Question Asker Is Moderator?': 0, 'Tags': 'discussion, chatgpt', 'Post Link': 'https://meta.stackexchange.com/questions/401384/in-todays-era-where-artificial-intelligence-is-becoming-increasingly-ubiquitous', 'Date of Post': '2024-07-15 03:16:15 UTC'}",,,,,

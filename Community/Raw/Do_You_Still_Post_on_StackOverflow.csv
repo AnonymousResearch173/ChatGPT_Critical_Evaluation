@@ -1,0 +1,84 @@
+Unique ID,Parent ID,Depth,Username,Post Karma,Comment Karma,Achievements (Flair),Number of Awards,Comment,Upvotes,Timestamp (UTC)
+1,,0,ItsAHardwareProblem,5,2852,None,0,"Have you tried using chatgpt for anything that isn’t basic? It’s habitually makes things up and imagines APIs to solve problems. I personally haven’t used stack-overflow or chatgpt to really solve any problems as I find SO tends to have dated answers, and chatgpt is both dated and makes stuff up. Imo the best way to solve problems is to properly learn to use a debugger and understand/read docs. Those problem solving skills will make you a much better engineer, and get you much further in your career - in my opinion",41,2023-09-01 16:59:43
+2,1,1,DrunkensteinsMonster,58,71492,None,0,"Yeah same here. Spit out a script using an API I’ve never used to do something basic? Sure, most of the time it can do that. Much past that though it’s more of a hassle to haggle with ChatGPT than to just get the information from docs etc.",7,2023-09-01 17:50:02
+3,1,1,Smallpaul,16503,138997,None,0,I use ChatGPT (4) on a daily basis and it has saved me many hours of going down wrong paths. It can take all of the knowledge of StackOverflow and apply it to your very specific situation.,6,2023-09-01 17:25:53
+4,3,2,ItsAHardwareProblem,5,2852,None,0,"I’m happy it’s worked for you, but perhaps it’s because of the area of engineering I work in (big data - which frankly has changed a large amount since 2021) it feels useless (I’ve even tried ChatGPT - 4) 
+
+But as with anything in programming, there’s many ways to solve a problem and there isn’t always “one right way”, so if it works for you then that’s great, sadly it doesn’t for me",8,2023-09-01 17:30:00
+5,4,3,Smallpaul,16503,138997,None,0,"Sure, it will obviously struggle with areas that have changed since 2021. I don't even try it for stuff like that. Like I don't ask ChatGPT to generate code for the ChatGPT API.",1,2023-09-01 19:27:58
+6,3,2,sudu10,118,32,None,0,What kind of work do you do? Maybe its useful for certain fields more so than others,4,2023-09-01 17:28:21
+7,6,3,Smallpaul,16503,138997,None,0,"I'm a freelancer and researcher. It's hard to summarize as a single field.
+
+I guess some common patterns are data transformations, event processing, API creation and consumption...
+
+As a freelancer I might dive into a code base that's in an environment that I 70% understand and I ask ChatGPT (4) questions to understand the other 30%. ""What would this line of code do? Why would this line be in this context? Why do I get this error message when I run it?""
+
+This saves me asking other busy developers those onboarding questions.
+
+Also: ""Do a first past of porting this prototype code from my-prototyping-language to customers-production-language. Add appropriate type signatures.""
+
+When I'm working in an environment I'm fully familiar with, it's an accelerator: ""Write me a CLI utility to test a function with this signature with an input document named on the CLI. Generate the boilerplate for a unit test for a function with this signature. Write a program to transform my sample data from a CSV to the customer-specified JSON format.""",1,2023-09-01 19:37:04
+8,3,2,fryerandice,146,36862,None,0,"I've asked it for lodash questions and gotten jquery results back before, it's... useful but it's just a more advanced websearch.
+
+People are mesmerized by the fact that it animates code like it's typing it, most of what it's doing is smashing stack overflow answers together as best as it can.",2,2023-09-01 20:15:31
+9,8,3,Smallpaul,16503,138997,None,0,"I would happily bet 10 to 1 that if you ask GPT-4 to solve a problem with lodash that it would not use jQuery. The one time I saw that behaviour I realized that I had forgotten to specify the language or framework.
+
+I'd be mildly impressed if you could share a link of GPT 3.5 doing that, but SHOCKED to see GPT-4 doing it. I use it every day and I don't see that kind of mistake. Mistakes yes, but much more subtle ones.",2,2023-09-01 20:28:18
+10,3,2,protocol_buff,1,199,None,0,"This has been my experience (maybe not on a daily basis though), but only when trying to generate a cursory outline for a tech or library that I'm not that familiar with. I've also had the experience described above of ChatGPT generating fake calls/APIs when the questions get too complex",1,2023-09-01 18:04:48
+11,10,3,Smallpaul,16503,138997,None,0,Sure. It's a tool with weaknesses and limitations. Nobody ever claimed it was perfect.,1,2023-09-01 19:26:18
+12,1,1,ExpressionDiligent42,1,1,None,0,Yes but if you are really stuck it can point you in the right direction but yes confidently wrong!,1,2024-04-11 04:35:08
+13,1,1,sudu10,118,32,None,0,That is what I've been doing too. But senior devs who have been around long enough probably know how to leverage chatgpt to its fullest extent to just get the boilerplate code I guess at the least that is what I imagine.,-4,2023-09-01 17:03:31
+14,13,2,ItsAHardwareProblem,5,2852,None,0,"Chatgpt is great for generating ideas or seeing how it might approach a problem, however still requires a deep dive and human touch to take things to the end zone. Personally I sometimes use it as a sanity check or a way to spark some creativity, however haven’t had it solve any programming problems for me yet due to its “hallucinations”. I think aws and Microsoft both have a code version of a generative AI, which integrations with your IDE (aws version is codewhisperer, and I think Microsoft’s is co pilot) I would recommend spending time familiarizing yourself with those tools as they are code oriented and can definitely help improve productivity",8,2023-09-01 17:07:44
+15,14,3,sudu10,118,32,None,0,Have you used codeium?,2,2023-09-01 17:09:32
+16,15,4,ItsAHardwareProblem,5,2852,None,0,"I personally have not as most tools like that are considered against company policy where I work (due to phone home/ code scanning) . I may end up taking a look at it on my personally time for hobby projects, but unfortunately at this time I have nothing worthwhile to share about it :(",1,2023-09-01 17:13:06
+17,16,5,sudu10,118,32,None,0,"Its a pretty great tool. They claim to have better code suggestions than co-pilot (can't validate that since I haven't really used co-pilot), but it's pretty great for the experience I've had with it so far",2,2023-09-01 17:15:22
+18,17,6,ItsAHardwareProblem,5,2852,None,0,"Good to know, I’ll definitely give it a try for hobby projects then",2,2023-09-01 17:16:10
+19,18,7,sudu10,118,32,None,0,"Cool, do let me know how it stacks up to copilot",1,2023-09-01 17:17:13
+20,13,2,jasfi,128,3048,None,0,"Be sure to use GPT-4 for ChatGPT when you ask it anything code related, the extra quality is needed.",1,2023-09-01 17:20:38
+21,,0,BaronOfTheVoid,359,78474,None,0,"I never posted anything on SO because everything was already answered.
+
+Everything's still answered so I don't use an AI to ask it questions either.
+
+To be frank in most cases I don't really have any questions anyway and already know what I need to know.",4,2023-09-01 17:41:14
+22,,0,Deleted,N/A,N/A,None,0,"Chatgpt is becoming dumber, it was smarter some months ago, idk what happened.",8,2023-09-01 17:04:00
+23,22,1,RichardPinewood,211,123,None,0,"lmao, just came here to say that the dumb  days of chat gpt are gone now since ,o1 showed us that it can reasoning hitself,bye bye hallucinations in 4 years !",1,2024-09-16 13:34:14
+24,22,1,Deleted,N/A,N/A,None,0,[deleted],-1,2023-09-01 17:24:20
+25,24,2,Deleted,N/A,N/A,None,0,"ChatGPT claims it was trained on data no more recent than September 2021, so I don’t think it’s an AI feedback loop that’s causing it to get worse. More likely that OpenAI keeps adjusting controls to block jailbreaking attempts, tame the responses, make it less likely to confidently make up false information, prevent it from being used for purposes that break the TOS, etc. Unfortunately I think some of these adjustments have made it produce worse output for a lot of legitimate queries.",5,2023-09-01 19:42:41
+26,24,2,icebraining,4531,49253,None,0,Why do you say they are incorporating GPT output into the corpus? I've never seen that claim.,4,2023-09-01 19:41:21
+27,24,2,Smallpaul,16503,138997,None,0,"No, that's not how it's trained.",1,2023-09-01 23:08:19
+28,22,1,sudu10,118,32,None,0,Is that true? Shouldn't it be getting better with more training data available?,0,2023-09-01 17:05:25
+29,28,2,botman,3395,25463,None,0,"Garbage in, garbage out.",9,2023-09-01 17:12:17
+30,28,2,angedelamort,561,27225,None,0,"To simplify: the main issue is that the model is static and doesn't change. Why is it getting worse? Because everyday, they add filters to make sure you're not using it in a bad way. And those filters make it give different answers and not the most optimal one.",3,2023-09-01 17:31:46
+31,28,2,ericesev,16,9536,None,0,"The theory goes: If more people are copy/pasting the incorrect answers from chatgpt in places that chatgpt uses for training, then the original hallucinations get baked into its LLM.",-2,2023-09-01 17:16:17
+32,31,3,sudu10,118,32,None,0,"So, basically, our jobs are safe?",2,2023-09-01 17:20:36
+33,31,3,icebraining,4531,49253,None,0,"No, they stuck ChatGPT in a 2021 world to avoid that problem.",3,2023-09-01 19:43:38
+34,,0,Deleted,N/A,N/A,None,0,ChatGPT has not once given me useful answers to my programming questions.,8,2023-09-01 17:15:15
+35,34,1,sudu10,118,32,None,0,"Really? I've been learning algorithms from it(not the only source, just when I don't understand particular terms) and it seems to explain those things pretty well.",1,2023-09-01 17:19:12
+36,35,2,Deleted,N/A,N/A,None,0,"I don't use it to study simple concepts, I tried it for actual problems that had me stuck, and it never provided a correct answer.
+
+Or course explaining an algorithm should be easy for it, it's literally repeating answers to a question that's been made millions of times, it has from where to get the info from. When you ask something even slightly complicated, it will almost invariably make shit up.",5,2023-09-01 17:22:43
+37,36,3,sudu10,118,32,None,0,"Ok. That seems like a good thing, for us at least.",1,2023-09-01 17:26:28
+38,37,4,Deleted,N/A,N/A,None,0,"Well, it's not good, because it would have been awesome if it helped with any problem I had.
+
+It's good that it helps with studying ""common"" topics (non obscure).",2,2023-09-01 17:42:20
+39,,0,drankinatty,1,573,None,0,StackOverflow will always be a superior reference because the answers are peer-reviewed. There are no hallucinations and any poor quality answers are quickly downvoted and removed. Good luck with that with some AI bot.,3,2023-09-02 07:46:46
+40,,0,Chuu,7107,49771,None,0,"As a professional developer the one place is found ChatGPT useful professionally was when getting back into a language after a long gap and asking for examples. And the examples often had bugs but easy enough ones to spot if you were familiar with programming in general.  For the issues I have with languages and libraries I am proficient in, it’s close to useless.",2,2023-09-01 17:33:47
+41,,0,unsavvykitten,939,11092,None,0,"Yes, I did, still do, and will probably continue to do. 
+
+If half your questions got banned, there was a reason for it. It’s not unusual that it takes a few bad questions until a beginner has learnt how to ask questions properly. Same happened to me, because I did not understand right away that Stackoverflow works different than a normal forum. Questions and answers are expected to be long-lasting, not a conversation. However, that’s exactly what makes it so much more valuable. 
+
+ChatGPT, on the other hand, is starting to replace Google for me, because I get the necessary information much faster - if I get it at all.",2,2023-09-01 18:06:38
+42,,0,Deleted,N/A,N/A,None,0,ChatGPT can be okay for simple tasks involving libraries that haven’t changed at all since 2021. If you are doing something fairly complex or using a frequently update library/framework it can give you some terrible answers.,2,2023-09-01 19:37:18
+43,,0,ExpressionDiligent42,1,1,None,0,"ChatGPT won't ban you for ""bad questions""!  I got banned from stackoverflow for asking questions it did not consider as software related even through they were and even had a hashtag for the category.  I am not going to post on stackoverflow  ever again.",1,2024-04-11 04:32:47
+44,,0,nuliknol,65,-49,None,0,"It is just matter of time when StackOverflow declares bankrupcy. I played with o1-preview, by asking questions of assembly language in AVX2 and RDNA 3 assembly. It only gave wrong answer for broadcasting immediate value to an ymm register it suggested first move a constant to eax, then using eax as operand for broadcast, like this: \`mov eax, 0xFFFFFFFF; vpbroadcastd ymm0, eax\`  , however this won't work because SIMD has its own circuit module and it is not connected with general purpose registers so you get illegal instruciton error if you do that. But that was logical and ChatGPT derived this knowledge on its own. Pretty impressive assuming it doesn't have a computer to test it. I did about 30 queries with coding examples and it only made 1 error. There is no change for StackOverflow to win, ChatGPT is young, in the future it will only be better.",1,2024-10-22 02:29:33
+45,,0,Deleted,N/A,N/A,None,0,"One advice, ChatGPT simply copies and combines results from various untrusted sources, so it will give you whatever it finds suitable based on its created model, and if your knowledge in the asked field is not good, you will accept most wrong answers as correct. I tested it on many questions related to programming and algorithms' complexity, and it gives totally wrong answers.",1,2023-09-01 19:57:44
+46,,0,equalsme,5611,15083,None,0,"I tried posting a question on SO and it was quickly removed because i didnt have enough points to post.
+
+I tried to answer a question on SO and it was quickly removed because i didnt have enough points to answer.
+
+ChatGPT has helped me and my team build an application in electron forge, while it is not perfect it has driven productivity up significantly.
+
+I used to get bombarded everyday with questions from junior and senior developers, but since we decided to use ChatGPT I no longer get asked questions and the team gets the job done faster.",0,2023-09-01 18:51:03
+47,,0,MeCaenBienTodos,13,1450,None,0,"Use both, usually start with ChatGPT. Both are very unreliable, but also very useful. In both cases often have to spend a lot of time finding the right answer that actually works for a given situation. ChatGPT does a credible job of identifying syntax errors and also translating code (eg. Java to Swift). Definitely not perfect but definitely faster than if I did it myself.",0,2023-09-01 17:43:17
+48,,0,OwO-sama,562,2133,None,0,"Not chatgpt, but I do ask questions from catgpt from time to time!",0,2023-09-01 17:49:31
+49,,0,muckedmouse,4,6627,None,0,"I use a combination. In most cases if it's something in an area I'm comfortable in I just use Google to ask for something specific and I may-or-may-not endup on SO. It it's something in another field that I need a jump-start on, ChatGPT is super convenient. But after that jump-start you simply start using your normal programming knowledge and of course a debugger :)",1,2023-09-01 19:41:38

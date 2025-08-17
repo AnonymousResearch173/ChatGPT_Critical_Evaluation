@@ -1,0 +1,763 @@
+Unique ID,Parent ID,Depth,Username,Post Karma,Comment Karma,Achievements (Flair),Number of Awards,Comment,Upvotes,Timestamp (UTC)
+1,,0,jlemrond,1,8229,None,0,"The down turn happens well before the release of ChatGPT. 
+
+Stackoverflow is putting Stackoverflow out of business.",1103,2023-07-26 22:12:41
+2,1,1,SituationSoap,2789,182664,None,0,"Pretty much exactly this. So many SO hits that show up on Google are several years old, and their policies against reanswering questions means that the answers are often quite outdated.",860,2023-07-26 23:27:42
+3,2,2,peachydizzle,95,3627,None,0,"this is my #1 grievance with SO. everytime i try to look up an answer it is years old sometimes even a decade old, and any newer questions are closed due to duplicate question. it makes no sense with how fast tech advances and how quickly things change that 5+ year old answers should still be relied on",479,2023-07-27 00:13:30
+4,3,3,ScottIPease,1160,40749,None,0,"Not to mention that even when there are questions that stay up the community loves to flame down anyone they deem stupid... which is anyone new for the most part no matter quality.  
+You can only have a community that utterly craps on newbs for so long before you end up with an old, insular and shrinking population that is being bypassed and ignored by the new generation.  
+I have been saying this to people for years and I used to get crap and told things like: ""It is the way it is man... People have to pay their dues, I was picked on when I was coming up, now it is their turn! If they can't handle it then they should find somewhere else to go!""
+
+Guess what? There is a whole generation of newer coders going somewhere else. It is a good thing IMO.",206,2023-07-27 01:04:15
+5,4,4,hdd113,1729,19380,None,0,"This. I almost never went to SO since ChatGPT and Copilot Chat came out. Not because I am one of those ""AI worshippers"", but because I could finally ask all those stupid what if questions and get actual answers without worrying about downvotes. I'd dare say SO at least in part called for their own demise.",75,2023-07-27 07:10:55
+6,5,5,TylerDurdenJunior,48148,45163,None,0,But if no new answers to questions from SO is gobbled up by chatgpt it will be useless in a short time,9,2023-07-27 08:54:25
+7,6,6,WiglyWorm,57179,435785,None,0,I guess it's just up to us developers to write good documentation...,6,2023-07-27 13:49:37
+8,7,7,Padaca,3243,78846,None,0,"What the fuck is ""documentation""",16,2023-07-27 15:06:39
+9,8,8,WiglyWorm,57179,435785,None,0,That thing microsoft does that makes you have to read 14 different pages before taking your best guess at what mishmash of outdated and partial information will allow you to achieve your goal.,18,2023-07-27 15:09:43
+10,8,8,eyebrows360,856,95455,None,0,"What the fuck is ""good""",1,2023-07-27 15:11:45
+11,8,8,nitePhyyre,29,33928,None,0,"It is whatever ChatGPT spits out when you give it the prompt ""Here is my entire code base: <code> Write good documentation for it.",1,2023-07-27 20:50:16
+12,8,8,ReplacementLow6704,2168,25481,None,0,"But more importantly, for the Freedom enjoyers in the room: What the fuck is a kilometer??!",1,2023-07-28 05:33:38
+13,12,9,Falconflyer75,3713,141059,None,0,Something NASA used to put things in space,1,2024-05-22 02:20:43
+14,6,6,MettaKaruna100,248,1096,None,0,It gets trained on all the questions we ask and the code that we give it,1,2023-07-27 18:31:05
+15,14,7,TylerDurdenJunior,48148,45163,None,0,In that case your favorite LLM will be useless in a short while if you only provide it with questions and no context code.,1,2023-07-27 20:42:32
+16,5,5,koch55,1,25,None,0,"You are very likely to get some false positive because chatGPT will sometimes feed you an outdated answer or something which looks good in theory but won't compile.
+As a developer with some experience, I can always tell when the code starts making no sense or when chatGPT introduce something that does not exist, but a beginner can never catch those things, because certain things have changed over time, but chatGPT won't always output those changes",1,2023-07-27 16:31:14
+17,5,5,lgeorgiadis,153,17920,None,0,And get the answers kinda tailored to your specific case :),1,2023-07-27 19:02:01
+18,4,4,Deleted,N/A,N/A,None,0,[removed],97,2023-07-27 04:45:53
+19,18,5,Deleted,N/A,N/A,None,0,[deleted],59,2023-07-27 05:10:40
+20,19,6,mfizzled,46722,249289,None,0,"I remember posting a question, getting a few downvotes and deleting it - only to receive the peer pressure badge. They def leant into the pick on the noob atmosphere.",52,2023-07-27 07:17:46
+21,20,7,Aim_Fire_Ready,1646,14223,None,0,">peer pressure badge
+
+The what?! Ugh...[it's real](https://stackoverflow.com/help/badges/38/peer-pressure).",20,2023-07-27 14:39:04
+22,21,8,Deeandrm,95,799,None,0,That's lame,11,2023-07-27 15:31:45
+23,21,8,Deleted,N/A,N/A,None,0,"I’d delete my account. That’s absurdly fucked up, especially for those of us with social anxiety.",1,2023-07-28 05:26:17
+24,20,7,DullRelief,3128,20997,None,0,"Damn, that’s fucked up",6,2023-07-27 16:16:37
+25,19,6,arcanemachined,983,47098,None,0,"The trick is not to care about what random dicks on the Internet have to say.
+
+It's not the easiest thing in the world to do, but it's doable.",17,2023-07-27 08:29:21
+26,25,7,Aim_Fire_Ready,1646,14223,None,0,"Silver lining on being bullied for years and years. I don't give a flying fart what anyone thinks of me, my opinions, my questions, or my work until and unless they either have some position of authority (like my boss who could fire me at-will) or **demonstrate** some level of respectability.",3,2023-07-27 14:41:12
+27,18,5,Don_Frika_Del_Prima,72223,209178,None,0,There's a reason the meme exist that for getting the right answer on So first you need to give the wrong one.,15,2023-07-27 07:29:25
+28,18,5,Aim_Fire_Ready,1646,14223,None,0,">I was new and had nobody to ask.
+
+I feel you, brother. It's hard being new and self-teaching. Where do you get help now? I'm still on my own, so I have to go online for help.
+
+I've gotten good support from one Facebook group and a related group on Discord. I had one guy do a 30 minute code review with me and then refuse to accept any payment, gift cards, or other compensation.",3,2023-07-27 14:38:17
+29,28,6,eyebrows360,856,95455,None,0,"> Where do you get help now?
+
+What you do is what we had to do in the '90s - you experiment and trial and error stuff and *figure it out yourself* instead of thinking offloading that responsibility onto another human being *for free* is somehow the default and expected path.
+
+And no, this isn't me doing a ""it was hard for me, so it must be hard for the next generation"", it's me specifically saying that asking questions of others is *not* and never should be the first port of call for anything, *because it doesn't scale*.
+
+The levels of entitlement in here are through the roof.",-2,2023-07-27 15:17:15
+30,29,7,Aim_Fire_Ready,1646,14223,None,0,"I agree with you up to a point, but there’s a place for “figure it out” and a place for “here’s a better way to do it”.",2,2023-07-28 01:47:55
+31,18,5,illepic,29147,211957,None,0,I've had an account for 15 years and have never once been able to interact with anything (upvotes/questions/comments) due to lack of requirements. Seems weird to have a platform where there's almost no user engagement.,3,2023-07-27 16:22:56
+32,18,5,AuroraVandomme,11105,5647,None,0,Stackoverflow is not a newbie help forum. It's a knowledge base and that's the difference.,1,2023-07-27 15:30:45
+33,32,6,Sulungskwa,1257,11713,None,0,"Does it really get to be considered a ""knowledge base"" if the top answers in JavaScript are still jQuery?",9,2023-07-27 17:08:23
+34,18,5,TylerDurdenJunior,48148,45163,None,0,That sounds like a win for SO,-5,2023-07-27 08:52:20
+35,34,6,Deleted,N/A,N/A,None,0,[removed],7,2023-07-27 12:32:36
+36,35,7,eyebrows360,856,95455,None,0,"To label ""trying to keep the site usable"" as ""gatekeeping"" is just... do you want to keep digging? Really?",1,2023-07-27 15:16:06
+37,34,6,SirSoliloquy,363052,467280,None,0,SO is going to win itself right into an early grave.,2,2023-07-27 14:17:48
+38,18,5,eyebrows360,856,95455,None,0,"> dedinitely
+
+I mean.
+
+You *have to* stop people asking stupid questions, which you even admit they were, otherwise your site becomes flooded with questions, not answers. Please. It is *so* irrational to be mad at SO for this. This dedinitely isn't rocket surgery.
+
+> I was new and had nobody to ask
+
+If this was a good enough excuse for you, then it'd have been a good enough excuse for everyone - see above, floods of questions, useless site, etc etc.
+
+What's going on here, categorically, is not ""SO being gatekeepy"", it's *you* being entitled.",-3,2023-07-27 15:13:09
+39,38,6,Deleted,N/A,N/A,None,0,[removed],0,2023-07-27 21:10:20
+40,39,7,eyebrows360,856,95455,None,0,"> Man, solving your issues on your own without asking for help has fried your brain.
+
+Or, y'know, it's made me really good at solving things? As opposed to possessing the only ""skill"" you believe you need, demanding someone else hand you the answer on a silver platter just because, somehow, *you* deserve to get all the answers with zero effort. Sorry boss, wasn't aware I was in the presence of royalty. Do beg your pardon, your highness.
+
+> How can a noob ask a good question when their understanding is zero?
+
+They can *search* the endless reams of prior answers and readily available free knowledge on almost any subject known to man that we call ""the internet"", instead of being lazy and entitled and demanding some other poor fuck do all the work for them.
+
+Or, if they're shit at self-directing their learning, they can go to school. Many options abound. Crying because the silver platter option wasn't available to you is possibly the worst of all of them.",0,2023-07-27 21:24:40
+41,4,4,Geminii27,3637,1504507,None,0,"What was the quote? Something like ""Communities which *don't* try to make life easier for their successors don't tend to thrive""?",7,2023-07-27 05:21:45
+42,4,4,DEAD_JUSTICE_ROBERTS,4,26,None,0,"> the community loves to flame down anyone they deem stupid
+
+After that happened 2-3 times I stopped logging into SO.
+
+It's a tremendously valuable resource. When I need an answer and start searching with Google, I find it on SO 95% of the time. The comments on proposed answers and comments on those comments are often enlightening.
+
+I have imagined (because I don't have data) that SO has doubled or tripled programmer productivity.
+
+Is there any danger of SO going away?",6,2023-07-27 12:08:07
+43,4,4,April1987,7,50674,None,0,"> Guess what? There is a whole generation of newer coders going somewhere else. It is a good thing IMO.
+
+I am not saying I am a hipster or anything but I was scared of asking questions on stack overflow even in 2011. 
+I would always ask questions in the chat room to make sure my question actually made sense before I posted them.",3,2023-07-27 20:08:38
+44,3,3,Quantum-Bot,13528,82578,None,0,"It makes sense not to have duplicate questions, but there should be a way to re-open a question when the current answers become outdated",71,2023-07-27 00:30:23
+45,44,4,Deleted,N/A,N/A,None,0,"Hell even just a way to flag outdated questions so they can't be used as ""possible duplicate of"" would be fucking normal.",41,2023-07-27 02:10:55
+46,44,4,GandalfsEyebrow,131,6054,None,0,"Part of the problem is that questions get marked as duplicate even when they aren’t. Self-appointed experts often don’t understand questions, declare them to be duplicates and link to answers that have nothing at all to do with the new question. I would rather have too many redundant questions than have entire knowledge domains being rendered inaccessible by pompous gatekeepers.",3,2023-07-28 06:42:17
+47,3,3,EmSixTeen,5976,51153,None,0,Here's your answer.. *in jQuery*. 😏,48,2023-07-27 07:13:26
+48,47,4,ElCuntIngles,1,10896,None,0,"I have neatly outlined a solution in this blog post: *NXDOMAIN*  
+**+1045** Jan 12, 2011
+
+\--  
+THanks! this solved my problem perfectly  
+\--  
+Awesome solution! Very clever  
+etc",21,2023-07-27 10:04:15
+49,48,5,Web-Dude,25529,62925,None,0,"Reminds me of the days of the internet forum:
+
+>User: Hey, can you tell me why {exact problem I'm having} isn't working?  
+>  
+>User: Never mind, I figured it out
+
+Also, [relevant XKCD](https://xkcd.com/979/)",6,2023-07-27 15:00:26
+51,3,3,Fluffcake,189,116868,None,0,"Q: something  
+A: Easy, just use *deprecated* language feature and *no longer maintained* library to make *anti-pattern.*  
+- Submitted in 1993
+
+The SO trifecta.",12,2023-07-27 13:36:29
+52,3,3,queBurro,800,32428,None,0,"I'm not a big fan of people changing my questions for grammar or because i dared add the word ""hi"" or ""thanks"". Yeah, SO can gargle my balls.",6,2023-07-27 12:01:18
+53,3,3,Deleted,N/A,N/A,None,0,[removed],1,2023-07-27 00:33:09
+54,53,4,Deleted,N/A,N/A,None,0,"> Many of those answers are much newer than the thread itself. Scroll down.
+
+Given that the answers aren't presented in chronological order, it can be easy to miss a newer answer over an old one. It's a shitty system. Don't make bullshit excuses.",41,2023-07-27 02:12:09
+55,54,5,fotopic,126,2168,None,0,I think you can sort the answers by date,6,2023-07-27 04:01:03
+56,3,3,Aim_Fire_Ready,1646,14223,None,0,"I know right? Every time I ask a question about Q-Basic, it gets marked as a duplicate because someone asked the same question about Basic back in 1985! Ugh!!!!",1,2023-07-27 14:35:36
+58,2,2,HQxMnbS,399,13217,None,0,But why wouldn’t newer questions/answers be indexed? I always thought this was an issue with Google,7,2023-07-27 00:02:15
+59,58,3,SituationSoap,2789,182664,None,0,"Because questions aren't allowed to be re-asked, so you're relying on both the original answer to be updated and the votes to recognize the value.",39,2023-07-27 00:08:29
+60,2,2,ATubFullOfDonuts,2,99,None,0,"It's a shame really, would seem a lot more valuable to allow for some sort of grouping, like related questions etc to allow for more diverse answers, there's an unlimited number of ways to skin a cat after all.",13,2023-07-27 00:11:32
+61,2,2,Deleted,N/A,N/A,None,0,[removed],26,2023-07-27 00:29:43
+62,61,3,Doomenate,1027,38752,None,0,Sift through all of that or click on the blog that answered it a month ago,19,2023-07-27 01:12:23
+63,62,4,theCamelCaseDev,3361,23628,None,0,"Yep, it gets annoying real quickly. ""What's the posted date on this answer...nope not this answer it's too old. Nope this one is still 7 years old...how about this one...nope...not this one either...oh this one is pretty recent but completely irrelevant to what I need...this one is completely wrong...fuck it"".",10,2023-07-27 08:31:58
+64,2,2,officiallyaninja,48776,108320,None,0,"I've never understood this complaint, Usually there will be newer answers if you scroll down, and you can also sort by date.  
+99% of the time if an answer is out of date there will be another answer correcting it that was made more recently.",13,2023-07-27 02:19:20
+65,64,3,fotopic,126,2168,None,0,"You’re 100% correct. There’re valid point here, but seems to that some people don’t bother to take time to get familiar with the changes to the site over the years",8,2023-07-27 04:07:20
+66,65,4,theCamelCaseDev,3361,23628,None,0,"To which you have to ask yourself, ""is it a user problem or a UX one?"", and I like to think it's the latter. Maybe whatever eventually replaces it will be better at it.",14,2023-07-27 08:34:17
+67,2,2,NullVoidXNilMission,141,2969,None,0,"One of the major problem is that versions aren't required and some answers might not be relevant anymore. Also, there's only one right answer. Also mods are way too strict sometimes. And lots of unanswered questions",6,2023-07-27 07:08:32
+68,2,2,DocRoot,16,1039,None,0,"> and their policies against reanswering questions means that the answers are often quite outdated.
+
+There are no such ""policies"". In fact, the opposite is true... re-answering old questions is positively encouraged and incentivised with additional badges. They've also introduced new ordering options for answers so that ""newer"" votes count more - allowing newer ""correct"" answers to out-trump older ""accepted"" answers.",5,2023-07-27 12:03:59
+69,68,3,SituationSoap,2789,182664,None,0,"I used the wrong word there. It should have been ""re-asking"" not ""re-answering"" you're correct.",4,2023-07-27 13:49:56
+70,2,2,TerdSandwich,2700,100510,None,0,Which means the answers ChatGPT is providing are most likely equally outdated.  Sort of a problem for the community as a whole.,2,2023-07-27 12:36:06
+72,2,2,treading0light,121,8462,None,0,"And if you provide an AI with a knowledge base of the official docs for all the tech you are building with (frameworks, libraries, etc) along with code blogs, you can get accurate and modern solutions.",1,2023-07-27 15:31:24
+73,2,2,nopethis,541,170686,None,0,"""Look it up you dummy!"" 
+
+\-Yeah well the answer I got was from 2015, so I'll just go ask GPT then thanks....",1,2023-07-27 16:54:57
+74,2,2,Nimbous,15488,18109,None,0,"There's no policy against re-answering questions. There is a policy against asking the same question twice, but one question can have multiple answers. Stack Overflow has been experimenting with changing the algorithm that sorts the answers to favour ""trending"" ones by default, presumably for this reason.",1,2023-07-27 21:40:08
+75,2,2,starball-tgz,243,628,None,0,try sorting answers by newest or by trending.,1,2023-08-05 02:03:40
+76,1,1,Deleted,N/A,N/A,None,0,[deleted],65,2023-07-27 01:22:18
+77,76,2,broke_key_striker,192,10295,None,0,SO had job board?,19,2023-07-27 02:10:24
+78,77,3,itsdr00,21092,111875,None,0,"Yes, and it was really good.",26,2023-07-27 03:36:40
+79,78,4,teakoma,74,3618,None,0,"Exactly. I got several quality contact requests from there, not all the spam I get on linkedin. When I learned about the jobs and dev story (or whatever the name of that was) on SO back in the day, I thought, oh great, finally a good, stable place where I can add all my stuff I have done and just send everyone the link when I want to share. Recently, I wanted to do exactly that and I could not find everywhere and first I thought they moved it, then I finally find out by using google that all of that is gone. I had to dig up my old CV and update it.",8,2023-07-27 10:47:24
+80,76,2,fotopic,126,2168,None,0,"Don’t know bro, but apparently those CEO stand in a difficult position: need to make money out of a site that just brings a platform for people to shared ideas and info. They have limited option for making money since must the user just see it as space to shared ideas. Is the same case as Reddit. 
+
+The hard part is that we build all the data for those site  but at the end it doesn’t belong to us and they can do whatever the want.",6,2023-07-27 04:16:08
+81,80,3,DJEXPrezzo,33,694,None,0,"Yup, you're not wrong but some decisions made by the CEO can actually contribute on worsening their position and the plattform's. In this case by keeping the jobs the developers could had made quite a good income by just taking a little portion of the payments made through the site. Like, keeping a 5% of the payment or making users pay to place a job offer would help the company stay onboard. tbh that change was just a bad ass decision.",14,2023-07-27 04:52:38
+82,1,1,giveKINDNESS,1564,4978,None,0,Agreed.  I have gone to stack overflow less and less for years.,9,2023-07-27 02:15:09
+83,1,1,jeanleonino,19028,47631,None,0,ChatGPT (and other tools) just gave a way out. Even Discord is helping.,24,2023-07-26 23:24:33
+84,83,2,TheLexoPlexx,15581,43893,None,0,Plus: I find way more useful answers on GitHub-Discussions if they are related to the topic.,19,2023-07-26 23:43:57
+85,1,1,not_creative1,7881,397894,None,0,"But we should not overlook the fact that this tool is training on publicly available data from other people and passing it as its own without even citing it. Without permission. 
+
+This is very concerning. It is now training on people’s blogs and passing that info as its own. Why would anyone ever write blogs/reviews/articles anymore if the minute the publish, chatGPT reads it and then passes it to millions of people as it’s own. 
+
+This is not a good time for independent content creators who write articles on medium etc",58,2023-07-26 23:54:09
+86,85,2,emefluence,45935,86204,None,0,"Trying to learn from a sea of millions of badly written amateur blogs, most of which were well out of date and never updated, was a huge pita anyway. When everyone moved onto medium it was the start of the end times, it got harder and harder to find any decent quality blogs via google searching. Now, almost all decent blogs are vendor sponsored ones.
+
+Eventually, and thank god, most projects and vendors started to up their docs game. I'm sure those are primary sources, and I doubt most vendors would mind them being ingested. I seriously doubt much of ChatGPT was trained on publicly accessible independent blogs, although if it was maybe that explains why it is such a crappy coder.",2,2023-07-27 17:09:15
+87,85,2,Deleted,N/A,N/A,None,0,[deleted],-17,2023-07-27 00:07:51
+88,87,3,Deleted,N/A,N/A,None,0,[deleted],44,2023-07-27 00:20:51
+89,88,4,geon,68312,202114,None,0,It is NOT “reproduced” material unless it has been severely overfitted.,1,2023-07-27 09:06:59
+90,87,3,Deleted,N/A,N/A,None,0,"Hold my beer,  going to go ask ChatGPT about that.",9,2023-07-27 00:48:27
+91,87,3,not_creative1,7881,397894,None,0,"It won’t. That exactly is my point.
+
+If you ask chatGPT “what are the best places to visit in Yosemite?” It will give you a list. Where did it get it from? Some travel bloggers who wrote original content. ChatGPT is reusing their content with no permission.
+
+If you ask google that as of now, it will redirect you to those blog pages. Atleast it redirects to their pages, and they get ad revenue. ChatGPT is straight up lifting their content with no permission and no profit sharing, does not drive traffic to any pages. It’s not even possible to pin point what answer was based on what pages. It’s straight up plagiarism without permission 
+
+There is zero incentive to create original content like blog posts, food/movie reviews anymore if chatGPT is allowed to steal content without permission",22,2023-07-27 01:47:46
+92,91,4,escapefromelba,44861,144945,None,0,"> If you ask chatGPT “what are the best places to visit in Yosemite?” It will give you a list. Where did it get it from? Some travel bloggers who wrote original content. ChatGPT is reusing their content with no permission.
+
+If you use Phind which is a ChatGPT-powered search geared towards developers (but also handles more general queries) - it provides sources for that query.
+
+https://www.phind.com/agent?cache=clkkj1ojr0008mf083uewo91v",4,2023-07-27 02:25:18
+93,91,4,Annh1234,126,33533,None,0,"One exception to this: it won't get the actual text from that blog 
+
+It will get the first word, and then see what word probably comes next. Chances are it will be the one in the blog, but if you have another blog that starts the same, it could be a word from the second blog.",8,2023-07-27 02:25:07
+94,93,5,geon,68312,202114,None,0,"That’s a bit closer to how it works, but still not quite right. You just described a Markov chain. 
+
+A neural net is similarly trained on sequences of words, but it builds up an internal representation of what the words actually mean.",2,2023-07-27 09:11:58
+95,94,6,Annh1234,126,33533,None,0,"I think the way it does the ""representation of what the words actually mean"" is by the sequence it finds those words in.
+
+It doesn't know that a BABY is a baby, only that it came up around MOTHER and so on. So it has more chances to show up around baby related words.
+
+I think the only words with meaning ( as humans see it ) are for verbs, nouns and so on, for grammatically correcting the output.
+
+I'm pretty sure at the end of the day, once trained, (and over simplified) a neural net is the same as a Markov chain except with a few billion nodes.",0,2023-07-27 13:25:33
+96,91,4,itsdr00,21092,111875,None,0,"> If you ask chatGPT “what are the best places to visit in Yosemite?” It will give you a list. Where did it get it from? Some travel bloggers who wrote original content. ChatGPT is reusing their content with no permission.
+
+That's not really how it works, though. It's like if *you* read a bunch of travel blogs about Yosemite, read the Wikipedia page, read some brochures, and then over dinner I asked you about some fun places to visit in Yosemite. You'd give me a list of things you learned. You wouldn't be plagiarizing at that point; you'd just be reciting what you know. That's what anyone who learns things does. ChatGPT learned things from its training data, and it's telling you about them.",6,2023-07-27 03:35:20
+97,96,5,Deleted,N/A,N/A,None,0,[deleted],4,2023-07-27 05:26:23
+98,97,6,geon,68312,202114,None,0,It is not comparable to google indexing at all.,2,2023-07-27 09:08:16
+99,96,5,Deleted,N/A,N/A,None,0,[deleted],1,2023-07-27 21:25:15
+100,99,6,itsdr00,21092,111875,None,0,">When I do that I've given page/video views/ad impressions to those blogs, magazines, Wikipedia etc.
+
+Not to be pedantic, but I have to wonder how many of the people who are upset about this issue also use adblockers. Because I imagine it's a huge proportion. And it's not because they're hypocrites; I resisted using adblockers for years because of the ethics of obtaining information for free that someone else paid to collect and display. But I use an adblocker now because the internet is *absolute garbage.* [This article](https://www.wired.com/story/tiktok-platforms-cory-doctorow/) calls what's happened ""enshitification,"" and I think it explains why people are so head-over-heels eager to use ChatGPT. Finding information online has been miserable for years, and we finally have effective relief.
+
+Let's say no-one regulates what OpenAI and its competitors have done. It happened and it's over. All the shitty websites that dangled information you wanted behind 500 words of filler to keep you on the page while blasting you with ads shut down. Also, a lot of reasonably good websites that were creating valuable information (which was then being reposted by a mountain of shitty ones) go down with them. There's suddenly no way to learn new things on the internet; all we have is what AI knows and what you can ask a human, plus donation-based sites like Wikipedia that will probably never shut down, even though their traffic declined.
+
+What do AI companies need, now? Information. And what do they have to do? Pay for it. Research, journalism on that research, solutions to weird tech problems, community discussions, etc. There's suddenly a market for unanswered questions. I don't know if anyone can say exactly what that looks like, but I know one thing: AI companies will pay for what once was paid for with ads. And my friend, I can't tell you how much nicer that's going to be. The internet does not need to be shitty. We can do better than this.",1,2023-07-27 22:09:21
+101,100,7,Deleted,N/A,N/A,None,0,[deleted],1,2023-07-27 22:55:59
+102,101,8,itsdr00,21092,111875,None,0,"I do think we'll actually move to information being more closed-access, and I think that's mostly going to be fine. Go back 30 years. What did we have back then? Library encyclopedias. Expensive to own, but relatively easy to access. Then we went to this wild distributed model, where information was coming from so many places that you couldn't do any kind of purchase or subscription model anymore. You can't expect people to subscribe to the individual google results they're getting back, right? So it went to advertising. I think we're going to see a reversal of that, back to silos (as you pointed out, we're already seeing it with Discord/etc). Except now, your Encyclopedia has 1000x as much information in it and it talks to you and teaches you things.
+
+I am certain that libraries will soon have AI subscriptions, which I hope people who are too poor for an ad-free tier would take advantage of. I know there are people out there for whom that $7 extra per month for Hulu plus actually hurts, which is a budget so tight it shouldn't exist, but that's a different conversation.",1,2023-07-28 00:35:27
+103,102,9,Deleted,N/A,N/A,None,0,[deleted],1,2023-07-28 01:24:24
+104,103,10,itsdr00,21092,111875,None,0,"Google can't charge a subscription because it makes money by delivering ads on webpages, not its search site. Outside of sponsored links, you see almost zero advertisements on Google itself. They tried doing a subscription for the distributed ad model, but [it didn't work](https://en.wikipedia.org/wiki/Google_Contributor), I would guess because it didn't have wide enough participation and couldn't compete with ad blocker, anyway. All that is to say, a subscription to Google would have no additional value, because the ads aren't on Google. It would just feel like price gouging at this point.
+
+The comparison really starts to break down when you look at cost-per-user. Searches are dirt cheap. AI is crushingly expensive. You just can't make that much ad revenue per user. If GPT4-quality AI is available at search-engine prices, we might see ad-supported AI, but even then they'd still take a subscription payment. Why? Because it'd make way more money per-user, and unlike a search engine, it would actually add value. That's why Hulu does it: People will pay for it.
+
+>(where even if one product is better, the other options are good enough that many people won't want to pay for the better one).
+
+As someone who uses AI professionally, I can assure you, people will always want to pay for the best one. Not everyone needs it, but it has more than enough value for people in certain professions.",1,2023-07-28 01:51:57
+105,87,3,Wave_Tiger8894,644,3928,None,0,"I agree with the previous comment it's mortally wrong to pass others work off as your own. So whether or not it's possible a machine learning model is capable of citing others isn't the issue that people creating the original content should worry about, it's ultimately the models creators responsibility to do this.
+
+One of the obstacles when building a good model is not overtraining it to the point it's just 'remembering' the data it's been trained on.
+
+But the issue the previous comment made proves that it could be beneficial to do this if you are able to claim credit for what a model produces.
+
+I appreciate its kind of trivial claiming a SO answer or blog as your own work but what if somone did the same with a triple AAA gaming title for example?",2,2023-07-27 01:15:41
+106,87,3,Doomenate,1027,38752,None,0,"That's like continuously taking my money yet telling me you can't give it back because you don't know where it went.
+
+You'd have to stop taking it",1,2023-07-27 01:21:05
+107,106,4,geon,68312,202114,None,0,You didn’t lose any money.,-2,2023-07-27 09:15:09
+108,107,5,Doomenate,1027,38752,None,0,It was a metaphor with something physical to make it obvious,1,2023-07-27 13:56:38
+109,108,6,geon,68312,202114,None,0,Sounds more like intentionally conflating the issues.,-1,2023-07-27 14:16:02
+110,109,7,Doomenate,1027,38752,None,0,"You're saying I crafted a metaphor that fails but I also know it fails because I was doing it in bad faith because... ?
+
+well I think you wrote that because you want to confuse me because you don't like the color green which is my favorite color but you're also Hades in physical form who's come here to annoy people with ridiculous personal claims with no basis in reality",0,2023-07-27 16:13:31
+111,110,8,geon,68312,202114,None,0,"If you have one apple and I steal your apple, you now have no apple left. You have been affected.
+
+If you write a book and I become inspired by the book and write my own, you still have your book. You have not been affected.
+
+“Theft” requires one party to lose something.",1,2023-07-27 16:45:18
+112,87,3,escapefromelba,44861,144945,None,0,ChatGPT-4 has support for citations/sources,1,2023-07-27 02:17:57
+113,87,3,Annh1234,126,33533,None,0,"Basically each node has weights and biases should have a list of sources. And at the end, you end up with a ton of sources, but you pick the top X occuring source sequences.
+
+Won't be perfect, but if it found a sequined on some page and it's results are close to it, it would be the top source.
+
+Ofcourse the script would run slower and need a ton more memory, cpu, etc.",1,2023-07-27 02:22:53
+114,113,4,Deleted,N/A,N/A,None,0,[deleted],0,2023-07-27 05:29:28
+115,114,5,Annh1234,126,33533,None,0,"It's enough to build a search engine around it, and so it can give possible sources of its data.",2,2023-07-27 13:26:58
+116,113,4,geon,68312,202114,None,0,"Perhaps if each source was stored with how important it was for the node. And the list of relevant nodes still needs to be somehow computed for each answer. This is all things that simply hasn’t been invented yet. 
+
+Every node would store every source though, as they all contribute to some degree.",1,2023-07-27 09:23:19
+117,87,3,eroticfalafel,81,23907,None,0,"Bing AI cites every response it makes, with multiple citations as needed that you can go look up for yourself to verify that it got the answer right.",1,2023-07-27 02:55:40
+118,85,2,GeriToni,31,4637,None,0,It’s not how it works but just imagine having hundreds rows with references to each answer. It would be annoying. And you prefer to go on each web site and accept additional cookies ? You can’t open a web page anymore without agreeing with their cookies.,0,2023-07-27 13:29:01
+119,1,1,eddydio,6933,7092,None,0,"I mentioned stack overflow to my coworker and he was like ""you don't use chat gpt?"" I guess I'm a Luddite but just more petty than anything. I like to find the answer and shove it the ass of the guy who says ""why would you do that?""",9,2023-07-27 02:12:43
+120,1,1,Frosty-Sugar6162,2,62,None,0,"I kinda thought it was Reddit as well. I still Google and find answers on SO, albeit 12 year old answers.",5,2023-07-27 00:51:25
+121,1,1,DEAD_JUSTICE_ROBERTS,4,26,None,0,"> Stackoverflow is putting Stackoverflow out of business.
+
+It seems like there must be some exogenous (outside) cause: the graph shows 4 years of more-or-less steady traffic, then beginning around April 2022 traffic goes down by more than *half* over the next 16 months. I agree it wasn't ChatGPT, [which came on after SO's downturn](https://www.similarweb.com/blog/wp-content/uploads/2023/07/chatgpt_traffic_drops_1-768x475.png). 
+
+What was it?
+
+It wasn't SO putting itself out of business, not unless SO introduced some radical change in the web site around April 2022 that drove users away. Did it?",1,2023-07-27 12:29:55
+122,1,1,OleDakotaJoe,556,2868,None,0,"Point 2) yes .. SO is definitely to Blame. 
+
+Point 1) ehh.. if you look at that chart it happened pretty much the day that chatgpt was released",0,2023-07-27 03:41:15
+123,122,2,emefluence,45935,86204,None,0,"Not surprised in the slightest. I don't think I've gone there once since ChatGPT came out.
+
+- Is not a dick about answering my sometimes naive or poorly researched questions
+- It tends to **get** the question more easily than SO users
+- It answers them every time
+- It answers them instantly
+- It explains things in as much detail as you want with unlimited patience
+- It's not a dick about it
+
+Given the vastly better experience I don't care if it makes shit up sometimes and writes pretty crappy code. People are wrong and write crappy code too, except on SO there's a day long feedback loop. As for ripping off people's contributions, wevs. I've contributed plenty there myself, because I like to give back to the coding community, not because I want to make money for SO LLC, a 2 billion dollar company. If Open.AI want to train models off of my contributions then fine, that's what they were intended to be, contributions.",1,2023-07-27 17:25:35
+124,123,3,OleDakotaJoe,556,2868,None,0,"Key takeaways ""ChatGPT is not a dick""",1,2023-07-27 18:41:17
+125,124,4,emefluence,45935,86204,None,0,"Yes, it is a terrible idiot sometimes, but it is always scrupulously polite and attentive.",1,2023-07-27 19:54:33
+126,125,5,OleDakotaJoe,556,2868,None,0,It really is though,1,2023-07-27 20:21:50
+127,1,1,CoderDispose,1018,83872,None,0,"The chart shows pretty clearly that this is explicitly not the case. 18-22M views a day for ages. Unless you meant that its quality has been dropping for ages, which I guess is true.",0,2023-07-27 18:02:51
+128,1,1,mykeof,55,16624,None,0,But that doesn’t fit the narrative,1,2023-07-27 03:15:18
+129,1,1,Shaper_pmp,3886,624653,None,0,"Only a couple of months after the release of GitHub Copilot, though - October 2021 to Jan 2022 when the downturn starts.",1,2023-07-27 08:54:43
+130,1,1,Zagrebian,15430,80187,None,0,But the chart shows that traffic was even slightly growing until April of last year.,1,2023-07-27 14:03:18
+131,1,1,PoolOfDeath20,538,4153,None,0,Especially the toxicity,1,2023-07-27 16:23:40
+132,1,1,discosoc,12567,87087,None,0,"I've heard the normal criticism, but what exactly happened may/june 2022 to cause the drop off?  Non-specific reasons would result in a steady decline but what the chart shows is an event.",1,2023-07-27 16:35:51
+133,,0,DFA98,7926,98238,None,0,"How long to hard-boil an egg? \[duplicate\]
+
+I want a hard-boiled egg with my breakfast, how long should I put it in for?",124,2023-07-26 23:02:11
+134,133,1,coldblade2000,13475,253006,None,0,">Marked as ""Answer"" by author
+
+In sooth, take yon egg, shed its shell, and anoint with mercury droplets. Pray, tend to the culinary endeavor, and allow the comestible to simmer for approximately seven minutes. Thus, sweetened shall it be, and thy spirit fortified.
+
+-- Humbly, CharlesGulliet78 (twenty-fourth of February, 1815)",91,2023-07-27 04:10:04
+135,133,1,eeronen,5505,17956,None,0,You shouldn't have hard boiled eggs. Boil them soft instead. Reported.,138,2023-07-27 03:46:34
+136,133,1,suiiiperman,418,1089,None,0,Question is opinion-based [your account has been suspended],35,2023-07-27 04:02:14
+137,133,1,gyaani_guy,1300,5567,None,0,I find joy in gardening.,26,2023-07-27 10:09:48
+138,137,2,CatDadCode,150,994,None,0,Wow. Never seen the Stack experience summed up so perfectly before.,11,2023-07-27 15:54:07
+139,133,1,CoderDispose,1018,83872,None,0,"Huh??? Why are you hard-boiling an egg? Nobody would ever need to hard boil an egg, so there's clearly some missing info. I mean, think of all the times you've had eggs. I bet less than 30% were hard boiled. That's a bad use-case.",5,2023-07-27 18:05:49
+140,133,1,gravity_is_right,3553,41665,None,0,"Can't you just use Google to find your answer? I tried and found the answer right away. Of course I'm not going to communicate that answer with you, but I can tell you I found it within the first 5 search results.",4,2023-07-27 16:08:01
+141,133,1,CatDadCode,150,994,None,0,"> Hold on, let's step back and examine the higher level problem. You're hungry, right? The real problem is that you're hungry. Eggs are bad for you and will raise your cholesterol. This is not the ideal way to solve the *real* problem. I don't have any suggestions for what you actually should eat, just that it shouldn't be eggs because eggs are bad. Especially hard-boiled, and don't ask me to elaborate on that because I've given this question more attention than it deserves.",1,2023-07-27 15:50:22
+142,133,1,radgepack,3056,69978,None,0,"Hard-boiled eggs are outdated, it's much better to cook omelets instead",1,2023-07-27 17:17:52
+143,133,1,am0x,58,170613,None,0,"Te best way to get the correct answer is to post the wrong one. For example:
+
+""How long to boil an egg?"" [0 responses]
+
+""The best hardboiled egg is putting it in cold water, then letting it come to a boil then boil for 15 minutes"" [2,225 responses telling you how it is wrong]",1,2023-07-27 19:22:51
+144,133,1,Intelligent_Event_84,1,46251,None,0,"Anything harder than a medium boiled egg is considered a hard boiled egg. You can start by boiling the egg to medium, then boil for one moment longer.",1,2023-07-28 00:56:26
+145,133,1,GandalfsEyebrow,131,6054,None,0,"Sounds like you’re trying to make a waffle. That question was answered already, but I’ll be nice and tell you how to cook sausages, which I call waffles.
+
+BTW, you really shouldn’t be cooking waffles anyway. It’s a pancake anti-pattern. You should really be cooking hash browns on a 19th century wood burning stove instead, but watch out for stray liver pies that might fall out of the chimney. Make sense?",1,2023-07-28 06:57:07
+146,,0,j-random,5466,216683,full-slack,0,I'm guessing the rampant gatekeeping on SO isn't helping either.,580,2023-07-26 21:54:30
+147,146,1,12481632641282561024,1,2732,None,0,This comment was addressed in a topic posted last April.  Flagged.,421,2023-07-26 21:55:45
+148,147,2,j-random,5466,216683,full-slack,0,Duplicate of a comment made back in 2004,248,2023-07-26 21:57:31
+149,148,3,EtheaaryXD,44864,40185,None,0,Please explain your code more thoroughly.,107,2023-07-26 22:50:59
+150,149,4,DevRz8,813,97136,None,0,*And also why you even are doing it that way dummy?? Here's how to do it in a completely different stack that has no chance of approval at your job. You're welcome and Go fuck yourself.*,107,2023-07-26 23:25:50
+151,150,5,EarhackerWasBanned,9449,108558,None,0,Welcome to Stack Overflow. Now go fuck yourself.,47,2023-07-26 23:33:02
+152,151,6,iJustRobbedABank,3170,12252,None,0,Hey hey hey buddy. FLAGGED. george Washington made this comment in 2007,26,2023-07-27 00:15:37
+153,151,6,EtheaaryXD,44864,40185,None,0,i especially love doing this when they've been on SO longer than i have,9,2023-07-27 06:16:08
+154,150,5,stephprog,63,1699,None,0,"*You should know how to convert it to whatever language you're using, shithead, or you aren't a real programmer and just a code monkey!!!!*",10,2023-07-27 05:33:26
+155,150,5,sgt_Berbatov,1736,28699,None,0,"""That's a stupid way to do it. Now Javascript has a function for that, this is how you fix it""
+
+A typical answer to a question asked 10 years ago about how to get the value of a textbox using JQuery 1.3",8,2023-07-27 07:56:13
+156,149,4,Canowyrms,2754,66090,None,0,"    // i starts at 0
+    let i = 0;",1,2023-07-27 08:25:35
+157,156,5,EtheaaryXD,44864,40185,None,0,"Beginners may have trouble understanding your code. Please explain it, using more plain text than code.",3,2023-07-27 09:34:07
+158,147,2,theanxiousprogrammer,288,2920,None,0,![gif](emote|free_emotes_pack|slightly_smiling),4,2023-07-27 04:24:04
+159,147,2,BabytheStorm,1457,2348,None,0,"Your question is too broad. Questions that ask for general guidance regarding a problem approach are typically are not a good fit for this site. 
+This post is hidden. It was automatically deleted last month by CommunityBot.",1,2023-07-27 16:03:03
+160,146,1,Deleted,N/A,N/A,None,0,That's the primary reason I don't use that site.,64,2023-07-26 22:09:08
+161,160,2,Deleted,N/A,N/A,None,0,"It's the primary reason I don't contribute to the site, but I use(d) it for a lot. 
+
+We're going to run into an issue pretty quickly where people no longer contribute to the resources used to train these AI models and as a result, the models themselves become increasingly ineffective at addressing new problems.",83,2023-07-26 22:29:22
+162,161,3,Miserygut,1709,327376,None,0,Tragedy of the commons.,9,2023-07-27 07:50:38
+163,161,3,AwesomeFrisbee,10775,110874,None,0,"But outside of SO, what are the places where people actually post some good working recommended code? Reddit is more for news and discussions, not really about answering questions (which more often than not are very annoying). And there used to be a while community about sharing snippets but that seems to have died out too. Meanwhile my ecosystem has changed dramatically and I kinda need a new library of snippets that are using the new stuff
+
+I would also love to know where people now go that used to go to SO for certain things. Outside of Reddit and Discords, where do you go?",3,2023-07-27 15:04:13
+164,161,3,Deleted,N/A,N/A,None,0,By that time AI will have it figured out,-18,2023-07-26 23:16:15
+165,164,4,SirSoliloquy,363052,467280,None,0,Only if they come up with a new breakthrough that doesn't rely on LLM.,22,2023-07-26 23:33:59
+166,160,2,Radinax,6404,378612,front-end,0,I remember when I was a junior and asked for help and they threated me like crap... Really made me feel bad for a set of weeks,27,2023-07-26 23:58:19
+167,166,3,Deleted,N/A,N/A,None,0,[deleted],-15,2023-07-27 03:51:41
+168,167,4,Radinax,6404,378612,front-end,0,Blocked.,3,2023-07-27 14:12:35
+169,167,4,hanako--feels,308,9140,None,0,lol,3,2023-07-27 09:19:22
+170,160,2,HsvDE86,1721,145298,None,0,Moderators will be the end of it. Not any better than a lot of reddit mods.,8,2023-07-27 01:42:02
+171,160,2,AwesomeFrisbee,10775,110874,None,0,"I only use it to read stuff. I never interact because I know it will just annoy me. They did that themselves. They killed curiosity and made sure nobody will improve on things because of how tone-deaf the community can be.
+
+Is also why a lot of questions go unanswered because every time people tried answering their own questions, they get bullied because their answer didn't include enough details, didn't provide long enough examples or whatever bullshit.
+
+It used to be cool to have an active SO profile when you were looking for new jobs or assignments. But these days it just never gets asked anymore. Same with github profiles, you hardly see a mention about that because we all know its either going to be empty or filled with useless junk that was only really there to boost activity numbers",3,2023-07-27 15:00:55
+172,146,1,ShawnyMcKnight,625,240150,None,0,"I had a project where I had a short date and way out of my league so I abused SO with lots of ultra specific questions and deservedly got a bad score.
+
+So I wanted to improve my ranking and help others so I got into topics I knew more about to answer some new questions. To my shock you need a certain score to even answer questions and help people… what the hell.
+
+So I was told that one way would be to ask and answer questions that weren’t asked to improve the knowledge base, but I tried that and people downvoted me for that. What the hell am I suppose to do?",30,2023-07-27 02:27:36
+173,172,2,AwesomeFrisbee,10775,110874,None,0,"Yeah its wild. I wonder what happened that they felt it needed to be done like that and not just give folks with bigger scores other benefits instead.
+
+They also kinda killed their profitability with making that barrier of entry so high. I almost never even bother to login either.",3,2023-07-27 15:06:09
+174,172,2,AintThatJustADaisy,526,11221,None,0,Go away,-3,2023-07-27 05:15:09
+175,174,3,ShawnyMcKnight,625,240150,None,0,That’s exactly what I did.,5,2023-07-27 13:15:03
+176,146,1,acrossthepondfriend,134,1712,None,0,"Duplicate question, please have a read at SO's guidelines before posting.",24,2023-07-26 22:40:44
+177,146,1,random_account6721,2,42143,None,0,The one time I post there I just got responses like this and people telling me to fix grammar lol,15,2023-07-26 23:13:23
+178,177,2,EarhackerWasBanned,9449,108558,None,0,"Please do not use unprofessional language like “lol” here. This is a professional online community for professionals like me, a professional. 
+
+Flagged.",45,2023-07-26 23:36:14
+179,178,3,samizdat1888,584,243,None,0,"Also don't use superflous expressions like ""Thank you."" They waste server space, CPU cycles, and neural processing by the central nervous systems of the readers which contributes to global warming and is just not efficient.",6,2023-07-27 13:51:06
+180,178,3,learning-something,317,1187,None,0,lol,9,2023-07-27 00:29:16
+181,180,4,EarhackerWasBanned,9449,108558,None,0,Thread locked.,14,2023-07-27 00:33:40
+182,178,3,datsyuks_deke,734,35834,None,0,"Ooo ooo this. One time I ended my answer with “in my opinion” and some old fuck decided that you should never end your answers with “in my opinion”. 
+
+Retired bored old man.",6,2023-07-27 11:28:18
+183,146,1,Deleted,N/A,N/A,None,0,[deleted],9,2023-07-26 22:17:54
+184,183,2,NLPizza,1,9405,None,0,"My understanding of CPGT is it struggles to solve new problems, I remember throwing in an LC question and it couldn't solve the problem, it just spat out some random nonsense that looked like it might work but didn't. Other times I've asked basic questions and got wrong answers, it's still a great supplemental tool, especially if you know what you're doing already but I find SO to still be the best.
+
+SO's gatekeepy standards can be annoying, especially when they mark your question as duplicate and link to a 10 year old answer that may no longer be relevant but I appreciate that the standards make sure the answers are usually high quality and vetted or challenged by other users.",3,2023-07-27 02:05:45
+186,146,1,mohishunder,12944,127872,None,0,"To be fair, if anyone, anywhere, has ever asked, or even wondered, the question you have ... why are you bothering us with such a triviality??",5,2023-07-27 00:04:57
+187,146,1,EmbarrassedCell8647,724,1367,None,0,I feel a bit out of the loop. What gatekeeping happens on stackoverflow? Not questioning that it happens just genuinely don’t know/use SO enough to understand.,2,2023-07-26 23:19:40
+188,187,2,f1garofigaro,166,87,None,0,"I once searched for an answer to a problem I was facing, and couldn't find the right answer, so I described it as well as I could, used grammarly. Every response was either condescending or just unhelpful and pointing out what I should've done. My account then got banned from asking questions, and I never found out how to resolve the issue I was having. Even if people knew they answer, they preferred to make you ""work for it"" horrible people",50,2023-07-26 23:59:35
+189,188,3,EmbarrassedCell8647,724,1367,None,0,Oh wow well that’s dumb. Thanks for sharing!,12,2023-07-27 00:01:35
+190,188,3,St_Piran,31,1213,None,0,"Depressingly, this sounds exactly like my computer science tutor at uni! Maybe SO is where she got her people skills.",6,2023-07-27 06:11:31
+191,190,4,MikaelaExMachina,23,6006,None,0,"To be fair, that's kind of what a good tutor should do. If they tell you the answer to every question, you lose out on the challenge of solving it and learning the material. A good tutor should let you figure out the answer for yourself, but they should point you towards the answer and also turn you around when you start going in the wrong direction. That way you get the satisfaction of having it click when you figure it out and that dopamine pulse not only feels good it's actually what makes learning happen in your brain.",1,2023-07-27 09:04:17
+192,188,3,EmSixTeen,5976,51153,None,0,"> Even if people knew they answer, they preferred to make you ""work for it"" horrible people
+
+It's not far removed from people who post lmgtfy links. Real sad sacks of meat.",1,2023-07-27 07:43:20
+193,146,1,Radinax,6404,378612,front-end,0,It was the 1st thing that came to my mind whole reading the title of this post lol,1,2023-07-26 23:57:36
+194,146,1,Deleted,N/A,N/A,None,0,[deleted],-4,2023-07-26 22:26:21
+195,194,2,TimeTomorrow,460,141365,None,0,">ChatGPT was trained on Stackoverflow data
+
+hmmm....
+
+>Since chatgpt I’ve been there maybe 1-2 times in the last year compared to maybe 3-4 times prior. Stack overflow can die and nothing much of value will be lost.
+
+Think about what you just wrote for a second. Think about it.",19,2023-07-27 00:15:52
+196,194,2,Kirorus1,2483,6353,None,0,"That's simply not true, many people find so useful me myself use it tens of times per month. Discord is an information black hole and future people can't find the questions and answers by searching the internet and I despise it alot. Imagine if people always used discord, you wouldn't find a shit on so and internet would be a worse place with this approach.",17,2023-07-26 23:20:55
+197,196,3,Cyberspunk_2077,86,13128,None,0,"People deciding to use Discord to provide support is a sort of civic vandalism.
+
+It's like we decided to stop publishing books 100 years ago and just provided help with things down the pub. 
+
+Nothing wrong with the latter, but writing stuff down has more than proven its worth...",11,2023-07-27 01:46:58
+198,197,4,Kirorus1,2483,6353,None,0,"It's scary, people can't see the importance of having things written publicly and accessible for everything.
+
+Things like Reddit and stack overflow are massively important for many communities for this reason.
+
+It makes me sad people are moving out to untracked live chats",3,2023-07-27 05:52:04
+199,194,2,Deleted,N/A,N/A,None,0,[deleted],5,2023-07-27 01:20:31
+201,146,1,littlemetal,27,23459,None,0,Rampant?  There isn't enough! The quality of the questions is just atrocious.  I dare you to read through the new questions in any popular tag.,1,2023-07-27 10:04:08
+202,,0,odc_a,192,2232,None,0,No surprise that it’s on the decline. I wouldn’t attribute the cause just to ChatGPT’s existence. SO has been a toxic place to find help for years.,213,2023-07-26 22:46:04
+204,202,1,jeanleonino,19028,47631,None,0,ChatGPT (and other tools) just gave a way out. Even Discord is helping.,13,2023-07-26 23:24:20
+206,,0,thestonedmartian,516,936,None,0,"Interesting, because a 5 bullet short solution on stack overflow was better than prompting GPT several times for the wrong solution. First stack overflow answer worked!!",21,2023-07-27 00:59:32
+207,,0,Chronocast,307,30480,None,0,"I mean, I was laid off last September and am still looking so I've not gone there in that amount of time. Could be more than GTP taking traffic considering all the layoffs going on.",20,2023-07-26 22:48:42
+208,207,1,Deleted,N/A,N/A,None,0,[deleted],6,2023-07-27 01:59:14
+209,208,2,ConsiderationOk3844,311,196,None,0,You all doing okay though? that's concerning,1,2023-08-05 03:09:08
+210,,0,sunk-capital,2130,33686,None,0,Going to your friendly neighbor vs being lynched by an angry self-important mob for daring to ask a question? Who would have guessed,54,2023-07-26 23:37:03
+211,210,1,shmorky,191,133873,None,0,"ChatGPT may be friendly, but he's also on shrooms and blabbering nonsense half the time.",22,2023-07-27 09:33:33
+212,211,2,gravity_is_right,3553,41665,None,0,Just the type of friend I've been looking for.,4,2023-07-27 16:12:22
+214,,0,XGhozt,11572,4517,None,0,"I think it's had an impact but not the only reason.
+
+It could also be Discord servers, it's frustrating because a lot of places have discord servers but you can't use Google to find the posts in the ""forum"".
+
+Another problem is search engines showing the answer in the search results and the user doesn't have to click the link.",63,2023-07-26 21:40:46
+215,214,1,plasmaSunflower,6364,18147,None,0,SO started Declining around April of 22 and chatGPT wasn't released until November so it definitely didn't cause it. Exacerbated sure but not fully responsible,40,2023-07-26 22:14:04
+216,215,2,yeusk,8657,32607,None,0,Copilot was released before chat gpt.,22,2023-07-26 23:13:22
+217,216,3,TheLexoPlexx,15581,43893,None,0,"Whoopsie, small oversight. The decline is actually kind of close to the release date of that.",5,2023-07-26 23:47:37
+218,214,1,MilimeterMike,433,3855,None,0,Where do I find these discord servers?,4,2023-07-27 02:23:07
+219,218,2,XGhozt,11572,4517,None,0,"There's a bunch of them. Some of the big ones I'm in are for Laravel and VueJS. Most major frameworks have one, can easily find them on search engines. There's other communities for PHP developers or Android/iOS developers too.
+
+We've come full circle, it's a chat server with a threaded forum-like channel. But none of those posts are on search engines so you'll have to join the discord server and search there.
+
+Edit: Even this very subreddit has a Discord server.",6,2023-07-27 04:34:44
+220,219,3,Tetracyclic,8505,83075,None,0,"
+>none of those posts are on search engines so you'll have to join the discord server and search there
+
+And the search somehow manages to be worse than Reddit's.",10,2023-07-27 07:28:25
+221,219,3,arcanistzed,233,382,None,0,A cool project to enable search engines to index Discord channels: https://www.answeroverflow.com/,1,2023-07-27 17:37:24
+222,221,4,XGhozt,11572,4517,None,0,This is awesome! Thanks for sharing.,2,2023-07-27 18:17:42
+225,,0,Deleted,N/A,N/A,None,0,[deleted],53,2023-07-26 23:34:11
+226,225,1,nikospkrk,169,3909,full-stack,0,"Reddit, watch out you're next!",11,2023-07-27 02:25:38
+227,226,2,BasicAssWebDev,377,2804,None,0,"Reddit is definitely much less hostile, just less responsive as a whole.",3,2023-07-27 14:19:53
+229,,0,WantWantShellySenbei,17,36321,None,0,"Regardless of whether this particular example is caused by ChatGPT or not, it is going to be an interesting dilemma - as sites that provide content get their traffic stolen by LLMs, go bust, and suddenly that source of data is no longer being produced, so LLMs can no longer use them. There’s a disconnect here that is going to be complex to resolve.",28,2023-07-27 00:29:48
+230,229,1,Ajatolah_,330,40665,None,0,"If this is the reason Reddit hiked up the API prices, I can understand. I'd want my piece of the cake.",2,2023-07-27 07:00:40
+231,230,2,gravity_is_right,3553,41665,None,0,"I think that's one of the main reasons, yes. They know their content is valuable for AI, more than any other social network.",2,2023-07-27 16:13:45
+232,229,1,RedTryangle,23,3920,None,0,"Interesting point! I imagine that maybe some of that might be helped along by learning from new searches being made and feedback being provided on the results... Kind of generating new content as it goes?
+
+I'm really not sure but this is definitely an interesting point to think about.",1,2023-07-27 05:16:49
+233,232,2,TylerDurdenJunior,48148,45163,None,0,Well no. LLM's is not able to answer anything that have not already been answered. So for an LLM to only receive search / question input will not result in an answer to the problem,6,2023-07-27 08:58:56
+234,233,3,RedTryangle,23,3920,None,0,Fair enough. Will be interesting to see what happens! I don't claim to be an expert in any way haha,1,2023-07-27 14:05:11
+236,229,1,blckJk004,8287,16679,None,0,"Data is persisted before the LLM is trained, no?",1,2023-07-27 07:58:47
+237,236,2,WantWantShellySenbei,17,36321,None,0,"It is. But there will always be new libraries and languages and technologies. So if sites like SO can’t operate profitably, where does a LLM get its content from?
+
+I think this applies to lots of similar industries too. LLMs have the potential to kill the resources that power them.",2,2023-07-27 09:29:25
+238,,0,IdeaExpensive3073,16459,30332,None,0,"Hot take: SO is a piece of outdated dog shit, they ran themselves into the ground by being so restrictive and keeping new questions from flowing in. Someone just had to incorporate the info they had and reuse it in a more friendly manner.",17,2023-07-27 01:14:29
+239,238,1,Deleted,N/A,N/A,None,0,[deleted],9,2023-07-27 11:28:42
+240,239,2,IdeaExpensive3073,16459,30332,None,0,"Fair enough, just kinda leaves a bad taste in my mouth. It really weeds out newbies and new visitors too.",1,2023-07-27 12:55:46
+241,240,3,Renshato,290,20768,None,0,"I think the point of their website is really good, but they failed to get the point across to most people. It took me weeks before I really understood it. You really have to grind before you can understand how it works. Most people never understand it. 
+
+Once I got it I actually loved the idea. Unlike most users I also tried to explain it to newbies if they were doing it wrong. They should have encouraged or even required the community to do that. It’s really not that difficult a concept to explain, but they didn’t present it in a good enough way. 99.99% of people find the site by a google search and land on a question and answer that looks like Yahoo answers. They don’t go to the homepage and then check out the FAQ to figure out how stuff works.",1,2023-07-27 16:10:54
+242,238,1,discosoc,12567,87088,None,0,"Not a great ""hot take"" though.  The user drop off was specifically around may/june 2022 and not some steady decline of attrition.  Something very specific caused this and nobody here seems to be able to actually answer it.",3,2023-07-27 16:43:30
+243,242,2,starball-tgz,243,628,None,0,"Please read:
+
+- [Why has there been such a huge drop in ""new visits"" since May 9th, 2022, across multiple sites?](https://meta.stackexchange.com/q/379047/997587)
+- [Why is the Google Analytics cookie defined as ""strictly necessary"" and saved without consent?](https://meta.stackexchange.com/q/374897/997587)
+- [Can we have a little notice letting people know that analytics changed after May 10, 2022?](https://meta.stackexchange.com/q/379947/997587)",1,2024-03-05 00:31:07
+244,238,1,Blazing1,85,85456,None,0,Or maybe you're misunderstood the point of stack overflow?,-1,2023-07-27 03:53:15
+245,244,2,IdeaExpensive3073,16459,30332,None,0,What’s the point?,2,2023-07-27 05:19:30
+246,245,3,stephprog,63,1699,None,0,For people who entered the industry with a portfolio of raw html and jquery to circlejerk about how smart they are.,13,2023-07-27 05:36:57
+247,,0,12481632641282561024,1,2732,None,0,correlation != causation,49,2023-07-26 21:37:09
+248,247,1,jeanleonino,19028,47631,None,0,"And it's not even correlation, SO is dropping year after year way before chatGPT appeared",19,2023-07-26 23:24:01
+249,248,2,default-username,9113,102099,None,0,"Github Copilot was released in late '21 and became widely available mid 2022. The correlation is too big to fully ignore.
+
+Edit: yeah, that's not technically ""chatGPT"" but the point still stands if you change ""ChatGPT"" in the title to ""OpenAI's models"".",1,2023-07-27 18:16:08
+250,249,3,jeanleonino,19028,47631,None,0,"Not so sure, if you open the original graph you can see there's a bump in the beginning of Covid, but all numbers started going down before Covid. 
+
+Original: [The Fall of StackOverflow](https://observablehq.com/@ayhanfuat/the-fall-of-stack-overflow)",1,2023-07-27 18:52:54
+251,247,1,rackmountme,1159,17283,<fullstack-crackerjack/>,0,"**!==**
+
+*We don't allow type coercion in these parts.*",7,2023-07-27 00:04:01
+252,,0,Deleted,N/A,N/A,None,0,"SO users are soo grumpy. I reference it, but learned early on I won’t be posting there anymore.",15,2023-07-26 23:19:44
+253,,0,Deleted,N/A,N/A,None,0,"I find that, for more complex problems, SO still beats ChatGPT. However I use ChatGPT far more frequently because it can answer simple programming problems that I'd be afraid of asking on SO.",11,2023-07-27 02:00:44
+254,253,1,Deleted,N/A,N/A,None,0,[deleted],-16,2023-07-27 03:53:33
+255,254,2,Deleted,N/A,N/A,None,0,"If I want it to write a simple function, for example a function that returns the current temperature in my city. I could find a weather API and write it myself, but why bother when ChatGPT (actually I use Phind more) can generate it in seconds? Even if the output is slightly incorrect, the time it would take to fix would probably still beat the time it would take to write/debug it from scratch.",11,2023-07-27 03:58:58
+256,255,3,Deleted,N/A,N/A,None,0,[deleted],-14,2023-07-27 04:01:10
+257,256,4,Deleted,N/A,N/A,None,0,"I'm sorry, I should've used a thermometer.",15,2023-07-27 04:06:21
+258,254,2,HammSolo,1475,6532,None,0,Found the StackOverflow mod,9,2023-07-27 09:21:08
+259,,0,Equivalent-Win-1294,2952,6254,None,0,"Other than people getting tired of how SO is moderated, ChatGPT adds a nail to the coffin by removing the asshole factor.",15,2023-07-26 23:31:56
+261,,0,Tiquortoo,7753,48946,expert,0,ChatGPT doesn't call your question a repeat or ill-formed or whatever. It just tries to answer it.,13,2023-07-26 23:29:49
+262,261,1,eddydio,6933,7092,None,0,Lol at the robot being better at being a human than some asshole on a forum,7,2023-07-27 02:31:51
+263,261,1,soupgasm,525,3508,None,0,i remember getting banned from posting questions because mine weren’t good enough,1,2023-07-27 10:01:34
+264,,0,not-halsey,207,3626,None,0,At least ChatGPT won’t downvote me for asking questions,10,2023-07-26 23:52:32
+265,,0,Deleted,N/A,N/A,None,0,They should be happy that all the beginners are not asking “dumb” questions anymore!,5,2023-07-27 14:53:51
+266,,0,DevRz8,813,97136,None,0,*ohh nooo...that's terrible...*,4,2023-07-26 23:24:26
+267,266,1,TrueSgtMonkey,646,3965,None,0,So anyway,1,2023-09-27 23:40:11
+268,,0,jmiah717,2137,35811,None,0,At least Chat GPT pretends to be polite.,3,2023-07-27 02:21:40
+269,,0,DiddlyDanq,4418,33387,None,0,Even prior to gpt my questions never get responses. So is more like a last resort these days,3,2023-07-27 04:49:24
+270,,0,Top_Garlic_6111,390,1073,None,0,"stack over is a horrible place. they ignore the fact that people treat you like shit, but god forbid you ask a question that’s already been asked or put it in the wrong format. 
+
+stackoverflow is just for assholes to feed their ego lol",4,2023-07-27 05:06:02
+271,,0,fearthelettuce,4364,13586,None,0,"This graph is a duplicate, thread closed",4,2023-07-27 12:38:55
+272,,0,Deleted,N/A,N/A,None,0,"SO is really not a friendly place, it makes sense people would prefer a friendly, knowledgeable and immediate reply to ""CLOSED: DUPLICATE QUESTION"" or ""YOU ASKED POORLY, TRY AGAIN""",4,2023-07-27 14:21:30
+273,,0,zushiba,18325,242436,None,0,"I have to wonder if that's really the case. If ChatGPT was trained on Stack Overflow, I wouldn't get answers from ChatGPT I would get ""*This is a duplicate*"", ""*You shouldn't use X for that*"" or no response.
+
+But I don't, I get answers.",11,2023-07-27 00:30:23
+274,273,1,TylerDurdenJunior,48148,45163,None,0,Jesus christ this is the dumbest thing I have read for a long time if you are serious,-3,2023-07-27 09:50:57
+275,274,2,ClassicPart,1,90749,None,0,They are joking. Sort yourself out.,3,2023-07-27 13:09:59
+276,273,1,radobot,371,3478,None,0,"ChatGPT was trained on Common Crawl (and other datasets). That includes StackOverflow. During training the output was focused to be polite, non-rude, non-aggressive, etc. As a result the output won't contain the common unhelpful spam.",1,2023-07-27 12:48:01
+277,,0,Ritushido,181,39952,None,0,Honestly not sad to see this with the elitism over at SO.,7,2023-07-26 23:04:43
+278,,0,PsychedelicPistachio,53398,24698,None,0,"Ask Chat gpt a question and it will give you an answer
+
+Ask stackoverflow a question and you will get a passive agressive answer along with your post eventually being shut down because its similar to another question 10 years ago in a different language",3,2023-07-27 13:09:14
+279,,0,bluinkinnovation,266,4991,None,0,Probably because the stack overflow community is toxic as fuck.,3,2023-07-27 13:50:20
+281,,0,Intelligent_Event_84,1,46251,None,0,If chatgpt was trained on stackoverflow data then explain why it’s not an asshole,3,2023-07-28 00:53:08
+282,,0,IchirouTakashima,18000,18644,None,0,"Well, it is finally time to let the GRUMPY OLD MAN rest.
+
+No more moments where every alpha and gigachad developer calls you a piece of shit for posting a stupid question or any mod marking and removing your post because it's a duplicate post.",5,2023-07-27 04:41:26
+283,,0,anjum-py,7,95,None,0,"What goes up must come down!!!  
+
+
+I learnt the hard way that accepted answers that work for someone will not necessarily work for me.",2,2023-07-27 05:09:20
+284,,0,sgt_Berbatov,1736,28699,None,0,"It's an unexpected sunlit upland I didn't expect from AI, but I'm glad of it. SO can FRO.",2,2023-07-27 07:56:50
+285,,0,lokesh1218,173,4627,None,0,"This is chicken and egg problem and thats why Stackoverflow will live forever. AI takes their data from here and if these platforms lose data, AI will not be able to answer much.",2,2023-07-27 11:32:38
+286,,0,Vennom,9690,15597,None,0,"Most of the top comments are saying SO deserves it. 
+
+I love that site and have been an active contributor for years. There are still so many things ChatGPT doesn’t know (everything after 2021). And while I do agree there are some rotten moderators, I’d say they’re either in the minority, or aren’t contributing in the corner of SO I live in. 
+
+I guess my point is I don’t want posts like this to be a self fulfilling prophecy. And that it’s community run so you can be the change you want to see.",2,2023-07-27 13:00:22
+287,,0,longshot,4636,130461,None,0,"No, they are too resistant to allowing new answers becoming the main answer.  Just because someone successfully answered a question 10 years ago doesn't mean it is still a relevant answer.
+
+I don't want to know how to accomplish things against MySQL 5, Postgres 9 or PHP 5.3",2,2023-07-27 13:08:49
+288,,0,Deleted,N/A,N/A,None,0,I for example have completely replaced stack overflow with using ChatGPT seriously except for like new things that it hasn't processed right like if ChatGPT was up-to-date not just 2021 I would 1000% be using it only so yeah definitely gonna be putting a lot of things out of business,2,2023-07-27 14:30:23
+289,,0,Deleted,N/A,N/A,None,0,Talk about toxic platforms.. I think SO is probably one of the most unwelcoming sites with the most condescending users.,2,2023-07-27 14:45:09
+290,,0,ther1verstyx,2207,1322,None,0,Chat gpt is faster and better than stack 90% of the time that’s why lmao,2,2023-07-27 15:31:29
+291,,0,SmartPickIe,4340,3427,None,0,Stackoverflow was fucking toxic anyway,2,2023-07-27 15:38:11
+292,,0,iomars,16,498,None,0,SO it’s so god damn toxic,2,2023-07-27 16:39:43
+293,,0,69Theinfamousfinch69,55,6933,None,0,"The community on stack overflow ruined stack overflow.
+
+I get better responses from Reddit or discord than I do from sodding stack overflow 😂
+
+Half of the time I don’t get a response and a quarter of the time I get a snarky response.
+
+Maybe let the site die?",2,2023-07-27 23:35:33
+294,,0,Unlikely-Os,2017,1765,None,0,"I disagree. Chatgpt cannot do “complicated” programming. It can regurgitate from the docs but it’s not good with logic. 
+You have to spend so much time telling it exactly what to do in the code, you might as well program it yourself.",2,2023-07-28 02:56:28
+295,,0,Deleted,N/A,N/A,None,0,"I used the site begrudgingly at the end these last few years. I’ve completely stopped using it at this point because chatGPT can talk through problems with me without lecturing me or being an utterly pompous ass because I need to do something for work. 
+
+It felt like failed academics took over that site.",2,2023-07-28 07:00:20
+296,,0,LimpNoodle01,18,187,None,0,"I remember i asked something on SO making clear that i could not get my code to work and the relevant documentation was borderline non-existent (it was there, but of utterly 0 help).
+
+Most of the answers told me to ""read the documentation before you ask"", ""here is the link to the docs"" , ""there is this thing called documentation"", condescending, worthless piss poor treatment.
+
+Good riddance.",2,2023-07-28 17:55:13
+298,,0,TylerDurdenJunior,48148,45163,None,0,"As a long time developer, I am honestly in complete shock by the SO hate on this post.
+
+Never in my wildest dreams would I have guessed that the only place with a standard high enough to train an effective LLM on, would be hated on by the users of the LLM.
+
+If you sort by new and unanswered questions on SO, you will see just exactly why there are strict rules on asking questions.
+
+SO is not for your minor uncertainty or first attempt at solving a problem. The amount of questions ""answered"" by an OP themselves moments later with some ""Nevermind, I forgot to add a closing bracket"" is staggering.
+
+What people here are interpreting as arrogance and malicious intent is experienced users taking their time to answer people's questions freely.
+
+You SHOULD be hesitant to ask a question on SO.
+
+That means you will first try all you can to search for an actual answer, to actually frame your questioning. I cannot count how many times I have found something to try out that have solved my issues just my thoroughly structuring my question.
+
+For newbie questions or quick feedback, use ""learn programming"" or ""programmingquestions"" on reddit, IRC or discord. THAT is the purpose of those tools.
+
+The purpose of SO is in no way, shape or form that.
+
+It is for high quality answered, to high quality questions.
+
+""why does my conda environment fail on my home computer, but works on my job"" type questions is not high quality. Especially when 50 other users have asked pretty much the same question in the last week, only with some specifics to their own setup. 
+
+It is a local and isolated question that can only be answered in a local and isolated context.
+
+If you framed the same question, with with cross referenced chiseled out error messages, included possible similar issues from doing some research, with a focused description of what it is you fail to understand, THEN users would be able to actually help you.
+
+SO is NOT the place to go to for casual help on something we are to lazy to look into or solve ourselves. And that is the power of SO. 
+
+Asking low quality unstructured questions have to be discredited in order to keep both questions and answers in a high enough quality for an LLM to be able to use it. 
+
+With out the gatekeeping of low quality questions, the quality of answers will dry up. 
+
+Without the quality answers to quality questions on SO, the quality of LLM's will dry up, as an LLM is not able to actually answer anything, but only reference the most useful previously answered question in the context.",3,2023-07-27 09:30:25
+299,298,1,paymesucka,53790,291384,None,0,"I'm surprised too. I consider myself a pretty mediocre generalist, with a bit more expertise on the database side (I'm not a webdev). And I subscribed to ChatGPT Plus for a few months, which is GPT-4 the latest and greatest, and honestly SO and StackExchange is still much better. ChatGPT bullshitted so much, just made stuff up. And I mean if it's training off of SO, why not just go to the source which is more likely to be correct since \*actual\* humans are curating/voting/etc?
+
+One of the things I thought ChatGPT would really help with was crafting complex ffmpeg commands because those can get hairy fast. And it can do relatively simple ones, but anything non-trivial it would just fall apart. And that was one of the things they advertised!",2,2023-07-27 16:08:06
+300,298,1,SQ_Cookie,2058,3307,None,0,"When I was worse at programming, I was asking stupid questions, yes, but ""why would you want to do that?"" twice, followed by moderators editing what I say so that my question has a different meaning, followed by hiding my question, and then requiring me to edit and appeal to the moderators to have my question even appear is not a good user experience. If you are a ""long term developer"" in complete shock, I hope you understand that does not encourage users to ask more questions.
+
+Reddit was never designed to have r/learnprogramming specifically to ask ""newbie questions or quick feedback"", so saying this is the ""purpose"" of r/learnprogramming makes no sense. That's your opinion and is also what contributes to the toxicity of SO. That's why people hate SO.
+
+There are many beginners on reddit, so why are you even spending time with us ""newbies"" not worthy of posting on the great Stack Overflow?",1,2023-07-27 14:07:50
+301,,0,GrumpsMcYankee,254,27289,None,0,"Garbage in / Garbage out. If Chat AI ever forces SO offline, it'll get stupid real quick (*quicker*).",4,2023-07-27 00:03:38
+302,,0,Kfct,2073,9496,None,0,"From personal experience seeking help on SO, 10% are helpful experts, while 50% are rude idiots with a power trip, and last 40% are jaded rude experts with a power trip.
+
+I Hate the platform with a burning passion. The answers are sometimes good, not even always good, for how much snobbery a visitor has to put up with. 
+
+Mozilla documentation and other primary sources are my go-to now.
+
+I don't like chatgpt either but so can go get replaced.",2,2023-07-27 04:03:02
+303,,0,Puzzleheaded-Wash737,646,2341,None,0,SO mods ruined it long before gippity,3,2023-07-27 00:38:59
+304,,0,birthdayparade,295,20969,None,0,SO is trash most of the time.  Press S to spit,2,2023-07-26 23:35:25
+305,304,1,SlowestCamper,3,5580,None,0,S-s-s-s-s-s,6,2023-07-27 00:56:25
+306,,0,Copeteles,68,10747,None,0,"Well, you can ask ChatGPT a question and get an answer. On SO your question just gets removed or ignored.",2,2023-07-27 01:22:45
+307,,0,EmperorOfCanada,296,92636,None,0,I don't think it was trained on SO data as it would just be an asshole telling me I formatted my question wrong and give me wildly out of date answers.,2,2023-07-27 02:49:58
+308,,0,Slodin,372,20662,None,0,"idk, every time I ask a question...9/10 it isn't answered or no one even attempts to tackle it. Yeah, it's not their problem but when that happens over and over again, it kind of defeats the purpose. And it's only used as a resource for past answered questions, which platforms like chatgpt is good at.",2,2023-07-27 04:00:57
+309,308,1,repeating_bears,916,47120,None,0,">every time I ask a question...9/10 it isn't answered or no one even attempts to tackle it.
+
+I think this is the core problem, but *who* are people expecting to be the ones to answer? Almost everyone who participates on that site is happy to ask questions, but will never answer any questions themselves.
+
+I ran the data on that using Stack Overflow's data explorer, and the percentage of new users answering questions was less than 0.1%. That was five years ago, and the trend was heading downwards.
+
+Even if the small number of answerers were amazingly polite and helpful, it's completely unsustainable to run a Q&A site with a worse than 1000-to-1 ratio of askers to answerers.",2,2023-07-27 10:18:23
+310,,0,Ok-Advantage-308,1,969,None,0,It puts a smile on my face knowing a site of people downvoting or putting people down trying to learn is losing business.,2,2023-07-27 04:08:51
+311,,0,Benjamoon,1334,113,None,0,"There’s no decline really, the traffic was just artificially high before as all the LLM creators scraped the website.",2,2023-07-27 07:23:00
+312,,0,wigglyFroge,1,4873,None,0,"Well, chatGPT is never rude, so that's something",2,2023-07-27 08:08:51
+313,,0,fleck57,3172,449,None,0,"Tbh I don’t think it’s ChatGPT.
+I think people have just got better at writing documentation.
+I don’t go to StackOverflow for answers first anymore, the first thing I do is go to the language/frameworks documentation or MDN and the answers usually always there. SO for me is usually the second place I go or if my question is specific.",2,2023-07-27 08:42:25
+314,,0,Ok_Ad_9628,16,1483,None,0,"So many people not getting why it is a good thing your dumb or duplicate questions on SO were downvoted. This is harsh but it made SO the place we can use to find the right answers and it could be used to teach GPT. This would not be possible if you guys flooded it with your tons of trash posts. Some stuff is outdated, I agree but the strict rules they follow brought a lot more good than pain.",2,2023-07-27 09:15:43
+315,,0,dada_,26507,70798,None,0,"Frankly, I almost don't go to Stack Overflow anymore because it's so common to see completely outdated results these days. Especially for things related to configuration. When I google for how to change a setting I don't need to see an answer from 2011.
+
+Frankly, using Stack Overflow has always been a painful experience. Don't even think about asking questions there.",2,2023-07-27 09:38:57
+316,315,1,repeating_bears,916,47120,None,0,"I think this might be more common complaint in webdev than for other specialties. I'm primarily a Java dev but do plenty of webdev too, and the JS ecosystem is *way* more volatile. There's constantly a new, preferred way do something.
+
+Even within the same framework, JS library authors make breaking API changes for fun. React Router is my go-to example. They've basically gone through 5 redesigns. Any Stack Overflow question I see about React Router is wrong. That's partially Stack Overflow's fault, but it's also their fault for not seeing forwards compatibility as a feature, which it absolutely is.",3,2023-07-27 10:08:57
+317,,0,jeanleonino,19028,47631,None,0,Fucking finally,1,2023-07-26 23:25:05
+318,,0,rickg,1195,91608,None,0,"More accurate summary : ""I can just use ChatGPT and not put up with those toxic assholes? Cool!""",1,2023-07-27 00:38:38
+319,,0,ganja_and_code,22,117855,full-stack,0,"That's an ironic claim, given that the software advice on Stackoverflow is indisputably better than from ChatGPT, by every single metric except for how quickly you get an answer.",-1,2023-07-26 22:51:59
+321,319,1,mohishunder,12944,127872,None,0,"> indisputably
+
+That Word, I Do Not Think It Means What You Think It Means.",1,2023-07-27 00:06:25
+322,319,1,Deleted,N/A,N/A,None,0,"While I would agree with you in some cases, I find that GPT4 can give a better, more accurate, well rounded, often even current answer than the best contributors of SO could provide. It may take 4 or 5 prompts to refine a response, but most times it’s… startlingly good",1,2023-07-27 02:00:45
+323,319,1,paymesucka,53790,291384,None,0,I agree. I'm pretty surprised by this post tbh.,1,2023-07-27 16:10:48
+324,,0,nerfsmurf,593,3592,None,0,"Everytime I ask a question on SO, I'm told how stupid I am. I ask ChatGPT as many questions as I want and even though it might be convoluted or dated at times, it points me in the right direction and that's really all I need. It's like rubber ducking 2.0 at times.
+
+I once tried to update an old outdated SO resolution with a new solution and my answer was removed for reasons I forgot... ""if I can't give a detailed answer on why my solution works, it's invalid"", or something like that. So fuck trying to help people that stumble across that post in the future.",1,2023-07-27 02:33:04
+325,,0,sheriffderek,1912,15048,None,0,I’m betting it has little to do with SO and more with things like Discord where people ask quick questions now. SO is rad. Haters don’t get it.,1,2023-07-27 02:39:50
+326,,0,TravelOwn4386,344,10334,None,0,Well stack overflow banned me from posting because my questions were not academic enough for them. I would probably still be using it had that not happened but they seem to like having no users.,1,2023-07-27 06:51:59
+327,,0,0rubber_band,324,472,None,0,"This has been brewing for so long especially with how ass the experience is with other users (elitism, gatekeeping, etc.). AI is just the catalyst.",1,2023-07-27 07:28:11
+328,,0,Creator1A,191,8831,None,0,"Yeah, it's all ChatGPT's fault guys, definitely not because StackOverflow is more toxic than an acid lake",1,2023-07-27 07:36:00
+329,,0,girvain,580,527,None,0,"The culture of stack overflow as many have said is shit but it's also quite reflecting of the mentality of the industry where people put others down to feel accomplished rather than actually trying to accomplish something themselves. 
+It's still good though I use it regularly, I hope they use this as a way to improve things. Reddit is where I come first to post issues personally but Google always gives me stack.",1,2023-07-27 07:49:12
+330,,0,PrinnyThePenguin,5806,35193,front-end,0,"I have been using chat gpt for my questions more and more lately. It's faster, more polite, I can ask follow up questions and I don't feel pressured to write the perfect questions in order to avoid being marked as duplicate.",1,2023-07-27 07:53:44
+331,,0,Deleted,N/A,N/A,None,0,"Who would’ve thought that discouraging communication just to be a smartass in the ways of complaining about reposts or not researching well enough would lead to this! I’m glad that shithole is going down the drain. God forbid people want to converse and apply their specific situations to the questions they ask instead of reading an 8 year old solution from a bunch of smartasses, not like if you think the question is already answered you can simply not reply and waste your time, but then that wouldn’t allow you to show off how intelligent you are",1,2023-07-27 08:11:28
+332,,0,keeptrying4me,6590,16908,None,0,That’s because stack overflow is toxic af,1,2023-07-27 10:44:31
+333,,0,TheFumingatzor,438,32730,None,0,"Good. Stackoverflow has been a cesspool of elitism a long while now.
+
+Or how Stackoverflow would say it: Closed due no relevance.",0,2023-07-27 09:04:30
+334,,0,Deleted,N/A,N/A,None,0,[deleted],-1,2023-07-26 22:56:19
+335,334,1,hamolton,4179,25277,None,0,"SO sells ads.
+
+SO for teams is supposed to be an internal workplace Q/A wiki, with the philosophy that that this kind of Q/A format yields better docs than other formats. It has better search than slack/notion, but my company of 200 engineers still felt too small for it to make sense.",3,2023-07-26 23:13:45
+336,334,1,Disgruntled__Goat,18990,234952,None,0,"The base income is ads, just like (almost) every other free information website. Very easy to make money that way when the site is mostly text (compared to e.g. YouTube).
+
+But yeah they have a bunch of “enterprise” features. I think they license out the whole SO engine for companies to use internally (prices are ridiculous though).",3,2023-07-26 23:22:07
+337,336,2,Deleted,N/A,N/A,None,0,[deleted],0,2023-07-26 23:42:06
+338,337,3,Disgruntled__Goat,18990,234952,None,0,Despite the seeming prevalence of ad blockers the majority of people don’t use them.,1,2023-07-26 23:51:54
+339,,0,jakeinater,614,3842,None,0,If stack overflow dies chatgpt dies.,0,2023-07-27 03:20:55
+340,,0,Slav_McSlavsky,160,27262,None,0,"The fall started in april 2022. Pretty sure, LLMs were not a popular thing back there.",0,2023-07-27 05:50:34
+341,,0,Deleted,N/A,N/A,None,0,[deleted],0,2023-07-27 06:17:59
+342,341,1,TylerDurdenJunior,48148,45163,None,0,You are completely missing the point of SO,1,2023-07-27 09:48:37
+343,,0,livc95,18,11,None,0,"The decline occurred significantly prior to the launch of ChatGPT.  
+Stackoverflow is essentially making its own business obsolete.",0,2023-07-27 10:05:42
+344,,0,Positive_Box_69,7480,24174,None,0,"Stackoverflow banned GPT so thats the consequences, embrce AI or get rekt",-2,2023-07-26 23:10:54
+345,344,1,Disgruntled__Goat,18990,234952,None,0,"Actually they reversed that decision, which made the situation worse since most of the mods went on strike.",4,2023-07-26 23:23:07
+346,,0,kenflan,157,19541,None,0,"Agreed. I use chatGPT a lot lately. Time complexity is O(1), whereas looking things up on stackoverflow goes through multiple clicks.  
+
+
+Maybe stackoverflow could do something to improve look up times. At the same time, no one likes changes",-11,2023-07-26 22:16:36
+347,346,1,0day_got_me,6,1983,None,0,Quit fronting with that tech jargon. No one really speaks like this outside of interviews.,1,2023-07-27 07:06:35
+348,347,2,kenflan,157,19541,None,0,Lmao why r u so mad? I was obviously joking. It's not that deep,0,2023-07-27 07:10:47
+349,,0,Deleted,N/A,N/A,None,0,[deleted],-3,2023-07-26 22:44:53
+351,,0,Babadinho,92,130,None,0,Stackoverflow is a toxic place and not very welcome to beginners and doesn't feel like a community so not surprising seeing people deep as soon as they found a much better alternative way to solve their problems.,-1,2023-07-27 09:08:21
+352,,0,LukeJM1992,289,14466,full-stack,0,"I mean, you could certainly make this argument, but ChatGPT is the next evolution of “I have a unique problem I’m trying to solve with code”. 
+
+SO gave me something close that I ultimately needed to port to my specific use-case. ChatGPT can be copy-pasted if you give it the right context in your prompt. It’s carriage vs. car and I don’t see many carriages anymore.",1,2023-07-26 23:27:02
+353,,0,crazedizzled,618,104319,None,0,Could also be that everyone on stackoverflow are a bunch of assholes,1,2023-07-26 23:38:01
+354,,0,RentStillDue,1046,4930,None,0,The only remaining hope that SO has is the fact that ChatGPT is only current up to 2021. If/when that changes there will be 0 need for SO.,1,2023-07-26 23:57:13
+355,354,1,Deleted,N/A,N/A,None,0,But if there is no SO how does ChatGPT continue to stay current going forward.,2,2023-07-27 00:30:05
+356,,0,Suspicious_Board229,3,4494,None,0,"Maybe all that traffic is just copilot and chat gpt training on their data and now they are done /s
+
+&#x200B;
+
+Keep in mind that correlation is not causation.",1,2023-07-27 00:01:55
+357,,0,cardyet,988,7276,None,0,"I've never been a fan of stack overflow, and have defaulted to Reddit. Can't quite put my finger on it, but if I have an issue, it's hard to find a post with my problem and then hard to find an answer that is appropriate...it's not necessarily the most voted one because that is probably outdated.",1,2023-07-27 00:07:50
+358,,0,DAHLiciousWafflez,490,20524,None,0,"I ain't gonna lie, ever since ChatGPT came out, I've completely forgot Stck Overflow was a thing. Get to skip a lot of hurdles people like to make me jump through, and find the answers I need a lot faster.",1,2023-07-27 00:51:48
+359,,0,SlowestCamper,3,5580,None,0,Good riddance.,1,2023-07-27 00:54:48
+360,,0,d70,6193,50858,None,0,Well I see a lot of devs using CodeWhisperer and Copilot more. So that’s definitely part of the cause.,1,2023-07-27 00:56:41
+361,,0,notionovus,1403,18111,None,0,"I'm starting to see bots posting ChatGPT ""answers"" to SO questions on SO.
+
+[Here's](https://stackoverflow.com/a/76763473/769938) an example. Why, even?",1,2023-07-27 01:01:56
+362,,0,Prudent_Astronaut716,365,9937,None,0,Just like SO killed ExpertsExchange. Guess that's how it works.,1,2023-07-27 01:29:38
+364,,0,ShawnyMcKnight,625,240150,None,0,So far chatGPT hasn’t closed my question saying it’s been already asked and then citing other posts that use some of the same keywords to mine but no more… so good riddance.,1,2023-07-27 02:23:37
+365,,0,Flash_Discard,1573,10125,None,0,Serious question….Why hasn’t StackOverflow trained their own GPT?,1,2023-07-27 02:55:01
+366,,0,Sea-Comment-4638,3,58,None,0,Upvote if you've never seen the landing page!,1,2023-07-27 03:00:43
+367,,0,UnemployedTechie2021,115603,55914,None,0,SO has been an echo chamber far too long. Don't blame ChatGPT for its downfall.,1,2023-07-27 03:12:51
+368,,0,Bastigonzales,31461,12152,None,0,Stackoverflow is very toxic anyway,1,2023-07-27 03:15:07
+369,,0,NaiveAd8426,105,5445,None,0,"Good riddance, everyone on there are elitists anyways.",1,2023-07-27 04:22:00
+370,,0,arcanepsyche,24836,85751,None,0,"Yeah, I stopped using that site long before ChatGPT came along. I was getting tired of sifting through 10-year-old answers.",1,2023-07-27 04:32:18
+371,,0,HollowCrown,152,7918,None,0,Good riddance,1,2023-07-27 04:53:12
+372,,0,AlwaysDeath,1394,7934,None,0,So what now?,1,2023-07-27 05:14:36
+373,,0,BehramKttk8372,1,0,None,0,"That's not true for me, because i never used chatgpt for a solution to any bug in my code because i like to search and gothrough every site and try to find solution i like to read issues and solutions on stackoverflow chatgpt. And lastly chatgpt can never takeover anything, its only a myth by unprofessional programmers and developers out there.",1,2023-07-27 05:19:32
+374,,0,Deleted,N/A,N/A,None,0,"Saw a commercial / ad for SO the other day, which I found odd because I never recall seeing any.. looks like they know the writing is on the wall and are trying to rebrand and change their business model up. Good riddance if you ask me.",1,2023-07-27 05:29:11
+375,,0,CompetitionJust71,27,919,None,0,"Asking question in Stackoverflow could get you flagged duplicated (even though it wasn't even the same question. Not that they did read the actual question in the first place.) or told to RTFM or use Google (if i use Google and found my fucking answer i wouldn't be here asking you this goddamn question!)
+
+ChatGPT doesn't complain. Doesn't flag your question duplicated. If it gave you wrong answer you can shout at it. It just obey and actually trying to understand my needs. It doesn't even need 'reproducable code' (although giving it one will help a lot.) Why wouldn't i use it?",1,2023-07-27 05:46:14
+376,,0,kedjqwe,6,6,None,0,i have noticed chatGPT became stupid,1,2023-07-27 05:47:26
+377,,0,quentech,77,55519,None,0,I used to say that the system I run serves as much traffic as StackOverflow. Now I guess I get to say it serves *more* traffic than StackOverflow.,1,2023-07-27 06:12:04
+378,,0,makridistaker,1923,4064,None,0,Good.,1,2023-07-27 06:23:44
+379,,0,dada360,32,276,None,0,"I would like to see what it did to Quora, that thing is dead, only bots an SEO ""experts"" are there",1,2023-07-27 06:33:58
+380,,0,uplink42,1068,32246,None,0,"ChatGPT started gaining mainstream appeal around Jan/Feb 2023. Judging by that chart, Stack Overflow had already lost a big chunk of users by then.",1,2023-07-27 06:45:40
+381,,0,goatchild,7629,30004,None,0,I remember not being very well treated there. But on the other hand also got huge help from some folks there as well. I hope it doesn't die. They need to adapt to LLMs and maybe even using them somehow. They need to keep relevant.,1,2023-07-27 09:25:58
+382,,0,Fender-Consider,430,5904,None,0,Stackoverflow will release new chatbot in few months,1,2023-07-27 09:29:27
+383,,0,Viscart,19,2111,None,0,It is amazing how tech companies can just steal stuff from other people and call it their own genius.,1,2023-07-27 10:20:50
+384,,0,polonord,22,425,None,0,Maybe lots of those page views in 2021 came from bots from AI companies training their models 😂,1,2023-07-27 10:42:30
+385,,0,blur410,9281,9549,None,0,"SO is a horrible community. It’s unfriendly, cruel, and very judgmental. I refuse to post on it anymore.",1,2023-07-27 11:58:06
+386,,0,Substantial_Gift_861,6193,525,None,0,"If you use github, azure, then it might use your code for training too",1,2023-07-27 11:58:21
+387,,0,cajmorgans,1768,7064,None,0,"I have been using stackoverflow a lot, but haven’t asked too many questions. That means I can’t comment, I can’t upvote, why should I use it more?",1,2023-07-27 12:05:49
+389,,0,DEAD_JUSTICE_ROBERTS,4,26,None,0,"Highly-relevant article posted yesterday:
+
+[Stack Overflow's CEO doesn't understand Stack Overflow](https://jlericson.com/2023/07/26/not_understanding.html)
+
+>  In May I [wrote about Stack Overflow's business](https://jlericson.com/2023/05/17/so_business.html), which lost $42 million over 6 months and had just laid off 10% of its employees. Since then, [the company's fiscal year-end results came out](https://prosus-ir.com/results/2023/Prosus-annual-results-2023/pdf/booklet.pdf). Despite growing revenue, it lost $84 million over the year ending on March 31, 2023. 
+
+-- Several paragraphs about somehow integrating AI in SO (tha author seems skeptical) --
+
+> After using ChatGPT for a few months to help me write code, I'm not sure it will have the same impact as metal nibs had on writing. **For common questions, it's impressive but blind spots can be easily found. The primary advantage of LLMs (their output can be copied and used without modification) also makes them poor tools for effective learning. They create cargo cults from their training materials. They sometimes produce useful results if circumstances are favorable, but provide no help otherwise.**
+
+I haven't used ChatGPT to find help with coding problems. This isn't an endorsement of that practice.",1,2023-07-27 12:17:56
+390,,0,Deleted,N/A,N/A,None,0,I dont know,1,2023-07-27 13:24:31
+391,,0,DavidOrzc,35,123,None,0,"If everyone migrates to ChatGPT, wouldn't it lose its source of training data? I wonder if that would impair it's ability to answer questions regarding new libraries and technologies.",1,2023-07-27 13:35:28
+392,,0,WhatIsThisSevenNow,12706,21828,None,0,"This kinda sucks. First, I have seen somebody navigate ChatGPT to get a result, and it seems like way more work than just going to StackOverflow. Second, I cannot get a ChatGPT account as they want my cell phone number for verification, and I **AM NOT** going to give them my cell phone number.",1,2023-07-27 13:46:01
+393,,0,michaelbelgium,7179,34371,full-stack,0,">ChatGPT was trained on Stackoverflow data
+
+&#x200B;
+
+Well no wonder why chatgpt fails to help me most of the time",1,2023-07-27 14:04:49
+394,,0,Reasonable_Sky2477,260,354,None,0,"ChatGPT model will need to be trained again soon, at which point SO can charge them a lot of money. Don’t feel bad.",1,2023-07-27 14:07:01
+395,,0,Cirieno,2620,86060,None,0,"StackOverflow has some basic UI issues that need to be addressed, and some hugely arrogant commenters who gatekeep against people simply asking for advice or directions to working code.  I still use it when I'm researching a bit of code that I don't recognise but it's not a fun place to hang around and it doesn't promote discovery or deep-dives.",1,2023-07-27 14:09:31
+396,,0,Strid3r21,76825,109870,None,0,"Even if SO had a super friendly/helpful community, ChatGPT will still replace it because with SO you can ask a question and it may never get answered or you're waiting hours to days to get a response.
+
+Whereas with ChatGPT, it'll give you an answer instantly. It may not be the right answer right now, but as it gets better it'll be more reliable.",1,2023-07-27 14:18:10
+398,,0,ramFixer420,13,837,None,0,Where can I exactly see this data of how much traffic a website recieves? Is this open information?,1,2023-07-27 15:14:50
+399,,0,2themax9,3915,41494,None,0,"Kinda cool that stack overflow usage lines up almost perfectly with the academic school year. It dips during winter break (dec) and summer break (June/july) for college kids, then peaks during finals time in March-may.",1,2023-07-27 15:34:07
+400,,0,GBNDias,486,3901,None,0,"Thats odd since I tested GPT knowledge on PHP and although most of its responses were well written enough to make me question myself sometimes, it was mostly wrong or bad answers.",1,2023-07-27 16:50:05
+401,,0,OCE_Mythical,336,52866,None,0,Love when x company needs users to even be a company then complains when another company uses that data. Without the users stackoverflow doesnt exist and now they've been automated. Gg,1,2023-07-27 17:02:22
+402,,0,stuartseupaul,24,4523,None,0,"Oddly enough I like the other stack exchange sites dealing with things tangential to software development like IT, Networking, Database admin, etc. Or just reading random STEM/philosophical question on there.
+
+Other than the occasional obscure error message I google, I wouldn't go to stack overflow for any kind of question though and haven't in 5+ years. If I'm looking up syntax, I'll go to docs, if I'm looking for a guide there's blogs, if there's a specific issue with a library then there's github issues.",1,2023-07-27 18:07:00
+403,,0,Scoobydoby,2823,7365,None,0,Good I hated trying to find answers there,1,2023-07-27 18:57:59
+404,,0,WinXPbootsup,37491,24973,None,0,I bet you feel dumb now: https://stackoverflow.blog/2023/07/27/announcing-overflowai/,1,2023-07-27 20:16:18
+405,404,1,hourmazd,3,10,None,0,"wait, wut? didn't stack exchange folks like just this week end a moderators strike over AI policy? lmao.",1,2023-08-14 04:00:41
+406,405,2,WinXPbootsup,37491,24973,None,0,"I genuinely don't know about that. I thought they changed their outlook towards A.I., but maybe not entirely. I'd actually love to know the full story.",2,2023-08-14 08:43:32
+407,406,3,hourmazd,3,10,None,0,"I'm outside the bubble so I can't tell you the bigger scope of it, but I spent a good hour catching up on the moderators' strike prior to seeing your post. It seems (to me) that it was (and still is, in the form of negotiating teams) about a decree from on high forbidding the use of ChatGPT sniffers. I can understand the argument—but I'm floored that not one post—from either side—mentioned or discussed Stack Exchange/Overflow's commercial interest and investment in their own AI products. ¯\\\_(ツ)\_/¯",2,2023-08-15 09:53:36
+408,,0,dontspookthenetch,3803,21176,None,0,Stack Overflow kind of deserves it for how toxic that place is.,1,2023-07-27 20:28:30
+409,,0,drdrero,6285,50847,None,0,"Then nobody of you guys is aware,  you don’t want to,  they are just planning to release an AI model themselves",1,2023-07-27 20:33:43
+410,,0,Deleted,N/A,N/A,None,0,Good so is a garbage place with more meta game than dota2,1,2023-07-27 22:43:12
+411,,0,Deleted,N/A,N/A,None,0,"Those stack overflow dicks deserve it! I remember using it once and got so many rude comments… like we are supposed to help newbies out, not treat them like incompetent idiots. ChatGPT doesn’t judge!",1,2023-07-27 23:19:15
+412,,0,toroga,5723,12727,None,0,Progress,1,2023-07-28 04:03:39
+414,,0,Deleted,N/A,N/A,None,0,good,1,2023-07-28 14:09:40
+415,,0,fastpenguin91,2903,3460,None,0,"I know so is killing itself, but I’m surprised there isn’t more talk about things like Udemy and codecademy. If I can just ask chatgpt how to learn all the things instead of stack overflow, then why isn’t chatgpt hurting Udemy and its competitors more?
+
+I mean the obvious answer in my experience is that I can’t trust chatgpt and the answers it gives are usually wrong enough that it’s more work than just doing it myself, but… seems like I’m the minority.",1,2023-07-31 05:54:12
+416,,0,g0_g6t_1t,1290,286,None,0,something like [debugsage.com](https://debugsage.com) could be the answer,1,2023-08-08 02:37:17
+417,,0,SkyLightYT,466,3455,None,0,"Hate to say it, but isn't this kind of a good thing? I mean, we already know how toxic the community is on Stackoverflow.",1,2023-08-09 10:49:42
+418,,0,TrueSgtMonkey,646,3965,None,0,Yay!,1,2023-09-27 23:30:10

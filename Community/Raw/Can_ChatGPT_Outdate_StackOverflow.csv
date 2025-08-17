@@ -1,0 +1,81 @@
+Unique ID,Parent ID,Depth,Username,Post Karma,Comment Karma,Achievements (Flair),Number of Awards,Comment,Upvotes,Timestamp (UTC)
+1,,0,saint_geser,9281,24488,None,0,"No they banned it because people used it to submit answers without understanding the code that ChatGPT produces which is (very) often wrong. 
+
+When ChatGPT gets better (or some other model) then it could replace a lot of what SO is for but not yet.",74,2023-02-17 05:49:54
+3,1,1,goomyman,2999,194272,None,0,"Have you used chat gdp?   For asking technical questions it’s amazing.   
+
+I used to go to stackoverflow but now chat gdp pretty much solves my issues in a minute vs hunting though comments trying to find a decent one. 
+
+Yeah it’s often wrong but not enough to matter and it provides samples that you can improve with further questioning.  
+
+Stackoverflow answers aren’t always right either and they can provide samples that match your needs.",-12,2023-02-17 08:24:29
+4,3,2,5thhorseman_,6290,179637,None,0,It produces plausibly-sounding answers that are often wrong on the details that matter. It is not reliable.,7,2023-02-17 10:27:53
+5,4,3,goomyman,2999,194272,None,0,I use it daily for work.   The answers are right enough that you can go from there.,1,2023-02-18 01:49:14
+6,3,2,saint_geser,9281,24488,None,0,Not really amazing. A lot of the time it's just plain wrong whether it's physics or coding. If you know your stuff you can get to the solution from the template it provided but if you don't then curated answers on SO are much better.,11,2023-02-17 08:54:31
+7,6,3,goomyman,2999,194272,None,0,"Try asking it syntax questions.   How do write x in powershell.   
+
+Or pasting a question for an exception you got.   Why am I getting this exception?
+
+Or something like an exception like “invalid name”.   Why am I getting an invalid name - it will automatically give you the naming requirements.  
+
+Yeah easy to look up items but answers on the spot.  With examples.  And if you don’t like the examples ask for another one. 
+
+Here is a great recent example : “
+
+ how do I copy a directory in command line?”   It gives me a xcopy example.  
+
+I run it and it gives me an error about path size > 256.   
+
+I ask why am I getting this error.    It tells me to use robocopy with examples.   
+
+Robocopy provides verbose output.   
+
+I ask it how not silence output.   It tells me to use > nul.    
+
+Robocopy returns back non 0 status codes on success.   I ask it how to return back 0 on success and if tells me that robocopy has 8 status codes and only 8 is a failure and provides an if statement to return back 0 unless 8. 
+
+
+This shit is amazing as hell.  Everyone downvoting just does not understand how much time this saves even if the answers can be slightly off.  
+
+It’s not about asking it to code for you.  It’s about asking it to help you code.    I use it directly first for questions and it has yet to fail me.   It’s literally game changing.",2,2023-02-18 01:57:30
+8,3,2,classyraven,26658,130390,None,0,"Ah yes, Chat GDP, the new chat bot made for economists.",2,2023-02-19 02:58:00
+9,,0,DreamingInMyHead,747,1620,None,0,"I definitely think SO is threatened by these new AI ChatBot models. I genuinely hope new Bing can close the gap since it has access to the internet (although it's been rough lately because it's been argumentative).
+
+However, I think they banned it because ChatGPT is just a ChatBot. It is very confident in its answers, but only correct about 50% of the time.
+
+I've had ChatGPT tell me to use a method that doesn't exist and never has existed when I asked it for help with something.
+
+So, realistically, SO banning ChatGPT is fair and probably the right thing to do. It's still a great tool to help you answer questions (as long as you understand and can verify the correctness of the code).
+
+That being said, I'd say the top people at SO are definitely sweating with these chatbots and in all honesty, I think they sorta deserve it. 
+
+Back when I was learning to code as a pre teen, I burnt 4 SO accounts asking questions I still don't think were that bad. They were beginner questions specific to my code that I just didn't have the vocabulary yet to look up correctly. It wasn't my fault and no one helped me. Having something like ChatGPT can help people learn and avoid the toxicity that SO thrives on and I look forward to depriving all those toxic people of SO of stepping on beginners learning to code. I think it's a good thing.",11,2023-02-17 07:02:30
+10,9,1,sanderd17,1676,69320,None,0,"SO is not managed as a Q&A site, but as a knowledge database.
+
+So any question that has been asked before, or isn't generic enough, immediately gets thrown out.
+
+It's a bit annoying that their layout does suggest it's a Q&A site.",6,2023-02-17 16:01:30
+11,10,2,Deleted,N/A,N/A,None,0,"It's horrible as a knowledge database. As it is littered with answers that would have been brilliant 8 years ago, but not necessarily the best way (or even valid) anymore, but similar new questions get closed because it's technically answered. So whatever the next iteration of ChatGPT will be, it'll likely end SO.",0,2023-02-17 18:01:29
+12,,0,gernhartsteiff,172,859,None,0,"no, because gpt is far too friendly to newbies for that",11,2023-02-17 06:52:09
+13,,0,air-dex,41,1805,None,0,"The problem is that some SO users may answer with a Chat GPT-generated answer, in order to get the points for SO fame (for example).
+
+Even worse, imagine flooding SO bots which send questions to Chat GPT and then answer on SO with answers given by Chat GPT.
+
+SO is a place where you can help to developers and receive help if you need to. It is not a ""Klout/Skorr for devs"" where your number of points in SO would be the size of your e-p€nis in the IT world, and where Chat GPT would be a wonderful tool to enlarge your e-p€nis. 😉",3,2023-02-17 11:02:39
+14,,0,JohnSpikeKelly,52,35916,None,0,"My 2 cents.
+
+SO should add a Q&A section driven by an AI that users the SO data to train the model.
+
+Then instead of upsetting a lot of junior devs asking legitimate questions, and being told to go away for various reasons, typically a duplicate question. Instead, they can supply an answer.
+
+Obviously, it wouldn't be able to answer new questions. Those might be good candidates for actual SO posts.
+
+I realize, this might be an unpopular opinion.",2,2023-02-17 20:33:26
+15,,0,NotPeopleFriendly,135,7320,None,0,"ChatGpt was fed by SO.. the value of ChatGPT would be substantially reduced without all the information it pulled from SO
+
+Not sure if will replace it long term.. AI will always need to be fed/trained.  Free sources like SO, github, etc will be needed.   I'm not sure if copilot takes your private code as training data for others - I've seen these accusations - but I'm skeptical.   I suspect that once anyone writes any code - given sufficient time - someone else will write that code or put it in a public repo.",2,2023-02-17 20:41:43
+16,,0,BobbyThrowaway6969,12152,197075,None,0,ChatGPT relies on stack overflow answers,2,2023-02-19 23:52:36
+17,,0,Deleted,N/A,N/A,None,0,yes it does. yes chatgpt produces some errors but i can easily fix them or tell chat gpt what is wrong and it rectifies his own answers,1,2023-02-17 08:47:00
+19,,0,starball-tgz,243,628,None,0,"You can read about the reasons for the temporary ChatGPT ban policy here on the Meta Stack Overflow site: [Temporary policy: ChatGPT is banned](https://meta.stackoverflow.com/q/421831/11107541) and in [the linked Help Center page](https://stackoverflow.com/help/gpt-policy). For policies of other sites in the Stack Exchange network, see [Is there a list of ChatGPT discussions and policies for our sites?](https://meta.stackexchange.com/q/384922/997587). There's also related discussion about the long term policies that could be implemented network wide here: [Ban ChatGPT network-wide](https://meta.stackexchange.com/q/384396/997587)
+
+As for your specific question here, see [The future role of Stack Exchange vs. emerging AIs](https://meta.stackexchange.com/q/386983/997587) and [Could ChatGPT be a viable way to answer people's questions?](https://meta.stackexchange.com/q/384355/997587)",1,2023-02-27 00:47:15

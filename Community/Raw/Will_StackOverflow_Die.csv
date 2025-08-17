@@ -1,0 +1,140 @@
+Unique ID,Parent ID,Depth,Username,Post Karma,Comment Karma,Achievements (Flair),Number of Awards,Comment,Upvotes,Timestamp (UTC)
+1,,0,AutoModerator,1000,1000,None,0,">Namaste!
+Thanks for submitting to r/developersIndia. While participating in this thread, please follow the Community [Code of Conduct](https://developersindia.in/code-of-conduct/) and [rules](https://www.reddit.com/r/developersIndia/about/rules).
+ 
+It's possible your query is not unique, use [`site:reddit.com/r/developersindia KEYWORDS`](https://www.google.com/search?q=site%3Areddit.com%2Fr%2Fdevelopersindia+%22YOUR+QUERY%22&sca_esv=c839f9702c677c11&sca_upv=1&ei=RhKmZpTSC829seMP85mj4Ac&ved=0ahUKEwiUjd7iuMmHAxXNXmwGHfPMCHwQ4dUDCBA&uact=5&oq=site%3Areddit.com%2Fr%2Fdevelopersindia+%22YOUR+QUERY%22&gs_lp=Egxnd3Mtd2l6LXNlcnAiLnNpdGU6cmVkZGl0LmNvbS9yL2RldmVsb3BlcnNpbmRpYSAiWU9VUiBRVUVSWSJI5AFQAFgAcAF4AJABAJgBAKABAKoBALgBA8gBAJgCAKACAJgDAIgGAZIHAKAHAA&sclient=gws-wiz-serp) on search engines to search posts from developersIndia. You can also use [reddit search](https://www.reddit.com/r/developersIndia/search/) directly.
+
+## Recent Announcements & Mega-threads
+
+- **[The developersIndia Wiki Team needs your help! Share posts & comments that have helped you in the past.](https://www.reddit.com/r/developersIndia/comments/1gbtbdn/the_developersindia_wiki_team_needs_your_help/)**
+- **[Who's looking for work? - Monthly Megathread - November 2024](https://www.reddit.com/r/developersIndia/comments/1ggxjkg/whos_looking_for_work_monthly_megathread_november/)**
+- **[Community Roundup: List of must read posts & interesting discussions that happened in October 2024](https://www.reddit.com/r/developersIndia/comments/1gg5mq8/community_roundup_list_of_must_read_posts/)**
+
+### [AMA with Vishnu Mohandas, Founder & CEO at Ente on Engineering, Open Source, Entrepreneurship on 9th Nov, 12:00 PM IST!](https://www.reddit.com/r/developersIndia/comments/1gin25q/join_vishnu_mohandas_founder_ceo_of_ente_for_an/)
+
+*I am a bot, and this action was performed automatically. Please [contact the moderators of this subreddit](/message/compose/?to=/r/developersIndia) if you have any questions or concerns.*",1,2024-11-06 10:30:32
+2,,0,Marathi_Engineer,503,1581,None,0,Not if they release some tool using all the data and solutions they have garnered till now. Else they will !,393,2024-11-06 10:33:22
+3,2,1,poha-jirawan-01,316,4820,None,0,Chatgpt have already scrapped most of their data..,186,2024-11-06 10:46:00
+4,2,1,DarkHumourFoundHere,15401,81187,Data Scientist,0,They did and it didnt become mainstream for obvious reasons,66,2024-11-06 11:33:17
+5,4,2,lundchusika,368,196,None,0,"Don't think they have the resources to properly market it. Although for anything new only the people at SO will be able to help, GPT will surely take the place with its speed of improvement and marketing capability. I'll miss being downvoted to oblivion.",33,2024-11-06 11:39:02
+6,5,3,DarkHumourFoundHere,15401,81187,Data Scientist,0,Its not about marketing. If I want to search for something I will not open google anymore and open chatgpt or google gives me answers right away without opening SO link,7,2024-11-06 11:51:43
+7,6,4,lundchusika,368,196,None,0,"Then you might be searching for simpler problems. For me, I have to visit SO every once in a while for problems on software made after the release of GPT.  But I do believe it is a marketing problem since I didn't even know SO had released something like that. If I had known then I would have supported them or at least checked it out. GPT on the other hand enjoys widespread public recognition and popularity.",3,2024-11-07 08:23:43
+8,2,1,Maginaghat997,74980,39845,None,0,"""Stack Overflow was sold to Prosus, a Netherlands-based consumer internet conglomerate, on 2 June 2021 for $1.8 billion."" 
+
+Feeling sorry for Prosus but happy and for the original developers, probably they have envisioned the future.",10,2024-11-06 22:56:34
+9,,0,Badmash56,197,181,None,0,It's still sometimes better than GPT.,146,2024-11-06 11:02:54
+10,9,1,SpiritualGymRat,1829,2980,None,0,"For now, Yes. But with this pace LLMs will replace it soon.",52,2024-11-06 11:24:03
+11,10,2,Badmash56,197,181,None,0,With this pace LLMs are going to replace us also🥲,35,2024-11-06 11:55:36
+12,11,3,gregarious_i,1,6555,Data Engineer,0,Badmash bhai itna sach mat boliye..,19,2024-11-06 13:13:13
+13,9,1,pandara_kaalan,3,1894,None,0,I ask questions there and nobody is there to answer,1,2024-11-07 13:16:52
+14,,0,majja_ni_vibe,187,2204,None,0,Ripe for takeover.. may be github / MS will acquire stackoverflow.. push all its data into copilot.,167,2024-11-06 10:37:34
+15,14,1,vincent-vega10,2429,22931,Software Engineer,0,"It was already acquired 3 years ago
+
+https://techcrunch.com/2021/06/02/stack-overflow-acquired-by-prosus-for-a-reported-1-8-billion/",56,2024-11-06 10:55:04
+16,15,2,majja_ni_vibe,187,2204,None,0,"Yes, i knew of this.. and it doesn't stop Prosus selling it again
+
+My reason for the earlier comment was coz I think **stack is losing ground in an AI enabled world** as automation in coding is real - eliminating ""human error""",16,2024-11-06 12:20:09
+17,16,3,Maginaghat997,74980,39845,None,0,And why will someone buy it? They have already trained their models with the data which is available in the public domain.,1,2024-11-06 22:52:30
+18,17,4,majja_ni_vibe,187,2204,None,0,"User Integration 
+Tech integration 
+Add new tech layers, enhance product proposition (copilot tp Stack)",1,2024-11-07 01:09:50
+19,14,1,poha-jirawan-01,316,4820,None,0,"Seems likely, hope they dont make it paid service though",10,2024-11-06 10:46:28
+20,14,1,ttbap,12,1898,None,0,So copilot can become condescending….🤣,4,2024-11-06 12:15:49
+21,14,1,enigmaBabei,83,5428,None,0,Yes,2,2024-11-06 10:44:53
+22,,0,vincent-vega10,2429,22931,Software Engineer,0,"I hope it doesn't. I just can't move on from SO. The explanations are crystal clear, there are multiple answers which teach you different approaches and most of the doubts I get while reading an answer will already be asked in comments. And also there's a trust factor, the answers are written by industry experts and there are strict checks on who can contribute.",123,2024-11-06 11:04:38
+23,22,1,chait100,999,1035,None,0,Agreed. The main thing is comments on the solutions. Yes The solution might work for some but it might be wrong one. You'll find some or the other comment which would be about how the approach is bad and what can you do to fix it.,37,2024-11-06 11:16:45
+24,23,2,Rough_Natural6083,3,4280,None,0,I agree. There was a problem with RDP in Ubuntu I encountered in July this year: no solution on Microsoft's helpdesk (or whatever it is called) or on GitHub. A comment in stackoverflow suggested to change the value of a key in the rdp file of remote and it worked!! This is just one example of countless many where comments really help out. There is a guy  by the name Ciro Santili and he has amazing answers related to Linux kernel. There is also Peter Cordes who explains all things bare-metal (mainly x86_64) and C programming in a beautiful encyclopaedic way that I can read an answer and know that it has been written by him. Amazing folks.,7,2024-11-06 12:04:40
+25,22,1,sad_depressed_user,44,219,Software Engineer,0,"Sometimes at least one of the comment explains the problem in an easier way which makes understanding the solution much better, chatgpt giving the solution means we don't need to think about the problem which might not be ideal like me who just got into job recently",1,2024-11-07 15:37:49
+26,,0,Deleted,N/A,N/A,None,0,"dumb questions will be reduced. Quality questions will be increased,overall revenue loss for stackoverflow",68,2024-11-06 11:06:33
+27,26,1,Agile_emphasis247,107,2347,None,0,"Nah, it's only a matter of time before it gets closed, there's no way they are gonna compete against llms",18,2024-11-06 11:40:07
+28,27,2,Deleted,N/A,N/A,None,0,"generated content can never beat original ones. what if a new bug or new problem arises in your code, llms can't predicate that answer unless it has been trained by new data. probably they should release their own models based on their data",19,2024-11-06 13:16:13
+29,27,2,firetruck3105,57,916,QA Engineer,0,something else will come up,1,2024-11-06 12:31:02
+30,,0,anonparker05,4151,4677,None,0,"I have a feeling stackoverflow has the potential to getting transformed into a collaborative work environment/ skill building environment, like most problems can eventually be connected to business pipelines, people would come and ask questions/more like work prompts, gets assisted by AI into better formulation, separating areas of concern and then people can collaborate completing those work. Maybe a move from current state of AI assisted development into more of Human assisted development, where major redundant work can be done by AI and rest of area expertise can be provided by Humans assisting those modes.",22,2024-11-06 11:11:18
+31,30,1,anonparker05,4151,4677,None,0,"chatgpt structured response of above brief if useful;
+
+1. **Transforming Questions into Collaborative Workflows**: Stack Overflow could shift from a pure Q&A model to a collaborative environment where questions are broken down into actionable parts, possibly by an AI that helps refine and structure queries. Each part could then be tackled by users with specific expertise, turning the platform into more of a “skill-building and collaborative problem-solving hub” rather than just a troubleshooting site.
+2. **AI as the Initial “Sort and Solve” Layer**: This model aligns with a potential move toward *AI-assisted development*, where AI handles repetitive or redundant tasks, allowing users to focus on creative problem-solving and niche expertise. Imagine a system where users come with high-level issues, AI parses them into specific technical requirements, and users contribute their specialized skills—offering explanations, optimization, and best practices where AI might still fall short.
+3. **Implications for Skill Building and Knowledge Sharing**: This setup could make Stack Overflow even more valuable as a learning platform, allowing users to engage in projects that build expertise directly relevant to industry needs. It would be less about one-off answers and more about growing a community’s collective skill set around real-world applications, making the learning process more hands-on and practical.
+4. **Risks of Human Expertise Becoming Secondary**: The shift toward AI handling the “grunt work” could make certain skills more specialized but could also marginalize routine development tasks. The challenge would be ensuring that new developers still get to build foundational skills, rather than just filling gaps left by AI—a risk for the software industry at large if AI takes over too much too soon.
+5. **Human Expertise as a Premium**: If Stack Overflow evolved in this direction, users with niche or highly specialized knowledge would become even more valuable, acting almost as “project managers” for AI-suggested solutions. This could benefit people with deep knowledge, but it might also concentrate expertise among a smaller group of highly skilled users.
+6. **Stack Overflow as a Business Pipeline Extension**: You’re spot on in noting that many questions relate directly to business problems. This evolution could attract businesses to treat Stack Overflow as a *collaborative R&D platform*, using AI-assisted queries to guide development while crowdsourcing specialized solutions. However, this could lead to ethical concerns about fair compensation and data ownership, as users might effectively be doing unpaid “consulting” work.",-6,2024-11-06 11:15:12
+32,,0,Every-Assistant7458,839,8409,None,0,Everything dies one day,21,2024-11-06 11:17:34
+33,,0,SpiritualGymRat,1829,2980,None,0,"Stackoverflow needs to capitalize on its enormous data, else these newage LLMs will replace it completely.",13,2024-11-06 11:22:36
+34,,0,MD_12,55,352,None,0,Highly probable. The number of times I’ve had to go to stack overflow are only a handful ever since the release of AI tools,6,2024-11-06 11:43:10
+35,,0,defender350,10,27,None,0,Solution:implement ai into the stackoverflow😂,4,2024-11-06 11:44:10
+36,,0,Deleted,N/A,N/A,None,0,"Admins of stackoverflow are as toxic as sasuma's of ekta kapoor's serials.
+
+whatever you ask them, they wont stop bitchslapping you. Thats why sudden downfall",7,2024-11-06 12:24:19
+37,,0,Knowdit,23,1357,None,0,The beginner's will go to gpt but experienced will stay there and may be simple questions will not be seen but only difficult questions which requires more than one expert angle. ,3,2024-11-06 13:11:43
+38,37,1,alphaBEE_1,684,8437,Backend Developer,0,"Exactly, there's always more *beginners* or *aspiring* software devs that had no choice other than SO before gpt showed up. Point being the higher you go the number of devs drop and problems are not trivial.",2,2024-11-06 18:16:51
+40,,0,Current_Dingo_8469,51,301,Backend Developer,0,Can anyone tell me exactly why it's dying? I still prefer going to SO for any issues as it provides more and diverse information as compared to something provided by AI.,2,2024-11-06 15:35:35
+41,,0,ironman_gujju,512,16453,AI Engineer - GPT Wrapper Guy,0,Better than any dumb llms,2,2024-11-06 17:21:11
+42,,0,dcode656,2588,3794,Tech Lead,0,"it won’t die, not really. however, it will no longer be used primarily for basic programming help. instead, it will have more questions on areas like AI, MLOps, and similar fields.",2,2024-11-06 11:12:28
+43,42,1,kulchacop,238,8306,None,0,We have https://discuss.huggingface.co/ for that.,2,2024-11-06 11:26:41
+44,43,2,dcode656,2588,3794,Tech Lead,0,yes. that’s right.,1,2024-11-06 12:33:32
+46,,0,IamHellgod07,219,16045,Software Engineer,0,They should sue gpt if they can,2,2024-11-06 11:12:13
+47,,0,Mindless-Pilot-Chef,18741,38312,Full-Stack Developer ,0,"Aah, I’ll tell the next gen of engineers how rude those people were",1,2024-11-06 12:10:12
+48,,0,ThiccStorms,70698,41283,None,0,it wont,1,2024-11-06 12:18:54
+49,,0,wildfoxredcat,22,436,None,0,isnt it dead already ?,1,2024-11-06 12:20:55
+50,,0,ApricotWest9107,175,5140,None,0,"I think it’s still a great place for quality questions. ChatGPT starts generating random answers for complex questions. So yeah, dumb questions will be answered by GPT and overall less traffic for SO.",1,2024-11-06 12:46:50
+51,,0,x_mad_scientist_y,5748,2476,Software Engineer,0,"Tbh, the replies and even the mods of stackoverflow were really toxic.
+
+Even posting a question is considered a privilege and not a right in stackoverflow (You might post 2 or 3 questions and if the questions posted themselves don't have any upvotes then you cannot post any more questions). 
+
+So I'm glad it's sunsetting.",1,2024-11-06 12:47:04
+52,,0,kumarmadhavnarayan,123,429,None,0,"It won’t probably, i bet chatgpt cannot give you solution to problems which are not answered on stackoverflow or some other community.",1,2024-11-06 12:53:50
+53,,0,yourrable,14322,9067,Software Engineer,0,evolve with times or get ready to be replaced,1,2024-11-06 13:04:31
+54,,0,Deleted,N/A,N/A,None,0,"Funny thing is people have been saying programmers will be replaced by AI, but the truth is AI only replaces websites like Stackoverflow, but some people might still go there to find different solutions to the same problem.",1,2024-11-06 13:08:42
+55,,0,sk2656k,1,45,None,0,"I personally left stack overflow because of a few bullies who went to each of my posts and down voted just because I said their solution was not correct and the owner of the question accepted my answer.
+With multiple posts on my account they reduced 40% of my points there. I got strikes that my answers were AI generated and on approaching the community moderators got no response back.
+
+They focus on their mod election and policy instead of making the platform better. If their mindset remains the same they deserve to die.",1,2024-11-06 13:21:08
+56,,0,Pro_tag_onist,1474,751,Mobile Developer,0,They won’t chat gpt feeds off of stack overflow.,1,2024-11-06 13:29:49
+57,,0,mOjzilla,118,9056,None,0,"Good riddance, they were incredibly hostile to their own users.",1,2024-11-06 13:39:57
+58,,0,roti_sabzi,3592,6177,Frontend Developer,0,"
+Yesterday I was facing some issues with dependencies of my project, i tried solving that issue with chatgpt for more than 2 hours , still couldn't solve ,
+Called my cousin who's senior, asked him where can I find solutions for this issue - He literally said that ""back  In our times we used stack overflow"".
+
+It's already becoming past.",1,2024-11-06 13:42:24
+59,,0,pyeri,7032,8682,Full-Stack Developer ,0,"It most likely will, especially for the most benign question seekers who bring the highest traffic to that site. You see, chatgpt and copilot don't intimidate the beginners, nor admonish them for ""not doing enough research"", ""asking out of syllabus questions"", etc. LLM guides them in a friendly tone just like a companion or preacher. In fact, attitudes of StackOverflow ""experts"" was perhaps a dominant catalyst in the invention of LLM!",1,2024-11-06 13:46:13
+60,,0,Deleted,N/A,N/A,None,0,The graph shows a clear picture. But there is something about stackoverflow that is missing on chatgpt and that is the conversations around issues that people on stack9verflow have. Those convos contain the most insight and in-depth knowledge that is just missing on LLM responses. It is just averaged out plain text to me without any feeling/tone that is present in SO answers evef if it's abuses it conveys something.,1,2024-11-06 13:50:01
+61,,0,SG461,233,313,None,0,"Few weeks back, I asked chatgpt for a fix of the problem, what it did is it sent me in wrong direction of fixing the issue.
+I wasted 2 days in solving the problem by that approach.
+Then, read some articles and I found the fix for the problem.
+
+What i can say is for now, just mix the search with both stack overflow and chatgpt. Don’t over rely on it.",1,2024-11-06 14:05:53
+62,,0,mtl_travel,53,381,None,0,I still find amazing solutions to my problems. But yes I visit Chatgpt more,1,2024-11-06 14:10:58
+63,,0,EmployeeUpset6855,1,-12,None,0,"It will not die, instead people stopping using it for small and basic problems, which LLM models can easily handle, but it's needed gpt can't solve all problems",1,2024-11-06 14:47:35
+64,,0,lordarray,21,1648,None,0," By the end of this decade, Stack Overflow will surely be history.",1,2024-11-06 14:51:49
+65,,0,TutankhamunChan,198,1217,None,0,"The AI might scrap the old/current data, but how will new original data get generated. Human input for new creative answers will be required I believe.",1,2024-11-06 15:07:44
+66,,0,confused_cat44,791,6238,None,0,"I hope it doesn't. I don't want everything to be fucking AI generated, let humans do what they do, paint,code, write literature. I don't want AI replacing real answers written by a real human",1,2024-11-06 15:16:59
+67,,0,isPresent,10,3346,None,0,"It started dying when crazy people took over editing every other answers, marking random questions as duplicates, etc for brownie points. 
+
+ChatGPT’s just speeding it up.",1,2024-11-06 15:17:31
+68,,0,Capital_Ad_2821,103,243,None,0,"Nah, they’ll integrate AI just like other companies",1,2024-11-06 15:36:30
+69,,0,0110001101110,26,668,None,0,Does anyone know about XDA developers,1,2024-11-06 15:36:56
+70,,0,codernkb,43,1420,Software Developer,0,"Go and listen to speech of Nokia CEO, and read its case study you will get your answer",1,2024-11-06 16:07:47
+71,,0,3AMgeek,158,11852,Software Engineer,0,I bang my head with chatGPT for 15-20 mins then visit Stackoverflow for the solution.,1,2024-11-06 16:11:15
+72,,0,curiousstrider,27075,13472,None,0,Yes. Literally you get production level code you can copy paste and it’s almost always correct answer in the first attempt (given how well you form the question).,1,2024-11-06 16:12:08
+73,,0,Archit-Mishra,436,5656,Student,0,"Nope. Even AI companies wouldn't want that. Or else their new models would have to be trained on the data generated by AI. And as it goes in Machine Learning - Garbage in, Garbage out",1,2024-11-06 16:26:18
+74,,0,rotterdham,34,1566,None,0,Just used ChatGPT to fix issue stackoverflow is not being useful nowadays,1,2024-11-06 16:32:09
+75,,0,Adventurous_Ad7185,371,1961,Engineering Manager,0,"The problem is, if SO dies, so will the programming part of ChatGPT.",1,2024-11-06 18:38:04
+76,,0,super_ninja_101,141,8965,None,0,"Wait till new versions of library and language comes. Currently ai is using the masive amount of data generated for current libraries. Once new lib comes, 90% of time ai will give old, outdated answers. Then we will need again dataset of new question and answers and then people will come bxck on SO.",1,2024-11-06 19:03:33
+77,,0,SierraBravoLima,58745,92707,None,0,"Chatgpt handles old tech and bootstraps and small logics. When you go deep,  you need help from pros",1,2024-11-06 19:10:50
+78,,0,Distinct-Ninja-1593,2,8,Software Developer,0,"chatgpt is FAR from being perfect, and I find answers for not just coding problems on SO, but also IDE issues, library issues, theoretical and conceptual programming answers, community input, and also solutions to common issues. I think a community forum like SO is always going to be necessary, its just that it direly needs something fresh",1,2024-11-06 19:41:21
+79,,0,SmoothCCriminal,991,2651,None,0,"Stack overflow and GitHub issues are primary places to check for non trivial things. The day everyone depends on AI for resolving things , we mean to say people stop asking niche questions and stop raising GitHub issues ? Doesn’t it mean AI can no longer keep up with new bugs and new features of gazillions libraries all of us depend on ? And if it has nothing new to scrape , it will keep giving stupid answers .. people get frustrated and then come back to stack overflow and GitHub issues and add content and cycle goes on …",1,2024-11-06 21:14:17
+80,,0,xandaio,11,868,None,0,"It will be fest for ai models, let's see who grabs!",1,2024-11-06 21:55:25
+81,,0,anoatmeal_,1,-1,None,0,Stack needs to flow their data to an AI before the site is over.,1,2024-11-07 04:09:25
+82,,0,camcamrron,62,95,None,0,"If it did, I would die",1,2024-11-07 04:24:43
+83,,0,Ryujino1920,1,0,None,0,According to me as far as it is concerned to developers until the AI models are so accurate to write a complex code or fix a bug without any error sites like stack overflow will remain on the internet.,1,2024-11-07 04:40:33
+84,,0,ApprehensiveSun6160,101,1480,Data Analyst,0,"Only source of good answers and devs connection, it'll slowly reduce but yeah hoping for its survival :(",1,2024-11-07 07:26:19
+85,,0,Ordinary-Software-61,260,141,None,0,"Honestly, it wasn't a great experience earlier either. 
+They need to change their policies and be more user friendly",1,2024-11-06 11:04:58
+86,85,1,ZnV1,15385,6769,Tech Lead,0,"On the contrary, I think it was fine...kept it high quality.",3,2024-11-06 11:13:43
+87,86,2,Ordinary-Software-61,260,141,None,0,"Sometimes yes, But a lot of the questions/answers were outdated and sometimes became irrelevant.
+Their strict policies were both a pro and a con of their website, but most experienced users' responses were just downright unfriendly to new comers, and the site promoted this",2,2024-11-06 11:48:55
+88,,0,Deleted,N/A,N/A,None,0,[deleted],-2,2024-11-06 10:40:40
+89,88,1,poha-jirawan-01,316,4820,None,0,"I was also leaning from it, I am a LLM? Is this MATRIX 😳",11,2024-11-06 10:47:14
+90,89,2,vincent-vega10,2429,22931,Software Engineer,0,Large Language Male,1,2024-11-06 11:33:08
+91,88,1,ClientGlittering4695,495,13909,Backend Developer,0,What,3,2024-11-06 10:44:25
+92,,0,Deleted,N/A,N/A,None,0,Never still i use that,-2,2024-11-06 11:19:04

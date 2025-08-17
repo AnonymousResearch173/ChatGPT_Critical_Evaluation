@@ -1,0 +1,401 @@
+Unique ID,Parent ID,Depth,Username,Post Karma,Comment Karma,Achievements (Flair),Number of Awards,Comment,Upvotes,Timestamp (UTC)
+1,,0,GozerDestructor,17065,133884,"Software Architect, 20+ YOE",0,"When I google for error messages, a StackOverflow post is often in the top results, so I'll see if that page is helpful. But I don't actively participate in the site, and haven't logged in in years. There's a lot of gatekeeping and chest thumping by the entrenched power users, just like Wikipedia and Reddit, and I'm too old for that shit.",648,2024-10-23 23:45:25
+2,1,1,cloyd-ac,1773,3762,"Mgr, Data Engineer | B2B SaaS",0,"This was my take about 8-10 years ago, but anymore, SO is just really useless for a lot of modern tech.
+
+SO's shtick has been its commitment to only having one copy of a question open and answerable, with all others that can even be conceivably related to a previously asked question being closed and marked as duplicate. This worked back in the day when we lived in a development world where stacks were pretty cookie-cutter and everything didn't have it's own API to integrate with everything else. A modern tech stack is much more intermingled though, and because of this you often have newer questions that are completely unrelated stacks or completely different major versions of software being ""Closed as Duplicate"" when in reality they are two completely different scenarios/questions.
+
+Your options are either to look through 15 years of unordered comments that resemble ""In version 8.3.1, on this platform, this doesn't work and you need to do blah blah blah"" or just search somewhere else - often times, my searches and their answers take me somewhere else - generally to some random blog article that gets me halfway there - or simply back to the official documentation.",211,2024-10-24 01:03:27
+3,2,2,-Nocx-,632,11024,Technical Officer 😁,0,"Possible Duplicate
+
+
+
+Your answer sounds similar to ""having to look up any Node or Angular question in the last 14 years""
+
+  
+/s",123,2024-10-24 01:52:46
+4,3,3,csingleton1993,53,3432,None,0,"When people are responsive, SO is so great for quickly helping you figure out what your issue is and explaining what the problem was
+
+But often times there are people who nitpick over little details and contribute nothing, your thread gets closed because a keyword is shared with this other thread from 8 years ago, people who ask questions and never respond, or just flat out have nobody respond to the thread
+
+It sucks because SO used to be so good, now it is my last resource to use as a Hail Mary, and I never expect anything from it",14,2024-10-24 09:57:17
+5,4,4,TumanFig,1,4897,None,0,i still use it but it should be cleaned regularly. so if you google up some 10 year old post without any sunstancewe should be able to flag it for deletion,5,2024-10-24 10:55:46
+6,2,2,Slow-Entertainment20,1,1835,None,0,Am I the only one that finds official documentation often times out of date and completely worthless? Too many times have I been venturing through azure docs and found it multiple versions out of date.,44,2024-10-24 02:59:33
+7,6,3,cloyd-ac,1773,3762,"Mgr, Data Engineer | B2B SaaS",0,"Microsoft's documentation used to be the gold standard. The MSDN of the late 00s and early 10s were a dev paradise.
+
+However, they ""integrated"" MSDN/docs into Microsoft Learn and open-sourced the documentation to the community. The documentation has been going downhill since then. I'm just making assumptions here, but it really seems like that they cut a lot of resources that kept up with the written documentation. Moreover, when they integrated the MSDN docs into Microsoft Learn, they threw away a lot of older pristine documentation that's simply no longer available, at all.
+
+Azure docs are notorious for being vague, completely absent of features and examples, and generally reliant on you just having to fumble through things to even see if its possible.",48,2024-10-24 03:14:20
+9,7,4,flagbearer223,3597,53035,None,0,"> Azure docs are notorious for being vague, completely absent of features and examples
+
+It's insane. The AKS CSI docs don't even explain how the storage backing is created. Turns out it'll create a storage account if one doesn't exist in the resource group, or just reuse an existing one if it does exist. Ask me how I accidentally deleted a bunch of PVCs while trying to clean up what I thought was a deprecated storage account from our previous implementation 😎",4,2024-10-24 09:40:40
+10,7,4,MargretTatchersParty,8307,64553,None,0,"\> The documentation has been going downhill since then.
+
+  
+BUT THEY HAVE A CoMmUnInity with a code of conduct and everything. (sigh)",10,2024-10-24 04:43:51
+11,2,2,nullpotato,4603,80247,None,0,I sure do love finding solutions that only work in python 2 and the newer questions got closed because asking how to do this in 2020+ is a duplicate,5,2024-10-24 19:11:52
+12,2,2,Adept_Carpet,86,98353,None,0,"I found that 5 or so years ago it felt like they really loosened the reins on the duplicate thing and stopped talking so much about making a database of knowledge and drifted a little bit back to Q&A.
+
+
+That might be because I got out of the most popular stuff (JS/PHP/etc) and into more specialized stacks.
+
+
+Maybe if you want to ask how to make a specific styling with the latest version of React and Tailwind they will point you to a question from 2009 with Dojo and the 960 CSS Framework.",1,2024-10-24 13:47:06
+13,1,1,Rai_guy,15988,20800,None,0,"This. SO actually helped get me out of a rabbit hole the other day. But yeah I have no need to post. I've actually found that if I'm asking something that's never been asked before, that's a hint I'm trying to do something wrong/ stupid and should probably rethink my approach lol",93,2024-10-24 00:19:28
+14,13,2,william_fontaine,42576,259102,None,0,"Posting was much more useful 10-15 years ago.  There was less moderation, less people looking for copy-paste answers for school or work, and it seemed like more varied questions.
+
+I was pretty active answering questions for people for a couple years, and I found that it both helped me understand things better and get better at explaining things to other developers.
+
+I googled for something a few years ago and found the answer on StackOverflow...  and it turns out I posted the answer to my question back in 2009.",65,2024-10-24 02:05:43
+15,14,3,DigmonsDrill,458,27414,None,0,How long did it take for you to read along before you realized it was you?,20,2024-10-24 02:44:02
+16,15,4,william_fontaine,42576,259102,None,0,"Like the entire answer LOL.  I don't remember posting it at all, and then when I saw my name I did a triple take.",33,2024-10-24 02:48:13
+17,16,5,xland44,87705,63179,None,0,that's hilarious,8,2024-10-24 04:45:52
+18,17,6,DigmonsDrill,458,27414,None,0,"I asked because it's quite common, and it's happened to me. At first glance I think my name is there just because I'm logged in, then I realize it's part of the conversation like I got replied to, and then I look again and see I'm the poster...",3,2024-10-24 12:32:47
+19,14,3,poolpog,8725,46061,Devops/SRE >16 yoe,0,Lol I've had this happen to me,8,2024-10-24 03:44:33
+20,1,1,azsqueeze,602,62216,None,0,">There's a lot of gatekeeping and chest thumping by the entrenched power users, just like Wikipedia and Reddit, and I'm too old for that shit.
+
+Omg I worked with someone who was proud of their SO badges and involvement and brought it up all the time. Just weird",13,2024-10-24 01:30:30
+21,1,1,athletes17,85,3999,None,0,AI has largely replaced SO for many devs now. It’s faster and avoids the chest-thumpers completely.,37,2024-10-24 00:45:03
+22,21,2,holsteiners,164,1916,None,0,Any fav AI?,0,2024-10-24 00:51:45
+23,22,3,Winter_Essay3971,17590,26532,None,0,"I just explain my problem to ChatGPT. This doubles as a form of rubber-ducking, since half the time I'll just realize what the issue is in the process of explaining it.",42,2024-10-24 01:17:35
+24,22,3,athletes17,85,3999,None,0,"AI embedded in the IDE is context aware and seamless to use, like GIT Copilot, however their language models are not as advanced as the latest Chat GPT paid service offers, which is my go-to.",7,2024-10-24 01:10:13
+25,24,4,ValuableCockroach993,39,3342,None,0,"Copilot has been terrible. Made way too many mistakes with subtle variable names that I just disabled it entirely, because I spent 50% of testing cycle fixing the mistakes done by copilot. These qre quite subtle so u don't notice it strqight away, unless ur writing the variable namws urself. ",9,2024-10-24 02:23:53
+26,25,5,athletes17,85,3999,None,0,"I feel like it became better with GPT-4o, however nothing is close to ChatGPT 4.1 IMHO.",-5,2024-10-24 02:27:51
+27,24,4,budd222,2777,110543,None,0,I find Claude to be better than chat gpt for code-related questions.,2,2024-10-24 01:36:30
+28,27,5,gerald_mcgarry,926,1325,None,0,"Yep, Claude is quite good. Helped me rewrite some complex Apex yesterday and got it right with it's first attempt.",2,2024-10-24 06:07:17
+29,22,3,EstanislaoStan,476,808,None,0,[continue.dev](https://continue.dev) with whatever you like.,1,2024-10-25 17:28:08
+30,22,3,AlmightyThumbs,192,4036,CTO,0,"Cursor, though you have to like/use VS Code, as it’s built on a fork. IIRC it uses multiple models under the hood in different ways, though I think it may be configurable. Dunno. Haven’t bothered to look yet.
+
+I was a GH Copilot user for about a year and was relatively impressed with how often it made functionally correct suggestions (not always the most elegant in many situations). 
+
+Now, Cursor blows my mind. It learns conventions I’m using and incorporates that into its code suggestions. It knows the project I’m in and will almost always auto suggest the correct imports. It’s constantly prompting me with suggestions, the majority of which are either correct or at least relevant but may need tweaking. It even knows when refactoring many similar lines of code and will auto suggest the rest. 
+
+While Copilot was probably a 25-50% productivity boost for me, Cursor is easily twice that, if not more at times.",-2,2024-10-24 02:52:59
+31,30,4,tparadisi,2475,8247,None,0,Does not work with codespaces. Deal breaker for me.,0,2024-10-24 07:03:06
+32,22,3,Riotdiet,1201,7173,None,0,"I’ve been using ChatGPT personally for a while but can’t get it on my work machine. I am able to access Claude though and it’s become my favorite. My rate of productivity and understanding has skyrocketed in the last few months. I was a senior engineer and my staff engineer quit and I’ve been doing both roles. It was stressful for a couple weeks but now I’ve got the hang of it. They even went ahead and promoted me to staff and given me a bonus for holding it down.
+
+If you are going to downvote me then at least engage you cowards! Why would what I said even warrant a downvote?",-2,2024-10-24 03:58:33
+33,1,1,MishkaZ,43,17705,None,0,"Agreed. I sometimes go on it if I see my problem show up. But the problems tend to be more like ""whats the cost of x"" or ""performance of y"" type of questions.",1,2024-10-24 02:39:05
+34,,0,David_AnkiDroid,5684,30002,None,0,"It was dying due to internal politics well before LLMs entered the scene.
+
+Views: Less than once a day  
+Contributions: Less than once a month",142,2024-10-23 23:42:31
+35,34,1,FantasySymphony,5,35012,None,0,This. SO is just the typical cut-and-paste enshitification story that inevitably hits every great tech company eventually. Now it is thoroughly enshitified and not really worth using.,35,2024-10-24 00:42:03
+36,35,2,breischl,22,16517,None,0,">SO is just the typical cut-and-paste enshitification story that inevitably hits every great tech company eventually.
+
+Eh, I think their problem was that the actual business model was always tough. It basically was ads. The job board sorta worked, but didn't seem like it ever really took off. 
+
+I tend to think of enshittification as a company that has a successful business model, but decides to make the product suck so they can extract a bit more from it.",30,2024-10-24 03:48:27
+37,36,3,FantasySymphony,5,35012,None,0,"I didn't follow closely enough to know exactly what their finances were like or what year they started going to shit, but I count getting bought out and going into a tailspin shortly after as fitting the definition.
+
+In fact I'd say the pattern of running at a VC-funded loss to focus on growth, then suddenly shifting focus to profits sometime later is a big part of why the phenomenon is so universal.",11,2024-10-24 04:40:33
+38,35,2,ScientificBeastMode,3899,60214,Principal SWE - 8 yrs exp,0,Why does every major tech company become such a pile of shit over time? Even a lot of the tech startups I’ve worked for have eventually found away to crash and burn after alienating every decent employee who worked there.,6,2024-10-24 03:59:34
+39,38,3,bokmcdok,122,28304,None,0,"Because Capitalism doesn't just demand profit, it demands more profit year on year which doesn't fit with what tech can do. Steam has avoided this problem by not floating on the stock exchange.",27,2024-10-24 05:25:33
+40,39,4,JohnnyVaults,3251,24306,None,0,Yep. Gotta make that line go up.,1,2024-10-24 12:12:59
+41,39,4,ScientificBeastMode,3899,60214,Principal SWE - 8 yrs exp,0,"Well, that’s true to an extent, but if you adjust the S&P to account for M2 money supply (as opposed to CPI) it’s basically flat. It’s not like these companies are actually becoming wildly more profitable in aggregate. They are at best edging out their competition.",-1,2024-10-24 06:08:46
+42,41,5,emelrad12,5213,54586,None,0,"nose placid pause square air physical wipe treatment plucky wild
+
+ *This post was mass deleted and anonymized with [Redact](https://redact.dev/home)*",2,2024-10-24 10:20:48
+43,38,3,Perfect-Campaign9551,2325,5490,None,0,A lot of times the original creators who had the vision and cared about the thing cash out and leave. The people left over don't have that vision anymore and just milk the money out as much as possible ,1,2024-10-27 15:34:36
+44,38,3,Deleted,N/A,N/A,None,0,"... because the top-notch founding team gets bored after say 4 or 5 years and goes off to do something new.
+
+The 2nd echelon staff are often shite.",1,2024-10-28 11:17:46
+45,38,3,Jaded-Asparagus-2260,3069,13521,None,0,Because bills need to be paid. A free service won't do that.,-2,2024-10-24 04:40:39
+46,45,4,ScientificBeastMode,3899,60214,Principal SWE - 8 yrs exp,0,"I mean it’s not like most of those companies weren’t paying the bills. You can gut a company to cut costs for a while to cut that P/E ratio and send the stock higher, but if that decision makes your product suck, you better hope to god that you achieve monopoly status before your company is toast.",5,2024-10-24 04:44:55
+47,46,5,Jaded-Asparagus-2260,3069,13521,None,0,"> I mean it’s not like most of those companies weren’t paying the bills.
+
+Yeah, with borrowed money. investors will expect a return on their capital -- that’s how the system works. If it wasn't like that, almost every service would become a paid service, and likely an expensive one. Would that really be an improvement?",3,2024-10-24 05:58:40
+48,47,6,ScientificBeastMode,3899,60214,Principal SWE - 8 yrs exp,0,"I’m fine with having to pay for things that I want. I’m talking about making the product worse and less usable. Nothing about profitability requires that. It’s purely an artifact of alienating sane and competent employees, usually for a short-sighted purpose.",2,2024-10-24 06:04:09
+49,45,4,DamnableNook,7600,20416,None,0,"Yeah, it’s really a problem of predatory pricing. Use VC money to bankroll something being sold at an artificially low price/free, until you’ve cornered the market and pushed out all competitors. Then, once the VC money has dried up and you’ve captured majority market share, change the deal to match your actual costs.",5,2024-10-24 05:31:06
+50,35,2,Evinceo,2961,247530,None,0,I would actually call it's failure mode a little more like a social media site or forum that went to shit because its users got crabby and started to repel new contributors.,1,2024-10-24 16:55:26
+51,,0,Evinceo,2961,247530,None,0,"Stack Overflow the body of knowledge is a jewel. Stack Overflow the community actively works to prevent accumulating additional knowledge, because I suppose they think it's already done.",44,2024-10-24 00:43:47
+52,51,1,nullpotato,4603,80247,None,0,"I treat it like Encyclopedia Britannica back in the day, a valuable read only source of potentially out of date information",8,2024-10-24 19:16:03
+53,,0,xaervagon,105,66147,None,0,"I tried to become a contributor but some mod decided I pissed in his cornflakes and ran me off.  All the gatekeeping just to get started was ridiculous.  Just to even earn the right to comment, SO wanted me to spend 3 months doing kid's homework just to earn the points.  I decided this hill wasn't worth the climb.  If SO shows up in a web search and has my answer, so be it.",36,2024-10-24 00:50:14
+54,,0,Equivalent-Score-900,35,289,None,0,"It is definitely not my first tool in my belt like it was previously. I am not sure what happened, dead internet theory, wide breadth of technologies in the industry, GitHub wider adoption, personal knowledge growth or what. I find myself RTFM more now than 10 years ago.",86,2024-10-23 23:40:31
+55,54,1,B-Con,17750,37827,Software Engineer,0,"Agreed. RTFM is simply better now.
+
+Compared to 2010, documentation is better and a lot of popular software has 10x the adoption rate which forces them to polish the corners of the tech better. Also more projects are developed or sponsored by big tech or sell to enterprise, which brings a level of additional polish. Oh and things like GitHub make filling and tracking bugs way better.
+
+In 2010, half the shit you used was semi-unmaintained, and thankfully that's no longer true.",41,2024-10-23 23:45:07
+56,55,2,RelevantJackWhite,6756,391177,None,0,It's worth saying again. The documentation is so much better and easier to find. Debuggers are better. Languages give better hints at what's going wrong. Better infrastructure means you can often roll back a broken thing and figure out what's going wrong instead of frantically googling as often. The field growing as a whole has had outsized impact in these places IMO,12,2024-10-24 02:19:28
+57,54,1,b1e,1954,94884,"Engineering Leadership @ FAANG+, 20+ YOE",0,If it’s not available via RTFM GitHub issues are usually a far more useful source anyways,12,2024-10-24 04:03:36
+58,57,2,tripsafe,42943,234519,None,0,Nowadays a lot of the issues I need to look up are due to some dependency not working as expected and thankfully there’s almost always a GitHub issue directly about it or close enough that it helps fix it.,3,2024-10-24 07:06:54
+59,57,2,ConsequenceFunny1550,34,1448,None,0,Yup. If there really is an edge case then I find a lot better use of my time is the issues page,2,2024-10-24 21:27:51
+60,,0,SpiderHack,5227,40186,None,0,"I use SO for finding answers. I'm still in the top 20% of users by taking 100 days in a row and visiting it every day (like 10 years ago) and answering every question I could about Android and java.
+
+Occasionally I'll look through to see if anything unanswered sparks my interest, but its all too hyper specific that I can't give general advice anymore or feel like diving into a specific library to help them figure it out... Like I used to do with basic concurrency problems. Etc.",18,2024-10-24 00:28:51
+61,,0,Deleted,N/A,N/A,None,0,[deleted],114,2024-10-23 23:39:35
+62,61,1,TheRealJamesHoffa,3101,44731,None,0,ChatGPT actually answers you 90% of the time and you don’t have to deal with some snarky asshole for misunderstanding something.,60,2024-10-24 00:37:15
+63,62,2,cholantesh,529,50563,None,0,"From a perusal of my chat history, the shoe is on the other foot now.",27,2024-10-24 01:36:37
+64,63,3,AdolfBonaparte69,49,1462,None,0,😂😂😂😂,3,2024-10-24 04:30:40
+65,62,2,rabbit_core,1,933,None,0,"fr, I'll take an AI that hallucinates part of the time vs. a human that's a jerk to you pretty much all the time",10,2024-10-24 05:45:40
+66,61,1,Juvenall,1322,20617,Engineering Manager,0,"Here's a custom prompt you can use to get that genuine SO feel back:
+
+> I would like you to act as a software engineer with 3 years of experience, but who feels like that's the same as 20. You are highly judgemental of people who program in languages other than the older version of the niche one you used for a project back in high school. When encountering a question using any single word found in any documentation, previous post, or printed zine, you dismiss the question outright and strongly believe the person asking the question isn't capable of spelling HTML, let alone recursively search an array. From that point on, you drop vague hints that they should consider a different career, close any of their questions as a duplicate, and reference this post as an example of why you're clearly the better engineer.""",15,2024-10-24 05:01:49
+67,66,2,pehrray,468,5349,None,0,"**Ow...
+**
+===
+Oh, wow. Where do I even begin with this disaster? This code is like a middle-school group project where no one communicated, yet somehow everyone decided to turn in their homework anyway. First off, import order. Is it random, or did you just throw darts at a list of imports? You're importing half of the world here, but it seems like you've never even heard of isort or flake8. And what’s with all the redundant imports? Are we really using randbytes here? Oh wait, we’re not. Just a random import for your collection, I suppose?
+
+Let’s talk about logging. You’re logging every single step like you're narrating a documentary about how basic functions work. Nobody cares that you ""started hashing a password."" What are you doing, applying for a security clearance? Here’s a hint: a clean log should provide value, not read like a day-by-day diary of a bored developer.
+
+The password change validation? Chef’s kiss. What if the passwordConfirm mismatches? You just serve up the same pointless log statement that we all saw coming. It’s like you've never heard of a proper response structure. ""Oh no, passwords don’t match!"" Welcome to the world of lazy validation.
+
+Speaking of lazy, could you please, please stop with this Frankenstein’s monster of mixed responsibilities in your endpoints? You’re registering a user, hashing passwords, checking verification, setting cookies, and logging in—all in one blob of code. Who needs clean, modular services when you can throw everything into a 200-line method, right?
+
+Also, SQLAlchemy queries littered with .filter() and .first() like you just discovered database queries yesterday. No, you don’t need a separate .filter() for every check, but clearly, optimization is a foreign concept to you.
+
+And here comes my favorite part: email verification with hashing! A grand attempt at security—by someone who once read the title of an article on cryptography. Your implementation is about as trustworthy as a kid pretending to be a security guard. Are you even sure this code works in production? Actually, forget that question. We both know the answer.
+
+To conclude: Do you even know what a code review is?",10,2024-10-24 07:34:53
+68,61,1,Adverpol,317,20683,None,0,"That's surprising to me, I get so much nonesense from chatgpt and friends, not only hallucinating but more insidiously simply bad approaches to tackling problems. Perhaps it depends on the stack or the kind of problems.",3,2024-10-24 07:09:47
+69,61,1,ryhaltswhiskey,121442,537315,None,0,Can you use that to troubleshoot a  database connection? Seems outside of its ability,11,2024-10-23 23:45:17
+70,69,2,sudosussudio,56188,126807,None,0,I used it for that yesterday... the problem is it's likely trained on SO among other sources and what happens in the future when DB stuff changes and there is nothing to train on,42,2024-10-23 23:53:39
+71,70,3,Deleted,N/A,N/A,None,0,i have this issue frequently with Laraval 11 specific changes. If I remind it that Laravel 11 changes a lot of config/startup settings it will browse the internet and correct itself,8,2024-10-24 01:10:48
+72,71,4,gringo_escobar,10,27632,None,0,ChatGPT can actually pull in live data from the internet now? It always told me it couldn't do that,4,2024-10-24 01:14:54
+73,72,5,Tinister,1781,5292,None,0,"You need to be on the paid model, which they give you on the free accounts for a handful of prompts per day.",4,2024-10-24 01:51:44
+74,72,5,noobcs50,8876,15769,None,0,"Yeah it’ll say “searching the web…” or something and then link its sources. Instead of making up false documentation for some random library, it’ll just redirect me to the library’s docs now.",2,2024-10-24 01:40:49
+75,69,2,LaurentZw,1,400,None,0,"It can do that. If not chatGPT, then [claude.ai](http://claude.ai)",10,2024-10-23 23:49:23
+76,75,3,ryhaltswhiskey,121442,537315,None,0,Well I'm skeptical but I'll give it a shot,4,2024-10-23 23:50:40
+77,76,4,_Foxtrot_,275,9693,None,0,It’s a great research tool so long as YOU don’t turn off your brain and just blindly accept what it says as truth. I also like perplexity’s search functionality. They’re my new google.,9,2024-10-24 00:11:39
+78,76,4,p_tk_d,8272,17867,None,0,"Imo ai tools are not good at anything yet that is hyper specific, they’re great at things with tons of examples though (scripting, syntax, etc). I have had zero success with fixing any configuration issues tho",8,2024-10-24 00:12:31
+79,76,4,hau5keeping,55059,30967,None,0,"Do you use VSCode? If so, check out [https://cursor.com/](https://cursor.com/) . Its a fork of VSCode that integrates beautifully with Claude (and other models). Haven't used stackoverflow since chatGPT came out",-3,2024-10-23 23:52:57
+80,79,5,ryhaltswhiskey,121442,537315,None,0,I think it's completely silly that this was downvoted four times,3,2024-10-24 05:22:52
+81,75,3,ryhaltswhiskey,121442,537315,None,0,"Well, it's definitely a helpful tool. But so far it hasn't solved my problem after 20 minutes of messing with it. It definitely speeds up the process of rtfm.
+
+But in that time my stackoverflow question is still sitting at -1 with no helpful comments or answers.
+
+Unfortunately, on claude AI I hit my limit of free messages. Chat GPT is apparently blocked by the company.",2,2024-10-24 00:39:58
+82,69,2,money4gold,766,1618,None,0,whats your question on stack overflow? we can try :p,1,2024-10-24 00:10:09
+83,82,3,ryhaltswhiskey,121442,537315,None,0,"Unfortunately, my stackoverflow username contains my real name. I wish I had posted this on my more public Reddit username, now that I think about it.",2,2024-10-24 00:17:27
+84,69,2,Deleted,N/A,N/A,None,0,[deleted],0,2024-10-23 23:57:35
+85,84,3,reboog711,112,55442,Software Engineer (23 years and counting),0,How do you know?,3,2024-10-24 00:03:12
+86,85,4,shokolokobangoshey,9102,119879,Senior EM 18 YoE,0,Insider,1,2024-10-24 01:11:48
+87,85,4,Sunstorm84,319,46266,None,0,Trust me bro.,1,2024-10-24 00:07:25
+88,61,1,PotentialCopy56,483,16614,None,0,😂 I forgot that dumpster fire even existed. Sooo much easier now,1,2024-10-24 00:00:19
+89,61,1,alleycatbiker,23863,47249,Software Engineer,0,"Same here. 90%of the time it gives me the info I need, straight to the point and customized for my specific question. The 1/10 times it doesn't or the solution doesn't work, I go straight to the documentation.",1,2024-10-24 02:07:40
+90,,0,FamilyForce5ever,997,1081,None,0,"I have 10k rep on SO, from >200 answers.
+
+When I was a junior dev, the difficulty I had in posting SO questions that weren't downvoted was a trial by fire, and definitely helped my research skills (to prove my question wasn't a duplicate) and my technical writing, often functioned as my rubber duck debugging, and forced me to think of a minimal, complete and verifiable example to narrow down the scope of the problem.
+
+As a mid-level with lots of time on my hands (defense contractor), I found answering questions helpful to grow my experience debugging and problem-solving.
+
+As a senior, I rarely have the time to answer questions. I've only asked 2 question since 2020 and neither were answered. As other comments say, I mostly get to choose the tech I use, and one pre-req is good docs. 
+
+I agree that ChatGPT was a death knell, but there were significant issues before:
+
+* The company doesn't respect power users / volunteer mods
+* The overwhelming majority of new questions are of low quality asked by very junior devs, biasing how mods and power users interact with questions
+* The goal of a single canonical question and answer for every issue (closing everything else as a duplicate with a link to the original question) has failed to handle framework and language upgrades.",11,2024-10-24 04:25:36
+91,90,1,Interweb_Stranger,2875,13855,None,0,"I see it pretty much the same way. 
+
+I had a much more pleasant experience as a junior though. I almost never posted any real questions. Whenever I tried to write one, I researched a lot to make it a high quality question. By doing this, the rubber duck gave me an answer. So I usually posted those as self-answered questions that were very well received. I also answered a lot on topics that interested me, seeing it as a challenge . That really learned a lot this way. I think I posted my first real question after 50+ answers. 
+
+Now as a senior I passively rake rep from years of answering, nearing 30k now. I rarely contribute anymore at all because the overall question quality has gone really bad. I only answer in some niche topics sometimes that don't get much attention.",2,2024-10-24 09:58:31
+92,,0,rish_p,97,1658,None,0,"mostly forgot about it, in off-chance I land on it when searching for something its always some outdated answer and I have to check if the api is still the same which seems to align with not accepting new updated questions that might get up to date new answers
+
+chatgpt basically replaced google search for me as I can actually explain the problem in detail and answers are relevant to my explanation
+
+this plus a little look at actual code on github and reading documentation when needed solves most of my problems.",25,2024-10-23 23:47:05
+93,,0,Neverland__,2275,33817,None,0,Chatgpt has 95% replaced stack overflow for me,43,2024-10-23 23:50:14
+94,,0,OverEggplant3405,187,655,None,0,"It has always been run by gatekeeping trolls.
+
+Over a decade ago, I got awarded +50 points for posting a well-researched question that invited some good discussion and troubleshooting.
+
+Five years later, some mod decided it wasn't actually that good and took away my 50 points, lol.
+
+Such a small-minded thing to do.",6,2024-10-24 16:18:41
+95,,0,eyes-are-fading-blue,40,21086,None,0,I still prefer stack overflow over chatgpt and use it almost daily.,5,2024-10-24 08:07:16
+96,,0,Deleted,N/A,N/A,None,0,[deleted],9,2024-10-24 01:10:39
+97,96,1,Interweb_Stranger,2875,13855,None,0,">And ChatGPT NEVER tells me i'm asking a duplicate question.
+ 
+Well, ChatGPT often links to SO questions. So technically it tells you when it has been asked before. It just doesn't complain about it.",1,2024-10-24 10:11:02
+99,,0,JaneGoodallVS,9357,79186,Software Engineer,0,"The harder a question is to research, the more likely they'll point you to an irrelevant answer and say you should've found it yourself",7,2024-10-23 23:57:03
+100,,0,reboog711,112,55442,Software Engineer (23 years and counting),0,Your complaints sound like common complaints since the site opened.,8,2024-10-24 00:02:20
+101,100,1,ryhaltswhiskey,121442,537315,None,0,"Nah, I've been on SO for well over 10 years. It's much worse now.",6,2024-10-24 00:19:27
+102,101,2,BatmansMom,2400,17601,None,0,"Nope you're wrong. It's the same.
+  
+\* Post marked as duplicate \*",19,2024-10-24 02:10:32
+103,102,3,ryhaltswhiskey,121442,537315,None,0,Lol,4,2024-10-24 05:20:16
+104,102,3,ryhaltswhiskey,121442,537315,None,0,"And that's what happened to my post on stackoverflow, it got marked as a duplicate and closed. Never mind that the question that was the duplicate was several years old, had a different set up and was using a different version of the database.",1,2024-10-24 15:49:55
+105,101,2,reboog711,112,55442,Software Engineer (23 years and counting),0,"15 years and I don't see it.  I'm also less active, so...",-4,2024-10-24 00:31:59
+107,,0,Deleted,N/A,N/A,None,0,[Removed],13,2024-10-23 23:52:23
+108,107,1,reboog711,112,55442,Software Engineer (23 years and counting),0,"What knowledge Gatekeeping are you referring to?    
+  
+All questions / answers are [automatically available under a creative commons license](https://stackoverflow.com/help/licensing).  So, nothing prevents that stuff from being used for other purposes.",-12,2024-10-24 00:05:57
+109,108,2,Deleted,N/A,N/A,None,0,[Removed],12,2024-10-24 00:13:05
+110,109,3,reboog711,112,55442,Software Engineer (23 years and counting),0,"If I understand, you're saying the users of stack overflow are gatekeeping knowledge?  I don't understand how.",-10,2024-10-24 00:19:05
+111,110,4,Deleted,N/A,N/A,None,0,[Removed],11,2024-10-24 00:21:41
+112,111,5,reboog711,112,55442,Software Engineer (23 years and counting),0,"I didn't know you could downvote users.
+
+I have seen nitpicking.  And questions closed. Not usually for bad reasons, but sometimes.  None of this is new in my version of the world.",0,2024-10-24 00:26:11
+113,112,6,Deleted,N/A,N/A,None,0,[Removed],6,2024-10-24 00:28:34
+114,113,7,reboog711,112,55442,Software Engineer (23 years and counting),0,That is about downvoting questions and answers; not about downvoting users.,1,2024-10-24 02:18:58
+115,114,8,Deleted,N/A,N/A,None,0,[Removed],4,2024-10-24 02:50:45
+116,115,9,reboog711,112,55442,Software Engineer (23 years and counting),0,"To quote your earlier post:
+
+> watched users get downvoted
+
+It was not clear that you meant to me.",-1,2024-10-24 02:55:08
+117,116,10,Deleted,N/A,N/A,None,0,[Removed],1,2024-10-24 03:00:04
+118,117,11,reboog711,112,55442,Software Engineer (23 years and counting),0,"user for 15 years, 39K Karma on StackOverflow.  
+
+You have a very different interpertation of how the site works than I do.",-1,2024-10-24 13:28:22
+119,118,12,PMmeYourFlipFlops,3545,16381,None,0,Yeah people like you are the reason I never stayed there. AI is a godsend.,1,2024-10-24 14:28:38
+120,118,12,Deleted,N/A,N/A,None,0,[Removed],0,2024-10-24 14:33:59
+121,108,2,money4gold,766,1618,None,0,wonder what would happen now.. cause gpt needs to train on new answer to be kept up to date with issues.. however SO is dead cause no one is visiting it.. so where do we get new questions/answers for new tech from?,2,2024-10-24 00:11:18
+122,121,3,Deleted,N/A,N/A,None,0,[Removed],3,2024-10-24 00:13:53
+123,121,3,PMmeYourFlipFlops,3545,16381,None,0,"> so where do we get new questions/answers for new tech from?
+
+Your question was reported+deleted because it's stupid and a duplicate from an unanswered post from 1996. Refer to this \*unrelated shit* for more info.",1,2024-10-24 14:31:34
+124,,0,rawrgulmuffins,4611,10790,Senior Software Engineer,0,"I've had mod powers on SO for a while at this point and I rarely use SO in my day to day anymore. 
+
+
+Generally when I am asking a question I'm also the one providing the answers. A small number of users will eventually find the answers useful.",2,2024-10-24 01:17:44
+125,,0,dashingThroughSnow12,1590,145215,None,0,"I find it doesn’t come up in search results as much.
+
+It used to always be the first result. A few years ago the sites that would scrap SO and post the same content with ads and a different style regularly took over the top spots because they had better SEO. Then whatever Google did to kill those garbage sites didn’t seem to restore SO to the top of the results.
+
+I don’t view them much anymore as a result.
+
+I used to somewhat regularly comment on SE sites. Not anymore.",2,2024-10-24 01:41:10
+126,,0,Online_Simpleton,1,732,None,0,"StackOverflow has just been a read-only resource for me for the last 10 years. The power users who were either early adopters or gamed the system for reputation points are some of the most obnoxious gatekeepers the Internet has ever produced, and that’s saying something. I personally noticed this change around 2012/13, when the ethos changed from helpfulness to contempt for users (seemingly for its own sake). That said, I’m glad it exists and that the moderators are pushing back against allowing AI-generated answers of any kind",2,2024-10-24 03:17:10
+127,,0,captainbarbell,6536,23749,None,0,if chatgpt is spitting suspicious answers i validate it in SO,2,2024-10-24 10:51:11
+128,,0,fissidens,380,23377,None,0,"I don't bother posting on SO anymore, largely for the reasons you mentioned but also I discovered that you can't delete your own posts. So if mods or power users are aggressively messing with my post I can't just delete it and walk away.
+
+I still use it as a reference though, and I wouldn't call it garbage.",2,2024-10-24 14:45:38
+129,,0,jaytonbye,245,2347,None,0,I don't user it any longer. Ai gets the job done.,2,2024-10-25 03:37:51
+130,,0,engineered_academic,1824,114306,None,0,"Unfortunately overzealous moderation and the prevalence of people who think LLMs are God's gift to humanity along with the enshittification of Google means that SO is like probably the third place I look now, once I scroll through a ton of irrelevant medium posts. It sucks and once the dead internet theory kicks in LLMs will be even worse off by parroting outdated information.",4,2024-10-24 00:10:41
+131,130,1,AdmiralAdama99,2853,11822,None,0,Where are the first and second places you look?,1,2024-10-24 01:26:29
+132,131,2,engineered_academic,1824,114306,None,0,"Internal app documentation, and then framework/language docs.",2,2024-10-24 02:42:26
+133,,0,ThePillsburyPlougher,750,111912,Lead Software Engineer,0,I usually only use it when dealing with system/linux issues or things related to scripting languages which I don’t have much experience with.,1,2024-10-24 00:24:15
+134,,0,Few-Insurance-6653,272,2857,None,0,I haven’t touched stackoverflow in many years; once people started gatekeeping it I checked out,1,2024-10-24 00:42:36
+135,,0,ShroomSensei,4000,33368,Software Engineer 3 yrs Exp - Java/Kubernetes/Kafka/Mongo,0,Very low since I am pretty comfortable in our tech stack at this point. Most questions I need an answer to are really niche configuration issues or are internal company stuff. Last online forum that truly helped me was a 4 year old GitHub issue. What helped me wasn’t even the issue just a random commenters feedback.,1,2024-10-24 00:44:47
+136,,0,PoopsCodeAllTheTime,409,2558,Pocketbase & SQLite & LiteFS,0,"I don't recall the last time I posted a question.
+
+Often times, in niche situations, I will find my issue in someone else's question. Maybe the answer is there and I up vote it, sometimes I contribute my own answer because I found a better scenario. Posting my own answers is rare, happens a few times per year.",1,2024-10-24 01:30:21
+137,,0,Deleted,N/A,N/A,None,0,"sometimes perplexity shows a stack overflow link as a reference, that's about it",1,2024-10-24 01:48:58
+138,,0,bwainfweeze,1869,82308,"30 YOE, Software Engineer",0,"I haven't stopped using stackoverflow on purpose. It just doesn't show up on my internet searches for tech problems as much or as highly ranked as it used to.
+
+I only just feel strongly about stackoverflow enough to fight it a little bit, and to comment on threads about SO.",1,2024-10-24 02:15:46
+139,,0,akmagicman,278,997,None,0,"Not as much as my interaction once was. I use perplexity fairly often to get quick results for documentation, etc. I will occasionally end up on stack overflow if I drill into a perplexity result that got aggregated from a stack overflow post.",1,2024-10-24 02:34:10
+140,,0,TheBigKingy,5707,9873,None,0,another tool in the toolbox,1,2024-10-24 03:05:20
+141,,0,StriderKeni,4174,11170,Software Engineer,0,"I've been using less nowadays. 
+
+I've been working with a particular framework in the last couple of months, and I noticed GitHub discussions are a good resource. It highly depends on whether the community is active enough.",1,2024-10-24 03:11:23
+142,,0,jdlyga,9801,92299,Senior / Staff Engineer (C++ / Python),0,"I still use it a lot, but the quality of answers isn't that great. Usually there's an accepted answer that's 10 years out of date, or there's 3 different heavily upvoted ""the accepted answer is wrong"" or ""the other most upvoted answer is out of date"".",1,2024-10-24 03:12:32
+143,,0,zero-dog,21,239,None,0,Yeah got into some weird nitpicking disputes with moderators with some answers I have given and now don’t bother answering questions anymore. Quality has for sure diminished for any tech questions newer than 5 years ago. A shame because it was such a fantastic resource and community. 😢,1,2024-10-24 03:22:39
+144,,0,thehodlingcompany,179,2416,None,0,"I don't use it as much as I used to. Occasionally when I'm searching for how to do fix some error and I come across an unanswered question about it on SO then I figure out the solution later on, I'll go back and answer it just on general principle. People will sometimes edit it or challenge it as not applicable in all circumstances or whatever but I don't care anymore, they can just take it or leave it.",1,2024-10-24 04:41:09
+145,,0,Icy-Attitude-6944,71,443,Front-end developer (7YOE),0,"I always leave an up-vote for stuff I find helpful. Other than that I don't really interact with SO. Tried triaging a few questions and looked at some unanswered questions, but I'm not that driven to engage.
+
+Unlike others I usually get ok interactions and get treated fairly when posting my questions, but I want to add that I will ask a question maybe once every two or three months.",1,2024-10-24 06:37:01
+146,,0,ukpauchechi,389,189,None,0,"Little this days, especially asking questions.
+Yes it can be annoying when duplicates questions are asked, modern technology is broad and most times one question doesn’t cover all or the poster didn’t find an answer to their problem. Tbh Stack overflow got too strict.",1,2024-10-24 07:54:51
+147,,0,aptacode,2243,1065,None,0,"I've found the info on there is aging rapidly, a few years ago It was my go to, but in recent times my experience has been to use it as a last resort when i'm really stuck and looking for any clue to latch on to.",1,2024-10-24 08:24:57
+148,,0,Live-Box-5048,38,10211,None,0,Very rarely using it. I rely mostly on docs and LLMs if needed.,1,2024-10-24 11:42:20
+149,,0,propostor,11442,82426,None,0,"StackSverflow is past its sell-by date, and it's their own fault for the stupid overly strict rules.
+
+ChatGPT is probably trained on every stackoverflow answer ever. ChatGPT is alway my first port of call now. Next, I usually end up in buried in GitHub discussions. Come to think of it, when I google questions I don't even see StackOverflow much in the results.",1,2024-10-24 11:59:24
+150,,0,Isofruit,10752,33694,Web Developer | 5 YoE,0,"I still use it somewhat daily for views and I was never an avid enough poster to write answers on the regular. The only things I ever answered were answers to questions I wrote myself and found the answer to and wanted to share (or know I could google the answer later myself), or on topics I find interesting in my spare time (So for the most part it's going to be questions related to the nim programming language).",1,2024-10-24 12:01:23
+151,,0,FX2000,13217,43395,None,0,"These days I’m far more likely to find the answer I need in GitHub issues or any LLM, and I don’t have to deal with the bullshit.",1,2024-10-24 12:21:00
+152,,0,thewritingwallah,5067,576,None,0,"I haven't used StackOverflow since GPT-4 was released. GPT doesn't make you feel like a dummy for asking a dumb question or constantly try to pitch ""hey, try my new node package instead of X"". No gatekeeping.",1,2024-10-24 13:17:44
+153,,0,Deleted,N/A,N/A,None,0,i just use ChatGPT instead of searching stackoverflow,1,2024-10-24 13:30:01
+154,,0,Wishitweretru,106,3762,None,0,"2 -3 times a week, down from the same (or more) daily",1,2024-10-24 13:35:50
+155,,0,wutcnbrowndo4u,508,73833,Staff MLE,0,I think I literally haven't used SO once since the day chatgpt launched,1,2024-10-24 13:40:56
+156,,0,justUseAnSvm,780,70320,None,0,"I will click on the link if it appears, and scan. I don't participate anymore.
+
+SO as a community kind of sucks. Answering questions is a great way to learn, and I did that early in my career for a few months, but people are absolutely brutal on there.
+
+The other issue, is that SO is trying to serve as a curated source for all programming language. It's the yahoo homepage before google came out. SO was a good solution when we couldn't index natural language, but with LLMs, they are most likely toast.",1,2024-10-24 14:06:49
+157,,0,Icy_Computer,1,9,None,0,"My experience mirrors yours.  Years ago, I didn't mind posting and answering questions.  It seemed to help me get better at explaining solutions and looking at the ways other people would answer the same question would point out patterns I hadn't considered.
+
+I feel like now SO, is under moderated.  They quickly close questions as duplicates or too vague or just don't like the bold text in it.  Instead, they should be tagging and linking related questions and after they've had enough time to ""play out"" reviewing the related threads and merging them into a single point of information.  
+
+For the OP's second example, they should have let his thread play out, then merged it with the original question so future users would be able to see this problem was solved by doing X, with configuration like A, it was solved by doing Y.",1,2024-10-24 14:23:14
+158,,0,kiriloman,430,8360,None,0,"Before LLMs like perplexity.ai, SO would be the go to source most of the times. I don’t recall the last time I visited it",1,2024-10-24 14:46:33
+159,,0,flp619,1,1,None,0,"I use it now only in hopes of finding a link that seems relevant to my issue at hand.
+
+Now I rarely find the “answer” to my specific situation, and that definitely is because of the insistence on their “closing as duplicate” policy.
+
+I’ve never actually posted an answer nor a question on the site, though I’ve had blog posts linked to in a lot of answers on SO.",1,2024-10-24 16:45:19
+160,,0,valkon_gr,681,65037,None,0,"I logged in almost everyday for around 4-5 years, but the last 2-3 years I am not. It's losing value fast",1,2024-10-24 18:55:55
+161,,0,Deleted,N/A,N/A,None,0,"SO has declined in usefulness significantly over the past few years.  They are in the process of committing slow suicide by their policies and moderators.  I don't get it.  They had a literal goldmine of willing contributors that cost them nothing but chose to piss them all off.
+
+I rarely use it any more.  I usually skip SO results to searches in favor of something better.
+
+I'll be really surprised if they are even around in 5 years.",1,2024-10-24 19:00:57
+162,,0,metaphorm,1611,126281,Staff Platform Eng | 14 YoE,0,"close to zero. I stopped attempting to post my own questions on it many years ago because of the absolutely oppressive moderation and generally hostile/nasty/pedantic/argumentative trend in the community. 
+
+in the past it used to be a decent resource as a google search result for a specific technical question. it still kinda has that functionality but it's increasingly out of date and less and less relevant every day. I've stopped using it as a primary source of technical troubleshooting. I'm much more likely to post questions on the Github repos (or community Slack/Discord channels) of a tool that I'm using instead.",1,2024-10-24 19:05:52
+163,,0,tery_steinfeld,340,657,Software Engineer,0,"It’s a system I always felt too behind and too pretentiously “beneath” to contribute.
+
+Namely, it’s a lower 4th order validation:
+1. Actual Documentation
+2. GitHub issues // source control support threads 
+3. LLM Resourcing (for immediacy, strongly discerned)
+4. Related IC Blogs, Stack Overflows, SaaS Support Community forums
+5. Reddit (lol)",1,2024-10-25 03:46:26
+164,,0,Beneficial_Map6129,1038,5981,None,0,I think LLM's might replace stackoverflow...,1,2024-10-25 06:59:17
+165,,0,jaskij,1576,82372,None,0,"Never did. Was active on other sites for a time, but nah. Also, stuff I do usually doesn't show up on SO anyway, and if it does, there's no answers, ever.",1,2024-10-25 09:37:43
+166,,0,TheNewOP,7653,204709,SWE in finance,0,Honestly I can't really remember... I think the last time I used it was to get some clarity on what an npm error message really meant.,1,2024-10-25 15:48:01
+167,,0,ErgodicMage,1,118,None,0,I use it as a reference every once in a while but would never post a question or comment.,1,2024-10-26 00:52:27
+168,,0,Deleted,N/A,N/A,None,0,"None. I am not even using that to find solutions to problems I have. 
+I was doing that in the past, now I don't feel any need for it. I switched from SO as main source of information to the documentation.",1,2024-10-26 06:53:03
+169,,0,Perfect-Campaign9551,2325,5490,None,0,"I can't even interact with it because I don't know how to even start. You apparently need a certain amount of rep to post a question but then you need rep to answer questions... I've simply never figured out how to deal with the catch-22 of participation. I only read the site because of that
+
+
+I've used the stack overflow area for electronics and it's actually pretty good. I've been able to ask questions there and get good help 
+
+
+The programming SO though is a lost cause. Can't even get enough rep to do anything",1,2024-10-27 15:30:18
+170,169,1,Live_To_Run,1,346,None,0,I’ve never been able to post to Stackoverflow due to the rep thing. I’ve looked up info in Stackoverflow many many times. And still do. (I don’t trust the LLMs),1,2024-10-28 04:05:09
+171,,0,Judge_Agitated,24,408,None,0,Using copilot and chatgpt more than stackoverflow.,1,2024-10-23 23:58:23
+172,,0,crispybaconlover,286,3614,None,0,"I go straight to LLMs nowadays, I hardly use Google anymore unless the LLM bugs out and gives my wrong information, which rarely happens but when it does happen is very annoying.",1,2024-10-24 05:20:48
+173,,0,Zentrosis,16264,36502,None,0,Zero. I hate that place and I have answers with thousands of upvotes on there. Fuck em.,1,2024-10-24 05:37:41
+174,,0,sebnukem,4820,65712,None,0,ChatGPT dethroned it.,0,2024-10-24 00:03:09
+175,,0,veryonlineguy69,3239,32455,Software Architect,0,"stack overflow is in my rotation, but i’m much more often reading docs, asking chatGPT, or reading an article. 
+
+i have worked at companies with internal stack overflows though & that rules. it’s a really nice way of documenting org-specific knowledge (internal patterns, quirks, etc)",0,2024-10-23 23:54:04
+176,,0,owhg62,1,1726,None,0,"I'm currently doing mostly front-end development, and I usually end up at MDN or the SolidJS docs, or, heaven forbid, Gemini. I actually used the code for a simple proxy server I needed to get around some CORS issues directly from what Gemini produced, with just a few changes for handling headers. 
+
+When I land on SO, the answer is often inappropriate or madly out of date.",0,2024-10-23 23:55:44
+177,,0,Deleted,N/A,N/A,None,0,Zero,0,2024-10-24 00:34:30
+178,,0,Winter_Essay3971,17590,26532,None,0,"I use it about 50% as much as I did before ChatGPT. ChatGPT will sometimes give me a single solution that doesn't work, while I might find 4 or 5 solutions to try on SO, one of which sometimes works.",0,2024-10-24 01:20:14
+179,,0,Obsidian743,3769,33978,None,0,Almost none. It's nearly useless at this point. ChatGPT is WAY superior.,0,2024-10-24 02:07:50
+180,,0,ccricers,52028,123577,None,0,"Pretty much zero except for Googling for some specific technical issues and SO showing up in the results. Some of those old posts are still helpful.
+
+I don't use a lot of AI assistance either, but someone's description of ChatGPT as ""Stackoverflow without the snark"" is very much appropriate here.",0,2024-10-24 02:32:30
+181,,0,Higgsy420,770,1124,Based Fullstack Developer,0,"Dude censorship is a fucking huge problem online. We have this culture of moderation across sites ranging from Reddit to Stack Overflow and it heavily detracts from the intent of the platform.
+
+
+By definition if you have strong moderation, you obscure the flow of information. This is wrong. ",0,2024-10-24 02:36:14
+182,,0,PeterPriesth00d,713,21853,None,0,"I actually don’t use it a ton lately. Most of the time if I do have a question about how something works, I’ve had a lot of success with AI giving me good snippets to work from and I don’t have to deal with with snarky jerk offs complaining about my formatting or whatever.",0,2024-10-24 02:42:21
+183,,0,DigmonsDrill,458,27414,None,0,"* wonder if it's worth digging up my credentials for whatever auth scheme there's using these days
+* decide it's not and don't bother trying
+
+I have to remind people what a shitshow things were before StackOverflow, because it's really much better than its predecessors, but it's done being useful for anything new.",0,2024-10-24 02:42:41
+184,,0,moldis1987,95,229,None,0,"Since Copilot released, stack become useless",0,2024-10-24 03:05:31
+185,,0,betterlendingplz,8,46,None,0,"Generally low unless copilot is unable to answer. I think for niche cases or areas where tagging for os, etc is important, stack overflow is still really good.
+
+  
+For simple things like, ""syntax for closure in golang"" is not really worth going to stackoverflow anymore. github copilot itself is more useful here",0,2024-10-24 03:08:33
+186,,0,VinceMiguel,3805,21779,"""Senior"" Software Engineer",0,"I've always found SO to be quite useless for the stack I use (mostly Rust), so I haven't used it in years. Even less so now that ChatGPT likely covers anything I'd peek at SO for. It was quite useful back in my C/C++ days, though
+
+Edit: Stack Exchange was generally useful for any mathematics I had to go through in college",0,2024-10-24 05:11:33
+187,,0,diptim01,14621,145,None,0,"atm, reddit >>>> SO",0,2024-10-24 05:57:57
+188,,0,cmpthepirate,1129,32730,None,0,"Read stack overflow? I didn't even read this thread 😆
+
+When I was starting it was incredibly useful but I don't use it much now unless for legacy tech. Other search tools and man pages are generally more useful (now I have a better grip on what I'm doing).",0,2024-10-24 06:44:02
+189,,0,reini_urban,1722,18851,None,0,"Yeah, it went to shit lately. Moderators suck. And of lot of current answers are heavily outdated and plain wrong since.",0,2024-10-24 07:43:58
+190,,0,EmbarrassedChest1571,52,141,None,0,It's all ChatGPT now,0,2024-10-24 08:50:21
+191,,0,benevolent001,2139,23499,None,0,"Chat gpt answers most of my question theses days. It has been like max 2-3 times I logged to Stackoverflow in 2 years.
+
+Biggest complaint I had with SO was not being welcoming to newbies and constant downvoting for asking simple questions.
+
+For solving old problems in Chatgpt world, there is limited chance SO will survive 4-5 years.",0,2024-10-24 10:30:04
+192,,0,NormalUserThirty,1329,7238,None,0,"i try and avoid getting answers from stackoverflow, i usually go to chatgpt first and then directly to the formal documentation from there",0,2024-10-24 10:50:08
+193,,0,ZombieZookeeper,23012,182187,None,0,"Although VERY VERY far from perfect, I find that AI doesn't have some dude(ette) with a picture of them hiking or kayaking telling you you're a moron. It doesn't anonymously vote to close your question for being a duplicate of something else that is unrelated.
+
+It's devolving quickly.",0,2024-10-24 11:09:23
+194,,0,ToughStreet8351,1559,5206,Principal Software Engineer,0,I almost never use it to be honest… if I ever face a problem or a question we’d solving I go the documentation and specifications! You usually always learn something more than just the thing you were trying to solve! I think stack overflow is one of the worst things ever happened… I have plenty of young hire that get paralysed whenever they have an issue and the answer is not straightforward google le out of stack overflow!,0,2024-10-24 11:17:40
+195,,0,JDD4318,1567,33465,None,0,"Like others have mentioned, since we got internal chatgpt at work, I don’t need it anymore for the most part. I’ll use our internal stackoverflow occasionally though.",-1,2024-10-23 23:54:36
+196,,0,_grey_wall,6538,95760,None,0,Reddit is taking over,-1,2024-10-24 01:20:31

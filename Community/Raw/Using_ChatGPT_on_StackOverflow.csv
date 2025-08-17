@@ -1,0 +1,78 @@
+Unique ID,Parent ID,Depth,Username,Post Karma,Comment Karma,Achievements (Flair),Number of Awards,Comment,Upvotes,Timestamp (UTC)
+1,,0,fermilevel,1787,28044,None,0,"Use of ChatGPT just got banned on SO
+
+https://meta.stackoverflow.com/questions/421831/temporary-policy-chatgpt-is-banned",76,2022-12-05 09:24:04
+2,1,1,Deleted,N/A,N/A,None,0,[deleted],41,2022-12-05 10:02:03
+3,2,2,ClikeX,1228,197930,back-end,0,Why would you even wanna farm SO karma?,8,2022-12-05 13:12:38
+4,3,3,tidderwork,8858,19916,None,0,"Resume, job interview flex",10,2022-12-05 13:16:39
+5,4,4,ClikeX,1228,197930,back-end,0,"I’ve never met anyone that cared about Stack Overflow, so people actually use it on their resume?",7,2022-12-05 13:18:07
+6,5,5,Shogobg,13,14594,None,0,"It’s odd nowadays, but it was a thing some time ago.",5,2022-12-05 14:00:13
+7,5,5,zephyy,23398,626302,None,0,The only place that's ever asked me if I had a profile was Stack Overflow themselves.,0,2022-12-05 16:56:09
+8,3,3,riskyClick420,31,36258,full-stack,0,Either insecurity or just to have enough points to deal with the insufferable community without tip-toeing around.,2,2022-12-05 13:19:41
+9,2,2,TheRealFantasyDuck,7082,19715,None,0,Haha yeah I was also using ChatGPT...,1,2022-12-05 16:29:22
+10,1,1,Deleted,N/A,N/A,None,0,so a bunch of people have that idea :),2,2022-12-05 12:58:18
+11,1,1,charmilliona1re,4937,22153,None,0,"Ofcourse they banned it. ChatGPT is a glimpse into the future. A future where AI replaces things like stack overflow. People are starting to realize this and are threatened by it. So they do what they can with the power they have: try to suppress it.
+
+But you can only suppress the inevitable for so long.
+
+This comment may have been ai generated.",2,2022-12-05 17:52:43
+12,11,2,JamesCommon,10,1844,None,0,From my understanding chatgpt feed off stack overflow. So if the ai only feed itself wouldn't it get dumber and dumber by the day?,3,2022-12-05 23:50:29
+13,12,3,AcademicF,24152,123105,None,0,"Yup lol. The futurist tech evangelists who milk AI’s proverbial dong, fail to admit that the majority of data these models are based off of come from the internet. The AI is just really good at regurgitating it into a human friendly manner",0,2022-12-06 00:06:41
+14,13,4,charmilliona1re,4937,22153,None,0,"Futurist tech evangelists
+
+The Future is now, old man
+
+Good one with the dong tho, I have no rebuttal for that. Even ChatGPT was thrown off with that one",0,2022-12-06 00:45:00
+15,14,5,AcademicF,24152,123105,None,0,Okay Elonite. Don’t overwhelm us too much with your rockets to mars and fake ass tunnels to knowhere.,0,2022-12-06 03:19:57
+16,15,6,charmilliona1re,4937,22153,None,0,"What
+
+Did you respond to the wrong comment? Or just have a weird fetish about daddy Elon?",1,2022-12-06 04:43:36
+17,11,2,Mikedesignstudio,2,981,full-stack,0,Yep it’s over for these snobs. ChatGPT will take away many jobs.,2,2022-12-17 04:18:51
+18,1,1,Alex_Hovhannisyan,7294,14643,front-end,0,What I'm wondering: https://meta.stackoverflow.com/a/421835/5323344,1,2022-12-05 17:23:15
+19,,0,lint_it,11,4698,None,0,"If you are going to answer to a question where you actually have little idea about the topic and hardly know if the answer is actually going to be correct then how is it different from just copy pasting random answer that may seems like correct one found from google? I mean its results will be pretty much the same just with less effort when using AI.
+
+If you are going to use it to aid finding an correct answer or to get to better know the context then it makes sense but trusting an answer from an AI (it has been confirmed that it makes good amount of mistakes) and just copy pasting it's answers will indeed, without any surprise, result in low success rate.
+
+At least I would have found it much more interesting and useful if you would have researched if using an AI would aid finding correct answers faster or not. This one seems more like exploiting than anything else... (at least in my eyes)
+
+But like you said at least you learned something from it so it is not all that bad...",48,2022-12-05 00:21:01
+20,19,1,iVictoryVictor,2868,1638,None,0,"I think it's a testement that maybe it should be used as a last resort when stack overflow hasn't even been answered yet, seem like there so much potential in this tech tho",7,2022-12-05 01:42:15
+21,20,2,allen_jb,84,24763,None,0,"I think it would be better for questions to go unanswered than to give potentially wrong / misleading answers.
+
+ChatGPT gives absolutely no guarantees that what any of it says is correct. In my opinion it's really little better than the markov chain bots of old - it's still just stringing together words without any real understanding of their meaning or context, and thus their correctness.",5,2022-12-05 09:07:20
+22,19,1,AMLyf,4780,11718,None,0,"This. I can already see how this will complicate SO in the future. ""Hey bud, they changed the requirements for x issue that you originally stated, did you do the refactor and if so how?"" and since the person using GPT didn't actually understand the issue, they have no valid input for  the new requests that come to that thread / SO post. Thus making more SO posts about the same issue.   
+
+
+Sometimes providing an answer on SO doesn't help anyone till years later when the issue is more common. I've been on week long *rabbit hole* searches for answers to questions that are very relevant today, but the last post would read something like ""i fixed it, never-mind"". This is the equivalent.",2,2022-12-05 14:09:27
+23,19,1,d0rf47,352,44865,full-stack,0,LOL yo is your avatar supposed to be Eris Morn?,1,2022-12-05 15:44:39
+24,23,2,lint_it,11,4698,None,0,I had to google who that is because I have never played Destiny... But it seems you are right.,2,2022-12-05 19:15:22
+25,24,3,d0rf47,352,44865,full-stack,0,lulz thats funny i thought maybe you played it too!,1,2022-12-05 19:29:09
+26,,0,Deleted,N/A,N/A,None,0,[deleted],9,2022-12-05 02:13:36
+27,26,1,ijmacd,3157,81562,None,0,"I wouldn't say ""enhanced""",2,2022-12-05 07:18:55
+28,,0,julian88888888,205520,208289,:snoo_dealwithit: Moderator,0,account suspended lol,4,2022-12-05 18:39:33
+29,,0,Deleted,N/A,N/A,None,0,I’ve found using chatGPT to debug snippets of code to be an excellent tool. It also is very good at explaining what code is doing. Just a few minutes I had it fix some buggy code that relied on string slices and it proposed a much better solution. Version 3+ of this is going to put a lot of people out of jobs,7,2022-12-05 03:22:53
+30,29,1,Trakeen,288,22950,None,0,"I really need to look at chatGPT since i may be taking a new job and don’t know one part of the stack
+
+How do use it to debug existing code? I thought it was like copilot in that you write a description of what you want and it gives you an answer, not that you would input existing code
+
+Tried copilot for a bit but it wasn’t accurate enough for me IME",2,2022-12-05 13:06:04
+31,30,2,explosive__tech,1,6,None,0,"Will probably work if you ask it a question, then paste the code in after in the same prompt.",1,2022-12-06 01:51:45
+32,31,3,Trakeen,288,22950,None,0,I’ll try that. I used it some today and the code it spit out looked very good but wasn’t actually functional,1,2022-12-06 03:00:54
+33,30,2,Deleted,N/A,N/A,None,0,"First of all, you have to go in not trusting it completely. Also, there is a text limit so it’s better to just give it function snippets so it has some context but isn’t a massive block of code otherwise it will maybe only print out have the answer. I’ll ask what the function does. Then I’ll ask it what problems it has. Or if get an error
+Message I’ll give it the line of code and the error message. This thing is known to be confidently incorrect but if you call it on it’s mistakes it will usually fix them. It takes some getting used to, but treat it like a coworker/mentor when you get stuck. It can walk you through the code and explain it. If you are getting a weird result you can ask about it.",1,2022-12-06 10:03:42
+34,,0,ze_do_pneu_,1676,2547,None,0,"When something becomes a trend, people tend to do  a lot of useless stuff.
+
+You have the example of KickStarter that had a lot of useless IoT projects because IoT was trending back then. 
+
+Now you have AI, people are adding the word ""AI"" to products just to sell more, even though the product itself probably doesn't need artificial intelligence, and they struggle to implement some AI to the product instead of building something that solves people's problems.
+
+Now with chatGPT people tend to create articles about useless things that they've done such as using the algorythm to answer StackOverflow questions",7,2022-12-05 09:08:23
+35,,0,Sigmadelta8,748,27651,None,0,"Hey quick tip I learned from the WAN show- apparently when it randomly just cuts off with large things (like a react component) you can type “continue” to have it continue the prompt. I don’t know if that’s actually the case, but that was what was said.",3,2022-12-05 15:34:30
+36,,0,Deleted,N/A,N/A,None,0,"I have been building an iOS app as a pet project lately and I was asking it for help when I ran into problems and I haven't found it very useful. I think its cuz a lot of apples libraries are only documented via autogenerated class / method definition style docs and it doesn't seem to be able to interpret those well.
+
+It doesn't have the ability to take a guess at how much it doesn't know like humans do either so sometimes it will just very confidently make a bunch of shit up.",2,2022-12-05 13:40:41
+37,,0,waiting4op2deliver,3927,42983,None,0,Nice,0,2022-12-05 17:34:54
+38,,0,iVictoryVictor,2868,1638,None,0,Incredibily underrated post,-9,2022-12-05 01:40:26
+39,,0,podojavascript,63,44,None,0,This is crazy! Very cool.,-2,2022-12-05 01:35:08
+40,,0,fireball_jones,1,31325,None,0,Answer a question about recursion on Stack Overflow using ChatGPT.,1,2022-12-05 16:16:07
+41,,0,Ok-Discussion2980,3165,646,None,0,"What's funny about SO is that the moderators have such tiny reproductive organs (Compensated by massive egos) that even the best, professional answers, will be flagged as an AI answer. No one knows if it is AI or not. The moderators are just using ChatGPT as an excuse to be toxic. Business as usual. Mean time, we can ask ChatGPT questions and actually work through a problem without being judged for simply asking a question. RIP, StackOverflow.",1,2023-02-27 03:23:49

@@ -1,0 +1,156 @@
+Type,Content,Username,User Reputation,Upvotes,Is Moderator,Creation Date
+Question,"I was wondering whether the traffic of Stack Exchange sites went down since the open access to ChatGPT. There is so much gossip in terms of ""Will programmers be unnecessary with ChatGPT? Will coding tutors be unnecessary with ChatGPT?"". You know the deal...
+Although I do not believe all that stuff and already have a manifest opinion, I think it would be a very fine survey of Stack Exchange to do!
+",Tarquinius,1007,72,0,2023-03-07 13:24:00 UTC
+Comment on Question,"It's also not clear if >25k reputation users on SO could maybe add historical data and graphs, because Des Darilek writes ""After upgrading to GA4, we didn’t update or add context to an analytics page on our site..."" which sounds not clear to me, what it actually implies. Can >25k SO users see the real traffic or not?",NoDataDumpNoContribution,17244,0,0,2023-08-11 11:37:42 UTC
+Comment on Question,"@Stuckat1337 Interesting blog article, unfortunately without any graphs. They mostly concentrate on traffic (and older, popular questions should create most of the traffic) and report on average a 5% decline this year with a larger decline of 14% in April. The traffic estimation is based on anonymized traffic modeling in Google Analytics. The traffic may also be influenced by changes in search engine algorithms. The typical scale of fluctuations and historical data for comparison and context are missing.",NoDataDumpNoContribution,17244,0,0,2023-08-11 11:34:56 UTC
+Comment on Question,for SO - arxiv.org/pdf/2307.07367.pdf,MT1,734,0,0,2023-08-10 06:12:35 UTC
+Comment on Question,stackoverflow.blog/2023/08/08/…,Stuck at 1337,278,4,0,2023-08-09 00:03:26 UTC
+Comment on Question,"@JourneymanGeekOnStrike I wouldn't interpret too much into it. Eternal growth is impossible, but a single month of decline could still be an exception or a seasonal effect for example. Maybe some of the novelty effect has worn off but on the other hand who knows what is yet to come. On the other hand for the stackexchanges there are stable trends over many months and years. For ChatGPT and other AIs we probably have to wait longer to estimate when they may saturate.",NoDataDumpNoContribution,17244,1,0,2023-07-20 20:36:13 UTC
+Comment on Question,"Interestingly, chatgpt and other Gen AI sites seem to have experienced a loss in traffic",Journeyman Geek,195964,1,0,2023-07-10 02:12:18 UTC
+Comment on Question,"@Trilarion: congratulations, you got lucky! The model is very sophisticated, and for many sets of problems that model contains enough 'code text' knowledge to produce something that works. However, that's not a given. Don't let one working example lure you into thinking that it'll be accurate the next time.",Martijn Pieters,101986,2,0,2023-06-08 17:41:01 UTC
+Comment on Question,"@MartijnPieters ""...just a statistical language model and has no actual expertise, whatsoever, in technical subjects..."" Just last week I tried it again and it helped me. I asked it to fit a circle to a 2D cloud of points in Python using common libraries et voila the answer was right. Of course I checked it to be sure. I also liked the layout of the answer, well explained with nice code examples. All parentheses were balanced. My conclusion is that even though statistics may not include actual expertise it can come pretty close sometimes. Of course that's only one example.",NoDataDumpNoContribution,17244,4,0,2023-05-25 06:31:47 UTC
+Comment on Question,"@Trilarion I'd guess combination of both, yes.",Shadow Wizzard,176476,0,0,2023-05-24 21:21:23 UTC
+Comment on Question,@ShadowTheSpringWizard It looks as if now there is beginning to be enough time to have meaningful data to answer this question. Have you looked at the data in starball's answer? It looks as if the impact of ChatGPT is quite big. That or people have given up on mass Q&A or programming in 2023.,NoDataDumpNoContribution,17244,1,0,2023-05-24 21:19:13 UTC
+Comment on Question,"For the sites I moderate, there appears to be no correlation or distinct drop in traffic from when ChatGPT was released. This doesn't surprise me as it is not useful in any of the disciplines on those sites.",Rory Alsop,18426,3,0,2023-03-07 18:01:03 UTC
+Comment on Question,"Given that ChatGPT is just a statistical language model and has no actual expertise, whatsoever, in technical subjects, we will absolutely not be forcing anyone to read the answers it generates. Just because it sounds confident doesn't mean it is correct. In fact, most of the time it is dead rubbish at getting it right.",Martijn Pieters,101986,29,0,2023-03-07 16:51:15 UTC
+Comment on Question,@JourneymanGeek: ChatGPT was released 30 November 2022.,Martijn Pieters,101986,4,0,2023-03-07 16:49:14 UTC
+Comment on Question,"My thoughts echo Shadow's: I don't think the part regarding whether or not Stack Exchange should employ its own form of CGPT is central to your question, and I would personally edit it out. The rest of your question is perfectly valid and, to be honest, is quite interesting to investigate.",Spevacus,30620,3,1,2023-03-07 16:46:32 UTC
+Comment on Question,"This is the correct place to ask, but 1) still not enough time to have meaningful data, and 2) don't involve non relevant things, e.g. the Stack Exchange own ChatGPT part. If you have another question, create a new question.",Shadow Wizzard,176476,2,0,2023-03-07 15:29:01 UTC
+Comment on Question,In the short term it likely went up as people posted nonsense answers from chatGPT which all needed to be deleted.,Robert Longson,36697,34,0,2023-03-07 13:34:08 UTC
+Comment on Question,hm. Assuming people help pull the data - from when would that be?,Journeyman Geek,195964,2,0,2023-03-07 13:33:45 UTC
+Answer,"Query & Visualization of Total User Votes Per Month Since 2009 as a Metric for Observing User Activity Trends using Stack Exchange Data Explorer (SEDE)
+Similar to starball's answer, here is another perspective of insight into user activity trends (specifically on Stack Overflow) using SEDE, looking at the sum of user votes across all questions binned by month per year. In the graph that results from the query, the x-axis refers to the number of months since New Year's Day 2024; the data goes back roughly to -180, corresponding to 15 years ago (i.e., 2009).
+
+Annotations added to figure using Adobe Photoshop.
+Of course, this gives no specific insight into ChatGPT. But for whatever reasons, there appears to be an ongoing precipitous decline in user activity that began in 2020 and significantly worsened in 2023.
+Appendix
+Here is the SEDE SQL query (which, by the way, was almost entirely generated from a short conversation with ChatGPT 🤷🏻‍♂️):
+WITH MonthlyVotes AS (
+    SELECT
+        YEAR(v.CreationDate) AS YearValue,
+        MONTH(v.CreationDate) AS MonthValue,
+        SUM(CASE WHEN v.VoteTypeId = 2 THEN 1 ELSE 0 END) AS Upvotes,
+        SUM(CASE WHEN v.VoteTypeId = 3 THEN 1 ELSE 0 END) AS Downvotes
+    FROM
+        Votes v
+        JOIN Posts ON v.PostId = Posts.Id
+        JOIN PostTags ON Posts.Id = PostTags.PostId
+        JOIN Tags ON PostTags.TagId = Tags.Id
+    --WHERE
+    --    Tags.TagName LIKE '%##TagName##%'
+    GROUP BY
+        YEAR(v.CreationDate),
+        MONTH(v.CreationDate)
+)
+
+SELECT
+    --(YearValue * 100) + MonthValue AS YearMonthNumeric,
+    (YearValue - YEAR(GETDATE())) * 12 + MonthValue AS YearMonthNumeric,
+    Upvotes,
+    Downvotes
+FROM
+    MonthlyVotes
+ORDER BY
+    YearValue DESC,
+    MonthValue DESC;
+
+",John Collins,261,16,0,2024-03-22 00:23:59 UTC
+Comment on Answer,@DanMašek Maybe all the curators downvoting all the ChatGPT posts themselves.,CPlus,5314,1,0,2024-03-22 16:00:13 UTC
+Comment on Answer,"@user16217248 Likely different demographics. I'd expect the downvotes to come mostly from curators, who are probably less likely to be affected by the hype.",Dan Mašek,1022,1,0,2024-03-22 11:26:22 UTC
+Comment on Answer,"Upvotes went down a lot, but downvotes stayed more or less the same.",CPlus,5314,1,0,2024-03-22 04:11:21 UTC
+Answer,"I made some SEDE queries for new question activity, new answer activity, and new user creations per month from 2018 to now (2018 chosen somewhat arbitrarily- I just wanted some more context than looking at just 2022-2023). I'll link to queries for stats on a per-site (using Stack Overflow as the default since it's the biggest site in the Stack Exchange network) and network-wide basis. Thanks to @AwesomePoodles for their cross-site SEDE query template.
+Note that you should ignore the recent-most data points in the graphs (/ the sharp dropoffs in the below screenshots for the most recent data point), since they're for the current month, which isn't over yet, and hence doesn't have complete data. I was just too lazy to adjust the query to omit those data points.
+New Question Activity Dropped
+Per-site: https://data.stackexchange.com/stackoverflow/query/1717975/new-question-activity-per-month-since-2018#graph
+Network-wide: https://data.stackexchange.com/meta.stackexchange/query/1717977/network-wide-new-questions-per-month-since-2018#graph
+
+There's usually a sharp drop in activity in December. It was quite pronounced in 2018 and 2019, but not so much in 2020 and 2021. It was quite pronounced in 2022, so it's hard to tell to what degree this is just the normal drop in activity due to time off work and winter break, and to what degree this is from people going to ask their questions to ChatGPT instead of on Stack Exchange.
+However, in recent past years, there has always been a pick-up of activity levels in Januaries (observable for 2018-2022), but not so for Jan 2023: The level of new question activity is pretty much the same as the December 2022 level. Interpret that how you will.
+New Answers
+This graph compares non-deleted and deleted new answer activity per-site:
+https://data.stackexchange.com/stackoverflow/query/1717973/new-answers-per-month-since-2018#graph
+
+Though the drop in answers is proportional to drop in questions.
+Answer activity in general on Stack Overflow has been in decline since mid-2020.
+Similar observations as were made for new questions also apply here. The decline between November 2022 and December 2022 for non-deleted questions was 11.0%. Notice the never-seen-before increase in deleted answer posts from November 2022 to December 2022.
+New User Registration Activity Dropped
+Per-site: https://data.stackexchange.com/stackoverflow/query/1717972/new-users-per-month-since-2018#graph
+Network-wide: https://data.stackexchange.com/meta.stackexchange/query/1717979/network-wide-new-users-per-month-since-2018#graph
+
+
+In 2018, there was a 13.1% dip in new users in December, and a recovery in the following January.
+In 2019, there was a 7.6% increase from November to December, and a further 8.0% increase in the following January.
+In 2020, there was little change going into December, and a 9.1% increase in the following January.
+In 2021, there was a 6.1% drop in December, and a 15.4% recovery in the following January
+In 2022, there was a 5.8% drop in December, and a further 12.9% drop in the following January.
+
+Conclusions
+Observations: There was no recovery of new question activity and a further drop in new user registrations in January 2023 following December 2022, both of which are declines compared to trends from previous years.
+Possible contributing factors:
+
+People are using ChatGPT instead of Stack Exchange. This is likely a significant contributing factor. I've been looking at things people say about Stack Exchange on Reddit and there are plenty of recent comments of people saying that they've been trying to use ChatGPT instead of Stack Overflow, and suggesting that others do the same. (Granted, those tend to be low-score compared to other comments talking about the problems with ChatGPT)
+
+People who use ChatGPT to write answers on sites where it's banned (such as Stack Overflow) are getting suspended, and therefore cannot ask or answer questions.
+
+Activity drops coincide with major tech layoffs in January 2023 and following months. I don't think it's possible to rule out as a contributing factor, especially with most of the largest sites in the Stack Exchange network being tech-related.
+
+
+More queries and updates / follow-up
+I've done further related analyses in my answer post to GPT on the platform: Data, actions, and outcomes. I'm keeping tabs on all my SEDE queries, and I've noticed that the dramatic declines seem to have stopped in the recent months and have stabilized, with some looking like they are about to take recovery paths.
+Related Discussions
+(Both of which I have written answers for)
+
+The future role of Stack Exchange vs. emerging AIs
+Could ChatGPT be a viable way to answer people's questions?
+Blogpost from company responding to social media circulating things like ""The fall of Stack Overflow"" and ""The fall of Stack Overflow explained"".
+
+And for more general discussion unrelated to LLMs and ChatGPT: Why is traffic on some of SE sites stagnant or in decline, and what is the destiny of such sites?.
+",starball,30457,72,0,2023-03-08 03:21:30 UTC
+Comment on Answer,"@JRE Yes, this is quite clear when querying using summed user votes as one measure of overall user activity. Do you happen to know why in March 2015 there was an unprecedented and never again seen enormous jump in, at least, user vote counts? I have seen mention of this elsewhere (e.g., meta.stackoverflow.com/questions/305507/…). Activity increases at this time and remains at roughly the same amount of total votes thereafter, albeit with a slightly negative slope that in recent years has nonlinearly intensified",John Collins,261,0,0,2024-03-25 19:14:39 UTC
+Comment on Answer,"The general trend has been downwards since about 2015.  Run your queries with a start date of 2011, and you'll see what I mean.",JRE,2386,3,0,2023-08-14 10:42:40 UTC
+Comment on Answer,"@LutzPrechelt Why on meta.stackexchange, why not on meta.stackoverflow (meta.stackoverflow.com/site-analytics)? I cannot access either of them, so I don't know.",NoDataDumpNoContribution,17244,0,0,2023-08-11 11:42:31 UTC
+Comment on Answer,"@starball ""I am not aware of ways to use SEDE to get things like views of posts over time."" That not, but one could run the same query repeatedly, then take the differences. If only someone would have done it in the past already. Maybe the data dumps could help but parsing them simply to get view counts sounds like massive overkill. We really need these 25k rep users to look up the traffic data.",NoDataDumpNoContribution,17244,0,0,2023-08-11 11:41:21 UTC
+Comment on Answer,"@Levente yes, that note is important, but I am against drawing more attention to it than the actual explanation of what the queries are about. I'll un-shrinkify it, but I will not embolden it.",starball,30457,0,0,2023-08-10 08:06:28 UTC
+Comment on Answer,"@starball OK, found it: meta.stackexchange.com/site-analytics. I cannot access it, though, because that needs 25k reputation on meta, my SO reputation does not help.",Lutz Prechelt,211,1,0,2023-07-17 15:54:02 UTC
+Comment on Answer,@starball I am a meta newbie. Where site analytics to be found?,Lutz Prechelt,211,0,0,2023-07-17 11:53:48 UTC
+Comment on Answer,@LutzPrechelt I can't help but notice that you have enough rep on Stack Overflow to view site analytics... Is there a reason you're not contributing that information to this Q&A here?,starball,30457,0,0,2023-07-14 22:10:40 UTC
+Comment on Answer,"@starball Yes, but without actual traffic information we are making the ""searching under the lamppost"" mistake and the entire discussion may be horribly mistaken.",Lutz Prechelt,211,1,0,2023-07-14 10:58:50 UTC
+Comment on Answer,@LutzPrechelt I am not aware of ways to use SEDE to get things like views of posts over time. And I do not have access to site analytics on SO. Someone with access to those analytics can easily post an answer with that info. I vaguely remember cody posting a screenshot somewhere.,starball,30457,1,0,2023-07-12 17:08:20 UTC
+Comment on Answer,"The things analyzed in this answer are all content creation activities. However, the OP asked for traffic. Let's not forget how unbelievably valuable all the existing questions and answers on SE are. Much of the time (for SO in particular) Google is all you need!",Lutz Prechelt,211,1,0,2023-07-12 16:59:56 UTC
+Comment on Answer,Seems quite clear that the fact that ChatGPT now solves a lot of users' questions faster & for many is a more wellcoming platform than SO is driving this. Google Trends graph also clear trends.google.com/trends/…. See also my experiences using ChatGPT4 very productively meta.stackexchange.com/questions/387575/…,Tom Wenseleers,171,2,0,2023-06-18 09:43:42 UTC
+Comment on Answer,@This_is_NOT_a_forum The dodgy offset is what the graph output of SEDE does automatically. One needs to carefully check the values each time. The interesting question is how the next months will develop. At some point a new floor should form or maybe even a bounce back.,NoDataDumpNoContribution,17244,1,0,2023-05-25 12:58:16 UTC
+Comment on Answer,"Even without the dodgy offset on the y-axis, it looks like a crash (down 50%). (More than 60% down from the COVID-19 peak.)",This_is_NOT_a_forum,6646,3,0,2023-05-25 08:58:18 UTC
+Comment on Answer,"Thanks. Btw. not only the number of new questions, but also new answers is trending downwards this year. So maybe with people asking ChatGPT (the statistical language model without expertise) instead of asking here, other people do not need to answer these questions and everyone ends up with more free time. Maybe that's what the CEO meant in his latest ""Community is the future of AI"" post.",NoDataDumpNoContribution,17244,3,0,2023-05-24 21:15:56 UTC
+Answer,"On Stack Overflow
+I looked at https://meta.stackoverflow.com/site-analytics today.
+1. General trend
+
+There has been a steady decline in new questions and new answers for the past several years.
+There is a similar decline in up- and downvotes, also for the past several years.
+For site visits, however, no such decline is seen.
+
+My interpretation of this is that Stack Overflow is immensely helpful,
+but more and more people need no longer interact with the site; they only
+need to use a search engine for finding the existing answers to their question.
+2. Trend since ChatGPT has been published late Nov 2022
+
+There are a few short spikes, but the general trends for new questions and new answers have not changed.
+The same is true for up- and downvotes.
+For site visits, however, the values surged up in December 2022,
+were still more than double their value from previous years in January/February 2023, and (as of August 2023) are slowly going back to their previous value since.
+
+My interpretation of this is that the relationship of ChatGPT and Stack Overflow created a huge media buzz, but no dramatic change in the viewers' use of the site.
+Note that the issue of moderators blocking ChatGPT-generated posts is not shown in these data.
+A surge in additional ChatGPT-generated answers, however, should show up in these data...
+...BUT:
+As of 2023-08-24, the Stack Overflow site analytics page has a remark at the top saying
+
+Effective May 10th 2022, the traffic data in this chart is outdated. We are working to resolve the issue. [This update was posted on July 26, 2023]
+
+And indeed the numbers on the vertical axes are all so low that the data cannot be the daily sums data I would expect them to be.
+For example, that ""normal"" level of visits shown pre-2022-12 is about ""1k"".
+Hmmm.
+",Lutz Prechelt,211,10,0,2023-08-24 16:33:29 UTC
+Comment on Answer,"RE ""outdated"" data meta.stackexchange.com/q/391652/1017231",bobble,12092,1,0,2023-08-24 19:09:04 UTC
+Summary,"{'Question Title': 'Has Stack Exchange&#39;s traffic decreased since ChatGPT?', 'No of Upvotes': 72, 'Total No of Answers': 3, 'Total No of Comments': 36, 'Question Asker Name': 'Tarquinius', 'Question Asker Reputation': 1007, 'Question Asker Is Moderator?': 0, 'Tags': 'discussion, traffic, chatgpt', 'Post Link': 'https://meta.stackexchange.com/questions/387278/has-stack-exchanges-traffic-decreased-since-chatgpt', 'Date of Post': '2023-03-07 13:24:00 UTC'}",,,,,

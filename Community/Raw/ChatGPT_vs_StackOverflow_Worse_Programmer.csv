@@ -1,0 +1,47 @@
+Unique ID,Parent ID,Depth,Username,Post Karma,Comment Karma,Achievements (Flair),Number of Awards,Comment,Upvotes,Timestamp (UTC)
+1,,0,mansfall,774,6235,None,0,"So far every technical question I've given it to solve some niche issue, it's failed 100% to get anywhere near a right solution.  It's also generated very terrible code if asked to do something that would take more than a few lines.
+
+But if you're asking how to do a loop or something in some dialect, fire away.
+
+So use it on easy stuff.  It's a long way from being able to innovate and be in your problem space.
+
+If you ask it for something and you don't routinely use it, you'll likely forget about the details anyhow even if you'd used SO.",7,2023-05-06 06:53:44
+2,1,1,pyr00t,328,124,None,0,"Yea I noticed it’s never fully right, but sometimes it’s close enough to where I can figure it out from there lol, but yea I don’t think I’ve ever seen it he fully right about more complex issues",1,2023-05-06 18:11:44
+3,,0,KingsmanVince,47629,31230,None,0,"If you were NOT be able to read the documentation or to fix the code, then yes, you would be a bad programmer regardless the code origin (either Chatgpt or SO)",3,2023-05-06 07:45:18
+4,3,1,pyr00t,328,124,None,0,"Yea always I make sure to fully understand what went wrong, and how the correct code works. If it uses something I’ve never used like enumerate in Python I’ll ask it to explain more in depth to give me a better understanding.",1,2023-05-06 18:16:25
+5,,0,Paul_Pedant,16,14849,None,0,"You might consider thinking about ChatGPT as that old guy sitting in the corner who seems to know everything, has years of experience, will take a shot at anything, but does not do a whole lot of work. (Full disclosure: that guy is me.)
+
+ChatGPT will mentor you, but it is too dumb to trust. You need to do at least five things after using it:
+
+(1) Check it actually answered the specific question you asked.
+
+(2) Test the heck out of the solution.
+
+(3) Figure out why and how it works (or does not work).
+
+(4) Figure out what else you would have needed to know to make your own solution.
+
+(5) Keep a ReadMe (maybe several, for different languages and tools), to remind you next time you hit a similar problem. (I keep a comment title, the key part of the code example, a link to any original post, and the path to my tested program.)",3,2023-05-06 09:33:52
+6,5,1,pyr00t,328,124,None,0,"Haha I dig that, the readme doc is actually an awesome idea, sometimes I’ll reference back to old projects if I solved something similar but it would def be more organized and efficient to keep a read me doc",1,2023-05-06 18:12:44
+7,,0,KiwiOk6697,18,8305,None,0,"ChatGPT isn't a search engine. It generates responses based on patterns and probabilities. It doesn't really understand programming concepts (or really anything) and as programming questions can require specific details, it gets most of the questions wrong. In my experience you need to know what you are looking for and understand the code it gives. You can also craft, correct and modify any answers it gives but sometimes it is just faster to write the code yourself.
+
+That being said, I think it can be safe to start with ChatGPT. Even if its answer may not be always accurate, it can still provide some guidance or offer insights that might be helpful. Just take any responses it generates with a grain of salf. Stack Overflow isn't perfect either but it does have curated user driven content. The first answer isn't always the best (especially if it is old) but Stack Overflow gives a quick overview of multiple approaches. Unless you have a very specific use case and a problem, chances are it already has the answer you are looking for so try to search for an answer instead of asking.
+
+Ultimately the only thing matters is if you can solve your problems efficiently. It doesn't really matter how you got there so no, it doesn't make you necessarily ""lazy"", just efficient. On the other hand, do you learn anything if you just paste the exception to ChatGPT and copy paste the answer without really understanding it? What if ChatGPT and Stack Overflow goes offline?",-1,2023-05-06 08:45:34
+8,7,1,pyr00t,328,124,None,0,"That’s very fair, it definitely saves me a lot of time, instead of searching for an answer for 5-15 minutes it takes me 2-3 minutes at most. 
+
+I agree with the others though it definitely feels a bit like a search engine in a way even though it’s not actually one.
+
+Your right though, as long as it makes me more efficient and I understand my code I’m probably doing better off with it! :)",1,2023-05-06 18:18:12
+9,7,1,Low-Run-7370,781,978,None,0,"It’s not too dissimilar from a search engine really, except that it’s a couple of years out of date and the answers are an amalgamation of every search result.",1,2023-05-06 09:50:02
+10,9,2,KiwiOk6697,18,8305,None,0,"Personally, I don't categorize language model as a search engine. It has been trained on a large dataset to which it doesn't have direct access to. The responses are based on patterns, and connections between them. It doesn't really retrieve any specific information from a searchable database. The model doesn't have any original data from the dataset and it can't be retrieved from the model.",0,2023-05-06 14:25:04
+11,,0,Low-Run-7370,781,978,None,0,"Going to go against the flow and say it is pretty good as an alternative for stack overflow. If you can’t get it to give you working code snippets, you should work on your prompts. No, it can’t create novel solutions to your problem, but 99.9999% of the time, your problem is not unique. So you can actually do a whole lot with it. That being said, try to understand the code it’s giving you. You can even ask it for explanations and ask follow up questions",1,2023-05-06 09:48:29
+12,11,1,pyr00t,328,124,None,0,"Yes that’s usually what I do, it gives me pretty decent solutions not always right, but close enough to figure out how to solve the problem",1,2023-05-06 18:19:36
+13,,0,Deleted,N/A,N/A,None,0,[removed],1,2023-05-06 10:01:01
+14,13,1,pyr00t,328,124,None,0,What do you mean?,1,2023-05-06 18:19:51
+15,,0,nevermorefu,809,10691,None,0,"Until it has the sass of SO, it's not a replacement.",1,2023-05-06 11:57:54
+16,15,1,pyr00t,328,124,None,0,What do you mean by that?,1,2023-05-06 18:20:03
+17,,0,loukasTGK,2960,6303,None,0,Personally I use phind and I am pretty happy with it. Anything to avoid stack overflow toxicity though.,1,2023-05-06 18:29:52
+18,,0,Deleted,N/A,N/A,None,0,"It's just a tool. It also fails miserably on technical questions and often times you will need to fix bugs on code it gives you.
+
+I have used it for technical questions and it actually lead me to go and do a full research (reading documentation and papers) and testing on the stuff to understand why it would be wrong. It's simply Google 2.0. Using Google doesn't make you a bad programmer, just a more efficient one. You call it lazy, I call it efficient :)",1,2023-05-08 11:34:55

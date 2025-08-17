@@ -1,0 +1,70 @@
+Type,Content,Username,User Reputation,Upvotes,Is Moderator,Creation Date
+Question,"I read:
+
+
+Google CEO says a quarter of the company’s new code is already AI generated.
+According to Stack Overflow’s 2024 Developer Survey, over 75 percent of respondents are already using or are “planning to use” AI tools to assist with software development.
+Another survey by GitHub indicated that 92 percent of US-based developers are currently using AI coding tools.
+
+
+Based on this overwhelming use of genAI for coding, could the 2-year-old ban on using genAI for coding in SO answers be lifted? The ban was established when LLMs were much weaker (e.g., ~230 fewer elos on this benchmark) and when humans were less acquainted with LLMs.
+",Franck Dernoncourt,83327,-66,0,2024-10-31 13:21:07
+Comment on Question,"@ChristophRackwitz they could do that without using any LLMs. If rep whoring is the issue, the remove rep as maths SE did?",Franck Dernoncourt,83327,0,0,2024-11-11 21:27:42
+Comment on Question,I've seen users mine github issues for Q&A pairs they can post. it's disingenious.,Christoph Rackwitz,15481,0,0,2024-11-11 21:26:16
+Comment on Question,"@ChristophRackwitz most such questions would be closed as duplicates, likely causing a question ban, and there's a limit of 50 questions per month. Humans are already progressively visiting SO less frequently because GPT and other LLMs have become pretty good.",Franck Dernoncourt,83327,0,0,2024-11-11 21:24:59
+Comment on Question,"if this policy changes, a lot of real humans will leave, because this site would become nothing more than a frontend to ChatGPT, and the ""people"" posting answers will be sockpuppets of ChatGPT. there is no joy in any of that. I have no desire to spend my time in a community of copywriters. anyone who wants to, can start a new site. the people who give this site its life do not want any part of that. if you do, this place is not for you.",Christoph Rackwitz,15481,0,0,2024-11-11 21:24:44
+Comment on Question,"that opens the door for crafty people that will, or already do, use AI to generate a bunch of question-answer pairs for which the LLM came up with the answer and the human merely made the machine rephrase the text so it doesn't reek of ChatGPT's style. that's equivalent to someone googling on a topic they have no clue of, then writing an answer. that is terrible. ""legalization"" is strategically a bad move. I'd rather they keep the policy, and anyone who feels like having an LLM assist them had better make damn sure it's not a substitute for their own competence.",Christoph Rackwitz,15481,0,0,2024-11-11 21:21:57
+Comment on Question,"@ChristophRackwitz Yes, I propose to allow 10k rep users to post answers that used some LLMs.",Franck Dernoncourt,83327,0,0,2024-11-11 21:02:21
+Comment on Question,"what are you proposing? to allow 10k rep users the posting of ChatGPT answers? nobody wants that from anyone at any rep. I think the feedback you got so far is very clear. I won't tell you to accept it. that's up to you. I will tell you, I will not spend time trying to convince anyone who can't be convinced.",Christoph Rackwitz,15481,1,0,2024-11-11 20:49:36
+Comment on Question,"@ChristophRackwitz no,  the ban is about avoiding a flood a LLM answers. A min rep threshold would avoid that.",Franck Dernoncourt,83327,0,0,2024-11-11 13:11:02
+Comment on Question,"10k is both easy and hard to attain. rep whores will answer all the easy newbie questions and jump on all the bounties to rush to that arbitrary limit, while domain experts spend an hour on a decent answer to a decent question, which comes along once in a blue moon, and get a few updoots out of it. -- the ban is about having rules in place that unequivocally allow the hammer to come down on anyone who copypastes out of chatgpt, anyone who hasn't got a clue but still ""answers"" the question by having chatgpt answer it for them. curation/moderation efforts are costly. we do not want junk here.",Christoph Rackwitz,15481,1,0,2024-11-11 10:47:04
+Comment on Question,@KevinB then only allow genAI for people with >10k rep?,Franck Dernoncourt,83327,0,0,2024-11-02 00:27:33
+Comment on Question,@FranckDernoncourt historically (evidenced by the influx of non-checked/improved wrong ai answers we received) humans don't do that on average. Do you have an army of subject matter experts willing to slog through ai generated content for mistakes and correct them?,Kevin B,95047,0,0,2024-11-02 00:15:47
+Comment on Question,@KevinB generated answers aren't always perfect.  Point of SO is having human check/improve the generated answers.,Franck Dernoncourt,83327,0,0,2024-11-01 22:54:01
+Comment on Question,but why? that's a waste of time. just generate again,Kevin B,95047,0,0,2024-11-01 21:54:15
+Comment on Question,@KevinB we're not at that level yet. point of SO is having human check/improve the answer.,Franck Dernoncourt,83327,0,0,2024-11-01 21:53:01
+Comment on Question,@FranckDernoncourt would an ai not be able to generate answers with older lib versions? if not... then what are we doing?,Kevin B,95047,0,0,2024-11-01 21:52:29
+Comment on Question,"@KevinB software don't always use the latest lib versions. And again, point of SO is having human check/improve the answer.",Franck Dernoncourt,83327,0,0,2024-11-01 21:49:56
+Comment on Question,If generative ai is a revolution in the making... surely it wouldn't benefit from cataloging older versions of its answers on SO rather than having people generate new answers every time.,Kevin B,95047,0,0,2024-11-01 21:42:56
+Comment on Question,"I generally consider such claims more of an admittance that the business cares more about printing money than producing a valuable product. That's not to say businesses shouldn't be focused on making money, more, i don't feel 25% of google's code base supposedly being AI generated is necessarily a relevant argument in favor of allowing AIGen answers. What value would such answers bring here, when one could instead just ask AIGen and get a more recent iteration of an AIGenned answer, potentially based on a larger or better focused data set than was available when the old answer was generated?",Kevin B,95047,1,0,2024-11-01 21:39:37
+Comment on Question,"@Starship If 25% of the new Google codebase, we're talking about returning users.",Franck Dernoncourt,83327,0,0,2024-11-01 15:45:41
+Comment on Question,@FranckDernoncourt At one point they had never smoked before and decided to start...,Starship,700,0,0,2024-11-01 15:22:37
+Comment on Question,@Starship they keep smoking due to nicotine. What's the LLM nicotine?,Franck Dernoncourt,83327,0,0,2024-11-01 13:00:49
+Comment on Question,@FranckDernoncourt People smoke. Is smoking good for you?,Starship,700,1,0,2024-11-01 10:34:32
+Comment on Question,@Starship likely some correlation,Franck Dernoncourt,83327,0,0,2024-11-01 01:23:37
+Comment on Question,@FranckDernoncourt People use it is not the same as it's good.,Starship,700,5,0,2024-11-01 01:17:07
+Comment on Question,"@KarlKnechtel at time of the ban, genAI wasn't as good. Overwhelming use of genAI for coding shows that now it works decently.",Franck Dernoncourt,83327,0,0,2024-11-01 00:24:25
+Comment on Question,@blackgreen Same reason as why 25% of the new Google codebase is created by genAI even googlers could write it:  save time.,Franck Dernoncourt,83327,0,0,2024-11-01 00:23:25
+Comment on Question,"""Based on this overwhelming use of genAI for coding"" - absolutely not, because none of this has absolutely anything whatsoever to do for the reasoning behind the ban. And you know this; you were in that discussion, and in fact extensive discussion all over MSO and MSE about AI is the only reason I recognize your name.",Karl Knechtel,61615,6,0,2024-10-31 20:00:57
+Comment on Question,@FranckDernoncourt I don’t see why anyone who has the expertise to check+improve an AI answer wouldn’t simply post one themselves.,blackgreen,44971,8,1,2024-10-31 19:21:36
+Comment on Question,"@PresidentJamesK.Polk ""if you have to use an AI to help you answer a question then you shouldn't be answering it"" disagreed. Why code from scratch if some LLM can draft most of the code?",Franck Dernoncourt,83327,0,0,2024-10-31 19:06:13
+Comment on Question,"@Lino ""Why should people use SO to get their AI generated answers, when they can just ask the AI directly?"" because on SO, posts would  be checked+ possibly improved by humans.",Franck Dernoncourt,83327,0,0,2024-10-31 19:05:02
+Answer,"NO
+
+Even assuming that Google's CEO has an accurate picture of who and how writes their gargantuan code base, what they do is not our concern.
+
+Using AI to assist with software development is not the same as presenting solutions to other people's questions as if you were a subject-matter expert.
+
+
+The main issues with AI posts (answers in particular) which prompted the ban all remain:
+
+No matter how good a GenAI model is, they can still hallucinate. There's even research that suggests AI models may never not hallucinate. The burden of vetting such content that looks good on the surface but may be fundamentally flawed then falls on the shoulders of an already strained community.
+GenAI content can be produced at a much faster rate than what the community is able to curate/moderate
+Even for vetted content, moderators (but anyone except the poster really) are unable to verify claims that the content was actually vetted beforehand. It'd come down to hunches and subjective bias. That kind of moderation is prone to be unfair and ineffective.
+plagiarism: after having handled thousands of AI flags on this site, I can tell you that almost nobody gives proper credit to the AI. Folks tend to present the content as their own, thus misrepresenting someone else's work.
+The only value proposition that Stack Overflow still has over an LLM is that there's the expectation that a human being has authored the text as written.
+Allowing for an exception this big to the AI ban would open the floodgates.
+
+There is a case to be made about using AI to improve a post's grammar, formatting, etc. but that suffers from the same issues as point #3.
+I really don't see how we could realistically allow AI content in almost any form while staying true to Stack Overflow's values and a Community made of humans at its core.
+",blackgreen,44971,49,1,2024-10-31 13:45:12
+Comment on Answer,"that NO can't be emphasized enough. if anyone wants to turn it into a granite monument that can be seen from orbit, I'd give a few bucks for the cause... and thank you for having the patience to list all the reasons why.",Christoph Rackwitz,15481,0,0,2024-11-11 10:44:58
+Comment on Answer,"re: ""the only value proposition"". I like to think we have more than that over LLMs :/",starball,51043,1,0,2024-11-01 04:37:26
+Comment on Answer,I’ve never heard (until now) anyone saying that they would contribute more/better to Stack Overflow if they only had to spend less effort. That seems like the opposite of what we want to encourage.,Clive,36955,17,0,2024-10-31 18:37:40
+Comment on Answer,"@Clive Yes, that’s the main argument I am making for this change. (imho, a strong one). Another argument is accessibility (e.g., some people can't type much due to medical condition).",Franck Dernoncourt,83327,0,0,2024-10-31 18:23:20
+Comment on Answer,"But why bother putting in extra systems for something which delivers no value? “I can expend less effort” doesn’t seem reasonable - if you don’t have the time/will, then don’t do it, leave it for those that do. Unless I’m missing something, that’s the only argument you’re making for this change?",Clive,36955,6,0,2024-10-31 18:10:09
+Comment on Answer,"@JohnMontgomery I agree with blackgreen's point (""GenAI content can be produced at a much faster rate than what the community is able to curate/moderate"") about that. But there could be way to address it, eg demand min rate and thresholding post/hour.",Franck Dernoncourt,83327,0,0,2024-10-31 18:05:57
+Comment on Answer,"@FranckDernoncourt When humans hallucinate, it's usually more obviously wrong, and even when it isn't they can't output realistic-looking nonsense at nearly the same rate that AI can so either way it's much less of a curation/moderation burden (I notice you didn't address any of blackgreen's points about that).",John Montgomery,7096,4,0,2024-10-31 18:01:30
+Comment on Answer,Few people will be willing to admit they have no idea what they're doing and just let an AI do it for them.,Kevin B,95047,8,0,2024-10-31 15:03:28
+Comment on Answer,@FranckDernoncourt Even when it wasn't banned no one gave proper credit.,Starship,700,14,0,2024-10-31 14:20:46
+Comment on Answer,"""No matter how good a GenAI model is, they can still hallucinate."" just like humans. "" I can tell you that almost nobody gives proper credit to the AI."" it's banned, so giving proper credit to the AI = ""please ban me"".",Franck Dernoncourt,83327,1,0,2024-10-31 13:50:21

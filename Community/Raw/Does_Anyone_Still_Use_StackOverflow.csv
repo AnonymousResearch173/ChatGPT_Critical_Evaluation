@@ -1,0 +1,170 @@
+Unique ID,Parent ID,Depth,Username,Post Karma,Comment Karma,Achievements (Flair),Number of Awards,Comment,Upvotes,Timestamp (UTC)
+1,,0,iamcleek,210,34773,None,0,"i use Google. if it takes me to SO, that's fine.",505,2024-09-28 16:33:11
+2,1,1,tcpukl,237,55955,None,0,Same. I've never searched just on SO.,129,2024-09-28 16:47:53
+3,2,2,really_not_unreal,23401,162904,None,0,"When I suggested a tag synonym with the idea of improving the search experience, stack overflow mods straight up told me that I shouldn't be using the actual stack overflow search, and should use Google instead.",12,2024-09-29 01:07:59
+4,1,1,Zapismeta,2434,11864,None,0,"Because god forbid you ask something there! Bam duplicate! Already answered, dont be stupid!",104,2024-09-28 16:48:04
+5,4,2,Kuroodo,8565,35470,None,0,"Even worse, if I have a question that already exists and I want to add a comment to one of the answers, maybe to ask something related to my specific issue, I'm not allowed because of their rep system. I would have to make a brand-new question which will likely just be closed as a duplicate haha",32,2024-09-28 18:23:29
+6,4,2,DigitalJedi850,1263,34904,None,0,"Every time.
+
+“What, you don’t know how to multithreaded overlapping database queries!? Are you an idiot or something!?”",39,2024-09-28 17:35:44
+7,6,3,BewitchedHare,4372,2735,None,0,"Autism. 
+They often don't understand that other people don't know everything they know.",24,2024-09-28 19:08:53
+8,7,4,DoubleCorvid,63,5604,None,0,"Can confirm, am autistic.",9,2024-09-28 20:11:26
+9,4,2,Virtual_Elephant_730,3332,17151,None,0,"Or any ambiguity, users cannot tell what they are asking. Could not imagine some of the users having a conversation with a child. 
+
+I used to think they are like robots and need to be fed bullet proof questions with no room for error in the question. But AI robots are able to make assumptions and answer questions better than some of the users. So maybe not a great analogy.",9,2024-09-28 20:12:39
+10,4,2,Temporary_Pie2733,1,1029,None,0,"A duplicate is fine if you are looking for a solution to your problem, rather than a group discussion with other people. Too many people refuse to accept that Stack Overflow is *not* a forum.",5,2024-09-28 20:07:02
+11,10,3,richitoboston,1,-2,None,0,"Stack Overflow is NOT a forum, which has its place in the social media and social network world.  Stack Overflow is a curated knowledge base owned by an expert community, not like Reddit which is a public forum.",1,2024-11-05 08:27:29
+12,4,2,secretaliasname,844,9048,None,0,And the answer is woefully out of date and no longer relevant,2,2024-09-29 21:41:57
+13,4,2,InsaneTeemo,4812,11868,None,0,"Also somehow your question is ""wrong"" and you should feel bad about even thinking to ask it.",3,2024-09-29 08:29:28
+14,4,2,richitoboston,1,-2,None,0,"Quality of answers is the real distinction between Quora, Reddit, and StackOverflow.  StackOverflow is by far the best quality-controlled of these three.   Freedom of speech gives you freedom to wade through a lot of garbage, especially on Quora.  Reddit has more credibility than Quora, but not as much as StackOverflow.",1,2024-11-05 08:24:08
+15,1,1,Deleted,N/A,N/A,None,0,I just ask copilot first.   Unless it’s something truly obscure.,1,2024-09-30 18:52:05
+16,,0,Deleted,N/A,N/A,None,0,Google seems to search SO better than SO search,182,2024-09-28 16:34:59
+17,16,1,wandering_melissa,3,1735,None,0,google even searches better than youtube search lol,39,2024-09-28 17:53:09
+18,17,2,theuniversalguy,7,1051,None,0,Than Reddit too ,26,2024-09-28 18:03:12
+19,18,3,BingpotStudio,818,12749,None,0,I put Reddit in as a keyword so often that Google just suggests it on most my searches now.,26,2024-09-28 18:43:17
+20,19,4,MeMyselfIandMeAgain,7080,43028,None,0,"yeah honestly ""xyz reddit"" is probably more common in my search history than ""xyz""",13,2024-09-28 19:32:57
+21,20,5,Sunstorm84,319,46266,None,0,If you change it to xyz site:reddit.com it’s even better,5,2024-09-28 22:09:06
+22,21,6,MeMyselfIandMeAgain,7080,43028,None,0,Yeah ik but it takes longer to type and at least for me it’s the same results so I just stick to the easier search,1,2024-09-29 08:02:30
+23,19,4,db8me,786,16206,None,0,"My work computer blocks it. Luckily, it's rare to have the best answer to a serious question on reddit, but it happens....",1,2024-09-29 11:07:22
+25,,0,PsychologicalLeg3078,1,1890,None,0,SO is full of Super Weenies who pedantically sabotage the board instead of answering questions.,22,2024-09-28 20:21:46
+26,25,1,brown_smear,1,22076,None,0,Some of the subs here are the same; you get your post deleted and a condescending note from the mod showing they don't actually know what they're talking about.,5,2024-09-29 10:29:11
+27,,0,nuclear_splines,850,22758,"PhD, Data Science",0,I'm not sure how well Google search prevalence serves as a proxy for StackOverflow traffic - if you google almost any error message or description of programming or sysadmin challenge the top result is typically from SO without needing to include the site name. I do wonder if the downward search trend is because people now ask LLMs (trained on SO) questions instead of asking SO directly.,32,2024-09-28 16:30:14
+28,27,1,Philtronx,937,2311,None,0,"I switched to searching on Bing just for the Ai summarized answers from copilot. Though most of the time the reference links copilot gives me has at least one from stack overflow. Interesting enough, no one has talked down to me about the quality of my question since I stopped using stack overflow.",1,2024-09-29 04:49:24
+29,,0,Deleted,N/A,N/A,None,0,"Honestly it's a shit community. The desire to be verbose, but not human has unfortunately created a rather toxic environment.
+
+People starting out are not really encouraged to ask, ""stupid questions"". The problem is you don't know what you don't know. So if asking questions to learn is discouraged, why would you continue to seek knowledge by asking people? The only stupid question is the one left unasked IMO.
+
+You will get people arguing over the wording of your answers. People will then come and change the wording, which changes the meaning. Because they think they know what you meant. I've not personally had this issue, but I've seen it enough to know it's a bad problem.
+
+It brings probably the most arrogant engineers I've ever met. People you simply cannot have a conversation with. My Senior and Principal engineering staff are all approachable people with a desire to share knowledge. Stack Overflow feels more like an attempt to structure knowledge and supresss anything that falls outside that structure. The problem is we don't all communicate the same way. This often isolates people who are not great writers either because they are new to English, or that's not their strongest suite. 
+
+I avoid that shit website at all costs. I'm pretty sure ChatGPT has scraped all their knowledge anyways 😂",63,2024-09-28 17:04:31
+30,29,1,sierra_whiskey1,882,3713,None,0,When I first started programming I was terrified to ask a question on SO cuz of the dreaded “duplicate question”,13,2024-09-28 17:30:44
+31,30,2,wandering_melissa,3,1735,None,0,I am still afraid...,5,2024-09-28 17:54:28
+32,30,2,UltraLowDef,290,51070,None,0,"At least that's some sort of feedback, as awful and inaccurate as it often is. But the worst is just a bunch of down it's with no comments on a post you legitimately put a lot of effort into.",2,2024-09-29 01:31:55
+33,30,2,BogdanPradatu,57,19450,None,0,"I did ask questions on SO and never encountered the toxic environment everyone is talking about. I did try to search info on the subject before posting, though.",1,2024-09-28 20:15:17
+34,29,1,MettaWorldWarTwo,1849,16222,None,0,"I'm 40. In the beginning, StackOverflow was THE place to ask and answer questions back when most computer books were printed, knowledge didn't change all that often due to the slowness of releases, Linux was one of the few Open Source projects with source code freely available and there were maybe 15-20 seriously relevant technologies. StackOverflow was the place to connect with experts and developers.
+
+As software has sped up releases, proliferated, and moved online, the need for a centralized place has gone way down. Reddit, to a large extent, has replaced Stack Overflow as communities have segmented.
+
+The one thing I miss exists in AskHistorians. It's the closest to what StackOverflow was back in the day where credentials, capabilities and correctness mattered more than the popularity of the answer.
+
+In some communities, the correct answer may be downvoted while the hive mind answer is top.",13,2024-09-28 18:32:00
+35,34,2,Deleted,N/A,N/A,None,0,"No I definitely agree with you in all this. When I first started learning a long time ago it was an amazing resource. I used to rely on it to find what I needed from very smart people. Over time it morphed drastically and dramatically. 
+
+Reddit is now where I go to find the things I used SO for. We aren't far off in age and SO really was the place to be when we started.",5,2024-09-28 18:35:24
+36,35,3,MettaWorldWarTwo,1849,16222,None,0,"The things I remember most were StackOverflow, Slashdot, a few php bulletin boards, hacker news, and mailing lists.
+
+I haven't thought of slashdot or hacker news in a very long time. I still end up on StackOverflow every once in a while for the answer to a question that's at least 5+ years old after Googling.",1,2024-09-29 05:09:10
+37,34,2,mikeblas,13672,132520,None,0,Why didn't you use ExpertsExchange?,-1,2024-09-28 19:34:58
+38,37,3,brown_smear,1,22076,None,0,Don't you have to pay for that?,1,2024-09-29 10:26:47
+39,38,4,MettaWorldWarTwo,1849,16222,None,0,It's done by your ex-pert so pretty cheap.,1,2024-09-29 14:39:26
+40,29,1,expresso_petrolium,1706,38826,None,0,"Real. Posted a request when I started learning OOP. Got downvoted and marked as duplicate, they send me a link to a mega big guide for me to find out on my own and delete my post",6,2024-09-28 18:05:20
+41,29,1,agumonkey,92165,312486,None,0,"> desire to be verbose, but not human
+
+well summarized",2,2024-09-28 20:30:55
+42,,0,Khaldon_MK,82,14,None,0,Right now use AI like chatgpt and Claude,8,2024-09-28 17:32:06
+43,,0,david-1-1,74,8179,None,0,Stack overflow is very good for voting down and not answering my questions. Their roles are arcane and mostly unwritten.,14,2024-09-28 18:33:53
+44,,0,masdemarchi,3464,25103,None,0,">*Closed. This question does not meet Stack Overflow guidelines. It is not currently accepting answers.*
+
+And also:
+
+>*You asked for X, but I will say X is stupid and you should do Y instead. It wont solve your problem but I will feel like I'm smarter than you*",13,2024-09-28 18:03:45
+45,44,1,Uh0rky,445,3787,None,0,holier-than-thou at its peak,1,2024-09-29 17:52:14
+46,,0,xxlibrarisingxx,984,3475,None,0,"i used it in 2020 and then recently again, and it's night and day. i felt semi-welcomed in 2020, but i tried posting recently and i got put into some purgatory to learn how to ask questions. my question could have been better for sure if i knew the exact question i should be asking, but i wasn't given that chance. it's probably still a good tool for people who have very exact problems that they can fully describe, but i'm not sure why you wouldn't use AI/documentation at that point.",11,2024-09-28 17:24:55
+47,,0,Cookskiii,1,3301,None,0,"It’s a horrible toxic community the discourages beginners. It should have died years ago
+
+Dog. Shit.",25,2024-09-28 17:22:46
+48,47,1,homiej420,14944,309816,None,0,Yeah fuck all of those folks for sure,8,2024-09-28 21:59:44
+49,47,1,hdadeathly,9475,56001,None,0,Pretty crazy those that run SO didn’t try to mitigate this a long time ago. This has long been foreseen but nothing has changed to fix it. It’s deserved at this point.,3,2024-09-30 20:55:50
+50,,0,al_earner,185,12947,None,0,"Stack overflow gradually moderated themselves out of relevance. Toxic community, just let Perplexity serve up their content.",4,2024-09-28 21:27:02
+51,,0,protocod,1605,17028,None,0,Curiously most of my Google searches about technical problems leads me to GitHub issues or Reddit.,4,2024-09-28 22:27:25
+52,,0,P_DOLLAR,898,1323,None,0,AI is a lot quicker to use if I forget the syntax of something or how to do a very specific thing. GitHub issues and official docs are way more popular now too. It's rare I end up on stack overflow now but it still happens occasionally.,3,2024-09-28 23:10:38
+53,,0,ProfessionalShop9137,204,3458,None,0,"I used to use stack overflow a lot. Now I use GPT for 80% of my questions (this is highly context dependent, data science in python is great, software development in Vue is atrocious)",4,2024-09-28 23:33:04
+54,53,1,WarBroWar,286,1007,None,0,Which in turn uses stackoverflow ;),2,2024-09-29 01:35:47
+55,54,2,ProfessionalShop9137,204,3458,None,0,Better it than I,5,2024-09-29 04:23:45
+56,,0,uncle_jaysus,300,1600,None,0,Chat GPT is a game changer for being able to get quick responses to dumb questions that would get you attacked anywhere else (especially SO).,3,2024-09-29 12:26:20
+58,,0,HolevoBound,384,14472,None,0,"I'm glad it's dying. 
+
+
+The amount of newbies posting questions meant it required really strict moderation and norms to function, but this ultimately meant the vibe was pretty hostile.
+
+
+The restrictions on repeating question makes sense on paper, but renders the advice useless if there have been any updates in the last decade since someone posted the query.",20,2024-09-28 17:02:11
+59,58,1,Deleted,N/A,N/A,None,0,"They do not even make sense on paper because the field moves quick. So many questions get shut down and then with a link to a similar question that was already answered.
+
+The problem is that the answer was about C++ and answered 14 years ago before C++11 was even a thing; the language nowadays is completely different and most fundamental knowledge about the language from back then is invalid now.",14,2024-09-28 17:10:28
+60,59,2,wandering_melissa,3,1735,None,0,I dont think C++ is a good example as it is backwards compatible.,5,2024-09-28 17:56:52
+61,60,3,khedoros,197,173377,None,0,"But a lot of the time, good code written today would look significantly different than good code 15 years ago. You could even write something in C, in most cases; it would work ""as it is backwards compatible"", but it would almost never be considered good code.",8,2024-09-28 18:45:07
+62,60,3,Deleted,N/A,N/A,None,0,"If you were to write code using raw pointers and other things that were common in ye olde pre-C++11 days, you would get fired.",3,2024-09-28 19:25:38
+63,,0,Deleted,N/A,N/A,None,0,downvoted. Vote to close- duplicate question [https://www.reddit.com/r/computerscience/comments/mmdkuc/why\_are\_people\_on\_stackoverflow\_so\_rude/](https://www.reddit.com/r/computerscience/comments/mmdkuc/why_are_people_on_stackoverflow_so_rude/),10,2024-09-28 17:14:23
+64,63,1,Deleted,N/A,N/A,None,0,Oh I see you are the average SO user. Someone asked a duplicate question. Crucify them!,8,2024-09-28 17:15:42
+65,64,2,Deleted,N/A,N/A,None,0,"What do you think this is, Q&A? It's an encyclopaedia!",3,2024-09-29 08:36:51
+66,65,3,Deleted,N/A,N/A,None,0,"Sir, this is a Dairy Queen.",2,2024-09-29 13:16:00
+67,,0,Calm_Ostrich_8876,2649,922,None,0,"It’s gotten pretty toxic, more people are trying to learn finding example code on github then putting it into a llm to explain the code.",4,2024-09-28 17:24:16
+69,,0,phillies_navidad,5,5123,None,0,I don’t go on Stack Overflow because I don’t like the condescending vibes. It’s literally an online forum lol. People will ask questions.,2,2024-09-28 22:24:34
+70,69,1,1maru,244,346,None,0,"I don't think it's an online forum because discussion is not allowed. If I understand it right, the developers' intentions is for it to be a repository of answers to questions so any problem can be looked up, which is why I imagine 'duplicate' questions get shut down. In hindsight, this has led the platform to be extremely useful for anyone not participating in it, but very painful for any user asking questions.",1,2024-09-29 13:47:39
+71,,0,Creepy_Philosopher_9,273,8906,None,0,"The most toxic website in the world, worse than 4chan? Sounds like a great place to ask ",2,2024-09-29 04:22:15
+72,,0,ChastisingChihuahua,1,2937,None,0,Most of my problems come from not knowing the vocabulary to then search that specific word/phrase on Google. SO used to help with that but LLMs are so much better at guessing what I'm trying to say.,2,2024-09-29 06:57:28
+73,,0,Uh0rky,445,3787,None,0,Lol no... Its full of holier-than-thou people,2,2024-09-29 17:51:05
+74,,0,cirosantilli,1926,5844,None,0,Here's another brutal graph I made: questions per month: [https://meta.stackoverflow.com/questions/333743/daily-number-of-questions-on-stack-exchange/432698#432698](https://meta.stackoverflow.com/questions/333743/daily-number-of-questions-on-stack-exchange/432698#432698),2,2025-01-24 11:42:31
+75,74,1,mooooner,3090,10767,None,0,That's a quite a dip,1,2025-01-24 13:30:08
+76,,0,0x52_,234,622,None,0,we are here.,2,2024-09-28 17:14:22
+77,,0,50_cal,3934,8471,None,0,"thats just the amount of search interest the keyword ""stackoverflow"" has on google. this does not count people going to stackoverflow directly in the browser, which probably accounts for more traffic.",1,2024-09-28 17:30:14
+78,,0,avidpenguinwatcher,14395,105246,None,0,Feel like the statistical graph YOU posted has the answer,1,2024-09-28 19:47:54
+79,78,1,1maru,244,346,None,0,"Not necessarily. The statistic describes how often over time people have googled the term 'stackoverflow'. Many people still use stackoverflow because most of google's first page results for programming questions links to them. Wait, hold on- how did you break containment? [Get back in your cage](https://stackoverflow.com)",1,2024-09-29 13:51:09
+80,,0,bjernsthekid,965,39932,None,0,Why would I spend hours scrolling through stack overflow when AI can point me in the right direction in about 30 seconds,1,2024-09-28 21:04:01
+81,,0,UncarefulEngineer,131,557,None,0,"Usually, challenges that I deal with are not on SO. I find it more useful to use GH search and read code. For generic beginner-level requests LLMs give acceptable responses that allow me to drill down docs, or just search for terms in Google.",1,2024-09-28 21:18:45
+82,,0,Pale_Height_1251,1,104054,None,0,"I use it all the time, but almost never post.",1,2024-09-29 00:38:22
+83,,0,daspacebar,30,12,None,0,"Yep never searched for SO specifically. I tend to believe the article that helps me get things sorted in the end of the day - can be medium, SO, or any shady European site for that matter",1,2024-09-29 15:46:32
+84,,0,cthulhu944,8992,13315,None,0,"I google first, and if I don't find a good answer I can ask Chat GPT.  Stack Overflow has such a toxic user community that it's pointless to engage in. Chat GPT will give me a strait up answer without drama.",1,2024-09-29 16:22:46
+85,,0,ViveIn,1209,34307,None,0,"I rarely, rarely google for a stack overflow solution anymore.",1,2024-09-29 19:46:52
+86,,0,Cill-e-in,177,5028,None,0,I stopped using it because people are snotty.,1,2024-09-29 23:17:20
+87,,0,Fun-Ad-2850,1,30,None,0,"Yo uso Copilot para estas dudas, creo que como servicio es un game changer.",1,2024-09-30 14:26:09
+89,,0,skibiditoiletfan20,263,671,None,0,Personally I have only bad experiences with Stackoverflow. People don't answer the question instead reference something else and tell you to solve it yourself.,1,2024-10-01 06:00:32
+90,,0,richitoboston,1,-2,None,0,"This is opinionated garbage.   The question is clickbait.  
+
+Quality of answers is the real distinction between Quora, Reddit, and StackOverflow.  StackOverflow is by far the best quality-controlled of these three.   Freedom of speech gives you freedom to wade through a lot of garbage, especially on Quora.  Reddit has more credibility than Quora, but not as much as StackOverflow.",1,2024-11-05 08:24:32
+91,,0,aniwaifus,216,546,None,0,I use AIs and Google. I don't need anything else.,1,2024-09-28 16:51:30
+92,,0,Figai,162,1431,None,0,"Idk what the point is of down voting any comment that includes AI. Honestly o1 mini isn’t going to be code out solutions perfectly, but it fixes 99% of my bugs.",1,2024-09-28 17:12:27
+93,,0,Zenin,350,7132,None,0,"StackOverflow has always been shit.
+
+It's ""mission"" is to be some kind of definitive tech wiki in which there is only one right answer to any one right problem.  It wants to be the #1 result whenever something is googled...and it only wants 1 single ""correct"" result.
+
+Their model for building this content was to flip the Internet on its head which generally builds communities via open, free, egalitarian discussions with little or no barrier of entry.  StackOverflow instead decided to build a gamified, hyper-competitive, cutthroat system that rewards knocking others down.
+
+The result is an insanely toxic shithole ""community"" of tech-bros with ever rising barriers of entry who all play SO as a game exploiting its most effective strategies that mostly revolve around shitting on anyone not on their ""team"".  And yes, they do ""team up"" to up-vote/down-vote in mass.  Like I said, it's a game.  A shitty, shitty game.
+
+[Ain't Nobody Got Time for That](https://www.youtube.com/watch?v=waEC-8GFTP4)",1,2024-09-28 19:33:14
+94,,0,Additional-One-3732,1,299,None,0,I still use SO because it feels like I am not cheating and learning stuffs.,1,2024-09-28 17:03:50
+95,,0,mathematicandcs,2983,3414,None,0,"When I realized I was using chatgpt wrong and directly getting the answer I am looking for, I realized that I am not learning anything and switched to SO. However, couple days later I again realized it slowed me down a lot, so I learned how to use chatgpt more educational and actually learning something instead of copying and pasting.",1,2024-09-28 17:30:58
+96,,0,fakeittillumakeit321,62,1416,None,0,"I used it extensively before chatGPT, but now I barely use it at all.",1,2024-09-28 17:44:12
+97,,0,Revolutionalredstone,928,24344,None,0,"I believe real devs never used it, it was more of a melting pot for obnoxious assholes to play 'who can be the biggest bureaucratic Karen'.
+
+Stack Overflow was like School, it's technically 'a place to learn' but actually no one smart hangs out there, and it's really just a place for a few assholes to get 'stars' (basically **exactly** like grade school).
+
+It was a bit of a running joke all the way thru that any question with real content would be locked / deleted quickly (and for seemingly irrelevant reasons) while totally silly and irrelevant arguments pages last for years.
+
+Really glad that it's clearly dead these days and that AI has undercut any need for it, it was a horrid experiment gone wrong showing what happens when egos and disgusting self victimizers are allowed to dominate over merit.
+
+Use AI models, Never look back, No one else ever make a site like the steaming pile of garbage that is S.O.
+
+<Sorry for 'spam protection' you will need 50 starred pages before your account will even be allowed to ask for help or add comments>
+
+#F**K S.O. - straight in the bin :D",1,2024-09-28 22:01:59
+98,,0,Standard-Customer-58,4,33,None,0,"Used Just One time and never came back.
+The data you saw, maybe can be related to emerging generative AI as code tutor and the fact stackoverflow start to sell the conversation done on the forum to Microsoft to train the Bing chat",1,2024-09-29 07:32:21
+99,,0,Moloch_17,143,29392,None,0,"ChatGPT is better than stack overflow.
+
+I start there and if it's too specialized for ChatGPT I go to Google.",-2,2024-09-28 16:41:55
+100,99,1,Classymuch,918,38131,None,0,"Same, CGPT is my go to now and I love how people are triggered by it.",2,2024-09-28 17:06:06
+101,100,2,Moloch_17,143,29392,None,0,"Yeah not sure why people are downvoting, honestly.",2,2024-09-28 17:25:04
+102,,0,dzernumbrd,1184,157427,None,0,"I use Claude which is essentially using stack overflow and all the rest.
+
+If I ran stack overflow I'd put it behind a free account-wall so the AI bots can't crawl the website without agreeing to user license saying their data can't be used to train AI without a commercial agreement.",-5,2024-09-28 16:48:08
+103,,0,Deleted,N/A,N/A,None,0,No. AI scraped and plagiarized it (fair game imho since it's user content anyway) so now people get the same info from AI. It doesn't work but the answer is instant and you don't get scolded for duplicate or open ended questions. And you aren't expected to pick a winner when you know jack shit and that's why you're asking.,0,2024-09-28 21:20:48
+104,,0,lrsarker,118,80,None,0,Yes! if u have enough time than u must use Stack Overflow! Bcoz! u know how to fix multiple way or solutions for one issue! and u gain ur skills nd knowledge update more!,0,2024-09-28 23:57:04
+105,,0,kkkkkkkar,3,2155,None,0,"Copilot, chat gpt changed everything!!!",0,2024-09-29 09:44:37
+106,,0,X-calibreX,228,5238,None,0,Ppl use stack overflow to figure how to get chatgpt working.,-10,2024-09-28 16:46:18
+107,,0,Deleted,N/A,N/A,None,0,Rubber ducking with ChatGPT > StackOverflow,-1,2024-09-28 17:09:07

@@ -1,0 +1,50 @@
+Type,Content,Username,User Reputation,Upvotes,Is Moderator,Creation Date
+Question,"If you're watching current trends, Stack Overflow is losing ground to LLMs and fast. I feel that if this continues, it will become hard to keep paying the bills and I hope it never happens, but if Stack Overflow has to close the books:
+
+Will all this knowledge now be locked behind an LLM-paywall or behind the walls of the companies that have trained these LLMs as they probably have a copy of that data but we, the public, do not.
+
+I was wondering if there is a project or a solution that is being worked on, to preserve this, as I really think, just like it is the case with research papers, this is invaluable, public domain, and definitely for the benefit of mankind. And it would be a shame and disaster if it were lost.
+
+
+If nothing exists maybe we should start building a failsafe, but the robots.txt prohibits crawling the tree, so if a project was there perhaps the staff could allow its crawler some extra permissions on the site.
+I tried finding a mirror for this site, or download all threads as an archive link on this site,
+and/or I tried finding how big everything would be as plaintext (but hyperlinked)-HTML or as HTML.
+I looked on the Wayback Machine (archive.org) and while it does have many snapshots, many of them seem linked to the actual site and be gone as well, and apart from being really slow, no search is possible as they only have the frontend, not the backend of the site.
+",Hoefkens J.,1,-34,0,2024-05-10 17:50:00
+Comment on Question,"Why do people even fixate on LLMs? I would say (github) copilot is better at it than chat bots which were designed to generate text, not specifically code. If you are writing code that thousands of other people have already written (which would normally turn into low quality / duplicate Stack Overflow questions), copilot can generally autocomplete it extremely well.",Gimby,5283,0,0,2024-05-14 08:31:39
+Comment on Question,"LLMs are proving to be good at eliminating the low-hanging fruit questions that we see repeated regularly, if not daily. I wholeheartedly approve of this, as the reduction in noise is only good for the usability of the Q&A repository. Yes, it's a hit to the ad revenue, but it's not like any of the contributors here are in it for the money.",user4581301,33952,7,0,2024-05-10 20:19:03
+Comment on Question,Stack Overflow is the archive. What do you think the purpose of Stack Overflow was?,Dharman,33375,8,1,2024-05-10 19:19:10
+Comment on Question,"SO has lost ground to LLMs, but mainly for really trivial stuff. There's nothing to disagree with here; traffic has gone down since the release of CGPT. And the partnerships with AI companies, as much as I personally can't stand them, do appear to provide SO with a lot of cash money. Even though the loss to LLMs can be proven, it's highly unlikely that SO is going to die because of LLMs in the foreseeable future, especially because this happening would mean killing off training data access, making the models increasingly useless",Zoe - Save the data dump,28267,12,0,2024-05-10 18:47:14
+Comment on Question,"""Stack Overflow is loosing ground to llms"" - I disagree.  The current state of LLM responses with regards to programming is pretty bad. In order to get a helpful response, your knowledge of the programming language itself, in order to even evaluate the accuracy of the response. In many cases the code in the response won't actually do what the response says it does. So while the code might compile, it won't the code actually won't do what the LLM claims, in my opinion as a programmer with 2 decade of experience will be many decades before a LLM can write code itself. SO answers are more helpful",Security Hound,2548,5,0,2024-05-10 18:15:39
+Comment on Question,"I'm not entirely clear what you're asking for.  Are you asking for a Stack Overflow data dump?  Also, there's quite a bit of discussion about Generative AI and SO that would apply to your comments about LLMs",devlin carnate,8602,15,0,2024-05-10 18:15:02
+Comment on Question,"LLMs are in no way a direct competitor to SoF: I'm tired of how many times I have to correct or report incorrect LLM generated content here.  And there is an element of sentience in programming, which simply cannot be replicated by any LLM, in any foreseeable future.",Barry the Platipus,10460,15,0,2024-05-10 17:54:35
+Answer,"
+I tried finding a mirror for this site, or download all threads as an archive link on this site, and/or I tried finding how big everything would be as plaintext (but hyperlinked)-html or as html.
+
+
+I looked on The Wayback Machine (archive.org) and while it does have many snapshots, many of them seem linked to the actual site and be gone as well, and apart from being really slow, no search is possible as they only have the frontend not the backend of the site.
+
+Did you try putting, say, stack overflow archive into a search engine? When I try that, I see plenty of results that explain about the data dumps that rene mentioned.
+Also, literally just yesterday someone else asked here about a problem with a scraper for Stack Overflow, and was told about why scrapers run into problems here and specifically what to do instead.
+
+stack overflow is loosing [sic] ground to LLMs and fast
+
+What exactly do you mean by ""losing ground""?
+If it's ""people pose their questions to LLMs instead of writing new ones on Stack Overflow"", this is in fact extremely good news for Stack Overflow. It means that new questions being asked are much more likely to be the sort that we actually want here - i.e., not what one asks on a discussion forum, after not trying to diagnose a problem or come up with a clear demonstration or specification, so that there is an actual question rather than a generic request for help. In other words, it's a filter that's finally getting people to use the site only the way it's actually intended and designed to be used, after 15+ years of people projecting their own assumptions onto the site about how to use it. Which in turn means that people who used to spend huge amounts of time closing new questions, may eventually have an opportunity to turn towards cleaning up the existing mess instead.
+If it's ""people will use AI-generated sites for research purposes"", we can't do anything about that - except to be actually correct, where the AI content is literally mindless and written without heed to any concept of truth or accuracy.
+
+If nothing exists maybe we should start building a failsafe, but the robots.txt prohibits crawling the tree
+
+That has nothing to do with protecting the content. You still legally have copyright on your own posts, and you still legally have CC license rights to everyone else's. Crawling is prohibited to protect the site from excessive server load - just like with a huge fraction of other major sites today. To get large amounts of data programmatically, you are supposed to use the site's API, whatever form it takes. In the case of Stack Overflow, the API for ""all the post content"" is the data dumps.
+",Karl Knechtel,61615,12,0,2024-05-10 22:09:02
+Comment on Answer,"i would have hoped for somethinglike yes when we go down if w do , the government has agreed to host the site as a static resource on there servers free to access by the people of the world  or smth,..",Hoefkens J.,1,0,0,2025-01-02 10:54:43
+Comment on Answer,"i spend some time looking into this,archive.org is minimal at best, with recent events we need independent mirrors for archive dot org. and that's not even happening. , and that could serve as a backup for the final solution.   we were this stupid once and should have learned our lesson in 272 ,... because we still don't know what we lost that year, and perhaps never will because of it*272 final destruction of library of Alexandria.",Hoefkens J.,1,0,0,2025-01-02 10:52:24
+Answer,"The wild speculation, exaggeration and drama spreading news needs to stop.
+
+Will all this knowledge now be locked behind an LLM-paywall or behind the walls of the companies that have trained these LLMs as they probably have a copy of that data but we, the public, do not.
+
+Stack Overflow posts a data dump each quarter to The Internet Archive. It is all publicly documented in All Stack Exchange data dumps and this has been the case since 2009 (6 months after SO was founded). And if that is too much data to grab, you can always use SEDE to get a smaller set.
+Note that last year the company tried to stop providing the data dump and restrict API access: The company's commitment to the data dumps, the API, and SEDE, but the then striking moderators made it one of their demands for A long-term commitment to freely maintaining and providing these services:  Moderation strike: Results of negotiations
+It is utter nonsense that the public doesn't have a copy.
+Nothing needs to be build or preserved. This already is in place and works well since 2009. And the communities on all sites make sure the knowledge base stays intact, well maintained and moderated until SO turns off the light. And then we still have the data dumps. That is the license we have, and that are the Terms of Service we operate under.
+",rene,42483,29,0,2024-05-10 20:50:02

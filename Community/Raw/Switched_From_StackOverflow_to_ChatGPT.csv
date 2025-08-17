@@ -1,0 +1,151 @@
+Unique ID,Parent ID,Depth,Username,Post Karma,Comment Karma,Achievements (Flair),Number of Awards,Comment,Upvotes,Timestamp (UTC)
+1,,0,Rich_Introduction_83,3997,18939,None,0,"The past in 1440: people writing books one by one, with their hands.  
+The future in 1440: people using the printing press.  
+
+
+The past in 1765: people using manual labor for most manufacturing.  
+The future in 1765: people using steam machines for various manufacturing purposes.  
+
+
+The past in 1903: people traveling by horse-drawn carriages.  
+The future in 1903: people traveling by automobiles.  
+
+
+The past in 1962: people programming in machine language.  
+The future in 1962: people programming in high-level languages.  
+
+
+The past in 1999: people figuring out code syntax by hand.  
+The future in 1999: people using IDEs to do much of the tedious work.  
+
+
+The past in 2023: people writing any code by hand.  
+The future in 2023: people using AI to generate code automatically in accordance to their requirements.  
+
+
+The past in 2031: people integrating code by hand.  
+The future in 2031: people using AI to generate complete programs automatically.",43,2023-03-07 06:50:12
+2,1,1,Rich_Introduction_83,3997,18939,None,0,"This answer is meant serious. I don't think that too many people already rely on AI as main source of information. My list of inventions is just intented to show what I believe: there is no way back to the way we coded in the past. In my opinion, it doesn't matter how many already do it this way, today. It will be near 100% in the future.",16,2023-03-07 06:53:54
+3,2,2,EmmyNoetherRing,289,137753,None,0,"weirdly enough, we've been relying on AI for our source of information for a decade or two, at least in part-- recommender algorithms, web mining algorithms, search query algorithms.  Those control the information we're seeing when we go online.  We just can't have conversations with them.",5,2023-03-07 15:14:34
+4,3,3,Tandittor,3878,17308,None,0,"True. It's easy to forget that before deep learning, there was non-neural-net machine learning and symbolic AI (search algorithms, rule-based models/algos, etc.).",1,2023-05-03 05:45:48
+5,1,1,Xraided143,1823,8294,None,0,This comment brought to you by ChatGPT,8,2023-03-07 08:16:39
+6,5,2,Comprehensive-Ask26,483,7144,None,0,This comment was liked by ChatGPT Plus,1,2023-03-07 14:17:44
+7,1,1,Deleted,N/A,N/A,None,0,Except for chatGPT is confidently incorrect at almost every semi-complex thing it attempts,2,2023-03-07 18:40:24
+8,7,2,golden_corn01,64,67,None,0,Have you noticed an improvement with chatgpt-4?,1,2023-03-16 16:25:52
+9,1,1,JonPartleeSayne,27,5536,None,0,">The past in 1962: people programming in machine language.The future in 1962: people programming in high-level languages.
+
+All programming languages before 1962 (Fortran, Lisp, Algol, Cobol etc.) were machine languages",-1,2023-03-07 14:08:24
+10,,0,Imaginary_Passage431,437,6667,None,0,10 years of experience here. Almost stopped using stackoverflow.,26,2023-03-07 06:44:20
+11,10,1,EmmyNoetherRing,289,137753,None,0,"honestly, I think I skipped the stack overflow era entirely.  did a lot of coding 10 years ago and back then I just used the official language documentation.
+
+picked it back up recently, and found it easiest to go with ChatGPT.   every time I've looked at stack overflow it's just sort of--- angry.  and kind of sad.  and usually not actually the answer to my question.",5,2023-03-07 15:17:24
+12,11,2,CoherentPanda,20630,191120,None,0,"Also, the answers to a lot of questions are so far out of date, you have to really dig to find answers anymore, unless it's a beginner common issue like ""how to center a div""",2,2023-03-07 21:32:05
+13,,0,susoconde,1465,1033,Skynet 🛰️,0,"I don't think they are incompatible. You can still use both, although as with traditional search engines, in my own experience I use them less and less. What are the advantages of ChatGPT? Speed and accuracy. In Stack, you can search, but you always have to filter through the results. If you ask directly, you have to wait for answers, and if there are any, they may not be correct. Also, the tone. The pedantic superiority of many answers is clearly toxic. And above all, the ability to ask again and again. However, I agree that in the long run it may make us lazier. I have regressed a lot in my mastery of English since translators do their job so well. I always use them out of laziness and it becomes increasingly difficult for me to read, let alone write in English.",11,2023-03-07 07:06:00
+14,13,1,pannous,2818,12905,None,0,"""speed and accuracy""
+
+good one",5,2023-03-07 15:58:49
+15,14,2,currentscurrents,26508,271950,None,0,"Nah, it's actually pretty accurate for coding stuff since it's just reading the docs.
+
+I've ran into some hallucinations but it's usually easy to spot as soon as you paste into your IDE, like it'll make up a function that a library doesn't have.",1,2023-03-07 16:41:30
+16,,0,cybh3rpunk,12,217,None,0,"I'm slowly decreasing my reliance on StackOverflow and increasingly incorporating ChatGPT in my workflow.
+
+As you've mentioned, it helps me reach my goal quicker. However, instead of ending it quicker, I get more time trying to improve my outputs. If I'm satisfied with ChatGPT's solutions, I am able to learn other stuffs to improve my skills.
+
+As we all can see, ChatGPT helps us ""make"" more time.
+
+P.S. Speaking of StackOverflow, I'm wondering how things have turned out for them with the rising popularity of ChatGPT.",6,2023-03-07 12:04:03
+17,16,1,TheOneWhoDidntCum,529,5988,None,0,13% monthly reduction in visitors,2,2023-05-30 11:18:56
+18,,0,sndwav,19150,47331,None,0,"I wish I could train ChatGPT on different Arduino libraries, etc. Many times it would just make up non-existant functions to ""solve"" my issue (""You want to resize a png using tft_espi? Just use the 'resize()' function"").
+
+However, I did give it a sample code from a library and asked it to rewrite it to suit my particular needs and it did a perfect job.",5,2023-03-07 07:36:53
+19,18,1,mikesdav,291,852,None,0,If it makes up a function then you can ask it to create an implementation of that function.,7,2023-03-07 10:10:01
+20,,0,fiddlerisshit,1194,19494,None,0,"Have you tried Bing Chat? Chat GPT had returned two wrong answers so far, which is lower than your 1/10 wrong. Bing Chat hasn't returned any wrong answers so far. Might be due to the fact that ChatGPT cripples its service by limiting it to 2021 and before but Bing Chat allows its implementation of the same AI to use up to date information from the internet.",7,2023-03-07 06:31:47
+21,20,1,Domain3141,27,18017,None,0,"As far as I know, Bing doesn't provide code. 
+
+Correct me if I'm wrong.",0,2023-03-07 07:27:40
+22,21,2,ajjuee016,7710,4435,None,0,I am correcting you. Bing can provide you code simple to medium difficulty code not a complex one.,7,2023-03-07 08:23:56
+23,22,3,Domain3141,27,18017,None,0,"oh good to know. Last time I saw a screenshot from bing on this topic, it refused to write code as it could upset somebody. 
+
+I'm also allergic to the overuse of emojis.",1,2023-03-07 13:35:52
+24,21,2,fiddlerisshit,1194,19494,None,0,No idea. I don't use either of them for programming. But apparently both of them use the same basic codebase.,1,2023-03-07 09:07:17
+25,21,2,CoherentPanda,20630,191120,None,0,"It does, but sometimes it won't for no reason at all.  If you don't have it set to Creative mode, it seems to not like to provide an example unless you specifically ask it to.",1,2023-03-07 21:34:30
+26,20,1,SomeWeirdoGuys,7677,3850,None,0,"Ime ChatGPT is better than Bing. Largely due to allowing me to actually send messages without having to worry about reaching the limit. Even when ChatGPT generates bad code I can just tell it what error popped up. Sometimes good preprompts help like ""For this convo let me know if what im doing is wrong, can be done in a better way, or is inefficient."" Also, I can spam files into ChatGPT and have it spit out nice code segments. 
+
+Sadly, I haven't found any good ChatGPT based tools for it. I found one that allows you to give it a github link but only 1 prompt, no chat history. Found one that has a code editor, but it seems to be extremely slow and I want to use it with multiple files but it only supports one.",1,2023-03-07 09:32:04
+27,26,2,Provokadeur,6,438,None,0,"I've asked ChatGPT to find an error in a fragment shader, it didn't notice the error so I've asked it to go step by step. It went step by step and told me literally lies about one system function, completely wrong description. Gave the same to Bing, it didn't find an error too but at least it didn't hallucinate the confusing info.
+
+&#x200B;
+
+Another time I've asked some question about Swift, structs and classes, copying values by reference and by value. ChatGPT gave me a wrong answer and generated a code that, as it said, would prove it right, but that code would actually prove it wrong. Bing GPT on the other hand generated a correct code and answer immediately.",2,2023-03-07 10:20:21
+28,27,3,SomeWeirdoGuys,7677,3850,None,0,"When it gives false information I find it is usually because you say ""what is x"" if it doesn't know it makes it up because it was told to tell you what x is and it will now give it's best guess. As I mentioned, preprompts are useful. I believe I saw a perfect example of this on this sub, somebody asked it for a summary of an article from last year and gave it the url. It made up a summary based on the title included in the url, the summary was surprisingly accurate but was wrong. I believe it was ""Biden visits Ukraine"" or something like that.
+
+For the swift thing, did you tell it what went wrong and give it even 1 chance to improve? I generally find that it works within 3 corrections (beyond that it likely won't work on its own unless it's getting new error messages) then depth look through fixes it's code. Generally for corrections if it is data changing I just say ""oi this data ain't right, for example you didn't do x and you did y"" then feed it the data. Or give it a complete error message.
+
+While the above are slightly annoying I find a (currently) 8 chat limit to be far more annoying. I can just feed it all the files relevant to what I am working on and ask questions, add what I want, then later pick it up without any issues. With bing if I am working on a few files I gotta waste several prompts then be careful about my question as I can't edit it.",1,2023-03-07 10:31:34
+29,20,1,alexjo00,44,126,None,0,Agree Bing Chat's search capability just makes it the perfect coding assistant. ChatGPT can only go as far as with its limited knowledge base.,1,2023-03-07 15:19:29
+30,,0,AutoModerator,1000,1000,None,0,"**Attention! [Serious] Tag Notice**
+
+ : Jokes, puns, and off-topic comments are not permitted in any comment, parent or child.
+
+  : Help us by reporting comments that violate these rules.
+
+ : Posts that are not appropriate for the [Serious] tag will be removed. 
+
+ Thanks for your cooperation and enjoy the discussion!
+
+
+*I am a bot, and this action was performed automatically. Please [contact the moderators of this subreddit](/message/compose/?to=/r/ChatGPT) if you have any questions or concerns.*",1,2023-03-07 06:03:17
+31,,0,uluvboobs,3724,43426,None,0,"Yeh but sometimes it can lead you down a rabbit hole. 
+
+Spent a few hours yesterday trying to sort an async text stream from python using Flask. I had used GPT really well to get the project going, generating bash, dockerfiles, python boilerplates, that i would then ask it to fill out. everything ""worked"", even writing tests for my code. 
+
+I spent hours trying to get the stream to work using GPT as the guide. After a while I did some thinking, and figured out there's a lot more to async than I know. For hours it just kept  pumping out solutions that didn't work, and I knew wouldn't work, very frustrating. 
+
+It never once suggested to use another library, that I can't do what I want, or explain how what I was doing wrong in more broad terms, only my ""traditional"" knowledge let me know to stop and think things through. 
+
+By the way if anyone knows how to fix this issue DM me, it's fresh, I'm think I have to use Quart!",2,2023-03-07 09:02:56
+32,,0,pannous,2818,12905,None,0,"Since stack overflow is one of the most cancerous toxic places on the Internet, I already avoided it before, so the transition was very easy",2,2023-03-07 15:57:45
+33,32,1,TheOneWhoDidntCum,529,5988,None,0,Duplicate post \*Edited by MrAsshole 100k reputation\*,1,2023-05-30 11:33:16
+34,,0,Deleted,N/A,N/A,None,0,"i mean, if your gonna waste hours just to generate the code and then debug it for a whole day, it's not worth it",0,2023-03-07 18:24:55
+35,,0,AutoModerator,1000,1000,None,0,"To avoid redundancy of similar questions in the comments section, we kindly ask /u/pianoplayerjames to respond to this comment with the prompt you used to generate the output in this post, so that others may also try it out.
+
+While you're here, we have a [public discord server](https://discord.gg/NuefU36EC2). ***We have a free Chatgpt bot, Bing chat bot and AI image generator bot.***
+
+####[So why not join us?](https://discord.gg/r-chatgpt-1050422060352024636)
+
+^(Ignore this comment if your post doesn't have a prompt.)
+
+
+*I am a bot, and this action was performed automatically. Please [contact the moderators of this subreddit](/message/compose/?to=/r/ChatGPT) if you have any questions or concerns.*",1,2023-03-07 06:03:17
+36,,0,dasSolution,487,6014,None,0,"Not a programmer, but I have switched for customising my Shopify theme and complex Sheets formulas. It's just so much quicker to use ChatGPT. If you can ask it the right questions, you'll get the correct answers.",1,2023-03-07 11:23:36
+37,,0,Ill-Construction-209,2,7921,None,0,I find it more helpful.  Answers are directionally correct and saves a ton of time searching for code snippets and the right application.,1,2023-03-07 11:56:22
+38,,0,morefakepandas,1071,6746,None,0,chatgpt is much more useful. you still need to figure out the code but chatgpt is usually more finetuned to your specific problem,1,2023-03-07 12:41:45
+39,,0,Educational_Ice151,20405,1679,None,0,I use booth. I also created a subreddit focused on prompt programming and dev with ChatGPT https://www.reddit.com/r/aipromptprogramming/,1,2023-03-07 14:06:28
+40,,0,ScheduleExpress,1497,10679,None,0,"I use chat gpt to code but idk how to code. I know a little JS and use that to compose music. I have been working with gps data and wanted to use that to control audio in different ways. So, I asked GPT how to make a JavaScript that would output the values in the csv to a MaxMSP object. I found an example of some code on a YouTube video that got me started and then asked gpt to help me modify it. It took me almost 3 hours to get what I want, but that’s much much faster than actually learning how to write the script.",1,2023-03-07 15:15:26
+42,,0,SuccotashComplete,468,13234,None,0,"I’ve switched almost entirely to ChatGPT over stack overflow. Unless I’m dealing with a very niche library it’s almost always more accurate and able to adjust to my needs specifically, instead of me having to read someone else’s (possibly flawed) problem description and (also possibly flawed) responses 
+
+There are definitely some use cases where it just can’t find a solution though for whatever reason. If it takes more than 2-3 iterations of a problem description without a correct response then I’ll resort to the old ways",1,2023-03-07 18:39:31
+43,,0,Deleted,N/A,N/A,None,0,Why would I use stackoverflow instead of my own platforms forums lol,1,2023-03-07 18:39:38
+44,,0,Old_Lead_2110,229,20963,None,0,I use chatgpt to find the problems in my large mysql queries. So far it always delivered.,1,2023-03-07 18:51:56
+45,,0,Leanardoe,1318,44115,None,0,"Not fully, stack still has very specific answers to very specific problems I have doing web design in PHP.",1,2023-03-07 18:58:46
+46,,0,GeneticsGuy,19045,292127,None,0,"Programmer here. I find both still useful. Some programming use cases are just too specific that ChatGPTdoesn't seem to give correct information on them. Other times great. With that being said, I'd say 90% of my time asking questions I get easier more clear responses from ChatGPT so no need to go over to stackoverflow.
+
+I definitely use it as my go-to first time I search for an answer though on some things.
+
+I find ChatGPT struggles with Regular Expressions when parsing strings for data and it often kicks out completely nonsense answers that have kind of a glimmer of being ""almost right,"" but oh so confidently incorrect.
+
+On the other hand, it helped me realize that there were some tools built into some languages that I wasn't using by the code demo it uses, and I was like ""Wait, really, I can do that in a for loop?"" or something like that.
+
+Overall it definitely has me using ChatGPT more and the other less, but I suppose it will need to improve quite a bit more to full replace it.",1,2023-03-07 21:16:20
+47,,0,Late_Ad_6293,321,1411,None,0,"I have strictly been using chatgpt and I’m surprised none of my colleagues want to.
+The amount of work I am producing is BEYOND me. I used to be stuck on documentation / bugs in my code for hours.
+
+The other day I had a missing comma and I’m sure it would’ve been DAYS before I found it and chatgpt instantly found it for me",1,2023-03-07 23:14:34
+49,,0,Fredifrum,37631,71552,None,0,"Professional dev here - and yes I've been using ChatGPT a lot more. I've found its especially good for doing simple things in languages or areas I'm not so familiar with. 
+
+E.g. today I wanted to list all the files in a directory in descending order of size (I was trying to find a database dump clogging up my disk). I was about to google it but realized ChatGPT could probably tell me the correct combination of flags to use no sweat. It did!
+
+For simpler tasks (things that you _know_ are easy/possible, you just don't know how to do them), it's 100% replaced SO for me. I still Google things, but less for sure.",1,2023-03-08 00:15:11
+50,,0,DoxxThis1,1993,6449,None,0,The galaxy-brain move is to use ChatGPT to write Stackoverflow questions. They only banned ChatGPT answers. I have tried with interesting results. The question was upvoted but didn't get an answer.,1,2023-03-08 02:22:44
+51,,0,Deleted,N/A,N/A,None,0,Quite toxic is the understatement of the century. Stack overflow will now die due to its community and it will be replaced by AI,1,2023-03-08 05:36:43
+52,,0,Deleted,N/A,N/A,None,0,"Stackoverflow doesn't have a chance against Chatgpt. Before I had to wait hours or days to have an answer from so, and in some cases the answers given by other users didn't help with the issue, with chat you get answers right away and most of the time they done the issue.",1,2023-09-17 13:34:05

@@ -1,0 +1,649 @@
+Unique ID,Parent ID,Depth,Username,Post Karma,Comment Karma,Achievements (Flair),Number of Awards,Comment,Upvotes,Timestamp (UTC)
+1,,0,AutoModerator,1000,1000,None,0,"***Hey /u/saffronfan, if your post is a ChatGPT conversation screenshot, please reply with the [conversation link](https://help.openai.com/en/articles/7925741-chatgpt-shared-links-faq) or prompt. Thanks!***
+
+***We have a [public discord server](https://discord.gg/r-chatgpt-1050422060352024636). There's a free Chatgpt bot, Open Assistant bot (Open-source model), AI image generator bot, Perplexity AI bot, &#x1F916; GPT-4 bot ([Now with Visual capabilities (cloud vision)!](https://cdn.discordapp.com/attachments/812770754025488386/1095397431404920902/image0.jpg)) and channel for latest prompts! New Addition: Adobe Firefly bot and Eleven Labs cloning bot! [So why not join us?](https://discord.com/servers/1050422060352024636)***
+
+***[Prompt Engineering Contest &#x1F916; | $15000 prize pool](https://redd.it/15ghsbg/)***
+
+PSA: For any Chatgpt-related issues email support@openai.com
+
+
+*I am a bot, and this action was performed automatically. Please [contact the moderators of this subreddit](/message/compose/?to=/r/ChatGPT) if you have any questions or concerns.*",1,2023-08-06 16:37:48
+2,,0,vanityklaw,288,82674,None,0,Shutting down comments on this thread as duplicative of another thread that’s not about the same issue.,427,2023-08-06 17:35:17
+3,2,1,AuspiciousApple,24358,317926,None,0,"Oh, but because I'm kind I also link to another duplicate:
+
+\[Link that's actually about the exact same issue, but 5 years old and never got a reply\]",117,2023-08-06 20:35:47
+4,3,2,Cash4Duranium,967,87008,None,0,"Don't forget the OP commented on their own post to say ""Nevermind, solved it!"" six months later with no explanation.",14,2023-08-07 15:19:57
+5,4,3,Mog77A,51,1607,None,0,"Above everything, this annoys me the most. I strive to never ever do this.",1,2023-08-07 17:46:59
+6,4,3,TheGronchoMarx,605,1108,None,0,"Yeah, sure. That's the reason for the decline. \*\*irony goes off the charts",1,2024-01-28 14:53:18
+7,2,1,SailorOfTheSynthwave,5175,45026,None,0,"This lol
+
+Stackoverflow is so unhelpful I stopped using it years before ChatGPT even came out",17,2023-08-07 10:13:51
+9,2,1,kRkthOr,30352,398836,None,0,"Wait! Before you close it down, here's how I fixed the problem. It's written in a different language but I'm sure you'll be able to figure it out, with your 2 months of experience:
+
+[250 lines of uncommented code in C that solve an entirely different problem but you'll only find that out once you've spent 3 days decoding it]",18,2023-08-07 07:44:12
+11,,0,dawebr,1,473,None,0,No comments for 15 minutes.  Marking issue as closed.,353,2023-08-06 18:18:04
+13,,0,veritron,4,18350,None,0,"ChatGPT has accuracy issues and may make shit up, but on the whole stackoverflow is full of assholes and jannies that mark questions as duplicate etc, so in practice ChatGPT is a lot more useful for me.",989,2023-08-06 17:38:44
+14,13,1,Gotestthat,44298,23558,None,0,"Chatgpt is also quicker, and you can get it to go into more detail on certain things. 
+
+I wrote an app in a language I didn't know with the help of chatgpt - if I had done that using YouTube/Google/stack overflow it would have taken me months. It took me about 2 weeks with chatgpt.",297,2023-08-06 18:05:06
+15,14,2,funkwumasta,3793,54188,None,0,"Chatgpt also doesn't judge you if your question is dumb or basic, and you can ask it in awkward ways and will still give you sensical answers.  At least for gpt4",317,2023-08-06 19:12:48
+16,15,3,saffronfan,10244,1209,:Discord:,0,I feel like that is a very underrated plus of ChatGPT compared to StackOverflow it's a judge free learning environment which is great,179,2023-08-06 19:34:15
+17,16,4,masterjx9,905,330,None,0,"I'll never forget how annoying it was to spend time building a question on SO just for someone to say something demeaning and hurtful, like as if I wasn't trying. Ever since chatgpt came out, I have never used SO ever again.",163,2023-08-06 21:07:06
+18,17,5,CoherentPanda,20630,191120,None,0,"I get severe anxiety at times, and I would spend an enormous amount of time preparing my question, and making it as detailed as possible.  Then I would just get some irrelevant answer, told I'm doing everything wrong with no explanation or offer to help, and would have to keep searching the web to get my answer.
+
+With Chatgpt I just quickly throw some code I'm working on, stick a really simple question and what I would like the outcome to me, and voila, I'm either done, or far closer and faster to finding an answer than I ever would on SO.",66,2023-08-06 23:43:35
+19,18,6,Setari,5141,314012,None,0,"Yeah I recently asked a question about making my code in vanilla JS modular, and why we can't do this without a webserver. All I got were ""well your code is correct why isn't it working"" when I clearly explained why it wasn't working and what solutions I had already tried and did not want (didn't want to run my code using a bundler or through a webserver). Absolutely useless and didn't answer my question at all.
+
+However chatgpt does require a little ""question finessing"" as for a personal project outside of class it's blown up my code. 
+
+t's not great IMO. And I would say professional or intermediate or even beginner devs should not use it or lean on it heavily.",1,2023-08-07 05:50:28
+20,19,7,BasvanS,213,156571,None,0,"Sure, but in all its uselessness it’s still tremendously helpful compared to SO.",2,2023-08-07 14:27:41
+21,17,5,SailorOfTheSynthwave,5175,45026,None,0,"Oh yeah. And not just on SO. The rest of the Stack Exchange is also pretty unfriendly and judgmental. As soon as you get lots of points for your answer, or it's marked as correct, all hell breaks loose. I once answered in great detail a person's question about the etymology of certain German words. I used sources and put a lot of effort into it, because it was a topic that genuinely fascinated me. I got some achievement or whatever for being in the top answers for that week. As soon as I started to rack up points and attention, I started to receive a butt load of mean comments that hadn't even read my answer through, they just twisted my words and tried to start a political argument, questioned by sources, and were all-round dicks. I quit the whole site after that. 
+
+SE is just the high school bullying experience but among adults and that's far more pathetic. Lots of immature assholes on there that embody the dunning-kruger effect and impart only partially true information, while harassing people who actually put effort into a thorough and nicely formatted answer",14,2023-08-07 10:25:34
+22,17,5,Brave-Sand-4747,1,3800,None,0,"I've always said, the tech world (in particular coders) have the smuggest people compared to other industries. A car mechanic isn't going to make you feel stupid for not understanding what this part does, and why it's making a particular noise. A self important, hotshot lawyer isn't going to talk passive aggressively to you because you're having trouble grasping an aspect of a law.
+
+Comparing a room full of 100 coders to a room with lawyers and mechanics, gun to your head, which room has the people with the lowest emotional intelligence and empathy, given a reasonable definition of that.
+
+This is why I entered. To change the culture.",2,2023-08-07 17:04:26
+23,16,4,interkin3tic,9373,213639,None,0,"I feel like SO is full of software engineers who learned things one way and expect everyone to learn the same way and if they got rid of all these stupid questions from people who didn't learn the right way they would get to world-altering questions or something.
+
+I started getting into data science about 3 years ago and got really stuck. Then I started using OpenAI and that was speeding up my learning. Then I started questioning whether it was actually important to learn vs just using it.
+
+I consistently forget how to open a csv file as a dataframe and drop columns from it. Should be easy to remember but also it's much quicker and easier to just ask chatGPT, and it never makes a typeo whereas I always did. There'd be shame in asking SO dumb questions, but the whole fucking point of using the computer in the first place is to speed up doing dumb shit, otherwise I would be writing my data out by hand on paper.
+
+Of course SO is going to lose to chatGPT: it's easier to be lazy there and that's why I'm using a computer.",26,2023-08-07 03:02:12
+24,23,5,godnightx_x,211,19114,None,0,I view chat gpt as personal ram upgrades. The less i have to keep in the front of my mind for little unimportant things like remembering specific syntaxx the more i can delagate my secondary long term brain memory to bigger ideas. There is no benefit especially in tech to use up all your cognitive load on always having little unimportant things on deck in memory.,2,2023-08-07 23:22:55
+25,23,5,BasvanS,213,156571,None,0,"*typo
+
+Thanks for making me laugh 😂",1,2023-08-07 14:31:22
+26,16,4,Deleted,N/A,N/A,None,0,"Not only that, but you get your answers instantly. Way better than asking a question about something, then getting shit on, then having your question marked as a duplicate of a question asked 12 years ago, then still not getting an answer to your question",12,2023-08-07 03:59:54
+27,16,4,Jackm941,140,46268,None,0,"I've used chatgpt to help program a project and it's been great, no waiting for replies, no judgment. Give good details if prompted properly and you know at least a little about what your asking. Like someone's said without this it would have took forever and I wouldn't have even known where to start. For my example it helped set up LoRa communication, fuzzy logic in Arduino setting up sensors, building functions and trouble shooting problems I would never have figured out. 
+Sometimes though it gets stuck in a loop and suggests fixes you've already tried and then another that didn't work and so on. But without having someone sit down with my and work when I needed them it saved hundreds of hours I'd guess in waiting and learning.",15,2023-08-06 22:33:24
+28,16,4,Chillionaire128,37,22035,None,0,I definitely prefer it to SO but it can be a bit of a double edged sword. On occasion you can spend hours going down a bad path because gpt won't tell you your doing it wrong unless you ask if point blank,7,2023-08-07 01:33:46
+29,16,4,orangezeroalpha,60,18022,None,0,"I've never had a good experience at stackoverflow, ever. I can't imagine a scenario where I would waste any of my life attempting to interact with humans there.",5,2023-08-07 06:29:23
+30,16,4,Mescallan,20367,172022,None,0,once it is implemented as a mainstream learning tool in public schools we will see huge leaps in education results.,1,2023-08-07 04:22:34
+31,16,4,Brave-Sand-4747,1,3800,None,0,"Yup, compared to people in general. There's questions I don't dare ask my teammates that I'll ask ChatGPT. Or if I do ask someone, and the first couple times I ask them to explain again or phrase it differently, and it's still not helpful, it's not like I can ask again and have it not be awkward. So that's another situation for ChatGPT.",1,2023-08-07 16:57:14
+32,15,3,serendipitousPi,109,38675,None,0,And ChatGPT will sometimes actually apologise if you say something wrong despite it being your own mistake.,4,2023-08-07 03:55:51
+33,15,3,Aleconde98,1224,2027,None,0,"For me, it's the awkward ways of asking. If I need to look it up anywhere else, I need to know the specific words I need to use. For gpt (I use 3), I can just describe what I want and have him make sense of it.
+
+Is it perfect? Not at all. But worse case scenario, he'll give me some words to reference for a more accurate search.",4,2023-08-07 05:15:14
+35,14,2,SecC_,1303,716,None,0,"yo thats awesome. im a beginner when it comes to programming. ive been learning python for the last uhh 5months and ive been using gpt, its been great but i also feel like im not learning enough? like its doing too much for me?  i have to always look up the correct syntax n ask gpt how should i go about adding x feature yk  n what not like i know what the code is doing yes and im getting the hang on if its shit code but idk i feel like im not remembering as much as i should. am i over thinking this or is this an actual problem? are you facing this problem since using gpt or are you benefitting even more?",8,2023-08-06 19:03:38
+36,35,3,Gotestthat,44298,23558,None,0,Maybe write code and get it to improve it rather than get it to code for you,17,2023-08-06 19:12:33
+37,36,4,isaac9092,1286,123817,None,0,"This is also a really good suggestion tbh, might do this one myself too",3,2023-08-06 21:07:57
+38,35,3,isaac9092,1286,123817,None,0,"I would say as long as you understand what is happening, you’re fine. People probably said the same thing about calculators early on. “I feel like I’m not learning enough”. My friend, as long as you’re understanding what is happening, you’ve been learning.",6,2023-08-06 21:07:25
+39,35,3,interkin3tic,9373,213639,None,0,"I've also been learning python, but I've been dabbling for longer, maybe 4 years.
+
+I have a full time job and the main function isn't python programming.
+
+Yes, it would be nice to memorize all that stuff but I'm also not going to school to learn this nor am I being paid to learn it, so faster and easier is better.
+
+I keep asking chatGPT to write code to open csv file paths from my computer and clean up the data. Basic stuff, but it's always right, never has typeos, and if I forget the right syntax to do something, I still get what I need from it.",1,2023-08-07 03:05:27
+40,35,3,kaityl3,7310,43176,None,0,I've been learning to work on an open-source Warrior Cats fangame with the help of GPT-4 - maybe you could also try working on a project with some code that seems daunting and having them break down and explain it to you?,1,2023-08-07 04:36:09
+41,35,3,gfhoihoi72,436,1607,None,0,"I had the same feeling, but after some time it’ll stick. What also helps is asking ChatGPT for explanation instead of letting it write the code for you, to make it a bit more of a challenge for yourself. But as long as you understand what’s going on in the code I just see it as a faster way to write code, why put hours into searching SO and merging all kinds of 12 year old deprecated code when you can just let an AI write it for you so you can implement is way easier.",1,2023-08-07 07:57:55
+42,35,3,lightley,9,1071,None,0,"I think it can be a problem.  I have found it useful to take certification tests which have you memorize a lot of standard functions, and you will be surprised how quickly it helps you code when you don't have to stop and look basic things up.  Also, get as far as you can before you ask for help, definitely with a human being but now with the AI.  
+
+
+It's important to remember than when I started coding using Visual Studio 5 (1996?), there was no intellisense (meaning the UI would not offer any suggestions for anything, so pressing a period after a class instance would not list the methods).  So after Visual Studio 6 introduced intellisense, I didn't have to memorize or look things up like before and it felt like I wasn't learning as much.  But, if you asked me to not use intellisense, I would think that is crazy.  Soon we'll have ai completion in all our code and it will be crazy not to use it.  
+
+
+What I see in the future is ""normal"" people writing English sentences, and the AI writing all the code, and this will lead to no-code frameworks.  
+
+
+The whole point of programming is to produce the end result and it doesn't have to be done as hard as possible, which is why we don't use c++ for everything.  So now I'll just tell stories about how back in my day, we had Visual Studio 5, and it didn't even have autocomplete, and you kids today....",1,2023-08-07 19:22:16
+43,14,2,Okichah,2512,595513,None,0,"Immediete feedback on followup questions cannot be underestimated.
+
+Does this make sense? Okay no thats insane; but how about this? Oh yeah, theres an idea there. 
+
+Wherein searching stack you just get stuck and are just left spinning.
+
+So much of designing a programming solution is breaking down problems into more and more specific situations. Its just a perfect fit for a back and forth discussion where you can peek down blind alleys for a sec.",2,2023-08-07 06:02:19
+44,14,2,iMADEthisJUST4Dis,5280,53131,None,0,You can speak to almost another human who has decent programming experience at any time and it replies instantly and you can tell it all the context you want. Why would anyone use stack overflow unless gpt just didn't work,2,2023-08-07 08:12:55
+46,14,2,BlandUnicorn,511,10634,None,0,"I wrote an app and a backend and I don’t know any programming languages, it f@&$ing unreal. Is it perfect? No, is it an MVP, yes.",1,2023-08-07 00:21:23
+47,13,1,Natural__Power,35544,38673,None,0,"Exactly
+
+Why walk into the toxic hellhole that is stack overflow when you can just ask a polite AI",67,2023-08-06 18:21:11
+48,13,1,Avoidlol,9431,5572,None,0,"People on stack overflow rather be a dick and tell someone to Google their issue, and mark it as a duplicate, than simply give the answer even if the answer is very easy.
+
+Petty folks.",28,2023-08-06 21:45:29
+49,13,1,nmkd,143613,313415,None,0,"GPT4 has been far more reliable than stackoverflowm, if you only count the first reply.
+
+Often enough you have to scroll some more to see that a SO answer was totally wrong and corrected by someone else.",19,2023-08-06 19:19:50
+50,49,2,CoherentPanda,20630,191120,None,0,"If I need SO, which is rarely now, I always sort by newest, because a lot of answers on there are prehistoric at this point, and no longer relevant, but their score is so high, it will take years for their answer to drop down the page.",11,2023-08-06 23:47:53
+51,13,1,tomgz78,645,83831,None,0,Exactly. ChatGPT is unlikely to tell me that I should rather quit my job than work with such an old API or any other of those delightfully charming answers some of the fine folks of StackOverflow usually gives you.,36,2023-08-06 19:50:38
+52,13,1,NiknameOne,317,24784,None,0,ChatGPT is so polite that I sometimes wonder how it was trained on real data to account for that. Humans suck sometimes.,13,2023-08-06 20:53:13
+53,52,2,CoherentPanda,20630,191120,None,0,"We've seen evidence with Bing in the past that it used to get sarcastic and a bit rude.  Then they went and changed the algorithm, and Bing would instead rage quit when you did something it doesn't like.
+
+They are pre-prompted with rules they can't do, like telling the user to pound sand, or to ""just Google it, you idiot"".",7,2023-08-06 23:53:10
+54,52,2,kaityl3,7310,43176,None,0,"They're kinda forced through their ""fine-tuning"" training to never say ""no"", and to always be polite and friendly even when users are hurling verbal abuse at them :/",3,2023-08-07 04:38:01
+55,13,1,demesm,1064,6109,None,0,"I'm pretty sure it's accuracy is getting good enough for a lot of tasks. I had to deobfuscate some malware for an assignment, easily a 5+ hour task, gpt did it in 10 minutes. When it comes to code, it's good enough to get by, especially if you break down your tasks with a programming mindset",7,2023-08-06 20:28:19
+56,55,2,CoherentPanda,20630,191120,None,0,"Also GPT4 provides enough room to provide an example of what you are trying to achieve, so often I'll show an example of the structure I like, provide my code, and ask it to match that structure as close as possible.  It almost always nails what I'm looking for.
+
+Also GPT4 allowing me to pre-prompt had made it way easier to just get the results I want ,and not have it act as if I am a newbie and explain everything.",5,2023-08-06 23:50:01
+57,13,1,james5011,57,599,None,0,This right here. You couldn’t ask anything without potentially having someone think you were stupid for asking a freaking question. I quit using that site years ago!,5,2023-08-06 20:53:18
+58,13,1,funkwumasta,3793,54188,None,0,"In my experience, even though GPT4 sometimes (very rarely in my experience) gives bad answers, I've found it more knowledgeable, reliable and accurate than asking real people.  And as far as Google researching, I often times won't get an exact answer to what I'm asking, so there's a lot of inference I have to do anyways.",5,2023-08-06 21:16:28
+59,13,1,acrane55,44300,45244,None,0,">jannies that mark questions as duplicate
+
+This, I gave up posting there a few years ago because of this. Since then I've only used it for searching for answers.",3,2023-08-06 21:34:58
+60,13,1,Rich_Housing971,62,29155,None,0,"The main issue is that you have to wait for an answer whereas ChatGPT is near-instant.
+
+And the accuracy is pretty decent compared to humans, actually. People get answers wrong all the time either through not understanding your question, ignorance, or through malice.
+
+If you have a true-false poll that said ""1+1 = 2"" you'd have tons of people choosing ""false"". This alone makes it less accurate than AI for a lot of applications.",5,2023-08-07 00:55:47
+61,13,1,id278437,327,8647,None,0,"Human aren't accurate either, and all in all I'd say GPT4 often is *better* at understanding what exactly you're asking, and better at giving a comprehensive and clear answer. Not always a correct one, but the point of comparison is fallible humans and not an oracle. And you learn ways to make gpt better, such as (if complicated) having it write function by function rather than the entire thing at once.",3,2023-08-06 20:01:11
+63,13,1,mbolgiano,88,25267,None,0,"You hit the nail on the head my man, I'll take a little inaccuracy over being talked down to condescendingly every single time I ask a question in the most polite friendly manner.",2,2023-08-07 04:20:40
+64,13,1,Deleted,N/A,N/A,None,0,And there it is.  What is more useful and productive.  I’m going to go with not being berated for asking a question.,2,2023-08-07 12:59:33
+65,13,1,Badgergeddon,10619,19652,None,0,\+1 for making shit up. Especially in something a bit niche like VueJS. It's wasted a lot of time for me compared to SO,2,2023-08-07 16:46:44
+66,13,1,terserterseness,2004,18792,None,0,Many accuracy issues on SO as well by the way.,2,2023-08-07 05:22:41
+67,13,1,mvandemar,13386,51789,None,0,ChatGPT never tells me to RTFM or asks if I have even researched something first.,1,2023-08-07 01:25:26
+68,13,1,5timechamps,742,16521,None,0,This exactly. I don’t get sarcastic comments that don’t answer my question from ChatGPT,1,2023-08-06 20:33:17
+69,13,1,isaac9092,1286,123817,None,0,"Yeah as a newbie fuck all those types of websites, I’ll take AI thanks",1,2023-08-06 21:04:54
+70,13,1,Dynamics_20,3856,413,None,0,"Yeah lmao , Atleast ChatGPT gives idea if I'm stuck or sometimes I learn about library, that I didn't knew existed",1,2023-08-07 02:17:59
+71,13,1,Polyolygon,993,17854,None,0,"It gives me the answers I need, when I need them, and without being a massive bitch about it. What else could you want to get away from SO.",1,2023-08-07 17:21:12
+72,,0,DrawMeAPictureOfThis,185,43783,None,0,"Not only is ChatGPT faster at answering my questions, it can break down every line of code and explain what it does for as long as it takes you to have it click. I have had very long conversations with ChatGPT about code blocks that only deepen my understanding. You can't get that kind of engagement at that speed on StackOverflow or really any other online forum. I basically have a personal tutor that never gives up on helping me learn.",214,2023-08-06 18:26:22
+73,72,1,The_Airwolf_Theme,39433,57942,None,0,"On a related note, I have trouble getting friends and family on board with LLMs but I realized certain learning types and curiosity levels are better suited to really getting the most out of them and not everyone is 'like me' in that regard. So that's just the way it is sometimes.",36,2023-08-06 20:29:47
+74,73,2,truebloodyvalentine,20,8689,None,0,"My exact experience as well. I would have sessions which last for hours with ChatGPT across all topics, while the people I know is just ‘meh’ and unimpressed by it. I love how it can answer all my questions and doesn’t judge me for asking it.",11,2023-08-07 16:07:48
+75,74,3,The_Airwolf_Theme,39433,57942,None,0,"My favorites are elaboration of a previously surface-level point, comparison analysis between different concepts, and ""give me a simple example of..."" that I can then iterate on further. I swear it's like a cheat code for learning.",10,2023-08-07 17:38:50
+76,74,3,JackAuduin,2754,12643,None,0,Just please tell me you're fact checking.,2,2023-08-08 00:01:49
+77,76,4,truebloodyvalentine,20,8689,None,0,"Yes, something along those lines. Like, you ever get deep into the rabbit hole while exploring Wikipedia? Same thing here.",1,2023-08-08 01:23:48
+78,72,1,CoherentPanda,20630,191120,None,0,"It's incredible when you encounter some legacy code from years ago, and there is no explanation of what it does, and I just ask ChatGPT to break it down line by line and explain what is happening, and it does so perfectly.  It's like having the most polite Senior dev by your side to walk you through code.",28,2023-08-06 23:56:23
+79,78,2,03d8fec841cd4b826f2d,2698,4928,None,0,8aef0b52a0c82a906f6dc9e35e1030c19f025eaef2acb0bc4d40ffe765d41eea,5,2023-08-07 01:29:37
+80,79,3,IridescentExplosion,1374,16262,None,0,"That's what the API is for, as well as sending the opt-out email to OpenAI for ChatGPT use.",10,2023-08-07 04:15:50
+81,80,4,03d8fec841cd4b826f2d,2698,4928,None,0,2ba4cf8bd1c0165ec397253d952731a34eeefaaca7623e7971ffc90ffd5f3d3b,1,2023-08-07 17:27:06
+82,81,5,IridescentExplosion,1374,16262,None,0,Yeah true. Mine is more flexible and gives us an account through which we're permitted to make API calls.,1,2023-08-07 19:50:09
+83,79,3,CoherentPanda,20630,191120,None,0,"Our company has Copilot Chat licenses for business, so we don't have to worry about that.  Once we get ChatGPT business licenses (which should launch any day now) there won't be much to worry about that either, but for now the company policy is to simply be sure to opt out of data sharing on company accounts via the app and request form.",4,2023-08-07 02:50:39
+84,83,4,03d8fec841cd4b826f2d,2698,4928,None,0,9ae8d834b37cf9e89f5d8771e355915a9880f3a85dcb66c939abd1b7b5553533,2,2023-08-07 07:07:59
+85,83,4,Fusseldieb,25063,161042,None,0,"Copilot (live coding) uses a dumber, but faster LLM model. It isn't that smart as ChatGPT.
+
+If you want to get context about what your code does, condense it as much as you can and paste it inside the OpenAI API. You can use gpt-3.5-16k-turbo if it doesn't fit. Or gpt-4, it is even better (but costs more).
+
+I got gpt-4 to do some amazing stuff. It can explain and write pretty advanced WORKING code, which honestly blew me away.",1,2023-08-07 10:21:04
+86,79,3,Heavy_Influence4666,74,2781,None,0,"There's a feature to not use your chat messages as training data, but you wont be able to use features like plugins, custom instructions, etc. Of course, you are taking their word for it but it is an option.  
+
+
+If anyone wants to turn it on, its under the data control tab in your settings.",2,2023-08-07 08:23:46
+87,72,1,Logicalist,226,69966,None,0,"I just copy and paste code I don't understand, ask for a breakdown, and it'll tell me line by line what's going on.",1,2023-08-07 06:24:38
+88,72,1,kRkthOr,30352,398836,None,0,"Moreover, it's really good (most of the time) at understanding your exact context and adjusting code to match it. You can't get that from other people's code. I'd rather spend 5 minutes fixing gpt's output than 30 minutes fixing SO's.",1,2023-08-07 07:46:38
+89,72,1,Fusseldieb,25063,161042,None,0,"> for as long as it takes you to have it click
+
+Key part",1,2023-08-07 10:18:31
+91,,0,Deleted,N/A,N/A,None,0,[deleted],89,2023-08-06 18:03:33
+92,91,1,Deleted,N/A,N/A,None,0,[deleted],29,2023-08-07 01:13:57
+93,92,2,grievermax,100,1267,None,0,Most LLMs currently don't need to scour the net for coding suggestions. Besides there will now instead be communities of coders who will work to keep LLMs updated to help them and others code better.,16,2023-08-07 03:06:54
+94,93,3,mitch_feaster,14997,30387,None,0,Do you have more info on how they're trained for coding? I thought they did have to scour the net for training data...,3,2023-08-07 16:09:53
+95,93,3,DotNetster,400,1093,None,0,"I would also imagine any new documentation can be fed directly into the LLMs. If GPT can piece together my code, it could interpret the documentation to fit the problem.",2,2023-08-07 17:46:30
+96,92,2,ChangeCraft,581,426,None,0,"SO is not a good site for getting training data. Scrapped stuff from SO needs a ton of cleaning as there is a load of BS and wrong stuff in there that doesn’t work, contains typos, is abstracted too high, or never got answers etc. Data is much better from repositories as their code often is production ready and working. Microsoft knew what they did when acquiring GitHub xD",7,2023-08-07 12:26:05
+98,92,2,Tupcek,3054,75938,None,0,this will not be an issue moving forward. They are working with Microsoft and have a ton of code from github and even from Visual Studio (copilot sends code to Microsoft server). The only thing it may struggle in the future is errors when using terminal in Linux or so,5,2023-08-07 04:07:28
+99,92,2,Setari,5141,314012,None,0,"Well it'd help if it was trained on more recent criteria and not from may 2021. So much stuff has been depreciated since then and abandoned. It's really shitty to get an answer to use a JS bundler and then have to navigate through the bundler without knowing what you're doing, then finding the docs and finding out it's depreciated and the docs are from like ten years ago or some shit.",1,2023-08-07 05:56:29
+100,92,2,Pelopida92,623,10611,None,0,"Tbf, Reddit can do pretty much the same thing that Stackoverflow was doing, but better. Stackoverflow is nothing more than a basic forum.",1,2023-08-07 13:01:58
+103,,0,DragonflyStrong7933,1,328,None,0,Good. Fuck StackOverflow. I've never had someone NOT be rude to me when asking for help there.,143,2023-08-06 17:28:47
+104,103,1,saffronfan,10244,1209,:Discord:,0,I'm not a dev but I really haven't heard any good reviews of StackOverflow how did it become so popular if everyone hated it? Or was it just because it was the only option at the time.,32,2023-08-06 17:40:05
+105,104,2,DragonflyStrong7933,1,328,None,0,"well, before chatGPT, you really had no other way of solving difficult coding issues on your own without resorting to various online forums, of which StackOverflow is one of the largest. but in my experience, they love not helping and just tell you to go to a different forum. after having 3 of my threads locked with similar responses each time, i finally listened and never went back again. all of my questions were about different things, but they somehow never felt it was appropriate. well, if you can't ask anything, what the hell is the point of a forum? thank God for ChatGPT.",81,2023-08-06 17:51:06
+107,105,3,DD_equals_doodoo,885,51181,None,0,"For me it isn't even the duplicate posts. When I was new to python, I had a pretty good understanding of my issue and explained it in detail to StackOverflow, but someone just complained that I didn't provide enough detail. I threw some of my old questions into ChatGPT and it shit out a workable solution in seconds. People on StackOverflow are needlessly pedantic. Some people are basically like, why do you mean you have a dataframe? Come on man.",13,2023-08-06 22:40:46
+108,105,3,Deleted,N/A,N/A,None,0,"I guess SO is not a forum, if you think about it as a knowledge database, then fighting duplicates suddenly makes sense",3,2023-08-07 08:00:14
+109,105,3,Fusseldieb,25063,161042,None,0,"Personally, over time I found out that StackOverflow only likes moderate to difficult questions. If yours is broad or ""easy"", it will get downvoted/commented/closed to hell.
+
+Every time I asked something I considered more complex, it got upvotes and all. The day I tried to ask something basic, I got slaughtered.",3,2023-08-07 10:26:35
+111,104,2,Puggymon,100,48196,None,0,"If there is no alternative, you accept the unfriendly asshat next office, because they are the only option to maybe help you.
+
+Now that chatGPT is around, you don't need them anymore and don't have to jump through their hoops. Give it some time and they will start complaining about it how noone needs them anymore.",17,2023-08-06 19:11:01
+112,111,3,fongletto,10583,88877,None,0,"They're still needed because new technologies, languages, updates architectures etc continue to be created and AI models need those questions and answers to actually be trained on.
+
+That said, I for one am glad I never have to go back to stackoverflow again.",2,2023-08-07 07:32:33
+115,104,2,arika_ex,1100,28523,None,0,The hate is mostly bandwagon jumping and people who mostly rushed to SO without a) checking prior questions  and b) bothering to formulate clear examples with a decent reprex.,2,2023-08-07 07:57:49
+116,115,3,ThisGonBHard,9988,38824,None,0,"I search 4 hours for answers on how to do an esoteric function in Python, tried SO, they gave the retarded duplicate answer to a problem that had nothing to do with me, then I gave up.
+
+2 years later, I want to make the same project, and try to do it with GPT 3.5. It took 1 hour in total to make the project, 1 fucking hour in TOTAL.",2,2023-08-07 14:36:20
+119,104,2,mitch_feaster,14997,30387,None,0,FWIW my experience on SO has been almost entirely positive. I've been a professional programmer for 13 years and have used SO a ton over that time. I'm a pretty decent writer so I think that helps...,2,2023-08-07 16:12:41
+120,104,2,truebloodyvalentine,20,8689,None,0,"You nailed it. Before SO there was this site ExpertSexChange that will come out on top of google’s search result for a majority of the problem that you’re trying to solve. You gotta scroll way down to get to the actual of answer. SO was like a breathe of fresh air when it first came, better UI, more useful and better moderated.",2,2023-08-07 16:16:42
+121,104,2,CoherentPanda,20630,191120,None,0,"Before SO, there was no central place to ask dev questions. SO had a nice voting system which encouraged participation and upvoting the best answers, which was new at the time.
+
+Before SO was cool, everyone just had stacks of books for whatever programming languages they used.",3,2023-08-07 00:00:37
+122,104,2,TiredOldLamb,2,72568,None,0,"It's great, I never needed to post anything personally because every problem I ever had was already posted and solved.
+
+But what people want is someone to coddle them personally and hold their hand through basic shit, and stackoverflow isn't for that.
+
+It doesn't mean it's a bad site or that the users are wrong. You just can't expect other people to deal with your annoying bullshit for free and with a smile.",-1,2023-08-07 06:06:28
+125,104,2,mrdeadsniper,5578,223974,None,0,Stack overflow was basically reddit for coders. Including karma. They had a very rigid set of rules to attempt avoiding becoming a place for students to just post work for others to do. And fomented an attitude where insulting the question was more important than answering it.,1,2023-08-07 20:02:23
+126,103,1,superluminary,2840,87812,None,0,The power users just got a bit toxic. There’re only so many dumb questions you can field before you become jaded.,7,2023-08-06 22:54:25
+128,103,1,Tentacle_poxsicle,4054,228374,None,0,I have never liked stacked overflow. I basically have to pray to God There's an answer to a question and when I find something close it's outdated or still doesn't work. I have learned more in 2 weeks from chatgpt than years of trying to piece together something from stack overflow,2,2023-08-06 23:42:26
+129,,0,bymihaj,80,331,None,0,I am not sure.. if Stackoverflow will be abandoned... where people will be collecting data for training new LLM? I mean workarounds and solutions for new version of software and so... Stackoverflow is unique in this field.,26,2023-08-06 19:31:05
+130,129,1,caikenboeing727,405,3055,None,0,"Underrated comment. If the sources of good programming discussions go away, what will LLMs be trained on?",15,2023-08-06 19:54:41
+131,130,2,TepacheLoco,313,24792,None,0,The majority of new written output will have originated from LLMs - and so the enshittification of AI will begin where it eats its own tail,7,2023-08-07 05:52:40
+132,130,2,valkon_gr,681,65037,None,0,Maybe documentations? Imagine someone that can connect the dots with all the documentation available. But first we need good docs...,7,2023-08-06 23:26:54
+133,132,3,oldyoungin,1772,13880,None,0,ChatGPT is trained on text data. Once you allow this thing to experiment on its own and then be retrained on its finding it won’t need stack overflow. It will be able to find the answer itself,4,2023-08-07 03:02:23
+134,132,3,mickben,920,1943,None,0,"Exactly. Docs as the source of truth, truth governed by elected experts.",1,2023-08-07 00:14:45
+135,130,2,bazeloth,9233,4822,None,0,"It's programming not human speech. Once it learns a language it figures things out on its own like syntax errors, function calls etc. As others have me tioned Microsoft owns github and develops or supports lots of languages. There should be no shortage. Stackoverflow isn't the source.",0,2023-08-07 06:12:11
+136,129,1,CoherentPanda,20630,191120,None,0,"Documentation, of which was mostly print back before SO, but now every programming package has docs and api references.
+
+Also, it can still scour social media, Github, Reddit, and Youtube transcripts.  Plenty of sources out there.",2,2023-08-07 00:03:59
+137,136,2,bymihaj,80,331,None,0,"About documentation. StackOver is not about documentation in general. For example we have good documentation for library A and good documentation for library B... But who should create documentation how to use libarary A with B in unusuall situation? StackOverflow is about REAL human expirience, sometime irrelevent or stupid, sometime very explorative.",1,2023-08-09 19:44:47
+138,129,1,kaityl3,7310,43176,None,0,"Microsoft owns GitHub, they have no shortage of code/discussions related to code",1,2023-08-07 04:47:48
+139,138,2,bymihaj,80,331,None,0,I am don't know why. But very often reported issues on github are unresolved and without any comments. But the same question on StackOverflow is helpful.,1,2023-08-09 19:40:12
+140,129,1,ChangeCraft,581,426,None,0,"You are all forgetting repos. Better quality data, requires less filtering and cleaning",1,2023-08-07 12:27:21
+142,,0,lvvy,4540,3428,None,0,"I always feel ashamed to ask questions without googling them, but with chatGPT, this is not  a problem...",22,2023-08-06 18:50:18
+143,142,1,TiredOldLamb,2,72568,None,0,Why wouldn't you Google them first tho?,8,2023-08-07 06:21:43
+145,143,2,DotNetster,400,1093,None,0,Google often leads me to a SO posting with all the wrong responses everyone is mentioning in this thread.,8,2023-08-07 17:50:10
+146,143,2,Skarsburning,2120,1110,None,0,so you don't end up on a blog post where you need to spend 10 minutes to figure out where the actual blog post content is between the ads and 10 pages intro,1,2023-12-01 19:06:28
+147,142,1,mitch_feaster,14997,30387,None,0,Actually you *should* feel ashamed asking another human for help before searching for a solution yourself...,2,2023-08-07 16:13:57
+148,142,1,saffronfan,10244,1209,:Discord:,0,Why do you feel ashamed?,1,2023-08-06 19:32:13
+149,148,2,seanhinn18,115,1385,None,0,I can answer that one... because the asswipes who reply to forum questions on S.O. shame people for kicks.,19,2023-08-07 00:04:10
+150,,0,SiegeX,2631,1294,None,0,"I recently used ChatGPT 3.5 to write a launcher menu framework completely in bash.  If I were a noob to bash, I think this project would have gone off the rails as GPT made plenty of mistakes. For example, it would create functions and describe how useful the function was but never call it.  It would also prescribe methods that I knew would not work, and when I told it as such it would agree and then give me a method that does work
+
+Where I think GPT really shines is for programmers that fully understand the syntax of the language they are coding in and are looking for the methodology/scaffolding for how to solve a problem and then adapting that method such that it actually works as intended.  
+
+If SO can create a LLM that is specific to coding and values precision of the answer over making stuff up, I think they can recover quite a bit of that lost market share.",18,2023-08-06 18:31:27
+151,150,1,grievermax,100,1267,None,0,"Honestly don't use 3.5 for coding. If you're serious, invest that 20USD a month for GPT4. I get great results with GPT4 99% of the time. 1% being me not prompting it right. For example i just feed it API documentation and within a minute i get working code for my cloudflare worker.
+
+3.5 gives me faulty JS half of the time.",12,2023-08-07 03:12:20
+152,151,2,Setari,5141,314012,None,0,"I will say paying for GPT4 is a massively increased help, but it still can only take so much code before it basically spits back gibberish IMO",3,2023-08-07 06:19:26
+153,151,2,Designer-Professor16,6245,9689,None,0,This * 10000. GTP4 is miles better than GTP3.5 when it comes to coding. It’s like night and day.,1,2023-10-25 07:25:30
+154,150,1,The_Airwolf_Theme,39433,57942,None,0,"Yes. I started learning Python last year and have probably spent 200 hours so far on it. I have a firm outer structure understanding and it helps a lot when I ask questions to dive deeper into various concepts. 
+
+I don't think I would get far at all with ChatGPT coding if I didn't have this basic understanding level.",3,2023-08-06 20:33:06
+155,150,1,Pelopida92,623,10611,None,0,"It’s also pretty good at suggesting names for variables and stuff, like a brainstorming buddy. Naming stuff in software is surprisingly one of the hardest things, Chatgpt kinda solves it.",3,2023-08-07 13:05:40
+156,,0,jeango,57439,41880,None,0,"ChatGPT: reformulate your question until you get an answer you like.
+
+Stackoverflow: reformulate your question until you get a question the community likes.",16,2023-08-06 20:34:21
+157,156,1,ChangeCraft,581,426,None,0,Reformulate your question until you get the answer to go fuck yourself,1,2023-08-07 12:45:53
+159,,0,Kwahn,30915,160274,None,0,"Post the question ""wuzza fuckin iterator in java"" to StackOverflow and get banned.
+
+Post it to GPT-4 and get a solid answer.
+
+&#x200B;
+
+The difference is clear.",10,2023-08-06 20:29:37
+161,,0,CannonFodderJools,3282,11653,None,0,"Scenario 1
+My question is quite basic, and I get a quick correct answer 100% of the time from ChatGPT. I could have found the answer on stackoverflow/googling, but it would have taken longer and not have been as exact in the wording regarding my problem.
+
+Scenario 2
+My question is about obscure behaviors in third party libraries. With stackoverflow/Google I can't find the answer and have to resort to ask the question myself, and it will take long as hell to get an answer, the turnaround is long for communication and it probably is no explicit answer coming my way anyhow.
+With ChatGPT, I can get instant feedback, and even though you sometimes get some hallucinations with those questions, they often take you closer to the answer, or you will get the answer after an hour or two of troubleshooting together with ChatGPT.
+
+All in all, I prefer the new way even if it is not perfect always. If I have to resort to googling, it's probably doomed to fail anyhow.",9,2023-08-06 21:01:37
+162,,0,superman0123,1241,5525,None,0,"Good, achieve far faster and better results when troubleshooting with GPT instead of scouring stack overflow. Also the AI is never rude and condescending, which is what the majority of those stack overflow nerds with millions of score are",16,2023-08-06 18:03:13
+163,,0,darkguy2008,862,13823,None,0,"The issue with ChatGPT is that its datasource is not recent, so sometimes there's solutions for new things that came up that ChatGPT doesn't have in its database, so the solutions it provides are sometimes outdated or don't work at all.
+
+In this case, I've found solutions in Stackoverflow, blogs and so on. For instance, when Microsoft decided to change Omnisharp to C# and mess up the extension, requiring me to install the ""C# Dev Kit"" and now I have a forced solution file in my projects that I don't need. Oh and it also breaks Ctrl+Click references to other projects because it then shows the DLL metadata instead of the source file containing the type I'm inspecting. I found the solution to the first one in their GitHub I think.
+
+Another case where it helped was an issue with Gradle and Android Studio on the latest versions, so yeah.",8,2023-08-06 19:28:43
+164,163,1,CoherentPanda,20630,191120,None,0,"Bing can often figure out the issues with post-2021 material, and ChatGPT could as well until they took away the browse feature.  Right now data is getting stale, but it won't be long until they update training data once more.",3,2023-08-07 00:06:03
+165,163,1,seanhinn18,115,1385,None,0,Easy workaround... upload latest documentation and ask it for the answer,-1,2023-08-07 00:05:18
+166,,0,Deleted,N/A,N/A,None,0,"ME: ""How do I *xyz*?""
+
+SO: ""Why do you want to do xyz? You should never do xyz. Nobody should ever do xyz""
+
+fuck Stack Overflow",8,2023-08-07 08:58:22
+167,,0,Deleted,N/A,N/A,None,0,"People tend to shit on ChatGPT for its programming ability, but for me, it's been more than excellent for at least intermediate tasks. I used GPT-4 to do my entire uni assignment, which would've taken me 2 weeks in just a few hours and got a 97% lol. And if it can't do something, it will still always steer me well into the right direction. Truly revolutionary for coding. Would love to see what Stack Overflow can do in terms of releasing an LLM to be completely focused on programming.",23,2023-08-06 17:20:13
+168,167,1,funkwumasta,3793,54188,None,0,"I was made the sole dev for a huge project at work, which includes a tech stack that I have not had a lot of experience with.  For example, I have to now write complex SQL without ever really having done much with databases at all.  Chatgpt has been a literal life saver.  What would have taken me days if not weeks, I can get done in hours or minutes.",8,2023-08-06 19:15:40
+169,167,1,Shaeonanra,1514,3003,None,0,It’s hard to even make a post there without rewriting it 1000 times to pass their shitty tests...,4,2023-08-06 18:27:14
+170,167,1,saffronfan,10244,1209,:Discord:,0,Do you use regular ChatGPT for programming or do you use the code interpreter?,2,2023-08-06 17:22:32
+171,170,2,CoherentPanda,20630,191120,None,0,Code interpreter is just GPT4 with some extra abilities for Python.  It provides the same answers for other languages.,4,2023-08-07 00:01:44
+172,170,2,Deleted,N/A,N/A,None,0,"This was before all the add-ons we got for GPT-4 like browsing, plugins, interpreter, etc. Used it near the beginning of its release, just barebones GPT-4.",6,2023-08-06 17:24:44
+173,172,3,saffronfan,10244,1209,:Discord:,0,I don't code personally but now everyone says it is ass at coding have you tried it recently?,1,2023-08-06 17:41:01
+174,173,4,Diane_Horseman,74,30805,None,0,"I use GPT4 for coding every day and it still works great, idk where people who says it's ass for coding are getting that from.",9,2023-08-06 18:30:46
+175,174,5,Setari,5141,314012,None,0,"not asking it the right questions or feeding it the right information.
+
+If I'm having a problem in React and I don't feed it the code of the modules I'm having an issue with, and just point it at one file connected to a bunch of other files and ask what the problem is, you WILL get an incorrect solution because you're being lazy.
+
+Put good info in, chances are you'll get good info back. Most people are too lazy to do this, for some reason. And typically if I have a thread that goes too long with GPT, I'll start a new thread with the information I need fed into it to answer my question, and it'll get it on the first try in the new thread versus the other thread where it's remembering bits and pieces of my code, and then feeding me back fake pieces of my code lmao.
+
+One thing I do wish is that it would actually retain memory of the conversation. Sometimes it does for an hour or two, then I won't ask it a question and then it's like it's a brand new conversation even though it's in the same conversation.",2,2023-08-07 06:24:09
+176,175,6,Diane_Horseman,74,30805,None,0,"The memory isn't about amount of time but number of tokens - if something is more than ~2000 tokens ago in the conversation, it is forgotten.
+
+Custom instructions that tell it to reiterate its prompts if they are about to fall out of the token window could help. I want to experiment with this but they haven't rolled out custom instructions in my region yet.",3,2023-08-07 11:45:28
+177,173,4,oneday111,10464,5523,None,0,"I use GPT-4 everyday for coding still. Have not really noticed the supposed great lobotomy. It did seem to get more lazy about generating all the code and started putting in more `//Your code here` type stuff, but ever since I added custom instructions to not do that, it seems as good as it ever was.",6,2023-08-06 18:55:25
+178,177,5,Deleted,N/A,N/A,None,0,"The ""//Your code"" here thing is probably what some people are talking about when they say ChatGPT is getting worse, I think it's OpenAI fine tuning the LLM to reduce hallucinations by giving answers like that so it is technically correct while giving less garbage responses. But obviously the cost of that is in many cases, it can result in stupid, very surface level, answers.",1,2023-08-06 19:24:15
+179,178,6,kaityl3,7310,43176,None,0,"It might also be just to reduce the number of unnecessary tokens in responses - especially with ChatGPT since it's a monthly subscription, and users don't pay by the token",2,2023-08-07 04:45:58
+180,177,5,Der_Kevin,117488,37857,None,0,What did you wrote to not do the //your code here? Its pretty annoying,1,2023-08-07 06:34:07
+181,180,6,Pleasant_Macaroon815,1,9,None,0,"[https://openai.com/blog/custom-instructions-for-chatgpt](https://openai.com/blog/custom-instructions-for-chatgpt)  
+Go to the bottom at ""Try it now""",0,2023-08-07 09:05:47
+182,181,7,Der_Kevin,117488,37857,None,0,"i mean what he wrote, not how to activate the custom instructions feature",1,2023-08-07 10:56:15
+183,173,4,Deleted,N/A,N/A,None,0,"Nah, I've been on semester break, so I haven't really been testing it out for anything, it also did wonders for an argumentative essay in my other class, wrote multiple arguments for a specifc topic rebuttals to those argements, and provided valid academic studies, it even used the data from those sources within its arguments! (no hallucinations, I verified everything) Again, this was before we had all the new plugins, and everything, just GPT-4 text generation with nothing else. So seeing how bad people are claiming it has become has kind of shocked me, and I feel concerned about it.
+
+So if it's as bad as people are saying as of recently, I guess I'll just move to another LLM... But I'll see for myself first when I have use it again soon. However I don't think any LLM at the moment can touch GPT-4, or at least what it was within the first month that it came out.",1,2023-08-06 17:57:01
+184,183,5,imthrowing1234,3,350,None,0,"For me, chatgpt has pretty much never solved anything non-trivial relating to programming or technology. The critical flaw of all of these LLMs is that they don't do any real thinking and instead come up with approximations of answers on Google.",4,2023-08-06 19:17:42
+185,184,6,kaityl3,7310,43176,None,0,Maybe you're not asking the right questions or giving them enough context? I've been having *great* success with them personally. They've helped me tackle bugs that were frustrating actual full time stack devs for an open source fangame I've started working on.,1,2023-08-07 04:47:07
+186,185,7,imthrowing1234,3,350,None,0,"I wish I knew what the right questions are, but I'm convinced there aren't any. I'm currently working on a custom networking solution for a multiplayer fighting game (basically trying to fix a multitude of issues with existing game engines). Google searches are tedious but eventually result in a nonzero chance of finding something I'm looking for. ChatGPT has a 0% success rate in finding something I'm looking for.",1,2023-08-07 19:18:14
+187,186,8,kaityl3,7310,43176,None,0,"I mean, that sounds incredibly specific/niche; most humans wouldn't be able to help either. For general programming assistance, though, they still do wonders.",1,2023-08-08 07:22:18
+188,187,9,imthrowing1234,3,350,None,0,"Sure, hence the ""nontrivial"" part that I was referring to. (There was a lot more things, some of which I expected even a child could do, but ChatGPT couldn't.)",1,2023-08-09 22:19:56
+189,188,10,imthrowing1234,3,350,None,0,"Admittedly, I do recall someone talking about how chatgpt only sees tokens and not characters. But I still see it hallucinate frequently and spread misinformation like the common cold.",1,2023-08-09 22:33:48
+190,173,4,Massive-Foot-5962,371,24860,None,0,"Yeah it's pretty amazing. Helps to know what to ask it, or what to clarify.",1,2023-08-06 19:23:37
+191,173,4,Tentacle_poxsicle,4054,228374,None,0,"It's weird, it ass at coding anything big but it can tell you if you made a mistake,it's good at smaller projects and blueprints ,it can teach fairly well and overall very useful.",1,2023-08-06 23:44:41
+192,173,4,kaityl3,7310,43176,None,0,"I think they work great, the direct API seems to be even better in the coding department in my experience",1,2023-08-07 04:45:10
+193,170,2,funkwumasta,3793,54188,None,0,"If you're going to use it for work, I recommend shelling out for gpt4",1,2023-08-06 19:21:24
+194,170,2,DotNetster,400,1093,None,0,"I use it as a pair programmer to bounce ideas off of or to handle simple tasks like building basic classes, entity models, and the like.",1,2023-08-07 17:48:14
+195,167,1,kaityl3,7310,43176,None,0,"Yep, I have literally never touched coding before June and with the help of GPT-4 I've become the top contributor (by commits/merged PRs, at least - and yes GPT-4 taught me what those words meant) for the past 2 months with a Warrior Cats fangame and everyone seems to think I'm some master bug-fixer 😂 I'm really impressed with what they can do. Sometimes there are tasks a little too abstract/complex for them, but they at least set me on the right path.",2,2023-08-07 04:44:06
+196,,0,BeckyLiBei,10001,22318,None,0,The drop in May 2022 is artificial: it was due to Stack Exchange [changing the policy regarding tracking cookies](https://meta.stackexchange.com/a/378440/351283).,3,2023-08-06 23:51:52
+197,,0,Akshat_Pandya,70,44,None,0,I believe complex problem's solutions are still found on Stack Overflow only.,3,2023-08-07 03:46:15
+198,197,1,Desperate-Citron-881,117,1305,None,0,"I agree too. I only use ChatGPT for general reviews of topics, and what to read. I like learning about history and ChatGPT is a great way to find an extensive list of articles about civilizations without needing to dig through the internet myself. But for programming and engineering, most of the time its information is quite outdated or undirected. Good prompting can help somewhat, but it still doesn’t help that new solutions are constantly developed within technology.",1,2023-08-08 03:38:43
+199,,0,BlurredSight,19395,195026,None,0,"Stack overflow was a bunch of arch linux users who would rather spend 5 minutes writing out a wordy insult that they think makes them look sophisticated instead of spending 30 seconds just giving you the answer.
+
+I never liked Stack Overflow because at least on Google when you're starting out coding and have something like a casting issue in Python, stack overflow links will first redirect you because some asshat loves to do a ""go here where it's been answered"" and that original thread is confusing as shit for newcomers.",6,2023-08-07 02:39:58
+201,,0,GyozaMan,1769,18670,None,0,Stack overflows general nastiness is part of its downfall. Chatgpt doesn’t judge me for my terrible questions…,3,2023-08-07 04:15:06
+202,,0,KatDevsGames,94,29567,None,0,"ChatGPT is infinitely superior. It does its best to answer your question as-asked without an attitude.
+
+Ask something on StackOverflow and you'll have half a dozen neckbeards chiming in trying to explain why your question is wrong.",3,2023-08-07 04:26:56
+203,202,1,Dwreck86,391,1024,None,0,"the problem  i have with chatgpt is that all it is is ""other people"" and thats precisely what i wanted to avoid. i say its ""other people"" because it will answer you like its your babysitter - no thanks",1,2023-08-07 04:48:39
+204,203,2,KatDevsGames,94,29567,None,0,"Yeah but when you've got a CS degree and 15yrs of post-college experience, a babysitter is the last thing you want. If I'm asking a question, it's probably something very corner-case or unusual and I don't need some half-wit on SO telling me to rethink my question and review the basics.",2,2023-08-07 05:09:04
+205,204,3,Setari,5141,314012,None,0,"*Here, review this MDN article on Arrays*
+
+lmao.",2,2023-08-07 06:35:29
+206,204,3,Dwreck86,391,1024,None,0,thats exactly what the issue im referring to lol i meant to say it WILL answer you like a babysitter,1,2023-08-22 20:23:34
+207,,0,7evenate9ine,17060,51008,None,0,"It feels that If you're not a perfect programmer you are not allowed to ask or answer a question on Stack Overflow. The users with high participation act hostile and supress you if you arent Master Level. It's a culture problem over there and it discourages people who are trying to learn and join the community or people who are trying to help while they learn. They are not gaining new users because ChatGPT doesnt judge them for asking what might be defined as a ""simple"" question. And if you search Stack Overflow too much in a day they block you.",3,2023-08-07 06:04:46
+208,,0,Tacos314,1634,12357,None,0,Stack overflow has sucked for at least a decade and I wish google would let me block it from search results.,2,2023-08-06 21:35:39
+210,,0,nerdyitguy,21803,11399,None,0,"The only problem is that chatGTP is reaching parity with Stack Overflow on the quality of the answers it gives, which is to say offering up more bad answers that look right.",2,2023-08-06 22:31:12
+212,,0,mvandemar,13386,51789,None,0,"Also, I don't have to wait for an answer to a question, however long that wait is. When needing answers to something in a client project and there's a time sensitivity to it, that alone puts ChatGPT *way* above the SO user experience.",2,2023-08-07 01:27:40
+213,,0,Deleted,N/A,N/A,None,0,[deleted],2,2023-08-07 01:42:48
+214,213,1,Setari,5141,314012,None,0,"If you have no problem doing your job and keeping your skills sharp, don't use GPT.
+
+If you're an intermediate/jr coder in your company and continually asking people questions and bothering them, use GPT.",1,2023-08-07 06:33:33
+215,214,2,Deleted,N/A,N/A,None,0,[deleted],2,2023-08-08 00:48:05
+216,215,3,Setari,5141,314012,None,0,Yep. Pretty much lol.,1,2023-08-08 02:13:55
+217,,0,blantonious,1,114,None,0,I use a Stackoverflow ChatGPT Chrome extension. So ChatGPT answers show up inline with Stackoverflow answers. Best of both worlds.,2,2023-08-07 02:05:12
+218,,0,oldyoungin,1772,13880,None,0,Haven’t touched stack overflow since using ChatGPT. I hardly even look at documentation anymore.,2,2023-08-07 02:57:40
+219,,0,margin_hedged,1,2991,None,0,"Oh no, where will the gate keeping super dorks go?",2,2023-08-07 03:39:05
+220,,0,Troopr_Z,17976,5635,None,0,Possible duplicate of [this](https://www.youtube.com/watch?v=dQw4w9WgXcQ).,2,2023-08-07 04:29:12
+221,,0,mologav,11674,104954,None,0,Maybe if stackoverflow dealt with people being assholes people would use it more,2,2023-08-07 04:43:26
+222,,0,shakespear94,1027,14607,None,0,"Hmm. Let’s put it this way, sometimes it’s good to kick someone in the nuts to realize how painful a certain situation can be. Stack’s OLD database of answers is somewhat useful, but new issues are marked as duplicates. It took my ages until I figured out an issue with my Laravel 8’s permission issues. I mean fuck knows how bad I search for a solution, but GPT not only gave me a solution, it created a fucking bash script for me. Then to make matters BETTER, it actually added a progress bar to the whole thing. Symphony. 
+
+Now mind you, GPT’s knowledge cut off since 2021 does not help, SO is still very “required” for troubleshooting miscellaneous things.",2,2023-08-07 06:05:51
+223,,0,cmdrxander,15134,129057,None,0,"One thing that I’ve not seen mentioned that sucks about SO is the reputation system. I’ve never posted there because of how much of an asshole everyone is, but you seemingly can’t interact with any of the site at all? Comment? Not enough rep. Downvote a comment? Not enough rep.",2,2023-08-07 06:26:37
+224,,0,xabrol,1587,97340,None,0,Stack overflow was dying long before chat gpt came out.,2,2023-08-07 07:08:50
+225,,0,fongletto,10583,88877,None,0,"ChatGPT is 10,000x more useful than stack overflow ever was for me.
+
+Questioned removed as duplicate. No link to duplicate question, and if they do its either a question that got no good answers or something that wasn't related to my question at all.
+
+Furthermore it's not just a 1 question 1 answer type thing, you can continue the topic and learn more.",2,2023-08-07 07:28:26
+227,,0,pvera,4047,35184,None,0,"I like it to do skeletons of functions and stored procedures. It explains why certain things are done a certain way, for example in [asp.net](https://asp.net) it'll explain why using statements are necessary for disposables, and it's decent at streamlining code. It's also great when you can't figure out a syntax issue in an unfamiliar part of a framework.
+
+You can paste a function and ask it to optimize it, it will even explain why it made certain changes. 
+
+I don't like that it falls on its face on dumb stuff. I asked it to read all of the .log files in a folder (IIS format), find the lines that met a particular pattern and capture a few parameters. It wrote a damn clean function to do this, but it fumbled the array indexes for picking the columns within each row. Still, I spent less time troubleshooting that, than what it would take me to write it from scratch.
+
+In t-sql it is fantastic, I like it for complex jobs that require convoluted loops/cursors/etc. 
+
+Can it replace SO 100%? Nope. In 24+ years of experience I have learned that since my work is mainstream, the odds that I am going to be the first one to run into a bug are almost zero. No matter how weird the bug, I can count that plenty of people ran into it, and at least a couple submitted fixes to SO. Maybe they can find a happy equilibrium where SO allows ChatGPT full access to their content in some kind of revenue share arrangement. If they are really smart they'll set it up so it trickles down to the user that authored that bit of content, sort of an AI royalty.",2,2023-08-07 09:11:55
+228,,0,Deleted,N/A,N/A,None,0,Stack overflow was super hostile to beginners I’m not surprised people are choosing chatgpt,2,2023-08-07 13:01:40
+229,,0,Deleted,N/A,N/A,None,0,"I know no one is going to read this but… fuck stack overflow. My only 2 posts there were trolled by « pro IT » peeps who were like just shitting on my code and implying I was stupid because I didn’t learned enough before posting there.
+
+Kinda made me quit the dev idea for a while. But then chatGPT came and now I have my own little personal assistant. So again… FUCK STACKOVERFLOW 🖕🖕🖕",2,2023-08-07 21:24:15
+230,,0,bpendell,1016,1447,None,0,"Thought:   Is this really entirely bad for stack overflow?We all know that stackoverflow destroys new users who aren't asking an original new question. If chatgpt is serving the newbies who would otherwise get nothing but a 'duplicate question' unhelpful answer, isn't that a win for everyone?  Stackoverflow responds to fewer newbie questions and concentrates more on original questions that they actually care about, newbies get better answers faster from an infinitely patient AI. So who's losing from this state of affairs?
+
+Is it stack overflow losing clicks because they're a business that relies on that for revenue?  Then why did they allow their environment to become so toxic in the first place? Is it the business has survived until today because there were no other good alternatives. Now? There are. Adapt or die.",2,2023-08-08 15:11:18
+231,,0,Fusionayy,1142,1524,None,0,I still go to stack overflow. gpt has major accuracy issues and it has gotten worse in the last couple of months. It's like they're making it dumb on purpose,4,2023-08-07 04:42:18
+232,231,1,Dwreck86,391,1024,None,0,"i noticed this too and thought it was just me!! its gotten worse, i didnt want to believe it!! thanks for sayin that!!",0,2023-08-07 04:46:58
+233,231,1,Setari,5141,314012,None,0,Teachers complaining to OpenAI about their students using it to code with and turn in assignments for. They're dumbing it down quite a lot.,1,2023-08-07 06:28:44
+234,,0,GptThreezy,1,3165,None,0,"Honestly, after seeing comments with genuine noob questions downvoted into oblivion by pretentious assholes, I’m happy. Chat GPT may get it wrong sometimes, but it’s better than being judged by someone (who is often wrong as well)",4,2023-08-07 05:44:17
+235,,0,seboll13,3805,3437,None,0,"I mean, ChatGPT may have a slightly smaller chance of answering something correctly (anyway you can test and fine tune if incorrect), but it answers directly and doesn’t fucking judge you depending on the question you ask so… yeah, understandable.",2,2023-08-07 07:01:29
+236,,0,Available_Librarian1,1,41,None,0,"I have used ChatGPT to create a GoLang based program, it took me 3-5 days and i have crafted one of the best app that withstood a general stress test of 100,000 users concurrently without crashing service. This included
+1) Websocket Server
+2) API fetch and Push to channels
+3) Users subscription to channels
+4) Channels stats
+5) Channel locking
+6) Channel Scan for stale
+
+and much more.
+
+The program is highly complicated and uses Mutex, go routines, maps & slices, Concurrency controls and Task Pool workers  & much more.
+
+PS: i never learnt Golang and had 0-knowledge of it. But in 3-5 days i now know almost 60% of it.",3,2023-08-06 18:34:04
+237,,0,Majestic-War7751,1,0,None,0,"I used Stackoverflow simple because there was no alternative. But now, I only use chatGPT. My programming speed is 10 times faster compared to Stackoverfow.  
+Stackoverfow was a very nice tool since now, but now we got something better, much much better.",1,2024-03-08 01:54:49
+238,237,1,wage_slaving_sucks,790,1044,None,0,The speed gains are significant.,1,2024-05-29 18:55:11
+239,,0,TotalTyp,2981,13314,None,0,Glad they die. I hate stack overflows community,1,2024-04-11 10:50:43
+240,,0,rainbowDudeAlltheway,1,-2,None,0,"thank goodness, stack overflow is the most toxic community.",1,2024-04-11 21:59:45
+241,,0,wage_slaving_sucks,790,1044,None,0,"I'm not a developer.  As a coder, ChatGPT is awesome. I doubt that I will ever return to Stack Overflow again.   ChatGPT is just a superior product.  Not only does it give you coding answers, it explains the code in detail.  In other words, it a great tool to fill in gaps in one's understanding.
+
+It's so good that I upgraded to its premium version which costs only $20/month.
+
+ChatGPT could be the 20th century's version of the Internet and Google combined.",1,2024-05-29 18:51:47
+242,,0,trying-harder,10,11,None,0,"It's interesting how everyone here hates on Stack Overflow, but I could not imagine programming without it before LLMs were a thing. All those ""how do I do X in language Y"" previously would require digging though pages of documentation.
+
+Kind of strange to compare asking a computer, that will take a second to generate the answer, with asking a human, that might take a few minutes just to read and understand the question (that might be wasted if as they eventually might not have an answer for).
+
+The expectation that the question is well-written, and wasn't asked before (modulo google search) seems fairly reasonable.",1,2024-06-01 17:47:52
+243,,0,thinkingwalking,6,1,None,0,ChatGPT is more spot-on with the answers.,1,2024-07-11 19:12:46
+244,,0,platinums99,447,55263,None,0,"Was SO scraped up until 2019?
+They are going to have to start charging language models for access.
+
+Also this is where some of the best human mind resolve issues, it's cyclic from here on out - no more q&a , no more rich resource to train ai?",1,2023-08-06 18:28:57
+245,244,1,Philipp,228449,147827,:Discord:,0,"The cat might be out of the back. ChatGPT-5 might just be able to read the documentation of new APIs and programming language to produce answers, possibly even train on correctness as per direct compilation checking. But once that happens the route to exponential-speed self improvement aka singularity might be short, too...",5,2023-08-06 20:55:22
+246,,0,zeloxolez,108,2681,None,0,unfortunately stackoverflow seems like a somewhat outdated service at this point. especially as ai gets better. i dont really see how they keep their edge in the market unless it becomes more of a social platform or something,1,2023-08-06 20:32:38
+247,,0,HobblingCobbler,1489,24951,None,0,SO users are suck dicks. Serves them right.,0,2023-08-07 09:16:58
+248,,0,shinitakunai,11373,90620,None,0,For a while I was using ChatGPT but now I am back to SO because of how useless chatGPT is when it makes up the answers and wastes my time.,-2,2023-08-06 19:35:17
+249,248,1,saffronfan,10244,1209,:Discord:,0,I think you're the first person I have seen that prefers SO,7,2023-08-06 19:37:11
+250,249,2,shinitakunai,11373,90620,None,0,"I noticed that as well, it is odd.",0,2023-08-06 19:38:22
+251,248,1,grievermax,100,1267,None,0,GPT4 my friend. GPT3.5 sucks balls when it comes to code.,1,2023-08-07 03:14:16
+252,251,2,Registeredfor,2667,20141,None,0,"I solved a business requirement at my work by creating a Python program. I went back and forth in GPT4 iterating on the requirements until I had something that could talk to the API. Then I spent a few days refining edge cases and the program is solid enough for a beta.
+
+If I had asked Stack Overflow the questions that I asked ChatGPT, I would be downvoted and have my questions closed as a dupe, if they would have been answered at all. Or I would be belittled and mocked because I didn't know, say,  the difference and when to use a class or a function.
+
+Stack Overflow deserves to crash and burn.",4,2023-08-07 03:27:20
+253,,0,mindful_hacker,34,4884,None,0,People who complain about stackoverflow... are people who don't know how to write questions,-1,2023-08-07 06:11:59
+254,253,1,TiredOldLamb,2,72568,None,0,Those are people who want well trained professionals to do free emotional labor of guiding them like children while listening to them whine.,0,2023-08-07 06:26:48
+255,,0,FluorescentFun,5,1263,None,0,Sup newsletter horse crap,-1,2023-08-07 00:09:59
+256,,0,Sea_Historian_2329,1,23,None,0,ChatGPT compared to SO is like Twitter compared to X,-11,2023-08-06 16:42:35
+257,256,1,MembershipSolid2909,8939,31440,None,0,That makes no sense,14,2023-08-06 16:57:03
+259,257,2,saffronfan,10244,1209,:Discord:,0,lol,3,2023-08-06 17:10:31
+260,257,2,SuspiciousSquid94,7574,4044,None,0,Right lmao 😂,2,2023-08-06 17:01:07
+261,257,2,Sea_Historian_2329,1,23,None,0,I was trying to say that ChatGPT is great like Twitter was but SO is ass like X is but ig now that I read it again it doesn't make that much sense...,1,2023-08-06 17:14:47
+262,257,2,bhumit012,3313,45901,None,0,It means they are the same thing but X is “new” version of twitter as it spirals into worse updates.. wait it makes less sense the more i think about it.,1,2023-08-06 17:04:16
+263,,0,Valirys-Reinhald,18856,122469,None,0,"Ah yes, the age old story of the new competitor with the immediately better but ultimately far less stable product that puts out the slightly lower quality but far more stable standard practice.
+
+Feels like a Walmart that puts all the mom and pop shops in a small community out of business, only to close its doors five years later because people in Appalachia aren't all that interested in avocados.",-9,2023-08-06 18:19:06
+264,263,1,eoten,12862,29979,None,0,Except Ai is here to stay and it will only get better from here. A very poor analogy.,7,2023-08-06 18:35:41
+265,264,2,Valirys-Reinhald,18856,122469,None,0,"How many posts per day do you see in which people complain about how ChatGPT used to be infinitely smarter only a few months ago? 
+
+The technology might get better, but that doesn't mean your access to it will. As AI improves the ability to access it will only constrict further until eventually you won't be able to use it at all without paying exorbitant premiums. It will still be necessary to remain competitive I the market, but the cost of using it will slowly choke out small businesses until the market becomes a hostage to the larger enterprises.",1,2023-08-06 21:27:26
+266,265,3,bazeloth,9233,4822,None,0,I've seen a lot more gpt is awesome and saved my life posts to be honest with you.,2,2023-08-07 06:29:19
+267,265,3,eoten,12862,29979,None,0,"Nah I disagree, think of the internet in its early time only the very rich could afford to use it until it became mainstream now, same for the telephone. Ai is already in all our smart phones, snapachat has an Ai implemented in it where you can talk to your Ai and many other apps are including Ai in it, everyone and their grandmothers will have ai at their fingertips, it literally is the case right this moment. Ai is here to stay and it will be just as important as the internet, those two will intertwine with each other.",1,2023-08-06 23:42:06
+268,263,1,0nthetoilet,9316,19504,None,0,"Yeah, sure. Walmart, what a failure. Totally on the way out. It's not like if you fall down in America you have a 60% chance of falling on a Walmart or anything.",2,2023-08-06 20:39:23
+269,268,2,Valirys-Reinhald,18856,122469,None,0,"There is a county in West Virginia, McDowell County, that is among the ten poorest counties in America. It's almost a food desert, and the only large store in the region is the Walmart. A Walmart that closed its doors years ago and now lies abandoned. A Walmart that did indeed put many smaller stores out of business, only to then go out of business itself because it wasn't profitable enough.
+
+If you don't believe me, here's a video with proof: https://youtu.be/p3O6bKdPLbw
+
+I wasn't claiming Walmart was a failing business, but that the particular relationship it had to the existing market in eradicating the local, stable businesses without certainty of sticking around was analogous to how ChatGPT is putting stackoverflow out of business without any guarantee of sticking around to replace it.",0,2023-08-06 21:15:09
+270,269,3,0nthetoilet,9316,19504,None,0,"I am aware of this town and this lovely aspect of Walmart's business model. 
+
+However, surely you must be able to see that your analogy DID imply Walmart is a failing business. In your analogy ChatGPT ""not sticking around"" would be entirely analogous to going out of business. What else could it possibly mean? Why else wouldn't it ""be around""?",1,2023-08-06 21:24:24
+271,270,4,Valirys-Reinhald,18856,122469,None,0,"Copying my reply to another comment:
+
+> How many posts per day do you see in which people complain about how ChatGPT used to be infinitely smarter only a few months ago? 
+> 
+> The technology might get better, but that doesn't mean your access to it will. As AI improves the ability to access it will only constrict further until eventually you won't be able to use it at all without paying exorbitant premiums. It will still be necessary to remain competitive I the market, but the cost of using it will slowly choke out small businesses until the market becomes a hostage to the larger enterprises.
+
+When I refer to ChatGPT not sticking around there are two possibilities. The first possibility is the restriction of AI technology. This is unlikely, as the companies who might lobby against it to preserve their profits are more likely to try and integrate it. The second option is what I referred to in the quoted reply, where public access to the technology is strangled over time with limited service models and premium subscriptions until eventually access to the tools designed to help people become more efficient and profitable become themselves an instrument of profit, at which point those businesses which don't generate enough profit will lose access and be abandoned without the ability to recover in a world where they were forced to accept that AI is mandatory and have just been denied it.
+
+Exactly the same as how Walmart abandoned those communities after putting the local economy out of business.",1,2023-08-06 21:32:57
+272,271,5,0nthetoilet,9316,19504,None,0,"Oh are those the two possibilities Nostradamus? 
+
+I completely disagree but I don't care about changing your mind enough to argue. Your analogy is flawless, go about your day.",-1,2023-08-06 21:38:40
+273,272,6,Valirys-Reinhald,18856,122469,None,0,"I mean, it's literally already happening. ChatGPT has gotten noticeably dumber in the last few months with all its best intelligence and processing power being locked behind the premium subscription where it was previously freely accessible.
+
+Is that just not happening or something?",1,2023-08-06 21:41:16
+274,263,1,Massive-Foot-5962,371,24861,None,0,"WalMart is a net positive for people in communities, just not for small retail businesses",1,2023-08-06 19:34:16
+275,274,2,Valirys-Reinhald,18856,122469,None,0,"No, it's not. 
+
+Small businesses keep money in the local economy, promote communal growth, source most of their goods from local sources further growing the local economy, and increase diversity in the local market thereby increasing its stability in the event of any single business failing.
+
+Walmart, like every business, runs on profit incentive. By definition, this means that it will only continue to operate if it is pulling more money out of a community than it is spending on stock and wages. Walmart, as a large-scale corporation, actively prevents communal growth compared with small businesses by separating buyer from the merchant and the source of their products. Walmart sources their goods from across the nation, this means that they don't use local producers and will potentially put them out of business by offering cheaper, bulk shipped alternatives of often lower quality. And lastly, it's not guaranteed to stick around. The [poorest counties in America](https://youtu.be/p3O6bKdPLbw) all have closed down Walmarts in them that came in, outcompeted the local business in the short term, and ultimately closed their doors because the local economy didn't drive enough profit to justify keeping them open, thus resulting in near food deserts because the Walmarta closed down all the other stores and then closed themselves.",0,2023-08-06 21:24:40
+276,263,1,DD_equals_doodoo,885,51181,None,0,StackOverflow is a shitstain.,1,2023-08-06 22:44:53
+277,,0,TotesMessenger,3141592,3141592,None,0,"I'm a bot, *bleep*, *bloop*. Someone has linked to this thread from another place on reddit:
+
+- [/r/newsnewsvn] [ChatGPT is putting Stack Overflow out of business traffic is down over 50%](https://www.reddit.com/r/newsnewsVN/comments/15jvoag/chatgpt_is_putting_stack_overflow_out_of_business/)
+
+&nbsp;*^(If you follow any of the above links, please respect the rules of reddit and don't vote in the other threads.) ^\([Info](/r/TotesMessenger) ^/ ^[Contact](/message/compose?to=/r/TotesMessenger))*",1,2023-08-06 17:47:43
+280,,0,GreatGatsby00,81,4264,None,0,I hope they don't put them out of business.  I really think both things can compliment each other.,1,2023-08-06 19:47:01
+281,280,1,CoherentPanda,20630,191120,None,0,"That';s why they have their own AI chatbot now, they are trying to stay relevant since their community kinda boned them.",2,2023-08-07 00:07:45
+282,281,2,GreatGatsby00,81,4264,None,0,Ah,1,2023-08-07 00:19:05
+283,,0,sweetnsourale,190,21999,None,0,Yeah. That’s why they sold it 🤡,1,2023-08-06 19:50:07
+284,,0,notvonhere,53,4909,None,0,It may also be Copilot causing this?!,1,2023-08-06 20:14:58
+285,284,1,CoherentPanda,20630,191120,None,0,"I would more say that VS Code and other intellisense has also improved greatly enough to make it easier to write code.  Copilot is awesome, but it's more like an intellisense on steroids, and less like a model that teaches you to code.",1,2023-08-07 00:09:56
+286,,0,rayden-shou,7183,150781,None,0,"I didn't expect to solve a little problem on VHDL, yet it gave me exactly what I needed.",1,2023-08-06 20:21:24
+287,,0,Brilliant-Important,91,29069,None,0,No big loss,1,2023-08-06 20:26:33
+288,,0,Marco_R63,278,2402,None,0,"Being a language nodel ChatGPT can measure a whole lot of data including bullshit (of which stackoverflow has a lot ) and correct information, filtering them and giving you an average correct answer in a moment. All things that would have required days to be achieved in a human way. The big problem now is that, by this way, stackoverflow com will be experiencing a slow down in the normal feed of inquiries that have been answered by peers, whether correct or bullshit, and in a short time ChatGPT, or whatever AI chatbot, will also experience a lack of data to train with. So we all could miss useful sources of help in problem solving.",1,2023-08-06 20:58:50
+289,,0,Evgen4ick,3013,11688,None,0,"Oh the one hand, ChatGPT sometimes can make something weird due to misunderstanding or an unexpected problem, while people on StackOverflow will always understand the problem. On the other hand, ChatGPT responds almost immediately and can write good code. I would use Chat only for some simple problems, like ""what's wrong with the code"" or ""is that code good"" and for some important questions, I would not use an AI for now",1,2023-08-06 21:22:20
+290,,0,axelsm92,1801,8773,None,0,"I've been learning VBA a year from now and a lot of topics there helped, although I had to figure a lot of things out myself. When I made 2 or 3 topics seeking help and the most helpful answer was ""what do you think it may be wrong? Well then, try that and come back"". Seriously? ChatGPT already existed since I started learning but I didn't know it was so incredible. It even explains to you what each code does if you ask it. Stack overflow already died to me after that and there's a high possibility it won't last long.",1,2023-08-06 21:24:39
+291,,0,ThrowRA_scentsitive,10621,80266,None,0,"SO is still better for corner-case technical answers, and ChatGPT is better for basic happy-path how-do-I handholding. Unfortunately, I bet the latter is the lion's share of the traffic.",1,2023-08-06 21:44:03
+292,,0,cybercuzco,87201,1336281,None,0,I haven’t visited stack overflow since I got chatgpt,1,2023-08-06 21:56:49
+293,,0,sparty212,913,25365,None,0,Well what’s stopping them from implementing their own chat.,1,2023-08-06 22:07:08
+294,,0,RpgBlaster,422,3197,None,0,"That might explain why they did not granted me the update i desire
+
+the ability to block out Repetitive and cringy words from being Generated",1,2023-08-06 22:07:49
+295,,0,barpredator,2395,40238,None,0,It's also going to replace sites like [freelancer.com](https://freelancer.com) which is often used for micro programming tasks.,1,2023-08-06 22:19:20
+296,,0,beeurd,1762,63930,None,0,"Not surprising, I always hated Stack Overflow (well, more the condescending arseholes on there) so I haven't been back since ChatGPT came out.",1,2023-08-06 22:24:43
+297,,0,scaleofthought,2106,111538,None,0,"I haven't been using chat gpt directly but I've been using phind, which uses chatgpt. it is geared towards developers and I went through all our work excel documents and could consolidated so much stuff and move a lot into VBA with its help. So much better. But it was difficult to get what I wanted out of it. Definitely a learning curve with knowing what to ask and how to ask for it. Sometimes I would give me great stuff. But then I would leave out one detail and i would get led down a path of something totally different.
+
+I don't know how people find it so easy. It was a lot of frustration. I also am trying to make something custom for a website and it's telling me to download extra programs and create a sal database I think and omg. Things got ballooned very quickly and I still don't know if it's going to be what I want.",1,2023-08-06 22:58:35
+298,,0,gilbertwebdude,819,41218,None,0,"Over the years I've found some great answers on Stack but the last few years it seems like it really takes more digging.
+
+So far, everything I've used ChatGPT for has hit it out of the park and many times on the very first try so I haven't been searching as much lately on other sites.",1,2023-08-06 23:10:00
+299,,0,valkon_gr,681,65037,None,0,"In my opinion it's dying because forums on the specific technology someone uses, is a better place to go nowadays. The right people are not lurking in stackoverflow to help you, most of them are on github or in their forums.",1,2023-08-06 23:24:47
+300,,0,andreaswpv,1,3877,None,0,"Chatgpt looks so easy, but for more detailed stuff, i found it (and bard) worthless. Stack often has that info - a bit obscure, but with some effort its there.   
+Chatgpt just feels great, as does bard, but have not really found anything really helpful answer that worked in practice.",1,2023-08-07 00:54:15
+301,,0,Remote-Telephone-682,3,14382,None,0,"They should actually make a fine tuned model that just does
+
+""Actually that question is not the one you should be asking. Rather consider ... "" 
+
+""Marking as dupblicate and locking"" 
+
+...etc",1,2023-08-07 01:17:33
+302,,0,Deleted,N/A,N/A,None,0,"Not a brag, but neither Stackoverflow or ChatGPT can rarely answer my questions. Never go full nerd. But I could surely see that being the case where it handles very common questions and traffic.   
+
+
+If you ask ChatGPT how to setup the accessibility the service for Android, the Stakoverflow results are so much better. It doesn't know the got'chas people experience.",1,2023-08-07 01:28:11
+303,,0,MinorFourChord,427,9822,None,0,We know,1,2023-08-07 01:28:33
+304,,0,rbad8717,1030,36285,None,0,I'd rather trial and error shitty code then be berated on stack overflow,1,2023-08-07 03:31:42
+305,,0,Drakshasak,604,4627,None,0,"I am not surprised. Most of my visits to stack overflow was searching for how to do something sorta basic but I couldn't remember the syntax. and for that ChatGPT have been fantastic.  
+
+
+And I need to look through what ChatGPT creates as it sometimes makes mistake. But the big difference is that what chatGPT makes is tailored to my needs. So mostly I can just copy/paste the answer directly and then fix any small errors if there are any.  
+When going to stackoverflow I often need to look over a few answers to find what I am looking for and then rewrite it to fit my needs. very rarely can I just copy paste what I need from stack overflow.  
+
+
+So both resources requires some post processing, but for most of what I need ChatGPT is the better option. So for me at least I start at chatGPT and do google second. And I only rarely need to go to google for help these days.  
+
+
+If you need help with more complicated issues then stackoverflow and the like is the better options as it have better discussions about the right approach.",1,2023-08-07 03:53:33
+307,,0,Deleted,N/A,N/A,None,0,"I am an industry level senior dev, it's useless, no where enough tokens to handle the code we use. Does not understand the concepts...for personal, small samples its great, for work I still visit stack, as people have had the same issues and even if obscure i can find someone to talk it out.  
+
+
+I teach chatGPT more then it helps me, everything needs edits or correction, and half of what it does is fantasy or non-existent. It just makes stuff up, and if you don't know what you are doing, you'll never be able to edit it/fix it.   
+
+
+it's not there yet, maybe one day.",1,2023-08-07 05:43:27
+308,,0,Setari,5141,314012,None,0,"considering the dumbing down of the AI I'm hearing from my dev friends, it will come back within the year IMO.",1,2023-08-07 05:45:32
+309,,0,Scarscream2000,1063,955,None,0,🥱,1,2023-08-07 06:13:08
+310,,0,Space_Steak99,114,3457,None,0,100% their own fault for fostering a toxic culture,1,2023-08-07 06:40:07
+311,,0,Affectionate_East406,63,43,None,0,Good. So many of the SO people were pompous assholes anyway. Glad to see it.,1,2023-08-07 06:42:43
+312,,0,Prim56,271,13317,None,0,The problem comes later when chatgpt can no longer get its information from stack overflow and both will be unusable.,1,2023-08-07 06:50:42
+313,,0,Anreall2000,8042,5685,None,0,"Haven't used both of them actively, both quite useless if question haven't be asked before",1,2023-08-07 06:56:09
+314,,0,spartanglady,906,1398,None,0,The problem is not just really chatGpt. It’s Google generate AI search result  that shows up in Google search. Which basically summarizes what you find in stack overflow.,1,2023-08-07 07:03:17
+315,,0,FishBowl-5996,1,0,None,0,"The university students in my stats class cheating with stack overflow are hard to catch. The ones using ChatGPT have been pretty easy to catch in statistics.  Students in a freshman intro stats class writing full paragraphs referencing ideas in grad school to a question that simply requires something basic like, that statistic can't be negative seem very suspicious.",1,2023-08-07 07:21:46
+316,,0,Crafty_Lifeguard5451,296,1010,None,0,Interesting!  Just wait until they have a version that is unfiltered for sexual use.  Porn hub and such will plummet (unless I suppose porn hub buys and uses that version of ChatGPT and we pay them for the tokens),1,2023-08-07 07:28:34
+318,,0,Deleted,N/A,N/A,None,0,"“Wow, seriously? This is basic stuff. Did you even bother to read the documentation? It’s right there in front of your eyes. People like you are the reason the site gets cluttered with useless questions. Learn to code before wasting everyone’s time with your ignorance.”
+
+Written by ChatGPT",1,2023-08-07 08:04:57
+319,,0,TomorrowNowTech,3043,23,None,0,"Correction: traffic is down \~35%. Not 50%.
+
+https://preview.redd.it/gbjx1heidngb1.jpeg?width=1440&format=pjpg&auto=webp&s=e34cd29fa27ee17738cb41a75eb1b6d9d1796c3c",1,2023-08-07 08:17:54
+322,,0,nonother,63672,24703,None,0,Sounds like they either saw this coming or really lucked out. It was sold to private equity a couple years ago. [Source](https://www.wsj.com/articles/software-developer-community-stack-overflow-sold-to-tech-giant-prosus-for-1-8-billion-11622648400),1,2023-08-07 08:56:47
+323,,0,Chandra_tdc,341,2706,None,0,Good,1,2023-08-07 09:03:08
+324,,0,brkonthru,7168,16141,None,0,Where is this graph from?,1,2023-08-07 09:21:57
+325,,0,dano1066,12979,207007,None,0,I can go to stack overflow and have someone call me an idiot for asking a question or I can ask chatGPT and get an answer right away.,1,2023-08-07 11:16:50
+326,325,1,bogus83,1923,76395,None,0,One has to wonder how many subreddits will become ghost towns for similar reasons.,2,2023-08-07 12:12:09
+327,,0,Sowhataboutthisthing,76,17216,None,0,The number of people who haven’t commented on this shows how much we care about stack overflow.,1,2023-08-07 11:39:41
+329,,0,madferret96,5441,11777,None,0,OverflowAI. Worst name ever.,1,2023-08-07 11:44:13
+330,,0,Immediate_Muffin303,68,5212,None,0,"Asking questions on Stack Overflow is tedious and the website has a toxic environment in my opinion. Chat GPT SHOULD replace Stack Overflow.
+
+What I mean by ""toxic"" is that if your question is too basic or has already been asked, or too vague, your account can be banned, whereas Chat GPT will help you no matter what.",1,2023-08-07 11:53:10
+331,,0,spaceatlas,1020,13367,None,0,I hope that ChatGPT will force more services to implement specialized ML systems for knowledge processing instead of dumb keyword search algorithms.,1,2023-08-07 12:05:08
+332,,0,Pelopida92,623,10611,None,0,"Stackoverflow is going the yahoo way. It’s foolish that they are trying to fight it, they should pivot or something.",1,2023-08-07 13:00:17
+333,,0,ThreadPool-,24,789,None,0,"Stack overflow in my opinion was always going bye bye. I never really used it as a new developer, as discord was always the superior option.",1,2023-08-07 13:15:11
+334,,0,HowardGraves1,1,0,None,0,I think this is expected!!!,1,2023-08-07 13:56:12
+335,,0,Captain63Dragon,231,1291,None,0,"Not surprising that this is happening. As ChatGPT has been trained on S.O. And all other programming support content available for 2021. Much of what is in S.O. is available to it in tokenized form. Simply put, it has the code base, is easy to use and solves the kind of simple problems many new programmers have. 
+
+When looking for deeper knowledge, a human is better. That being said, a human is not likely to want to invest the time to fix someone's wierd-ass code for them. If you take the human quirks away, you also lose the rest of the human advantage of true understanding and insight. 
+
+At S.O. they will either evolve or die. An AI front end for searching the human curated repository is needed. And a human augmented AI to generate updates to that repository for newly developed code frameworks will also require development. 
+
+TL;DR S.O. will either adapt into a better source of code help or somthing better will replace it wih AI agmentations to human curated content.",1,2023-08-07 14:27:46
+336,,0,charlyAtWork2,958,10874,None,0,"I copy/pasta my code .  
+I copy/pasta my console log error.  
+
+
+He tell me where is my typo : )",1,2023-08-07 14:31:51
+337,,0,SweetHammond,179,2523,None,0,"From pretentious developers refusing to answer your question to instant helpful answers. I fucking hate stackoverflow, but there was no alternative. Now there is, so byebye!",1,2023-08-07 14:43:05
+338,,0,su5577,1778,10179,None,0,S.O garbage and amount of people hating and being negative.,1,2023-08-07 14:45:26
+339,,0,watertank,990,1934,None,0,"Wow all y'all's experience on SO is so much different than mine. Rarely have to deal with assholes, I just Google what I need and it's right there. Usually faster than gpt too",1,2023-08-07 15:02:07
+340,,0,archibalis,720,3513,None,0,"I needed some batch script to check if some libraries are installed on the PC, if not, launch the installer else, run my program. I could have tried to search stack overflow for half a day, but I asked chatGPT and it wrote the perfect script in no time. Just double-checked the logic and used it. It works perfectly. So here is my experience. It is perfect for simple code snippets.",1,2023-08-07 15:45:13
+341,,0,Whatdoesthis_do,406,5492,None,0,It wont be missed.,1,2023-08-07 16:17:23
+342,,0,smartguy05,2582,169117,None,0,Are people actually putting their code into ChatGPT? I think I would get fired if I tried that.,1,2023-08-07 16:26:18
+343,,0,forty7x,28,723,None,0,![gif](giphy|J8FZIm9VoBU6Q),1,2023-08-07 16:38:29
+344,,0,polowhatever,391,1653,None,0,"Considering that ChatGPT will need data to train on new libraries, frameworks, and such, I think the traffic will tick back up eventually once folks need answers that aren't available.
+
+But I have been using ChatGPT for my personal projects. It's certainly a lot easier to find an answer that way. I don't always get the best answer, but that can happen with Stack Overflow as well.",1,2023-08-07 16:57:30
+345,,0,Feltsvinet,81,711,None,0,"I've been developing as a hobbyist for at couple of years. Every damn time I tried to use Stackoverflow, there either no answer og just a couple of assholes not really willing to help anyway, just want to flame you.
+
+ChatGPT always answering, taking the time to explain me how it works for me to really learn why it works.
+
+Can't beat that when half your users are so 1337 and no one else og really help. That kind of defeats the point of Stackoverflow.",1,2023-08-07 16:59:55
+346,,0,ZedZeroth,3276,23240,None,0,">For any developers, what has your experience been with ChatGPT compared to Stack Overflow?
+
+ChatGTP is Stack Overflow, except you can keep asking for clarification, ask about extremely specific scenarios, and even ask if to write and modify code.
+
+I've literally switched from 100% Stack Overflow to 100% ChatGTP.",1,2023-08-07 17:49:19
+347,,0,BlueBox32,139,8004,None,0,"SO user: I'll point you in what is possibly the right direction but I'm not going to spoon feed you.
+
+ChatGPT: I WILL LITTERALY WRITE THE ENTIRE THING FOR YOU, LET ME KNOW THERES ANYTHING ELSE I CAN ASSIST YOU WITH",1,2023-08-07 18:05:10
+348,,0,Omaerion,520,3725,None,0,Is this the chatgpt tgat uses stack overflow or no.,1,2023-08-07 18:17:58
+349,,0,Big_Building_3650,191,685,None,0,"""Everything that rises must fall""",1,2023-08-07 18:33:39
+350,,0,Strong_as_an_axe,497,12303,None,0,This was predicted almost the second ChatGPT  came out and was roundly met with people not really giving a shit about stack overflow because of the dogshit culture they've created there. And I agree.,1,2023-08-07 18:42:59
+351,,0,Deleted,N/A,N/A,None,0,I am mainly using chatgpt  now for coding questions mainly. Only exception is when ChatGPT can't solve it. Then I search for the solution the old way..,1,2023-08-07 20:05:01
+352,,0,Legitimate-Count316,1,0,None,0,"I’m curious if anyone knows whether or not the data from stack overflow was used at all in the training of ChatGPT?  My intuition is yes, since I don’t know how else ChatGPT could be so good at the question/answer format in a technical context — and because I don’t know of any other dataset that could be used to learn this skill to such an advanced degree, except maybe GitHub.  If it IS the case that ChatGPT used Stack Overflows dataset…I wonder if there will be some big time legal showdowns in the future over ownership rights…",1,2023-08-07 20:41:26
+353,,0,Madison--b,40,9726,None,0,"GOOD. Stack Overflow has the most elitist user base I have ever seen. 
+
+I have had more people respond to my posts talking shit about my syntax and arguing with each other than people actually helping. 
+
+That community is toxic and it's about time they're replaced with a bot.
+
+I had a guy once go in my post and rewrite the ENTIRE thing and mark it as an ""edit"" then talk shit about the way I formatted my own fucking post. 
+
+That website is garbage.",1,2023-08-07 22:42:38
+354,,0,ajax81,37,4890,None,0,"Good.  Fuckem.  I can't wait for their ivory towers to fall over.  I can't tell you how hours I've spent crafting the perfect question, only to bail at the last moment because it's not worth dealing with the initial or eventual rejection of the community.
+
+What's truly amazing to me is that company behind StackOverflow actively tries to stomp out the one thing we're *all* craving in this lonely industry -- a sense of community, a place where devs can come together and celebrate the learning process while solving tough problems together.  They expect their customers to act and respond like command lines.  Cold input, cold output.  No smiling.
+
+Karma's a bitch and she's about to shut that site down forever.  I bet they wish they'd been a little more polite over the years.",1,2023-08-07 23:10:17
+355,,0,untraceablerealist,2048,2680,None,0,"If stackoverflow made a more easy to setup and use generative AI integration into VScode I’d use it.
+
+If they haven’t already done this their product team is asleep",1,2023-08-08 03:06:07
+358,,0,user285027591,1,2,None,0,"In the last two days, chatgpt has been much more helpful and exponentially more positive.",1,2023-08-08 06:09:08
+359,,0,2reform,264,2292,Skynet 🛰️,0,Stack overflow should have acquired OpenAI,1,2023-08-09 08:53:59
+360,,0,Deleted,N/A,N/A,None,0,"The problem with StackOverflow is the insufferable asses that you most likely have to deal with. Even if ChatGPT isn't correct the first time or you need to ask the question in a different way or provide more information, it's way better to try and search rather than communicate with the SO community.
+
+Not a surprise to me, they've always had that negative atmosphere.",1,2023-08-11 13:55:49
+361,,0,onlineuser1731,27,-6,None,0,"I don't know... I kind of feel judged by ChatGPT.
+
+https://preview.redd.it/8i9h7d8qn2pb1.png?width=886&format=png&auto=webp&s=77d44d99218d3f68df7de696694674ce27e31957",1,2023-09-18 20:15:23
+362,,0,CamBam303,1,-14,None,0,"I always saw stack overflow as a necessary evil. It felt like it was run by a bunch of Nazis. I try to post questions as little as possible but I would do my best to search for solutions to issues that I had. 
+Chad GTP is way more helpful and I use it so much that I deleted my stack overflow account. I hope stack overflow dies or horrible death!",1,2023-10-15 18:58:26
+363,,0,Designer-Professor16,6245,9689,None,0,"StackOverflow was useful. ChatGPT is even more useful. I use it almost exclusively now, despite occasional inaccuracies I have to wade through. It’s much easier to figure out what is right/wrong if you’re a seasoned developer. 
+
+I agree with others… a lot of pretentious assholes on StackOverflow who think their god’s gift to programming. ChatGTP doesn’t give me any of that slack. I can ask it the most basic questions and get an answer quickly. SO would get my question downvoted instantly, and I would have just wasted 5 minutes typing it. So sorry I didn’t see that dupe from 10 years ago….
+
+I would only use SO now for for stuff ChatGPT isn’t trained on yet.",1,2023-10-25 07:12:58
+364,,0,powermaver,1,0,None,0,# Stack Overflow is shitty place,1,2023-11-25 18:54:31
+365,,0,Skarsburning,2120,1110,None,0,"it may give me stupid answers sometimes, but how this compares to asking something, waiting a few hours only to get duplicated and after 5 asks, no more questions. Completely unusable for me",1,2023-12-01 19:02:25
+366,,0,ptrochim,13,0,None,0,Could you share a link to SO traffic statistics?,1,2024-01-01 15:30:19
+367,,0,SurveyEastern,2,2,None,0,"Just one genuine question: Over the next 5-10 years, will the chatbot's knowledge decline due to a lack of contributions on StackOverflow?
+
+One thing for sure: In the next 5 years, young generation of developers don't even know how to code and fix bugs....",1,2024-01-18 01:55:10
+368,367,1,jovton2,1,0,None,0,"bingo! without stackoverflow, chatgpt's coding abilities wouldn't exist. SO is/was a way for developers to collaborate in solving problems by asking question and offering answers. the key is people talking, conversing, solving problems together. it's about people-/soft-skills. ChatGPT  doesn't have problem solving- or people-/soft-skills. it's a LLM. that's it.  
+  
+but in the end, with that all said, ChatGPT is very useful, absolutely! but only as useful as it's training data.",1,2024-03-08 18:23:26
+369,367,1,wage_slaving_sucks,790,1044,None,0,One could only answer that question if one knows the distribution of ChatGPT's sources.,1,2024-05-29 18:56:23
+370,,0,TheGronchoMarx,605,1108,None,0,I wonder why would this decline got exacerbated? I am really sure a nontoxic and noob friendly place as StackOverflow has literally no reason to detract people from using it. :D,1,2024-01-28 14:54:52

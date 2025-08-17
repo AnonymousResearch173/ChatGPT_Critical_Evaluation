@@ -1,0 +1,344 @@
+Unique ID,Parent ID,Depth,Username,Post Karma,Comment Karma,Achievements (Flair),Number of Awards,Comment,Upvotes,Timestamp (UTC)
+1,,0,HaddockBranzini-II,472,74320,None,0,"SO is almost always the first result in whatever I am searching for. But I don't engage when there or ask questions myself. I find the answers great but the community can be ""meh""",128,2024-02-08 17:46:54
+2,1,1,Deleted,N/A,N/A,None,0,[deleted],68,2024-02-09 03:43:28
+3,2,2,Yinci,2451,37154,None,0,"In all honesty there are a LOT of either dumb, useless or duplicate questions. I like answering new questions but it sucks having to filter through all the crap.",18,2024-02-09 06:45:13
+4,3,3,Howdy_McGee,1562,56531,None,0,"Right, and it's actual people going through all the crap and removing it. The influx if questions per day just on StackOverflow is insane, so there's a ton of garbage that needs to be filtered through.
+
+I imagine it's only a matter of time before StackExchange introduces AI to take over the bulk of those kinds of moderation tasks.",3,2024-02-09 16:48:13
+5,2,2,HaddockBranzini-II,472,74320,None,0,It's so cringy. It's like the worst stereotypical programmer personality on full blast.,7,2024-02-09 13:24:21
+6,5,3,No-Champion-2194,1,8323,None,0,"Agreed.  I finally deleted my account.  My experience was looking for an answer regarding date handling in SQL Server.  I found a relevant post and an answer that worked fine, part of it was using DATEPART(hh...).  A moderator comes in to the thread and changes it to DATEPART(HOUR...).  The poster comes back and complains that his original answer was correct and documented as proper syntax and shouldn't have been edited.  The mod comes then berates the poster for not knowing the 'best' way to write the query.
+
+On the site, I saw a question from an obviously junior developer who was struggling to write a query, but was clearly trying to learn.  I pointed out an obvious typo in his query, and explained what he should do without burying him in jargon.  I then get berated for responding to a question that wasn't properly stated, and told that I shouldn't guess that he made a typo.  Refusing to help a struggling dev because he didn't get his question right really shows the worst tendencies of the developer community.  I need to keep this in mind and be sure to be more patient with devs asking me for help.
+
+It's a shame I can't help people on SO anymore, but it is just a horrible experience, and chat GPT can give me an answer that gets me back on track without the nastiness.",1,2024-02-15 23:59:24
+7,1,1,LegendOfJeff,9505,20803,None,0,"A lot of answers are downright jerks.
+
+And a lot of them try to impose their viewpoint as though it's fact.",1,2024-02-09 17:12:07
+8,,0,cougaranddark,102351,36997,None,0,"I use Google, sometimes that leads to a SO thread, sometimes a thread on github or somewhere else, even Reddit. I would never post a question on SO in a million years, if I couldn't find an existing answer I'd try ChatGPT",177,2024-02-08 17:24:57
+9,8,1,Robot_Graffiti,6827,112221,None,0,"Yeah, SO is great when the question you want has already been asked and answered.
+
+If you have a question that hasn't been answered already, inevitably either nobody knows or you get downvoted for asking a stupid question.",23,2024-02-09 04:09:04
+10,9,2,Dependent-dev,4,6,None,0,Happy cake day,2,2024-02-09 17:12:49
+11,8,1,Ballesteros81,128,5394,None,0,"Similar here, I don't tend to go to Stack Overflow searching for answers, but I search using Google which often leads to a SO result.
+
+I've never asked a question on Stack Overflow, but I answer a few a year on average, enough to have eventually reached four-figure 'reputation'. The way I see it, someone needs to keep using Stack Overflow in order for there to be up to date SO content for GPT to learn from.",5,2024-02-09 10:33:41
+12,11,2,Apart_Pen5358,1,1,None,0,"Honestly, I've been leaning more towards AI tools like GPT lately. They give quick answers without having to sift through threads on Stack Overflow. It's been a game-changer for me.",1,2025-02-04 05:44:05
+13,8,1,xiongchiamiov,5298,101350,Site Reliability Engineer,0,"I gave up participating on SO a while ago because there's just too much traffic, but the other Stack Exchange sites are small enough you can actually get visibility.",10,2024-02-08 22:46:35
+14,8,1,MrStLouis,168,19307,None,0,"One time I exhausted all options trying to figure out some webpack nonsense, I eventually gave in and posted on SO and moved on to another feature in the meantime. Month later, no answers and the answer came to me in a dream.
+Tldr I am stack overflow, but only when unconscious",2,2024-02-09 15:23:44
+15,14,2,cougaranddark,102351,36997,None,0,"I bet that you, asleep, is more helpful than SO :-)",1,2024-02-09 19:12:10
+16,8,1,elmo61,29,10247,None,0,Have you never come across a problem not found on any of those places? Your lucky if you never had a bug that hard to solve,-13,2024-02-08 18:36:16
+17,16,2,cougaranddark,102351,36997,None,0,"I come across that situation often. If ChatGPT can't help, I break it down into smaller problems, which inevitably have precedence in public discussion. If still no luck, I pull back and take a different, known approach.",14,2024-02-08 18:49:43
+18,16,2,SlovakianGiant,55,2645,None,0,"Or even better if you find the SO post about the topic, but its your post from 2 years ago.",8,2024-02-08 18:59:50
+19,18,3,ohlawdhecodin,10063,63663,None,0,"Consider yourself lucky, because I often landed on stuff dated 2012 or so. It was very, very annoying.",3,2024-02-08 20:33:08
+20,,0,ShawnyMcKnight,625,240149,None,0,"I use stack overflow to research, but I would be very reluctant to post to it. I don't know if people judge you by your rep score or if I genuinely suck at asking questions.",44,2024-02-08 17:42:05
+21,20,1,StudyInProgress,162,466,full-stack,0,This. I stopped posting on stackoverflow because of how they treat beginners ![gif](emote|free_emotes_pack|dizzy_face),34,2024-02-08 18:07:23
+22,21,2,ShawnyMcKnight,625,240149,None,0,"It's more so the catch 22. I needed answer questions to get a higher score and I needed a certain score to be able to answer questions... so if my score was below that low threshold how do I up my score?
+
+I started just looking for questions I knew the answer to because I overcame the struggle in the past and if I couldn't find the question I asked the question and answered it and just marked it as a KB article (a question you ask and answer yourself) and people would STILL downvote that, because it wasn't challenging enough or too specific or many other reasons, so my score went down MORE.
+
+I noped out and never logged in again.",13,2024-02-08 18:38:33
+23,21,2,Foreign_Equipment_97,31,846,None,0,That's why I switched to Chat GPT. Chat GPT does not judge me if I have a dumb question. I do not have to think IF I should ask it or HOW I should ask it. I always get reliable answers. Chat GPT does not downvote my answers and/or questions.,3,2024-02-08 19:47:36
+24,23,3,CherryDT,10,52,None,0,"And that's because ChatGPT is more like a person you ask, trying hard to help you. Stack Overflow is a knowledge base you contribute to (in high quality, please) and sometimes also get a problem solved as side-effect of your contribution. People aren't there to help you, they are there to help improving the knowledge base. That's a huge difference.",0,2024-06-26 14:56:59
+25,24,4,paulremote,1,4,None,0,Thanks for clarifying the distinction between (1) asking for help where a known answer exists already and (2) asking for help outside of any existing knowledge base. I only rarely ask simple API questions on StackOverflow now that these can be answered by LLMs. When I do need to ask a question it's because the issue is not in the model's training set as u/Ballesteros81 wrote above. But sometimes there is an old way of doing things and a new way of doing things. The LLM might only suggest the old way. For this purpose old stackoverflow questions with old answers and new answers updated and upvoted are a treasure to learn from.,2,2024-10-27 04:56:18
+27,,0,explicit17,115,5829,front-end,0,I use google and it uses stackoverflow. Explaining my question to ai is pain,230,2024-02-08 17:09:40
+28,27,1,vomitHatSteve,536,85336,None,0,This is it. The best results to most questions are a web search leading to an SO thread,61,2024-02-08 17:30:14
+29,28,2,attracdev,1,960,node,0,Yep. Web search and look for the most recent post.,2,2024-02-09 04:02:53
+30,27,1,xfeusw,2,39,None,0,I'm agree with it. I also use Google search instead of writing to GPT. Because I know how to solve problems. And that's why I often use Google for it. But sometimes I don't understand. I don't understand what I am doing. And in this case I use AI.,7,2024-02-08 21:44:37
+31,30,2,Low_Arm9230,112,286,None,0,"I think they are both knowledge based and give you information, and in the sense generative AI is just an upgraded version of google search.",0,2024-02-09 01:35:47
+32,27,1,jdbrew,24428,245229,None,0,"Yes… but also, I spent several hours troubleshooting something. It was database server with Prisma ORM and GraphQL. Worked on it for hours, to no avail, and then one night I was super stoned playing BG3 and it hit me “I wonder what ChatGPT would give me if I just described the database tables, fields, and relationships in plain English and told it it what I would need to query and the type of mutations I need?” 
+
+So I spent probably 7 or 8 minutes typing out a lengthy description of the database and my api requirements, and that I needed to use Prisma ORM and graphQL-yoga… BAM. It spit it out immediately. I set up a new project, copied the code in, ran perfectly, first time. No issues. I was able to compare the logic between the two and see where I fucked up, and fix my code. 
+
+If I did that first, that <10 minutes would have save me about 6 hours.",14,2024-02-08 22:11:32
+33,27,1,XxDonaldxX,1433,13735,None,0,"It's actually funny how people are deifying IAs these days saying things like ""you can get any answer in seconds!"" which is literally Google for two decades.",13,2024-02-08 23:00:47
+34,33,2,matthewjc,355,14087,None,0,Gpt has a way better understanding of queries,6,2024-02-08 23:43:39
+35,34,3,respectfulpanda,1584,68976,None,0,For now,-3,2024-02-08 23:48:02
+36,35,4,Additional_Wheel6331,2,8951,None,0,it will only get better,2,2024-02-09 03:16:10
+37,36,5,respectfulpanda,1584,68976,None,0,Yep,2,2024-02-09 04:05:20
+38,27,1,elmo61,29,10247,None,0,"I sort understand what your saying but disagree. One thing to get the knowledge from stackoverflow but you then still need to write it to perfectly match your use case. Where as if I give chatgpt my code and ask about how to do something I get a solution that fits and matches my code, dB structure or function",-7,2024-02-08 18:34:59
+39,38,2,Turd_King,615,14233,None,0,"I am rarely asking for this kind of help though, I find the only things I am googling are like “for loop in bash” or “find unique elements in an array” etc.
+
+Basically syntactical things that I dont do enough to remember
+
+I find everything else copilot just handles for me",16,2024-02-08 19:01:29
+40,38,2,explicit17,115,5829,front-end,0,"It's probably depends on question type. I never ask ai or someone from stackoverflow to write code for me or find a mistake in my code, I will do it faster by myself",3,2024-02-08 18:39:11
+41,40,3,elmo61,29,10247,None,0,Again depends on the task. But for me 80% of what I ask AI to do is stuff I can do myself but it's quicker to ask it to do it.,0,2024-02-08 21:07:43
+42,41,4,explicit17,115,5829,front-end,0,"No offense, but if I were I would be worried about being replaced with ai.",1,2024-02-08 21:54:45
+43,42,5,elmo61,29,10247,None,0,Ha I didn't say 80% of what I do is AI. Just 80% things I ask AI to do is save me time. I am 15 years into software development. Very happy with my skills and find myself mostly doing architech type work for my company.,2,2024-02-08 21:58:37
+44,,0,loneguy_,1509,6152,None,0,yes,15,2024-02-08 17:24:14
+45,,0,Taha-Ahmed-8875,181,218,None,0,"I can never trust AI for anything more complex than a calculator app, stackoverflow is more trustworth, and reading the answers and comment in stackoverflow is beneficial",26,2024-02-08 18:39:15
+46,45,1,BloodAndTsundere,1910,89506,None,0,"I agree except I don’t trust AI for numerical calculations. I have written strings of arithmetic operations in VSCode and code pilot just gives the wrong completion. It is good for generating a bunch  boilerplate to correct for your use case, though",8,2024-02-09 00:56:55
+47,45,1,metamec,30125,18086,None,0,"> I can never trust AI for anything more complex than a calculator app, 
+
+Mathematics is one of the most notorious weaknesses of language models.  If there's one thing you should not trust them with, it's calculations.",2,2024-02-09 14:40:21
+48,,0,zimmermrmanmr,1241,11803,None,0,"I use SO a lot. Usually via a Google search. I also agree with cougeranddark that I wouldn’t post to SO. I tried when I was just starting programming in C++, and I received no help but a lot of flack from other users just telling me to read the documentation.
+
+I also tried ChatGPT on some errors, and the “solutions” were so convoluted, it wasn’t helpful at all.",10,2024-02-08 17:53:15
+49,,0,mgomezabbruzz,49,1333,None,0,"Did you see this?
+
+[Princeton on ChatGPT-4 for real-world coding: Only 1.7% of the time was a solution generated that worked](https://www.reddit.com/r/ChatGPT/comments/1aklgrn/princeton_on_chatgpt4_for_realworld_coding_only/)",10,2024-02-08 18:30:36
+50,49,1,snakecharmer95,2522,10157,None,0,"Honestly AI atm is like a stubborn child. You say give me code for X and he will give you that but something will be missing or he will forget this or that. Eventually after arguing with him for a while if you keep giving correct inputs you get exactly what you need. Meanwhile you could find same solution on google/so and have it solved immediately.
+
+  
+At least thats my expericen.",10,2024-02-08 19:20:09
+51,50,2,mgomezabbruzz,49,1333,None,0,"I have neither the patience nor the desire to instruct a machine on how I need something. I also don't plan to do free training. I prefer to use search engines, which also allows me to find solutions that I wouldn't have even guessed at and learn more.",6,2024-02-08 19:44:07
+52,50,2,awhitesong,2727,49504,None,0,"That's a perfect experience. Once we give it one direction at the beginning of the chat, it doesn't budge from that type of reasoning no matter how hard we try. I often find myself opening a new chat to get a different reasoning and even then, it's along similar lines. Googling the same stuff gives me so many different perspectives I'd never expect GPT to give, at least today.",1,2024-07-22 13:58:06
+53,49,1,1RedOne,6069,125908,None,0,"I was learning to make a game in unity, I also was making some games in phaser.JS as well as some 3-D browser framework made by MIcrosoft, whose name I have forgotten…
+
+anyway! Especially when it came to physics in games, I would frequently receive samples that basically did not work at all from ChatGPT. It would get very confused about what sort of properties or methods were available in which version of framework. 
+
+I think the language models lack of understanding of the differences in capability in framework between versions was the true source of most of the broken samples I would receive. A real programmer would understand that some features are only available starting with a certain version.
+
+and from a technical standpoint, I just don’t understand how giving a language model access to More docs to read will teach the model the concept of versions specific language restrictions
+
+I will though admit that when I got the sample from ChatGPT. I could then figure out what was wrong because I already know how to program, so it definitely accelerated my development",3,2024-02-08 23:19:35
+54,49,1,Low_Arm9230,112,286,None,0,"I agree with you, but I find the similar situation with the answers for stack overflow. With AI the good things is that I get answer instantly, and I can feed it back the errors and fine tailor my request until I get back what I want.   
+And in the end, it just helps boost my productivity, even though the answer many not fit perfectly into the problem, the knowledge boost is immense.",2,2024-02-09 01:38:04
+55,49,1,imsoindustrial,190,2708,None,0,I use GPT4 api in vscode when copilot is off and it’s usually perfect. To me it’s an issue of pre-prompt more than anything else and I am not ashamed to admit that I spent way too much time testing and building that to get the results I assert.,2,2024-02-08 23:18:02
+56,49,1,No-Champion-2194,1,8323,None,0,"Yes, but it almost always gives me an answer that is close enough that I can use it as a starting point to solve the problem at hand.  Chat GPT isn't a developer, but it is a tool that can get me unstuck without having to wade into the toxic cesspool that is SO.",1,2024-02-15 23:55:00
+57,,0,CS1point6Player,3,195,None,0,"I try not to use it, since I've come across too many answers, that lack code quality. Some of those answers have 100+ upvotes and are still very far from the best practice. I guess it has to do with the ranking and rating system behind it, that seems to drive people to post as much as possible and not care about quality.",7,2024-02-08 19:07:04
+58,,0,a_brick_canvas,3043,34500,None,0,What kind of questions are you asking? I found that more often than not the solutions it gave were nonsensical unless the prompts were incredibly simple and could be answered through a general google search anyways.,6,2024-02-08 19:12:56
+59,58,1,PureRepresentative9,453,51206,None,0,"Your experience is literally everyone's experience.
+
+
+People are spending hours on prompts sometimes, but they just don't admit to it",3,2024-02-09 07:46:49
+60,,0,Deleted,N/A,N/A,None,0,Does anyone see the irony in feeding AI with your questions instead of learning the actual solutions? You gonna ask ChatGPT why all the jobs are gone? Devs of all people should be smarter than this.,6,2024-02-08 20:33:26
+61,60,1,PureRepresentative9,453,51206,None,0,"I guess that's the thing? You don't need to be certified to call yourself a dev.
+
+
+Literally anyone on the sidewalk can legally call themselves a developer, nevermind online.",3,2024-02-09 07:48:24
+62,61,2,Deleted,N/A,N/A,None,0,Oh I’m actually a devastator lol,1,2024-02-09 18:17:54
+63,62,3,PureRepresentative9,453,51206,None,0,"I'm going to assume you meant designer
+
+
+...but being a devastator is also my dream job too",2,2024-02-10 05:22:05
+64,60,1,Low_Arm9230,112,286,None,0,"Not sure why you deleted your comment. The point is that devs are always learning from the best, and right now GPT is the best place to learn bro !",1,2024-11-18 02:33:02
+65,,0,onkopirate,675,14421,None,0,"ChatGPT is a next token predictor. It works for very basic problems but as soon as the task gets a little complex or there's an issue that actually requires niche knowledge and logic reasoning, it fails miserably.
+
+So, yes, I still use SO a lot.",6,2024-02-08 21:45:32
+66,,0,Deleted,N/A,N/A,None,0,[removed],10,2024-02-08 17:38:10
+67,66,1,Deleted,N/A,N/A,None,0,Why github?,3,2024-02-09 02:26:42
+68,67,2,adityathakurxd,3362,139,None,0,Often the GitHub discussions provide a better resolution.,3,2024-02-09 07:39:03
+69,68,3,GroundedSpaceTourist,106,7992,None,0,"I've found that to be true on several occasions. I've found solutions to a problem, or how-to's that weren't yet written into the documentation.",2,2024-02-09 08:59:10
+70,,0,BobbyCallMe,36,1779,None,0,"If you ever run into a problem where its very specific to your use case (ex: configuration), someone on SO most likely have come across that same problem.",4,2024-02-08 20:26:59
+71,,0,fartsucking_tits,1,928,None,0,"I strongly prefer SO over AI tools. Even though the community has some bad actors, the, even though sometimes harsh, response that force you to phrase your question differently or redirect you to a place where the question has already been answered are exactly why I prefer it. These are measures to keep the place informative and effective. AI gives me bad answers all the time which makes me feel like I’m trading the quality of the answer for a lower barrier of entry to get an answer at all. I’m willing to work through some of the frustration to get the best answer but to each their own.",4,2024-02-09 08:45:40
+72,,0,Deleted,N/A,N/A,None,0,"I don't understand what you would use GPT for aside from some basic data manipulation or formatting here and there
+
+Unless you're a newbie? In which case you are not doing yourself any favors... 
+
+I have copilot and it's good for simple things only, and I admit it saves me time, but it's not that much of a quality of life improvement over standard autocomplete",11,2024-02-08 17:57:41
+73,,0,ItsRainbow,89683,107678,None,0,GPT has been really helpful for me. If that doesn’t work I head to docs. I don’t usually find myself on Stack Overflow anymore,3,2024-02-08 20:20:04
+74,,0,PermitTrue,124,14276,None,0,"I typically jump on there to help answer questions and help people debug when I have some free time. 
+
+I do use their code review section because people are pretty friendly there and the advice has been really helpful in refactoring code and moving towards better structure and industry standards.",3,2024-02-08 23:47:53
+75,,0,zenotds,355,14436,None,0,ChatGPT almost completely replaced SO in my workflow,3,2024-02-09 00:13:30
+76,,0,chad_,967,243161,None,0,I answer questions and do edits and stuff but have never needed to ask a question on there myself. I sometimes find good info about dealing with weird fringe environmental issues that don't have much or any discussion publicly elsewhere.,3,2024-02-09 00:55:54
+77,,0,Deleted,N/A,N/A,None,0,"I use stack overflow. I mostly just read what others have done and sometimes, rarely, will I ask a question. I sometimes get replies. I have also used GPT before but really only to flesh out a concept on my mind. I don't trust any of the code it produces at face value and instead understand the methods it's trying to communicate.",3,2024-02-09 02:23:54
+78,,0,-Knockabout,3060,44343,None,0,"GPT code answers are largely sourced from Stack Overflow, and you get much more context (and higher guarantee of the answer at least being /a/ successful one, since GPT doesn't actually ""know"" if something works) from a Stack Overflow post. So yes.",3,2024-02-09 04:21:09
+79,,0,zebishop,320,11565,None,0,"Maybe that's because I'm old, but I can't see why I would be using an AI to generate code.
+
+It feels like I would then spend more time making sure the code does what it's supposed to than writing it myself.
+ 
+The only time I needed it was when I had to try some native code in swift to try something out. 
+
+Everything else I'll find reading the documentation or searching on Goggle which will lead me to GH or SO.",6,2024-02-08 18:49:14
+80,79,1,Various_File6455,751,2930,None,0,"It’s good when it writes the code you would have written yourself (my experience with copilot for the most part), but I’m not convinced either about getting a lot of code I cannot fully understand (chatgpt)",5,2024-02-08 20:45:40
+81,79,1,PureRepresentative9,453,51206,None,0,"As an ""old dev"" myself, I am fully able to download and install someone else's library which has been battle-tested
+
+
+Seems obviously smarter strategy than something generated by autocomplete",3,2024-02-09 07:50:22
+82,81,2,zebishop,320,11565,None,0,"That's how I feel too, but when I see the fuss about copilot and everything AI-related to code, I'm wondering if I'm not missing on something.",2,2024-02-09 11:14:55
+83,,0,stuartseupaul,24,4523,None,0,"I still use stack exchange sites because I like reading the discussions, but just stack overflow, I dont think I've gone there since chatgpt came out.",2,2024-02-08 17:53:06
+84,,0,Glum_Chocolate_4145,8,4152,None,0,Yes but less,2,2024-02-08 18:05:22
+85,,0,mash_u,81,1039,None,0,I feel like for technical info you should definitely use official docs combined with stack overflow.  Chatgpt admittedly generates made up information if it can't find a solution.,2,2024-02-08 18:38:43
+86,,0,LemonAncient1950,20,1293,None,0,"I find info on stack overflow all the time.
+
+I almost never ask or answer questions on stack overflow anymore. If I'm posting a question on stack overflow, it's because I'm completely out of ideas and have basically given up. Things I tend to do before I get to that point:
+
+- Post a github issue  
+- Ask a question on reddit  
+- Find a tool-specific discord and ask for help there
+
+These days, I find more answers in github issue threads than anywhere else.",2,2024-02-08 18:39:20
+87,,0,Deleted,N/A,N/A,None,0,"I still visit so, but i stopped posting questions. Too many arrogant ppl, they prefer to invest their time judging your question instead of actually providing some useful insights.",2,2024-02-08 18:39:30
+88,,0,DustinBrett,25007,28794,None,0,Rarely for new things. I find myself going to the same old SO posts as if they are documentation.,2,2024-02-08 18:44:04
+89,,0,hipchazbot,490,1285,None,0,No,2,2024-02-08 18:56:13
+90,,0,Lorondos,2,22,None,0,"Whichever tool works in reality though, as always, only if you fully understand what it is doing and not a blantant copy and paste then hope it never breaks.
+
+So far, AI only for RegEx since I hate writing RegEx.",2,2024-02-08 18:57:15
+92,,0,Krispenedladdeh542,16372,37002,None,0,I use SO primarily. NGL I use GPT for regex strings all the time,2,2024-02-08 19:48:45
+93,,0,Deleted,N/A,N/A,None,0,"I can honestly say I don’t use so or gpt or any pilot thing. 
+
+I do use google though from time to time and have booomarked libraries/packages docs and visit those instead",2,2024-02-08 20:18:24
+94,,0,Deleted,N/A,N/A,None,0,"I think it is beneficial when u have plenty of time coz u even if u don't get solution, u definitely get knowledge about ur issue",2,2024-02-08 20:18:26
+95,,0,Thebrokentech,288,67,None,0,"I use google/stack for most questions because it's easy to get exactly what I need and I get to read docs, which I know is accurate. GPT tends to over explain and not be as to the point, plus it can be wrong.
+
+I do use GPT though for writing baseline code like ""make me 5 divs with flex and ordered lists inside each""
+
+GPT works great as a tool instead of a learning source for coding imo",2,2024-02-08 20:18:36
+96,,0,jonmacabre,1836,15378,17 YOE,0,"I usually use ChatGPT or Bard if the thing I'm dabbling in is newer (like svelte from 2022 is much different from 2024).
+
+I use it mostly for content TBH. EVERY client I need to explain ""Lorum ipsum"" to, every one. Now I just have real words but just include some ""content is for demo/staging only"" bit in any contracts. Easy peasy.",2,2024-02-08 20:23:45
+97,,0,ohlawdhecodin,10063,63663,None,0,"The rare times I come across a thread on SO... It's from 2012.
+
+I guess it will be extremely hard to survive the tsunami caused by ChatGPT and Bard. They're simply too powerful and fast to go back to SO.",2,2024-02-08 20:32:06
+98,,0,cleatusvandamme,9178,18554,None,0,"I've been limiting my time on Stack Overflow over the years.  I just hate the attitude that some people have there.  If I'm asking a question about something I'm learning about, I'd prefer to not be told that I'm a moron.",2,2024-02-08 20:44:03
+99,,0,mka_,14693,44275,None,0,"Mostly just github copilot now, it has chat built in that's powered by GPT4. For everything else I use Kagi, which will often lead me to SO.",2,2024-02-08 20:54:44
+100,,0,dns_rs,327,16465,None,0,I use both AI and stackoverflow.,2,2024-02-08 20:58:04
+101,,0,bullsized,24895,10159,None,0,"Wait, wasn't Bard code-free?",2,2024-02-08 21:06:27
+102,,0,Kurtisconnerr,159,7151,None,0,"I started working with remix lately and since it’s not as big as nextjs or others, AI has absolutely no idea how to work with it so I use stackoverflow for that",2,2024-02-08 21:07:21
+103,102,1,PeterMortensenBlog,2,1782,None,0,"[Remix IDE](https://remix.ethereum.org/) (cryptocurrentcy-related [Ethereum](https://en.wikipedia.org/wiki/Ethereum))? Or something else?
+
+Some context: [Next.js](https://nextjs.org/). [Stack Overflow](https://stackoverflow.design/brand/copywriting/naming/).",1,2024-05-14 11:47:58
+104,103,2,PeterMortensenBlog,2,1782,None,0,"No, probably just [Remix](https://en.wikipedia.org/wiki/Remix_(web_framework)) - 
+
+> Remix is an open source web framework. The software is designed for web applications built with front-end [JavaScript](https://en.wikipedia.org/wiki/JavaScript) frameworks like [React](https://en.wikipedia.org/wiki/React_(JavaScript_library)) and [Vue.js](https://en.wikipedia.org/wiki/Vue.js). Remix supports server-side rendering and client-side routing.
+>
+> Remix has been presented as an alternative to the popular React framework [Next.js](https://nextjs.org/). 
+>
+> Initially available through a paid subscription, the software was made open source in October 2021. The team developing Remix was acquired by [Shopify](https://en.wikipedia.org/wiki/Shopify) in 2022, but has promised that development will stay open-source and ""independent"".",1,2024-05-16 16:58:34
+105,,0,PixlMind,35,1470,None,0,Much less these days. Gpt is faster and can answer my follow up questions.,2,2024-02-08 21:14:05
+106,,0,In-Bacon-We-Trust,101,3698,None,0,"Almost all of my issues are intricate specific problems related to a package/framework, the best solutions for which come from other people who’ve ran into it
+
+I find AI just explains the error to me, which rarely helps with a solution is it’s a buried deep error
+
+What I like to do is find the answer on stack overflow, and if I’m unsure whether it’s the best way I’ll ask AI to explain the fix to me which often leads to a cleaner fix that what user7362837 posted on SO 4 years ago",2,2024-02-08 21:15:31
+107,,0,ihaveway2manyhobbies,102,14438,None,0,"I google my questions.
+
+Whatever search results it throws my way I look into. Maybe it is SO or GH or who knows what other dev site it matches against.
+
+I'm not sure why I would limit my searches to a singular site when google will do all the work for me. GPT can suck my asshole.
+
+I ""tried"" to use SO years ago and basically met the fate of everyone who complains about. Searched. No similar questions. No answers. Asked a question. Got excited when I saw there were ""answers"" just to find all the responses were people telling me how my question was not formatted correctly or good enough or explained in good enough detail.
+
+YMMV",2,2024-02-08 21:37:52
+108,,0,sheriffderek,1912,15048,None,0,"I learned half the things I know answering questions on stack overflow (and learned how to ask good questions). Now I tend to do that on Discord in smaller circles. Quick help and “the answer to your question” wasn’t really what stack overflow was for to start with. So, I believe its value holds steady for discussing long-lived things. I recommend that my students spend some quality time on SO. Seeing how other people think is priceless.",2,2024-02-08 21:42:23
+109,,0,thomastthai,352,725,None,0,"I used to use Stack Overflow a lot more. In the last few years, the moderators' (or what ever they are called), judgements on some users' questions can leave a strong distaste for the platform.
+
+Stack Overflow trended toward being less beginner-friendly. Those judgements will deter people from asking questions and reduce interactions which can lead to a decline in interactions as people shift to other sources that are less judgemental, e.g., ChatGPT, Bard.
+
+The people who contribute with answers are often knowledgeable and helpful.",2,2024-02-08 21:47:48
+110,,0,custard130,595,7185,None,0,"i still use google which then often leads to stackoverflow/reddit/forums/github
+
+i still dont really feel the chatbot tools are as good as the marketing / people using them seem to think. it is impressive what they can do but they still dont actually ""know"" how to write software or how to solve whatever your problem is
+
+they will give you a completely confident answer to any question you give but a lot of the time they dont actually have the correct answer/code but just make it up, 
+
+while those other sources can also contain wrong/bad answers, they will be accompanied by alternatives/discussion which often eventually leads to a crowdsourced good answer",2,2024-02-08 21:51:52
+111,,0,p_bzn,259,1110,None,0,"Whenever you use Chat you use SO just via somewhat different interface. 
+
+You really need to know how to phrase questions with Chat, once you are good with it it really shines in certain use cases. I use Chat a lot when I work with new languages / frameworks for myself because it actually provides quite good answers with examples. 
+
+I go for Chat for conceptual explanations for example “explain me computed properties in Swift with some examples”. That yields a great answer which saves me tons of time of browsing documentation / articles.",2,2024-02-08 22:07:18
+112,,0,cankennykencan,10477,12837,None,0,Was asking questions in Stack overflow whilst going through The Odin Project. Few helpful answers but the rest made you feel stupid.,2,2024-02-08 22:33:23
+113,,0,Deleted,N/A,N/A,None,0,"I've been using chatgpt for coding assistance a whole lot lately.  It's so much more efficient than searching for the solution online, posting on a message board, waiting days, getting ridiculed, and then getting the wrong answer.",2,2024-02-08 22:43:28
+114,,0,Noctttt,66,1879,None,0,Stack overflow or just staright up looking at the library documentation,2,2024-02-08 22:56:11
+115,,0,imsoindustrial,190,2708,None,0,"- IDE: vscode
+- 1st Choice: GitHub CoPilot
+- 2nd Choice: GPT Chat Plugin (for GPT4 via API)
+- 3rd Choice: Google Dorks - site:stackoverflow.com <problem context I made GPT4 package up>
+
+Rarely get to 3rd string these days",2,2024-02-08 23:13:31
+116,,0,randomdude1650,178,736,None,0,I use ChatGPT. I’ve stopped using StackOverflow for good.,2,2024-02-08 23:27:00
+117,,0,meteor_punch,326,3497,None,0,"Problems I encounter are usually so specific that chatbots usually don't have an answer or they give a wrong answer confidently. So, I stick to Google search for now. Most generic problems are easily covered by Copilot.",2,2024-02-08 23:35:54
+118,,0,DangerousCondition34,83,3865,None,0,"AI is great for a lot of things, particularly coding solutions. The issue is that the more people that adopt AI as a go-to, means there’s going to be fewer and fewer data sources for AI to keep learning, like StackOverflow.
+
+It’ll be interesting to see how the next 5 years pans out",2,2024-02-08 23:45:50
+119,,0,vannrith,5230,18076,None,0,"I only deal with css and some js, the ai did the job just fine despite being weak at English",2,2024-02-09 01:26:44
+120,,0,devperez,218346,247479,None,0,Rarely. I use ChatGPT 90% of the time,2,2024-02-09 02:01:45
+121,,0,igna92ts,519,22866,None,0,I use Google mostly still (some being So links) as gpt API references are pretty off for most of the times and will regularly make things up.,2,2024-02-09 02:16:56
+122,,0,jangohutch,8,1756,None,0,stack overflow is used by AI lol,2,2024-02-09 02:49:28
+123,,0,armahillo,1428,85860,rails,0,i search google. sometimes it takes me to SO and sometimes SO is helpful,2,2024-02-09 02:54:01
+124,,0,Pneots,488,5471,None,0,Rarely.,2,2024-02-09 02:57:07
+125,,0,TomUnfiltered,257,86,None,0,"i'm a seasoned programmer but still have a lot to learn and not too updated with times.   
+
+
+But, I stopped using Stack long ago, coz it's been very difficult to deal with.. the automatic system, the rude crowd on it, etc. What I did is just hire (for a small fee) a really good all round programmer to be my go to guy if i have questions.. I pay him a small fixed fee per month, regardless if I ask him stuff or not... and if the questions and assistance becomes too much, he charges me extra. Worked really well for me.  
+
+
+But now, with the AI LMM's available, I need him less. I used to bug him 2-3x per week with simple to moderately complicated questions and code check.... Now, I barely chat him in a week.   
+
+
+This AI thing is quite amazing.",2,2024-02-09 03:50:05
+126,,0,DeanRTaylor,4327,4234,None,0,"Docs, chatgpt, kagi search, github issues and then stack overflow if it's in the results of the search. Most of my questions these days are framework specific and stack overflow seems to to be slightly outdated whenever I've used it recently.",2,2024-02-09 05:15:47
+127,,0,FranTimo,10,5,None,0,"I'm reading many people saying they use SO for reading but do not post their questions because of downvotes.
+
+Personally I ask on SO when I don't find the answer anywhere else. I never got any downvotes, actually, I got some upvotes.
+
+Just follow some simple rules like explaining exactly what is the problem, what you've already tried and post full code snippets.",2,2024-02-09 05:54:16
+128,,0,SpitefulBrains,177,8898,None,0,"No. I use ChatGPT and Bard too and they almost always work. In cases where they don't work, I go to SO. But even there, I can't seem to get the answers for my questions. Seems like SO is only good for basic questions.",2,2024-02-09 06:29:01
+129,,0,adityathakurxd,3362,139,None,0,"While I have moved to using AI for help, sometimes I do Google Search the issue and find a stackoverflow thread pointing to another issue which helps. It sometimes gets me to a GitHub discussion with much better resolution. 
+
+This might change if I get GPT plus and have access to references for its answers.",2,2024-02-09 07:38:27
+130,,0,not_some_username,7267,103463,None,0,I use Google who make the SO search for me. It’s faster than using ChatGPT in my case,2,2024-02-09 08:33:19
+131,,0,PopovidisNik,125,798,None,0,"Almost never, I pay for GPT4 but sometimes the training data it has is outdated (example NextJS 14) so I have to do it the old fashioned way.",2,2024-02-09 08:47:03
+132,131,1,Low_Arm9230,112,286,None,0,what do you mean by old fashioned way? Google the answers ? Or stack overflow?,1,2024-02-09 08:49:23
+133,132,2,PopovidisNik,125,798,None,0,Google the answer which leads to StackOverflow usually.,1,2024-02-09 08:51:54
+134,,0,MackieeE,13,1728,None,0,"I think the irony is, AI used the knowledge mined from Stack overflow to formulate an answer - the difference is, it’s being presenting to you differently, as if it’s tailored and natural. 
+
+Where SO you still require your intuition to assess the best possible answer. Whereas that could be the choice from 10-15 different ways.",2,2024-02-09 09:59:50
+135,,0,Acodingbeach,1,56,None,0,"AI tools are great for quick things u can already articulate & just need a memory reminder. 
+Dealing with more complex logic though, assuming u don't get some truncated response, it's often wrong & hallucinates a whole lot. 
+So it's useful for the small things a dev might need here or there but not much outside it, which was/is the case for stackoverflow. I worry a bit how much discussion quality we are losing as a result; and how many wrong - yet popular - ways of doing these are influencing the models themselves.",2,2024-02-10 07:07:48
+136,,0,Deleted,N/A,N/A,None,0,ChatGPT has reduced my Stack Overflow use by 90% at least.,2,2024-02-10 17:52:21
+137,,0,_cob,12083,34202,None,0,"Of course, yeah, there's a HUGE quantity of great stuff on SO",2,2024-02-08 18:12:58
+138,,0,MeMaMe3,5,185,None,0,"Stack overflow was always a sht experience in my opinion. It gave you answers of 5+ years old spaghetti code most of the times. 
+
+Back when I still developed in WordPress i’d research something, found a Stackoverflow answer and I would think to myself: “that can’t be right”. I would go to the official WordPress website and sure enough there’d be a newish function to solve the problem.
+
+I now mainly use Chat GPT instead of Googling anything code related. It’s way easier.",3,2024-02-08 20:12:50
+139,138,1,xiongchiamiov,5298,101351,Site Reliability Engineer,0,"Then you should post a newer answer. Or if there is one already and it's just further down, vote it up and the older ones down, and leave a comment explaining why. Usually updates make their way up the chain fairly quickly.",7,2024-02-08 22:54:55
+140,,0,shgysk8zer0,2327,48691,full-stack,0,"I mostly don't use Stack overflow or ChatGPT since I almost entirely work with ""vanilla"" JS to build libraries and components. I find that almost all of my questions can be answered by reading documentation.",3,2024-02-08 17:34:11
+142,,0,sha256md5,1114,37609,None,0,ChatGPT 4 has replaced stackoverflow for me almost entirely.,1,2024-02-08 18:00:22
+143,,0,meame69,4,57,None,0,"Generic errors in setups/first runs? google and SO,
+Very specific bugs with long running software? ChatGPT alll the way and dont forget to mention verions and OS environment.",2,2024-02-08 21:54:09
+144,,0,SabatinoMasala,962,728,None,0,"I’m still on SO daily, but definitely less than a year ago. Copilot inside my Webstorm IDE makes it easier to do the basics (like figure out an API), but anything more advanced still benefits from a visit to SO.",1,2024-03-07 20:08:33
+145,,0,SnooGadgets6527,21,14,None,0,"I use chatGPT for 99% of my queries, and only resort to SO as a second resort.",1,2024-03-14 13:02:10
+146,,0,Netizen788315,2,9,None,0,"StackOverflow is nothing but douchebags and window licking, brain dead mods.",1,2024-09-29 03:03:00
+147,,0,Eastern_Repeat_7766,81,32,None,0,yeah i use gpt as well. The ugly answers I would get if I asked a question improperly or didn so happen to know something was enough. I just logged back in to stackoverflow to see if their still in business. Its unfortunate what was meant to be a helpful community became so toxic. I got to the point that I would post my issues on upwork and have someone solve than deal with an overconfident jerk on stackoverflow.,1,2024-10-10 10:59:07
+148,,0,Prestigiouspite,1680,1528,None,0,"I found Stackoverflow to be quite hackneyed and narrow-minded at times. In contrast, the AI tools are now a blessing.",0,2024-02-08 18:02:46
+149,,0,Deleted,N/A,N/A,None,0,"Much,much,less ever since chatgpt",0,2024-02-08 17:30:57
+150,,0,Deleted,N/A,N/A,None,0,"Stackoverflow is the programming equivalent of a League of Legends match - filled with toxic losers whose only joy in life is trying to sound smarter than everyone else while being stuck in a miserable life, job and relationship, if lucky.",0,2024-02-08 17:39:24
+151,,0,DifferentAstronaut,26033,3211,None,0,No.,0,2024-02-08 18:21:40
+152,,0,InsideMediocre6201,134,258,None,0,"SO stats are going down every day , I started to use GPTs",1,2024-02-08 19:55:13
+153,,0,farbeyondriven,30,3240,None,0,I used to frequent SO but hardly ever posted because we all know how judgemental those locals are. Nowadays I definitely use AI way more than SO.,1,2024-02-09 09:10:53
+154,,0,VoldemortWasaGenius,2,19,None,0,The only reason I have against AI searches is all of the peripheral knowledge I can get in SO or GitHub links or even blogs better yet the source documentation,1,2024-02-09 09:11:10
+155,,0,GroundedSpaceTourist,106,7992,None,0,"I use a mixture of Google, GitHub, SO, documentation and GPT in no particular order.
+
+With SO I would never dare asking a question. Github can be good if something has yet to be documented.
+
+GPT you have to beware of. I've seen it suggest functions with parameters that it just pulls out of thin air. I've had cases where the logic was all wrong, and when pointing that out it went ""oh yeah, you're right about that"". The way I mainly use GPT now is to get a bigger picture of something, especially if the documentation is poorly written. I'll have bits and pieces of information and sometimes it helps tieing them together.",1,2024-02-09 09:11:39
+157,,0,enthusiasticDevo,27,81,None,0,Documentation -> Googling -> AI help. That's my preference and steps for searching when I'm stuck.,1,2024-02-09 09:57:53
+158,,0,Deleted,N/A,N/A,None,0,"I think chatgpt kills the learning curve, at least for me.",1,2024-02-09 10:38:05
+159,,0,mmaure,3170,9188,None,0,I'm banned from answering,1,2024-02-09 11:01:23
+160,,0,shortcircuit21,1841,9824,None,0,Yeah SO because at work anything AI related is blocked.,1,2024-02-09 12:18:34
+162,,0,Deleted,N/A,N/A,None,0,I am wondering if traffic to SO went down since the public release of ChatGPT and other tools like copilot,1,2024-02-09 12:36:00
+163,,0,davinidae,158,3463,None,0,"I bought ChatGPT 4 since it was announced. I've lost all my search capabilities since then. If i got a doubt, i just ask ChatGPT and he will either give me the solution or die.",1,2024-02-09 13:00:05
+164,,0,Euphoric-Neon-2054,1,202,None,0,The rudeness of the community to newcomers / even experienced learners is one of the reasons that SO was almost immediately outmoded by the AI tools. An AI tool isn't going to make me feel like a stupid prick because I've asked for help.,1,2024-02-09 14:00:27
+165,,0,NocteOra,53,1283,None,0,"When I use gpt (free account), the results often contain errors or are useless, which is often disappointing. 
+
+As a result, it's a wonderful tool for asking any kind of question ( as you say, they're no pressure, no judgement when we're conversing with an AI ), except that it can answer useless or wrong things, which is particularly troublesome for code.
+
+Moreover, I think that if we stop using SO, the site will eventually die, and in that case how can AIs remain effective if such sources disappear ?
+
+Because of this I don't like to see some people impliying SO is becoming obsolete, because without this site I think the results would have a hard time being accurate (when they are).",1,2024-02-09 14:29:45
+166,,0,stolentext,4440,10833,None,0,I reach to the bot for help when I'm *really* stuck on something and SO / Google isn't helping,1,2024-02-09 14:39:06
+167,,0,Waghabond,673,4683,None,0,"Often the questions i have are answered on github discussions/issues these days. Stack overflow is a decent way to find the best practices on things or surface level information about unfamiliar topics. But once you're actually down in the weeds and trying to solve a difficult problem neither GPT nor SO help. Github discussions can be great and documentation sometimes has your answers hidden away somewhere.
+
+It's too easy/common for GPT to hallucinate some BS and tell you incorrect things so I don't trust it.",1,2024-02-09 15:43:39
+168,,0,a_sliceoflife,5516,28413,None,0,"I stopped using Stack Overflow after I moved from Laravel to Symfony because I rarely got what I wanted there. In turn, it helped me get better at ""learning"" on relying on first hand sources/official documentations. So now, I go for documentations and if I really am unable to crack, I go for google/Chat GPT.",1,2024-02-09 15:49:46
+169,,0,Unhappy-Basket-2556,197,386,None,0,"I will be frank and might get some hate for it, but no...
+
+I've been using Perplexity and ChatGPT to help me more now. Perplexity sometimes lands on SO, but I never go directly to the website. 
+
+One thing that killed me in SO was asking a question. This was always a nightmare, and the people were so rude!",1,2024-02-09 16:03:45
+170,,0,MMORPGnews,728,5787,None,0,"Yes, just used it yesterday. Gpt 3.5 failed to answer, but first SO topic was exact what I needed.  ",1,2024-02-09 17:48:53
+171,,0,Potential-Ad-1717,545,2349,None,0,"GPT is good for giving you an answer that was there in the docs but you're too lazy to find it, but when you face a strange error, good luck getting GPT to actually give you a correct answer.",1,2024-02-09 18:31:11
+172,,0,notquitejunior,1,0,None,0,"I use SO to research, and I also find that it tends to be the better starting point for complex questions than even GPT-4.",1,2024-02-09 18:47:47
+173,,0,kidfromtheast,404,2597,None,0,"A candidate was rejected because he did not have a StackOverflow account despite having 7 years of work experience. And, the ability of writing the problem's details and the current situation is a valuable IMHO.",1,2024-02-10 18:26:45
+174,173,1,Low_Arm9230,112,286,None,0,"A company that rejects candidate not based on their skills and experience but based on whether they have StackOverflow or not, does not seem like a great company to start with.",1,2024-02-19 03:49:52
+175,174,2,kidfromtheast,404,2597,None,0,"Yeah, thinking back, we was too easy to reject applicant.
+Truth to be told. We asked for a demo project to demonstrate their software architecture, design pattern knowledge. The candidate dodge the question on multiple occasions. So we cant test his skill at all.",1,2024-02-19 06:00:40
+176,175,3,Low_Arm9230,112,286,None,0,"Of course, first things we as devs did were open stackoverflow and github accounts when we started. But I've met several programmers (esp frontend devs), that either don't have SO or Github a/c, or don't use it. I guess working on technology; it is given that people should be familiar with some things, and I definitely wouldn't hire someone on a senior position if they didn't knew what git or StackOverflow was. However, I would be considerate about their background and personal story as some stories could still be rare.",1,2024-02-20 04:33:49
+177,176,4,kidfromtheast,404,2597,None,0,I understand your point.,1,2024-02-20 06:23:49

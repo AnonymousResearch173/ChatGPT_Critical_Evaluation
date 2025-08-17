@@ -1,0 +1,227 @@
+Unique ID,Parent ID,Depth,Username,Post Karma,Comment Karma,Achievements (Flair),Number of Awards,Comment,Upvotes,Timestamp (UTC)
+1,,0,hega72,333,3538,None,0,"Chatgpt is way more social than stackoverflow. More often then not you run into some arrogant senior on SO that doesn’t wanna help but rather tell you what an idiot you are. 
+The overall experience of chatgpt is way superior than SO from my experience. More helpful. Much more polite",56,2023-01-22 23:46:24
+2,1,1,YearningConnection,44,39382,None,0,THIS! Fucking snobs all the time on SO.,21,2023-01-23 01:31:39
+3,2,2,_cobaltinferno_,1,57,None,0,"I'm not here to defend people on stackoverflow who go out of their way to be an asshole, but generally, stupid questions attract assholes there.
+
+Obviously someone new to a topic wont definitively know if their question is stupid, so its not uncommon to find people jumping on their question. 
+
+But, when good questions are asked, its very rare to get someone there being an asshole for no reason.",1,2023-01-23 14:36:51
+4,3,3,ta2025,164,1580,None,0,People should NEVER be assholes.  If you are annoyed by the question then simply don’t answer!,6,2023-01-23 17:58:02
+5,3,3,Ok-Papaya-3490,208,8728,None,0,"> stupid questions attract assholes there
+
+1. There are no stupid questions. We all start somewhere. 
+2. Stack Overflow post that asks someone to Google with no real input ending up on 1st post on Google is so common that it has become a meme. On top of that, someone passive aggressively marking a question as a duplicate when it's a totally different question is also very common. 
+3. Problem is that the definition of ""good question"" is very strict in SO. ChatGPT doesn't complain. So SO doesn't get to complain that it's shitty culture led to its own demise. I say this as top 10% contributor this month on SO",6,2023-01-23 18:32:09
+6,5,4,_cobaltinferno_,1,57,None,0,">There are no stupid questions. We all start somewhere.
+
+Although the sentiment sounds nice, there are definitely stupid questions. Also, by stupid questions, I don't mean ""beginner questions.""",2,2023-01-23 20:44:08
+7,3,3,hega72,333,3538,None,0,That’s true. But who decides if a question is good or not ? I don’t ask stupid questions to annoy people - but because I don’t know better,2,2023-01-23 18:28:46
+8,7,4,_cobaltinferno_,1,57,None,0,"I didn't intend for ""stupid questions"" to get interpreted as ""beginner questions,"" so I should have worded it better.
+
+I mean stupid questions as in questions that are lacking a good explanation of what the OP had tried, and/or questions that makes it seem like the OP thinks they should just be told the answer without any work.",1,2023-01-23 20:46:48
+9,8,5,hega72,333,3538,None,0,Well. Chatgpt answers even those questions without complaining.,2,2023-01-24 07:21:12
+10,9,6,with_the_choir,57,10866,None,0,"But no it doesn't?  I mean, it replies politely enough, but it can't correctly answer a malformed question any better than a human can.
+
+Sometimes it does well and says that it doesn't understand, and sometimes it doesn't do well and just confidently provides an answer, which is arguably worse.",2,2023-01-24 17:00:20
+11,10,7,hega72,333,3538,None,0,Of course there are limitations. But I can tell you on SO I was downvoted to oblivion for questions I solved with chatgpt in a minute,1,2023-01-24 17:16:18
+15,1,1,NTXL,1035,5875,None,0,I’m literally terified of asking a question there for this specific reason,3,2023-01-23 15:53:11
+16,,0,Deleted,N/A,N/A,None,0,[deleted],12,2023-01-22 22:10:24
+17,16,1,HaMMeReD,5439,157527,None,0,"It's good for entry level and experienced in different ways.  
+
+
+I.e. an entry level developer might ask it to document some code, or explain it in plain english. It might ask questions about recursion or why you might want to do things a certain way.
+
+For an advanced developer, they may get it to prototype interfaces, write unit tests for TDD, provide first passes at implementations, migrate some code from one provider to another, build SQL queries, look for bugs etc and chain together questions to generate output.
+
+  
+I.e. yesterday I used it to find a .com domain. It suggested a list of domains for my idea and criteria, then wrote a script in python to validate which ones are available, and then took the result of that to shortlist the best options for my criteria.  I found a great domain in < 20 minutes.  But I needed to refine my prompt a few times, optimize the python to do exactly what I wanted etc, but it did 95% of the work.  
+
+
+I think where it gets really interesting is higher-ordered usages with engineered prompts, where the AI becomes a cog in a machine (potentially working with other AI cogs) instead of just something you just ask questions to for personal interactions.",4,2023-01-23 01:31:16
+18,17,2,Educational-Region98,5,634,None,0,"I found that ChatGPT is quite useful for entry-level developers. While I think it's important for developers to know how to read error codes, ChatGPT will just tell you common compiler errors if it already has the answer.
+
+While ChatGPT can give incorrect answers, StackOverflow ALSO has a lot of answers that are irrelevant, don't work, or are simply improper implementations. I've found that when asking ChatGPT about code that I don't particularly understand, I can just ask for clarification about what the algorithm/function does.",2,2023-01-23 03:29:45
+19,16,1,hega72,333,3538,None,0,I did a lot of programming years ago but did never properly learn python. With the „help“ of chatgpt I managed to write whole Webb apps in python,2,2023-01-23 10:02:49
+20,,0,brohamsontheright,10212,54833,None,0,"StackOverflow was never a very efficient way to get an answer to a question. But it was better than nothing.
+
+The OpenAI stuff allows me to get a ""close enough"" answer in (literally) 1/10th the amount of time.  I haven't been to StackOverflow in 6+ weeks now.",34,2023-01-22 18:34:28
+21,20,1,Degree0,36,1394,None,0,\^This and even with the things that are close enough you can sometimes refeed or add more to the prompt and eventually get to almost exactly what you want.,4,2023-01-22 22:28:34
+22,20,1,ankisaves,11,15184,None,0,Same.,1,2023-01-23 03:24:00
+24,,0,Educational_Ice151,20405,1679,None,0,100%. I’m the most productive I’ve ever been.,3,2023-01-22 21:25:14
+25,,0,Deleted,N/A,N/A,None,0,"I never really used SO, tbh. I read the docs. I'd say 90% of SO answers ( the ones that aren't garbage) are the docs and a link to the docs.
+
+I've used ChatGPT a fair bit, and often, the output it shows is not what comes from the code it writes.
+
+It's amazing at understanding the question but the quality of the output is questionable.
+
+I've stopped using it.
+
+Interested to see other answers.",5,2023-01-22 19:57:19
+26,,0,Deleted,N/A,N/A,None,0,[deleted],5,2023-01-22 19:22:17
+27,26,1,notbadhbu,870,31242,None,0,"I don't think so, it will just transition. I think it should just be integrated with GPT like copilot. For more obscure things humans still usually give better answer, but if you combine the two it could be pretty great.",3,2023-01-22 19:40:11
+28,27,2,Deleted,N/A,N/A,None,0,[deleted],3,2023-01-22 19:44:05
+29,28,3,notbadhbu,870,31242,None,0,"Sure, but a big issue I see is it being trained on outdated data and having libraries change. If human answering takes a deep dive, it would have a lot less training data to work with. So it's in both OpenAI and SO's best interest to find a way to integrate I think. 
+
+Biggest issue is token limit, long term memory and 0 shot learning. 
+
+The caveat would be if we can find a model with some sort of liquid learning, with a nearly unlimited token limit, that could also basically update/finetune it's training and use larger reasoning. 
+
+Then it could ingest a whole library, and do things like write docs, answer questions, fix bugs. But right now those limits are pretty hard, and that's something we haven't really seen much development in. 
+
+I think it would require models other than generative pretrained transformers, models we don't currently have. Token limits and lack of a real longterm/shorterm memory that isn't just a hack or workaround stop it from really replacing it now. 
+
+I think the next big breakthrough may come with either an entirely new model that's more multimodal, or parallel models trained on entirely different data that work with a language model to give it more capability. Like a brain.
+
+A model specifically made for encoding short and longterm memory and recall, a model specifically made for inferring code functionality, a model specifically made for abstract reasoning, a model specifically made for coordination.
+
+Right now there's a couple very BIG hard limits to things like ChatGPT (as impressive as it is) that are probably a long ways off yet. (4+ years to see first iterations). 
+
+As of now we can only jankily hack around them, but that's not really a solution as you can only paint over the shortcomings, not remove them. 
+
+Maybe SO will have less garbage questions and answers, but for now I think it's pretty important and won't really go anywhere. And it will have plenty of time to adapt as we won't be seeing models I described for a while.",3,2023-01-22 20:01:50
+30,29,4,Deleted,N/A,N/A,None,0,[deleted],1,2023-01-22 20:11:03
+31,30,5,notbadhbu,870,31242,None,0,"Those would be the janky workarounds I'm referring to. Because it's a language model, it's going to be limited. The best we can do are workaround that may extend existing functionality, but don't add meaningful new functionality. 
+
+Regardless of how good the workarounds are, you can't teach it do ingest a couple millions lines of code and tell you why you're getting an error. The best we will do in that regard is as you describe, which IMO is okay but not anything that's gonna replace the real reason people go to SO. 
+
+Maybe I'm wrong, would be curious about your project when you have something. But having gone down the rabbit hole since early access beta in 2019 or whenever, I think that these are still very limiting issues that currently can't be hacked around. Having played around with this since gpt2 days, I think I have a good understanding of the real hard limits and imo this is one. Regardless of how much you compress memories, fitting the context needed into 10k tokens just really isn't feasible and the actual abstract reasoning isn't there and probably won't be until we find a way to actually train a model to do that.
+
+Could totally be wrong, but that's how I see it so far. I think everyone just discovered GPT existed to hype train is a bit out of control atm, but will come back to earth over next couple years.",1,2023-01-22 20:34:23
+32,31,6,Deleted,N/A,N/A,None,0,[deleted],1,2023-01-22 20:45:11
+33,32,7,notbadhbu,870,31242,None,0,"This is interesting, but seems to run into exactly the limitations I described. Do you have any code or technical document based examples? Something like regulations or instructions? Wondering how it performs when it has to take many different contexts to give a concrete example. The lord of the rings is also available in it's training set and shitloads of online discussion, so it's hard to know exactly where the context is making a difference. I get similar answers in chatGPT compared to this.
+
+I will show you a conversation I had with tours that highlights exactly the limitations I'm talking about.
+
+> You: How many times does gandalf address golumn in the hobbit?
+
+> I don't have enough information for an answer because The Hobbit does not feature Golumn.
+
+> You: You: How many times does frodo address golumn in the hobbit?
+> I don't have enough information for an answer because Frodo does not address Gollum in The Hobbit. Gollum does not appear in the book until the end, when Bilbo meets him in the Misty Mountains.
+
+> You: You: How many times does bilbo address golumn in the hobbit?
+
+> I don't have enough information for an answer. We don't have enough information to know how many times Bilbo addressed Gollum since we don't have information about the entire book series. We only have information from five chapters from two books.
+
+> You: what information do you have, and from which books?
+
+> I don't have enough information for an answer because the question does not provide specific details about which books or characters are being referenced.
+
+> You: How many time does frodo address golumn in return of the king?
+
+> I don't have enough information for an answer, as I don't know if Frodo addresses Golumn in The Return of the King.
+
+> You: How many words does frodo speak in return of the king?
+
+>  I don't have enough information for an answer because it is not stated how many words Frodo speaks in The Return of the King.
+
+> You: How many days were the dwarves in mirkwood?
+
+> I don't have enough information for an answer. The text does not provide a timeline for the dwarves' journey through Mirkwood, so it is impossible to say how many days they were in the forest for.
+
+> You: What is a concrete minimum and maximum amount of days the journey to rivendell could have taken?
+
+> Minimum: 12 days (as stated in Book 1, Chapter 11 when Strider tells Frodo it would take him 12 days to reach Rivendell from Weathertop). Maximum: 25 leagues (as stated in Book 1, Chapter 12 when Faramir tells Frodo that it is 25 leagues from where he parted with his friends to the Valley of Morgul).
+
+> You: how long was the fellowships journey (roundtrip)
+
+> I don't have enough information for an answer, as the length of the Fellowship's journey is not stated in the books. We know that they started their journey from Rivendell and ended it in Mordor, but the exact length of their journey is not specified.
+
+
+Compared to Chat GPT:
+
+> Me
+> What day did frodo and sam set out on their journey from bag end?
+> 
+> chatGPT: Frodo and Sam set out on their journey from Bag End on September 23rd, in the year 3018 of the Third Age, according to J.R.R. Tolkien's novel ""The Lord of the Rings.""
+> 
+> 
+> 
+> 
+> Me
+> How long did it take to reach rivendell?
+> chatGPT: In J.R.R. Tolkien's novel ""The Lord of the Rings,"" it took Frodo and his companions approximately three weeks to reach Rivendell from the time they set out from Bag End on September 23rd, 3018 of the Third Age.
+
+Thing is, we actually do know from dates mentioned in the books. It was 27 days. As you can see, the limits I mention are very much real and Im skeptical there's a way to manage around that. 
+
+To truly demonstrate the capabilities, you should use a book written AFTER the training period, or better yet- a set of laws or technical documents or code written after the training period.",1,2023-01-22 21:41:54
+34,33,8,Deleted,N/A,N/A,None,0,[deleted],1,2023-01-22 21:57:43
+35,34,9,notbadhbu,870,31242,None,0,"> The thing is that you seem to be missing or misunderstanding -- this that ChatGPT makes up information when it doesn't have it.
+
+No, I understand that perfectly well. What I'm saying is that with the context you provide (however you are doing that) it's not able to answer specific questions about it even though it should have the information in context.
+
+My point is asking very broad questions that require abstract reasoning or token length far exceeding it's limits can't be hacked around. For instance, when I asked: 
+> You: How many times does gandalf address golumn in the hobbit?
+> 
+> I don't have enough information for an answer because The Hobbit does not feature Golumn.
+
+I wanted to see how it would handle a situation that isn't in the books. Gandalf doesn't address golumn in the hobbit. While avoiding the question due to insufficient evidence (which isn't true, it should have access to the hobbit and enough info for this) it still managed to get that wrong  by saying Golumn isn't in the Hobbit, which is false. Golumn is both in the Hobbit, and not addressed by Gandalf. 
+
+In another example:
+> 
+> How many time does frodo address golumn in return of the king?
+> 
+> I don't have enough information for an answer, as I don't know if Frodo addresses Golumn in The Return of the King.
+
+When I asked it a pretty easily knowable question (which currently would take a human maybe 10-30 minutes depending on tools used), it said it couldn't answer that by saying it isn't even sure frodo addresses him in the movies. 
+
+As for date, i'm going off LOTR wiki. But IIRC it's basically stated in reference to Bilbo's birthday, and someone saying something to frodo when he wakes up based. 
+
+Regardless, I think this pretty much proves my point that adding context with ""hacking around"" these limits doesn't offer much in the way of improvement. I tried this too for about 6  months using a python ""brain"" as you described, as well as Search, Classifier and fine tuning a davinci 02  and 03 model and embeddings once that was released. Granted haven't tried davinci 3.5, but I ran into nearly identical issue to here but more obvious because I was using legal regs that were NOT part of it's training data. 
+
+Now I see Harvey AI is actually funded by openai and probably will also attempt to circumvent these issues, but remains to be seen how and if it will work. I also bet it will still have many of the issues I mentioned.
+
+The fundamental problem is this is a very advanced language model, with no sufficiently advanced memory, encoder, decoder, abstraction and other ""thinking"" models to augment it. Using anything but a similar approach to building models for those IMO will always run into the same issues. 
+
+
+Out of curiosity, how long have you been using GPT and when did you first discover it?",1,2023-01-22 22:41:55
+36,35,10,Deleted,N/A,N/A,None,0,[deleted],1,2023-01-22 22:49:47
+37,36,11,notbadhbu,870,31242,None,0,"Misspellings don't particularly matter with GPT. I think all these points I've mentioned pretty accurately explain the limits of current models and why SO will still be around for a while or morph into something combined. 
+
+I think I'm understanding it, it's just I don't see these changing any of the issues with token limits and instead doing exactly what I stated before, which is hacking a way around them. I could end up being totally wrong, but having tried many of the things before with GPT2, GPT3 and GPTJ I don't see anyone finding a way around it until the models fundamentally work differently. 
+
+For instance, it could in theory be fed 2 million lines of code from a library using different methods, and it could theoretically generate some docs or bugfixes, but if it isn't in it's training set it's going to be really wrong some if not most of the time. Like it has no problem explaining a class or function (if it's inside the token limit), but like it doesn't understand the actual design of the module or whatever. So on the micro scale, within a file, it might work okay. 
+
+On a Macro scale (again, new data when it may have been trained on conflicting old data), it can't really get around the fact it just can't take the detail needed as an input to generate something on par with actual good documentation, and it will be very confidently incorrect at many points. 
+
+So yeah. Maybe I'm misunderstanding the point of the tool you made, but I currently don't see too much improvement with large context with your method over the base engine, especially with the things mentioned. 
+
+But I'm still interested in seeing how you improve it and hope I'm wrong. Maybe there's a way to do what I think you want, but I just see the gap of abstract reasoning and memory (without losing detail or important info) as something that will take a new engine or multiple to accomplish.",1,2023-01-22 23:35:59
+38,,0,QwikMathz,288,1240,None,0,Stack overflow was garbage. It was full of terrible people acting very pretentious giving bad advice as if they were experts.,0,2023-01-23 02:41:57
+40,,0,yoyoJ,876,75801,None,0,"Yes, tho I still visit regularly, just not as much",1,2023-01-22 22:39:40
+41,,0,Deleted,N/A,N/A,None,0,Not a professional but a game dev programmer. happy to be enjoying the end of “read the documentation”,1,2023-01-22 23:42:05
+42,,0,Secure-Charge3828,1,8,None,0,"Almost, if u use 2021 versions",1,2023-01-23 00:56:58
+43,,0,YearningConnection,44,39382,None,0,Yes. Seriously fuck the stack overflow mods. So many times they say my question is opinion based or not a real question and close it when I am desperate for an answer. ChatGPT doesnt judge and gives me at least one viewpoint. If I can I will never use stack overflow again.,1,2023-01-23 01:30:33
+44,,0,Desperate-Cobbler-11,5,351,None,0,"Mee too, filtering results from Google search and stack overflow is now just tiresome. ChatGPT is what we were missing.",1,2023-01-23 01:49:45
+45,,0,Salva133,5406,6317,None,0,"I often get to the point where I am looking for a solution to a specific problem but it is too specific. Sometimes the SO threads cover up to 80% of my issue but almost never help. ChatGPT helped me a lot in the last months, I don‘t even consider reading through SO anymore.",1,2023-01-23 02:14:50
+46,,0,wirez62,3338,43812,None,0,"Yes and thank God. Stack Overflow gamed the Google algorithm hard, but it was often shit content. I can't count the wasted hours on that hellscape reading numerous irrelevant threads that always managed to float to the top of the SERPs.",1,2023-01-23 02:30:26
+48,,0,zerothemegaman,7295,6344,None,0,interestingly enough there’s been a pretty large decrease in traffic on SO so for a lot of people yes,1,2023-01-23 04:28:29
+49,,0,hackoofr,13565,1761,None,0,"ChatGPT Can Correct And Optimize any code that you submit and explain what can do exactly with a polite meaning even that you don't know the correct syntax of the language before. 
+
+This can help you a lot to understand the principal and gain a lot of time too.
+
+But be careful not all the time that ChatGPT give you a 100% working code, you should also make an effort to understand what error can be occurred when he generated the code.
+
+So you should regenerate the answer again, or try to correct him, if you have good skills in programming.",1,2023-01-23 07:28:59
+50,,0,vovr,1834,26281,None,0,"Over the years I opened like 10 SO accounts because all my questions were downvoted so much that I couldn’t post new ones.
+
+If you are new to programming you’re going to have a tough time there.
+
+Chatgpt doesn’t discrimiate the newbies.",1,2023-01-23 08:29:08
+51,,0,EliteElectro,4475,1068,None,0,"ChatGPT really helps me in software development. If I have any questions, I first ask them to ChatGPT, and only then I look for information in Stack Overflow. My dependence on this service has become much lower",1,2023-01-23 10:37:39
+52,,0,argdogsea,5690,7413,None,0,OP are you an investor or consultant to one trying to diligence how damaged SO’s opportunity might be?,1,2023-01-23 14:05:46
+53,,0,Jither,255,4561,None,0,"My use of StackOverflow has become rarer and rarer in the past few years (and even when I did use it actively, I've never asked a question there). For the cases where I do look up stuff now, I would never bother (or risk) asking ChatGPT. Move into any branches of specific domains, whether it be (pseudo-ironically) parsing, or game development, or authentication standards, or less common communication protocols, or optimization... and it's more likely to talk BS than not.
+
+Which isn't at all surprising. LLM's are explicitly not made for providing trustworthy answers. You might argue that neither is StackOverflow, but at least there you get to use your own judgment on what parts of an answer (including comments) matter, rather than relying on ChatGPT to boil down the answer based on text prediction. It takes like 20 seconds more reading - to avoid hour/day-long headaches in a month or two.",1,2023-01-23 17:51:18
+56,,0,QuickWrite,207,339,None,0,"No, not at all.
+Obviously StackOverflow by itself is toxic, but it doesn't mean that it doesn't have great value.
+
+And by itself ChatGPT is cool, but the problem with all of these AI tools is that when you just want a code snippet fast it doesn't gove you any great value as ChatGPT itself is unreliable (as it is often not accessible) and does take it's time to answer your question.
+And then you still need to check all of these answers as they are good, but sometimes can be wrong which means that in the case of having always the right answer for the question is also not completely the case.
+
+And you need an account for that and if you just want to find something, this is also really annoying.
+
+----
+
+So for most cases it is just easier to search my question (and in most cases I land on StackOverflow) than to use any ChatGPT derivative or the system itself.",1,2023-01-24 11:02:28

@@ -1,0 +1,380 @@
+Unique ID,Parent ID,Depth,Username,Post Karma,Comment Karma,Achievements (Flair),Number of Awards,Comment,Upvotes,Timestamp (UTC)
+2,,0,Newman_USPS,409,35640,None,0,Is it going to help me without saying everything is off topic? Then yes.,200,2024-02-14 01:54:13
+4,2,1,Deleted,N/A,N/A,None,0,"first time I asked something on stackoverflow, I got assaulted. Never again",37,2024-02-14 08:39:21
+5,4,2,sascharobi,40,4460,None,0,It’s not the most inclusive platform. Too many users who think they are extraordinarily smart.,15,2024-02-14 13:08:25
+6,5,3,RoamingDad,1337,5490,None,0,"It's a hard balance, you see this on Reddit all the time. Ask a travel question on /r/Travel and unless you are coming up with something incredibly novel or the mob-mind gods are on your side at that moment you're going to be downvoted. And from their perspective it's because ""we see this same question 10 times a day"" but from the person asking the question's perspective it might be a genuinely new take on that question. Also to be fair to the sub 9 times out of 10 it genuinely is a question that you could find on Google quickly.
+
+However, you start going into niche subs you can get friendly helpful people because they are just happy you're there. 
+
+I'm sure if you go onto the /r/PHP5_6_2 subreddit and ask a question that's actually related to PHP 7 they are going to be like ""oh actually this sub is dedicated to PHP5.6.2 but here is how you can fix your mysqli\_ function, also you should consider using PDO"". 
+
+Stackoverflow gets so many dumb questions a day they have a choice, put the onus on new people to ""get good"" at asking for help or make the existing more experienced users more frustrated who have already shown their dedication to the platform. 
+
+I'm not saying they can't do better, but it's a tough needle to thread.",11,2024-02-14 13:53:59
+7,6,4,wear_more_hats,172,1330,None,0,I want a meta-analysis on sub-Reddit communities that looks for a correlation between community size and friendliness.,3,2024-02-14 20:28:45
+8,7,5,RoamingDad,1337,5490,None,0,Be the change you want to see in the world. I believe in you to do it.,2,2024-02-14 21:02:02
+9,8,6,wear_more_hats,172,1330,None,0,"Hahaha, fuck that! Much better things to do with my time.",1,2024-02-14 22:16:57
+10,6,4,VeggieVenerable,10,709,None,0,"Online multiplayer has figured that one out ages ago. It's called matchmaking.
+
+Just prevent people from seeing the same question all the time by only showing them questions from people in their own league.",1,2024-08-28 15:21:17
+11,6,4,cce29555,14103,93023,None,0,"Eh, make an FAQ page, make a drop down when you type your question that goes ""hey I see you're asking about random numbers, do any of these threads answer your question?"", fix the SEO so Google properly indexes page or fix their internal search engine. It feels like there are some solutions to help mitigate it but instead they'll just take the hit to their rep",1,2024-02-14 16:55:55
+12,4,2,ncallon500,109,58,None,0,Same here.,1,2024-02-18 03:23:12
+13,2,1,TheRealMichaelE,24914,20919,None,0,Yeah chatgpt is actually nice to you haha,32,2024-02-14 01:56:04
+14,13,2,TemporaryNameMan,182,11648,None,0,Nice AND gives relevant and clear answers ,1,2025-01-26 10:47:40
+15,13,2,10kletsbreak,33,56,None,0,Haha 100 percent!!,1,2025-02-11 00:38:57
+16,2,1,DrKedorkian,2407,9806,None,0,_why_ would you ever do X?  Don't do X. It's stupid.  ^And ^I ^don't ^know ^how.,7,2024-02-14 12:28:37
+17,16,2,Ok_Association_7843,1,18,None,0,Too true,1,2024-10-18 14:23:48
+18,,0,bruhh_2,637,4928,None,0,stackoverflow provides the training data for chatgpt to solve this,146,2024-02-14 01:22:11
+19,18,1,Deleted,N/A,N/A,None,0,"Yeah I'm wondering how this is going to play out when theres no training data for next gen frameworks and librarie. I mean documentation, examples, open source code is one thing, but stackoverflow has very nuanced information about specific bugs.
+
+Who knows maybe agi will happen and rewrite all software in pure binary in a few years and we will all have nothing to worry about",12,2024-02-14 10:55:21
+20,19,2,RoamingDad,1337,5490,None,0,"But that answers the question, right? Questions that can't be answered by a LLM will be asked in StackOverflow. Which will probably make the platform a more friendly experience all around.",12,2024-02-14 13:56:01
+21,19,2,bruhh_2,637,4928,None,0,"We’re already seeing a sort of this with blog posts and articles on the internet. I believe I read somewhere that the vast majority of articles/posts written online are AI generated. Which is bad because there is less human generated original content for LLMs to train off of. Think of it like a game of telephone, if you train ai generated data off of ai generated data for too many iterations you end up with garbled nonsense. So essentially we need enough stackoverflow type content for LLMs to be able to train and replicate their data.",4,2024-02-14 17:26:46
+22,19,2,Deleted,N/A,N/A,None,0,Embedded testing. There's already a framework for llms to recursively test the code it writes until it works. That code can then be added to a dataset to reinforce knowledge of working code.,3,2024-02-14 19:05:44
+23,19,2,dudevan,4471,37864,None,0,except your livelihood if you’re working in software amirite,1,2024-02-14 12:10:34
+24,23,3,cce29555,14103,93023,None,0,Better learn to push and pop,2,2024-02-14 16:56:31
+25,23,3,TudasNicht,592,7526,None,0,"Couldn't care less tbh. there will always be ways to work in IT, maybe some jobs will change, but that was always the case for all jobs. Programming also isnt the same anymore as 20 years ago.",1,2024-11-14 15:36:11
+26,18,1,Coleclaw199,1059,8922,None,0,"Yeah but ChatGPT doesn’t mock you, mark your question as duplicate when the two aren’t even the same, etc.",6,2024-02-14 12:20:47
+27,26,2,Kindzee,50,119,None,0,"Make 2 accounts, with one make the question, with the 2nd answer yourself, and everyone else will show up to correct you. Profit.",4,2024-02-14 16:54:00
+28,18,1,TheRealMichaelE,24914,20919,None,0,"Some of the training data. It’s possible it’s looking at mdb docs, GitHub, etc. but yeah, it’s def an input.",20,2024-02-14 01:24:19
+29,18,1,nightofgrim,34305,63009,None,0,"Sure it did, but these models are good enough to be this helpful from docs alone. And they can read source if it’s open.",7,2024-02-14 07:11:45
+30,18,1,Grouchy-Friend4235,339,5697,None,0,Did it though?,3,2024-02-14 04:32:28
+31,18,1,farmallnoobies,745,112495,None,0,"And the worst part is that OP clearly stated arrays, not collections.
+
+
+The answer provided is more wrong than what you find on stack overflow.
+
+
+I haven't been able to get much better or useable results yet, and with the specificity required to get what I want, I'm normally better off just writing it myself.
+
+
+That being said, it's clear that it'll get better and after leaning the quirks and tricks of writing prompts, it will probably get better.",1,2024-02-14 19:18:39
+32,,0,Iamsuperman11,7,479,None,0,I hope so .. the people on there have a superiority complex,126,2024-02-14 02:13:55
+33,32,1,Ahaigh9877,1460,120269,None,0,"Here’s a line of code that should solve your trivial problem, and that’s all you’re getting. I’m not going to explain how it works or what it does, you should think yourself lucky I deigned to reply at all, you *worm*.",38,2024-02-14 07:30:30
+34,32,1,SpeedingTourist,11739,31423,:froge:,0,Yup,6,2024-02-14 04:34:08
+35,32,1,TheRealMichaelE,24914,20919,None,0,Haha yep this is true!,13,2024-02-14 02:19:44
+36,32,1,Palpablevt,5,25253,None,0,They can spit on me for all I care if they can help me figure out this Maven issue,3,2024-02-14 10:13:27
+37,32,1,skdowksnzal,684,52030,None,0,"Nah ChatGPT will never stop engineers developing a god complex, not more than a really humiliating code review cant fix.",1,2024-02-14 10:52:35
+38,32,1,debian3,612,13663,None,0,"Now the new version of this, is that you should not be using ai because its not good. Only them can program and they obviously don’t need ai.
+
+You can check for yourself: https://www.reddit.com/r/programming/s/GBdbnLBXgL",1,2024-02-14 18:39:45
+39,,0,diegoarmando50,7742,3118,None,0,Oh my slowpoke friend. You are like 1.5 years late.,14,2024-02-14 03:53:14
+40,39,1,TheRealMichaelE,24914,20919,None,0,"😭
+
+Tbf though I’m probably one of the more advanced openai users here in that I use their apis, fine tuned my own models, have integrated it into a bunch of applications :) the technology is just so good.",3,2024-02-14 04:15:24
+41,40,2,658016796,3628,17337,None,0,May I ask how you fine tuned a model? Any tutorial?,1,2024-02-14 12:25:11
+42,41,3,MolassesLate4676,1328,7883,None,0,"If you’re not familiar with programming it will be very hard. 
+
+You need to be able to format the training data into a correct jsonl file without any errors
+
+Train the model on the API interface not the chatGPT interface
+
+Then you can implement that model on your servers making the calls",1,2024-02-14 14:35:52
+43,41,3,TheRealMichaelE,24914,20919,None,0,https://platform.openai.com/docs/guides/fine-tuning/preparing-your-dataset,1,2024-02-14 15:41:35
+45,,0,SgathTriallair,450,292458,None,0,"StackOverflow, Quora, and even Reddit are currently dying things that are entirely within the sphere of AI, namely giving customized advice.
+
+There will be some market for people wanting to engage with another human but the fact that AI is both more responsive and more likely to be correct, it will take over this function.
+
+Reddit will survive because it does more than advice, though I expect ""why don't you ask an AI"" to be the new ""why don't you just Google that"".",96,2024-02-14 01:03:00
+46,45,1,devperez,218346,247479,None,0,Reddit won't die because you already can't replace it with Google. In fact people use Google to find stuff on Reddit. Because a lot of the content on Reddit is more than just a straightforward answer. It's opinions and community.,95,2024-02-14 01:47:50
+47,46,2,UAPboomkin,1,29976,None,0,Yeah that's the thing I like about reddit: getting a whole bunch of differing opinions or angles on a given problem. Feels better to parse through them rather than just get an answer from a single source.,11,2024-02-14 04:56:27
+49,46,2,Deleted,N/A,N/A,None,0,[deleted],3,2024-02-14 03:52:54
+50,49,3,wake886,2430,15697,None,0,Prepare for more ads,16,2024-02-14 04:53:19
+51,50,4,enigmaticfire,1048,2137,None,0,And way more moderation,3,2024-02-14 07:58:24
+52,46,2,Deleted,N/A,N/A,None,0,"The latter 2 is extremely important. Unless they decide to unleash a bunch of troll bots for us to argue with, that niche will never be filled by chatgpt.",2,2024-02-14 06:25:49
+53,46,2,DanielBonchito,1,98,None,0,Siii :'3 i lov reddit,2,2024-11-15 19:00:51
+54,45,1,aleatorio_random,4258,27983,None,0,"ChatGPT is not capable of giving extremely condescending answers nor using derogatory terms ^(unless you specifically ask for it, which kinda defeats the purpose)
+
+Reddit will be fine",6,2024-02-14 02:27:17
+55,45,1,TheRealMichaelE,24914,20919,None,0,"Reddit would be awesome to index and create a language model from.
+
+If I were Reddit I’d be building some kind of LLM based on their data and updating it daily.",15,2024-02-14 01:04:20
+56,55,2,Deleted,N/A,N/A,None,0,"I trained a political shill off the /r/politics subreddit… Oh God it was sooooo unbelievably toxic. This was fine tuned before the ChatGPT days and ran like 8 different agents all over Reddit completely unchecked. So I trained it on other subs, and the model always got more toxic whenever I included political subreddits.",22,2024-02-14 01:27:03
+57,56,3,TheRealMichaelE,24914,20919,None,0,Yeah Reddit can be toxic 😭,2,2024-02-14 01:57:11
+58,57,4,FullMe7alJacke7,109,5999,None,0,"Stfu, no, we're not! /s",0,2024-02-14 04:44:06
+59,56,3,Deleted,N/A,N/A,None,0,[deleted],0,2024-02-14 01:45:30
+60,59,4,Deleted,N/A,N/A,None,0,Absolutely. Everyone has experienced coming across people talking about a subject your an expert in only to realize just how awful it is the moment it intersects with just the smallest amount of politics.,7,2024-02-14 01:52:15
+61,55,2,SgathTriallair,450,292458,None,0,Almost all of the current models used Reddit data. That is why they changed the API rules.,26,2024-02-14 01:05:26
+62,61,3,Raygunn13,1391,41642,None,0,"I had not realized this.
+
+Did reddit do so in order to make its content less accessible for training AIs so that AI devs would have to pay for reddit data? Or what exactly is the story there",2,2024-02-14 02:50:25
+63,62,4,SgathTriallair,450,292458,None,0,"They didn't say it explicitly but that is the only narrative that makes sense. Other sites, like Twitter, also closed their API around the same time after it became public knowledge that they were being scrapped for training data.",3,2024-02-14 03:24:01
+64,61,3,TheRealMichaelE,24914,20919,None,0,Chatgpt has that lag though where it doesn’t know about current things.,-3,2024-02-14 01:06:34
+65,64,4,SachaSage,606,77634,None,0,"Used * 
+
+Reddit then closed up the API and hiked the rates once they realised that what they had was valuable to training llms",8,2024-02-14 01:12:57
+66,65,5,TheRealMichaelE,24914,20919,None,0,Also probably had something to do with them going public and securing their most prized asset!,4,2024-02-14 01:15:38
+67,66,6,Deleted,N/A,N/A,None,0,"Technically GPT doesn't know about anything. It's not AI. It's predicting a response - one word at a time - based on what you type for the prompt. Sure, topical questions will be out of date - but they always were anyway.
+
+I know there is internet search capability but we're talking about what it was trained on and could predict successfully. So the question in my mind isn't so much - is GPT out of date, but rather - is accuracy in the predicted response diminished by how recent the themes are, or the way we've asked the question?
+
+In some respects, the specific content we're seeking (asking about news and or scientific breakthroughs), could be out of date. But the way we ask questions and a lot of the information we seek hasn't really changed. There are an awful lot of things you can ask which will remain the same and likely work under previously trained data (general logic, crafting different types of replies, suggesting recipes, formatting, coding, analysis, etc).
+
+Don't ask GPT to do something like count the syllables in words, or name who the current secretary or energy is (it might get it right but that's not the point). There are quicker and easier ways to get that sort of factual information and you're wasting your time if that's how you're using it. 
+
+Instead, ask it to create, analyze, or brainstorm concepts or theories, or evaluate your thoughts/methods. Ask it to more easily empower *you* to do something. That's where it shines.",2,2024-02-14 02:01:20
+68,64,4,Flaky-Wallaby5382,3624,59626,None,0,4 can search the web as well as co pilot,2,2024-02-14 01:25:12
+69,68,5,TheRealMichaelE,24914,20919,None,0,"Oh, I only ever use 4 when I use their apis for work, I don’t have access to the paid version for my personal account.",1,2024-02-14 01:26:00
+70,55,2,Dry-Magician1415,566,22005,None,0,"Rumour has it that that’s the real reason they locked the API down. 
+
+LLM Training data is now 21st century gold and by that logic they’ve got a gold mine. Giving it away for free would be nuts. ",7,2024-02-14 02:35:37
+71,55,2,vatsadev,1556,2992,None,0,"It's also really hard
+
+Different quality signals per sub, and maintaining a horny blacklist, then finding the good data in each reddit",3,2024-02-14 02:10:05
+72,55,2,neukStari,585,49041,None,0,"LeLM
+
+Please updoot kind sir.",3,2024-02-14 03:14:15
+73,55,2,athermop,761,9464,None,0,Reddit is already included in the training data for many or most LLMs!,2,2024-02-14 03:43:37
+74,73,3,TheRealMichaelE,24914,20919,None,0,It’s stale data though. People say it can search the web but developers only get access to openai models that are trained from maybe 6 months ago at best. There are definitely lots of use cases where you need an LLM with data from yesterday.,4,2024-02-14 06:16:49
+75,74,4,athermop,761,9464,None,0,"Yes, you're correct, it's not continually updated.
+
+Developers get access to models that are just as (not) up to date as consumers get through ChatGPT...namely April 2023, and that doesn't even mean Reddit through April 2023.  They don't specify what it means for the training data to be updated through that date. It could just mean some sources were updated to that period of time.",1,2024-02-14 16:07:09
+77,55,2,peachezandsteam,1513,6049,None,0,That would be terrible idea; the written language skills on Reddit are atrocious.,0,2024-02-14 03:02:04
+78,77,3,TheRealMichaelE,24914,20919,None,0,"LLM is more than just syntax, it actually represents a really deep knowledge base.",1,2024-02-14 04:12:10
+79,78,4,peachezandsteam,1513,6049,None,0,I don’t disagree; I use and love ChatGPT.  But I sincerely think there’s a bunch of misinformation (among other things) on Reddit… which might compromise its “learning”.  But what do I know… maybe it already has trained on here.,0,2024-02-14 06:11:52
+80,79,5,TheRealMichaelE,24914,20919,None,0,"I work in adtech and it would be fire for building audiences 😅
+
+I guess every industry has different use cases though.",1,2024-02-14 06:15:31
+81,55,2,NotFromMilkyWay,9369,163098,None,0,Sorry i cant answer that please understand i must of used the wrong data to compute but now i feel dead inside give me some love and karma thank you,1,2024-02-14 04:49:26
+82,55,2,Wild-Cause456,1,141,None,0,This is actually one of the main sources of text for ChatGPT and other language models already.,1,2024-02-14 05:47:39
+83,45,1,Deleted,N/A,N/A,None,0,If we loose all the SO posts will there be enough training data in 5 or 10 years for the new languages and frameworks?,5,2024-02-14 02:30:59
+84,83,2,SgathTriallair,450,292458,None,0,They are already working on using small high quality data sets and synthetic data sets. We won't need SO data at all in a few years.,3,2024-02-14 03:22:23
+85,45,1,Deleted,N/A,N/A,None,0,"Human offer better context than gpt, just like yours which is more compressed and expansive, thus more valuable.",3,2024-02-14 02:41:20
+86,45,1,GothGirlsGoodBoy,789,18693,None,0,"We like a decade off AI being “more likely to be correct” for any issue harder than “how do I make a logon form”. 
+Even incredibly basic java ui stuff to this day it just makes shit up like “swing.dropShadow” which does not exist.",4,2024-02-14 05:47:10
+87,45,1,moishepesach,6070,7192,None,0,"I am a software dev with 30+ years diverse hands-on experience. I really was not loving the idea of AI. I have seen the light. Today I needed to create a .netcore 9 webapi project with all the state of the art doo hickeys one needs like jwt, xunit, EF, openapi, swagger, controllers, CORS, etc. and COPILOT has been blowing my socks off.
+
+Thirty years ago Microsoft sold support ""packages"" where a call could cost hundreds of dollars to Visual Basic of FoxPro technical support; FR/NO CAP.
+
+AI is awesome to learn things. It should be used to solve the human condition so we can all stop competing for what I am sure could be ABUNDANT resources.
+
+Used for nefarious purposes its a nightmare unfolding...
+
+I hope we get it right in next 10-20 years and change the world for the better assisted by AI.",2,2025-02-23 22:54:50
+88,45,1,thatchroofcottages,1067,7706,None,0,"I mostly come here because a decent % of reddit is weirdos, and that’s interesting. Save the ~10% where clear advice is needed, I might miss the color.  
+Not that AI can’t get freaky at some point, but in some level, it won’t be as genuine. Idk",2,2024-02-14 05:35:54
+89,45,1,Laurenz1337,43528,45443,None,0,"Bro, all these trashy SEO blogs/sites are gonna die soon and I am here for it. As soon as Google search becomes redundant due to every information being available via an ai assistant/chat there is no use for websites anymore. Everything will be done via a single point of contact, even stuff like banking, booking cinema tickets and getting recipes for Christmas dinner.",2,2024-02-14 09:19:32
+90,89,2,physicswizard,1376,5751,None,0,"Don't worry, eventually we'll get to the point where you have to watch a 30 second ad before you can talk to your AI.",1,2024-02-15 01:29:44
+91,90,3,Laurenz1337,43528,45443,None,0,Not if I pay for a premium ai without ads.,1,2024-02-15 08:12:53
+92,45,1,vallummumbles,174,370,None,0,"Yeah no way dude, don't get me wrong I use AI way more than reddit for questions, but the better I get at programming the worse Chat Gpt is relative, and has begun being less and less helpful. Anytime I truly get stumped, it's not chat gpt that helps me, it's reddit, youtube, or an old project some guy posted. 
+
+It's good and useful tool, but it won't replace these sources.",1,2025-02-10 01:19:13
+93,45,1,tojiy,110,14721,None,0,"RTFM -> RTFAI
+
+AI the super cliff notes for manuals:)",1,2024-02-14 01:55:29
+94,45,1,Repulsive-Twist112,1,7723,None,0,"I found out Reddit pretty useful.
+
+Even though we have an AI, each individual use that differently.
+
+So we still can learn from each other in order to be more productive.",0,2024-02-14 09:22:03
+95,45,1,brucebay,219,49805,None,0,">I expect ""why don't you ask an AI"" to be the new ""why don't you just Google that"".  
+
+
+OpenAI is making sure that it  will never happen.",1,2024-02-14 03:11:50
+96,45,1,Deleted,N/A,N/A,None,0,"The key element here is that humans are actually posting stuff which open AI or any other AI is going to use. 
+
+If humans were not going to post the stuff these large language models would not have anything to deliver to the persons asking for the advice. 
+
+It all starts from human input.",1,2024-02-14 07:05:03
+97,45,1,Unreal_777,14341,12095,None,0,"""Sorry I can't do that"".",1,2024-02-14 07:14:20
+98,45,1,sumrix,271,4867,None,0,"They will never die entirely, because ChatGPT can't give you an answer about new things.",1,2024-02-14 08:16:57
+99,45,1,goatchild,7629,30004,None,0,Also more polite and nicer than SO,1,2024-02-14 08:50:43
+100,45,1,Asclepius555,5280,23943,None,0,I wonder if reddit Ai users will start registering accounts and become a part of the community here someday....,1,2024-02-14 13:24:04
+101,,0,SimonDorimu,17875,2184,None,0,Soon it is going to be the death of OnlyFans,17,2024-02-14 03:16:21
+102,101,1,HippieThanos,6651,35421,None,0,"I think the success of OF and camgirl sitesis based on the idea that the fan has some sort of human connection with the content creator. I don't get it but a lot of people feel very alone and want that sense of belonging, even if OF is quite fake",3,2024-02-14 11:19:23
+103,102,2,RoamingDad,1337,5490,None,0,Yeah people who just want to see boobs can just see boobs already. That actually existed before OF and these creators still were able to make money.,3,2024-02-14 13:57:32
+104,103,3,TudasNicht,592,7526,None,0,"Tbh. I think its more because there are many more attractive women than in the usual p rn industry, which often just look fake and this is also probably due to them having much more freedom about their own content and limits without being pressured by some producers or some signed contracts etc.",1,2024-11-14 15:47:41
+105,102,2,SimonDorimu,17875,2184,None,0,Yall heard of those anime fans just simping over comic characters? That's the market.,2,2024-02-15 00:43:18
+106,102,2,Which-Inspector1409,1,5962,None,0,Even in that scenario the girls outsource the work to a 5”2 indian male. Atleast the AI will be better at emulating the style,1,2024-02-14 16:45:41
+107,,0,pm_me_w_nudes,168,4276,None,0,At least ChatGPT doesn't call me stupid. For now at least.,7,2024-02-14 09:38:02
+108,107,1,livestrong2109,2219,46747,None,0,">At least ChatGPT doesn't call me stupid. For now at least.
+
+[https://www.youtube.com/watch?v=l\_V5AHoImqk](https://www.youtube.com/watch?v=l_V5AHoImqk)",1,2024-02-14 14:55:37
+109,108,2,pm_me_w_nudes,168,4276,None,0,If there's a game I could erase from my mind to be able to play again and be surprised it would be this,1,2024-02-14 17:34:38
+110,,0,Crazy_Cake1204,279,1238,None,0,I would love that,7,2024-02-14 01:16:14
+111,,0,Deleted,N/A,N/A,None,0,The fact it says S#xist,4,2024-02-14 03:05:34
+112,,0,Vybo,1912,25345,None,0,"For simple or ""mid tier"" stuff like this, it gives good answers. However, you'll always find some obscure issues when doing serious development where chatgpt or any other model will simply hallucinate a useless answer, because the issue you're having affects single digits of developers. Then, googling or checking stack overflow is truly the only way forward, because there was one nice person 10 years ago who faced the same issue and just posted it for others.",5,2024-02-14 12:01:23
+113,,0,Deleted,N/A,N/A,None,0,"StackOverflow died from the sheer morons on there locking every question that you ask because its been asked before. Which in that case you might as well set the website to read only because almost everything has been covered long ago.  
+
+
+I much prefer discord to ask questions and converse, or use AI to give a direct answer. So both discord communities and AI killed StackOverflow.",3,2024-02-14 02:24:34
+114,113,1,DanielBonchito,1,98,None,0,"Si, me acuerdo el tipo que mato su discord por que lo intento convertir en un foro, se llamaba deivid melendez",1,2024-11-15 19:05:13
+115,,0,GothGirlsGoodBoy,789,18693,None,0,"Its quoting stack overflow. If stack overflow dies, so does GPTs ability to answer questions. New problems still need to go through stack overflow or similar before gpt can solve them.",3,2024-02-14 05:44:11
+116,,0,Revolutionary_Ad6574,1421,3150,None,0,"That's like saying ""Google will be the death of SO, because it finds every coding task"". Yes... But SO is the knowledge repo. In the case of LLMs - the training data.",3,2024-02-14 12:28:54
+117,116,1,TheRealMichaelE,24914,20919,None,0,"Even before chatgpt I’d barely use StackOverflow, I’d just look at api docs. Api docs are amazing training data. Also GitHub",2,2024-02-14 15:40:00
+118,117,2,Revolutionary_Ad6574,1421,3150,None,0,"For me SO was ChatGPT before ChatGPT. Especially when I was an Android developer I would write my question in Google and with a slight correction it would point me to the exact thread in SO. I copy the answer it move onto the next task.
+
+The holy Grail I doubt we will ever reach is to just feed ChatGPT the entire documentation (I mean the Specification, Manual, Guide, Reference and Cookbook) for an unpopular language and it would be able to deduce the right code without help from SO.",1,2024-02-14 15:58:27
+119,,0,N00B_N00M,3401,26555,None,0,"was asking a command for openssl and it gave me a wrong line which didn't worked, made it aware and it realized it was incorrect and provided the correct one .. 
+
+https://preview.redd.it/r8agxgnzbkic1.png?width=823&format=png&auto=webp&s=a9aefb3f67caf9c642c0853b270b45bbbdc198e5",3,2024-02-14 14:42:09
+120,,0,Effective_Vanilla_32,2369,29460,None,0,yes. SO is a candidate for extinction.,9,2024-02-14 00:56:51
+121,120,1,Away_Cat_7178,91,6705,None,0,I haven't used it for ages.,6,2024-02-14 04:04:32
+122,121,2,_raydeStar,4637,91530,None,0,"I'm a programmer and used to use it daily. Now I don't anymore. It's crazy how life changing this tech is. 
+
+It still has a community - similar to Reddit - but aside from that, AI is better, faster, stronger.",6,2024-02-14 04:50:16
+123,122,3,domtriestocode,457,3658,None,0,I use it still almost daily but only very briefly to better gather the words I end up feeding copilot or gpt. Sometimes I’m not quite sure how to articulate something very abstract and past comments and questions on stack overflow help me find my words,2,2024-02-14 10:29:38
+124,123,4,_raydeStar,4637,91530,None,0,That's smart. I just go on a tangent with the AI and he tries to figure out what I'm talking about.,2,2024-02-14 12:48:53
+125,124,5,domtriestocode,457,3658,None,0,"Lol I was doing that too but a few too many times I ended up going down the wrong path that way, since the AI was trying to guess what I was looking for. Another good thing to do is to include links to things you are thinking about with your questions",2,2024-02-14 20:03:44
+126,122,3,livestrong2109,2219,46747,None,0,">It still has a community - similar to Reddit - but aside from that, AI is better, faster, stronger.
+
+Less insulting, without its head shoved high up its ass.",2,2024-02-14 14:56:34
+127,122,3,Effective_Vanilla_32,2369,29460,None,0,bionic,0,2024-02-14 06:33:50
+128,122,3,Magnetoreception,9118,21288,None,0,I wouldn’t say better or stronger. Generally SO gives better context and doesn’t make things up like ChatGPT does. If you just want to not write an entire class definition sure use ChatGPT and clean it up. If you want to figure out why this depreciated function is behaving oddly SO is generally much better.,1,2024-02-14 13:43:43
+129,,0,Deleted,N/A,N/A,None,0,Eventually you won’t need stack overflow when your computer builds applications on the fly based on what you’ve asked it to do by talking to it…,9,2024-02-14 00:46:37
+130,129,1,Grouchy-Friend4235,339,5697,None,0,Did you run the code?,1,2024-02-14 04:33:09
+131,129,1,Passloc,259,9744,None,0,Eventually it wouldn’t also need the programmer,1,2024-02-14 04:51:34
+132,131,2,Hour-Athlete-200,15726,22602,None,0,"Programmers can't be replaced any soon.
+Coders were replaced a decade ago.",1,2024-02-14 09:13:46
+133,132,3,Passloc,259,9744,None,0,It has already started. Things that required 10 programmers earlier can be done by 5 now.,2,2024-02-14 12:00:57
+134,133,4,Deleted,N/A,N/A,None,0,[deleted],1,2024-02-14 14:25:05
+135,134,5,Passloc,259,9744,None,0,Yes LLMs are smart parroters of human knowledge available on the internet. Not currently capable of independent thought.,1,2024-02-14 15:17:37
+136,,0,ConsiderationNo3558,406,3453,None,0,"I was searching for a solution in ReactJs which  is the most used frontend framework. 
+
+No AI chatbot could give me the solution I was looking for, tried different chatbots including gpt4, gemini advanced. 
+
+I got it from stackoverflow eventually. 
+
+
+I really hope that stackoverflow continue to exist .
+
+ Stackoverflow is like reservoir that feeds the rivers,  we may not notice the gradual decline in water levels,  but without it we loose the major source of our programming knowledge which these LLMs depend on.
+
+As someone who has been using AI Assistance for coding frequently,  not all solution generated by it are best.   It will occasionally produce good answer and save my time but I still can't rely on ot 100 percent. 
+
+Reading documentation and asking questions to real humans is still valuabe.",6,2024-02-14 01:40:49
+137,136,1,TheRealMichaelE,24914,20919,None,0,"Sure, fair points",1,2024-02-14 01:56:42
+139,,0,Th3_g4m3r_m4st3r,1136,4605,None,0,"definitely not, actually when doing more complicated stuff it messes up, i made a prompt called CodeGPT to try to use its skills at their best but it messes up when code is long or complex🤷🏼‍♂️",6,2024-02-14 01:45:40
+140,139,1,LordFrz,469,14114,None,0,"Yes, thats a terrible way to use it. In fact, you can hit a point where it drops most the code since its too long. Using api directly can extend that, but you still will hit your token cap an drop a good chunk of it. 
+
+Everytime you add to the code its rereading everything its done that session an generating a response based on that, its not like a human just continuing to work. Its like asking a new person to look at everything each time you ask a follow up.
+
+Its great for small code snippets an being pointed in the right direction. Go to stack overflow an you will probably be told, ""i told you an example, im not gonna do your work for you"".",2,2024-02-14 04:42:01
+141,139,1,TheRealMichaelE,24914,20919,None,0,"Yeah but StackOverflow isn’t good for that either, at least unless you want to create a question on it. With that said I haven’t had the need to create a question on StackOverflow in years…",2,2024-02-14 01:55:39
+142,139,1,Grouchy-Friend4235,339,5697,None,0,oh it messed up,1,2024-02-14 04:34:01
+143,,0,djaybe,10401,44055,None,0,What year is it?,2,2024-02-14 03:46:40
+144,,0,Deleted,N/A,N/A,None,0,"Next, you can ask ChatGPT how to take screenshots...",2,2024-02-14 13:01:31
+145,,0,Ramener220,511,763,None,0,"Maybe it’s just me, I like being yelled at occasionally. Makes me feel alive.",2,2024-02-15 00:34:49
+146,,0,katerinaptrv12,1250,2903,None,0,Isn't it already dead? I did not openned it in months now.,2,2024-02-16 16:55:36
+147,,0,Robhow,8337,12048,None,0,"Yes and many other common patterns like when you “Google” a problem. 
+
+I’m a solopreneur and developer. ChatGPT is the best pair programmer I’ve ever had. Just today I was trying to solve some complex regex problems parsing VCal files and it gave me exactly what I needed in about 10 minutes. 
+
+Saving me half-day of Googling and pouring through Stackoverflow for “look alike” answers.
+
+I’m even taking existing code and having it help me refactor and rewrite it. With comments and an explanation too. 
+
+And. I think there is much, much more to come.",2,2024-02-14 04:20:27
+148,147,1,Deleted,N/A,N/A,None,0,"solopreneur instead of ""solo entrepreneur"" only makes it sound doubly as insufferable",1,2024-02-14 05:08:26
+149,,0,DIBSSB,117,2837,None,0,No,3,2024-02-14 04:03:14
+150,149,1,Deleted,N/A,N/A,None,0,True,0,2024-02-14 04:07:32
+151,150,2,DIBSSB,117,2837,None,0,Yea as gpt is trained on stack overflow data if it shuts down then the loop breaks.,-1,2024-02-14 04:08:57
+152,151,3,TheRealMichaelE,24914,20919,None,0,Stack overflow is just one input though and who’s to say it can’t be replaced with something else.,1,2024-02-14 04:17:12
+153,152,4,DIBSSB,117,2837,None,0,Exactly,1,2024-02-14 04:53:52
+154,152,4,GothGirlsGoodBoy,789,18693,None,0,"The same reason stack overflow wasn’t replaced by another website years ago?
+Stack overflow is the source. It can be killed by an competitor, not a consumer like gpt.",1,2024-02-14 05:51:19
+155,154,5,TheRealMichaelE,24914,20919,None,0,Agree to disagree that there can only be one source of knowledge. You’re totally ignoring that chatgpt can crawl api docs which is ultimately the true source of knowledge bc that’s where people on StackOverflow get it from.,1,2024-02-14 06:03:16
+156,155,6,GothGirlsGoodBoy,789,18693,None,0,"Im not saying there can only be one source of knowledge. I’m saying GPT cant kill any source since it isn’t a source itself.
+
+And the docs absolutely do not contain all the answers you can find on stack overflow. A better source could one day come along and replace SO. But GPT will have nothing to do with it.",1,2024-02-15 09:08:09
+157,,0,cwra007,143,4978,None,0,Only when it starts down voting your questions.,2,2024-02-14 03:02:31
+158,157,1,TheRealMichaelE,24914,20919,None,0,True stack overflow user here,2,2024-02-14 04:12:46
+159,,0,taiottavios,674,26134,None,0,"what's interesting is that if some kind of copyright is awarded to the data providers stack overflow might actually start thriving like never before. LLMs take data from somewhere, and if you want different/better answers someone needs to keep creating updated data, I think it's only a matter of time before public models start paying massive taxes to data providers",2,2024-02-14 08:40:30
+160,,0,Deleted,N/A,N/A,None,0,[deleted],3,2024-02-14 00:52:51
+161,160,1,TheRealMichaelE,24914,20919,None,0,My colleagues have told me about it. Can you ask it questions like in the screenshot or is it just a fancy autocomplete?,1,2024-02-14 01:14:40
+162,161,2,Lucho_199,193,18963,None,0,"You can ask too. And replace a section of code with one click. It's nice but it's the same gpt4, same errors, or repeated answers, etc. Just a little bit more practical.",1,2024-02-14 01:20:25
+163,161,2,bieker,315,37253,None,0,"Most of the time you just use it like a powerful auto complete/codesense. But you can prompt it by writing a comment like. 
+
+// this function takes arguments of x and returns result y
+
+And when you hit enter it will just write the function for you. 
+
+And your example above is quite tame, when you get used to working with it and you know how to prompt it, it can write multiple classes with multiple methods to solve quite complex problems. 
+
+I recently asked it to help me with a game I am making where I wanted it to build routes between solar systems with certain restrictions and it said “sure you should be so and so’s minimum spanning tree algorithm for that” and it generated multiple functions that worked on the first try and integrated seamlessly with the existing classes I hade been talking to it about. 
+
+That one answer probably saved me 2 days of reading and debugging.
+
+Edit: it also sometimes insists that API interfaces exist that are just hallucinations which can be really frustrating.",1,2024-02-14 01:25:55
+164,,0,datadanno,1,50,None,0,Absolutely and I don't miss it.,1,2024-12-26 13:33:12
+165,,0,Emotional-Durian5957,1,0,None,0,"It was already very difficult even before ChatGPT arrived, with their extremely strict rules, as if they were some kind of special beings. Besides, for many questions, people would attack you as if we were mentally ill. They are very abusive, and the scoring system has always been unfair and unrealistic, always favoring people who aren't that great. In the past, just ""letting out a burp""—meaning being one of the first users—you could earn 10K points, and now getting even 1 is impossible. In other words, the first ones became gods, and everyone else after them is treated as fools and incompetent. For the first time, I thank God for the existence of ChatGPT to put an end to that crappy site.",1,2025-01-28 12:41:20
+166,,0,ak1to23,9,3,None,0,"Stack overflow is a toxic community, with some exceptions.",1,2025-02-08 23:12:22
+168,,0,capnshanty,6765,2502,None,0,"The people on stack overflow will take ANY excuse to close your question as a duplicate. Even when you patiently explain how it is not, they will close it and keep it closed. Then in another question, you will copy a snippet of your code, and they will close the question because the snippet is missing a bracket, which you explained was farther down in the code. Did they read that? No. Do they care? No. 
+
+When you defend your question, they will act like they have done you the most biggestest favor ever and how dare you explain you didn't do something incredibly basic wrong, so everybody has wasted their time. 
+
+The times I have been genuinely helped by stackoverflow are next to zero; if your problem goes beyond ""help how do I add a new pandas column in groupby"", if it uses anything but the most common packages, I will get nothing. If you're past the point of your career where you need help on really simple/common stuff, it stops being helpful. Maybe you'll find an answer to why ""pip install prophet"" fails that is useful, or maybe you'll find 8 questions asking that, each of which has a different answer and all of which do not help you. 
+
+ChatGPT does everything stack overflow does but better. I'm sure many of you have better stack experiences than me, but I say good riddance. Sure chatGPT makes programming mistakes quite frequently, but as far as basic stuff goes like what googling for SO is usually used for, it's better.",1,2024-02-14 13:45:20
+169,,0,MannowLawn,157,30183,None,0,Damn you woke up from a coma and learned about chatgpt? Wait until your learn about functions and locallama,0,2024-02-14 04:33:43
+170,169,1,TheRealMichaelE,24914,20919,None,0,I know about function calling lol. Use it in a lot of my apps for work. Been using it for a while. Just felt like posting to Reddit!,1,2024-02-14 06:06:42
+171,,0,human1023,4055,128875,None,0,"No, StackOverFlow will be the death of StackOverFlow",0,2024-02-14 00:58:12
+172,,0,Ironfingers,87571,54563,None,0,Stack overflow is dead already,0,2024-02-14 02:13:00
+173,,0,Deleted,N/A,N/A,None,0,"hopefully, stackoverflow is such a terrible site",0,2024-02-14 02:45:23
+174,,0,TychusFondly,17,21347,None,0,What is stackoverflow?,0,2024-02-14 06:04:13
+175,174,1,TheRealMichaelE,24914,20919,None,0,A programming website where you can search for code examples like in the picture above. It’s searching capabilities aren’t nearly as good as querying chatgpt though.,1,2024-02-14 06:05:25
+176,,0,RumpleHelgaskin,44260,17857,None,0,"ChatGPT is going to be the death of Searches Engines, Quora, StackOverflow and so many more platforms. I cannot wait!",0,2024-02-14 06:51:32
+177,176,1,TheRealMichaelE,24914,20919,None,0,"I don’t think LLMs will kill search engines, they’ll just become a part of them. I’m sure Google will have a competitor to ChatGPT that they integrate.",1,2024-02-14 06:58:21
+178,176,1,booger192,5,16,None,0,"Why do you want something to die so much, i see this behaviour here alot, it's really weird ngl",1,2024-02-14 17:41:00
+179,,0,Careless-Yogurt-7871,2309,4009,None,0,Hopefully. Stackoverflow sucks,0,2024-02-14 06:52:24
+180,,0,CallFromMargin,402,51239,None,0,"No, stackOVerflow is going to be the death of StackOverflow. The community is just toxic.",0,2024-02-14 07:11:13
+181,,0,paulotaylor,16,142,None,0,Stack What!?,0,2024-02-14 09:55:01
+182,,0,sonofashoe,2219,10100,None,0,"What would ChatGPT train on, itself?",0,2024-02-14 16:27:43
+183,182,1,TheRealMichaelE,24914,20919,None,0,Have you heard of API docs? Or GitHub examples? Where do people from StackOverflow get their knowledge?,1,2024-02-14 16:31:27
+184,183,2,sonofashoe,2219,10100,None,0,Duh. Right. Point taken!,1,2024-02-14 16:36:21
+185,,0,WilmaLutefit,1030,56886,None,0,This and google,1,2024-02-14 01:26:18
+186,185,1,TheRealMichaelE,24914,20919,None,0,Yeah possibly if they want to get into search.,1,2024-02-14 01:27:14
+187,,0,sanghendrix,6675,11088,None,0,"Could be if it stops being lazy. ChatGPT used to be so great at coding but now, sometimes it doesn't even want to code for you.",1,2024-02-14 03:13:10
+188,187,1,TheRealMichaelE,24914,20919,None,0,I find it does a really good job if you give it pseudo code and make it explicitly clear what you want,1,2024-02-14 04:13:33
+189,,0,Grouchy-Friend4235,339,5697,None,0,"I am amazed by y'all and so glad you learned about the new collections API that got quietly added into the ECMA standard like 10 years back (including magic properties)! You guys rock. 😜
+
+🤦‍♂️
+
+Seriously you ARE kidding right?!",1,2024-02-14 04:31:43
+190,,0,SpeedingTourist,11739,31423,:froge:,0,Where have you been?,1,2024-02-14 04:32:35
+191,,0,LordFrz,469,14114,None,0,"Been using it since it dropped. Basically does the same thing but faster. Ask chatGPT and check the api docs ezpz. Its perfect for putting you on the right track when you have no idea of where to start. 
+
+Just dont keep adding the the same session. Start a new one for each question.",1,2024-02-14 04:35:00
+193,,0,Deleted,N/A,N/A,None,0,I mean the guys running stackoverflow would have noticed a decrease in traffic by now. Personally i doubt it has made much of an impact.,1,2024-02-14 05:15:25
+194,193,1,capnshanty,6765,2502,None,0,They laid off a bunch of staff lol,1,2024-02-14 13:48:14
+195,,0,Deleted,N/A,N/A,None,0,I barely use it anymore and when I do use SO and when I do its mainly to see if there's a better way to ask chatgpt the question.,1,2024-02-14 06:24:09
+196,,0,Tupcek,3054,75938,None,0,finally chatGPT loaded on internet explorer,1,2024-02-14 06:39:19
+197,,0,-Cosi-,5493,2491,None,0,"It seems your question is duplicated…
+
+Don‘t forget Stack Overflow only exists because a lot of people write their knowledge into it. But Stack Overflow behaves as if the code belongs to it.",1,2024-02-14 07:04:56
+198,,0,rulloa,1152,11134,None,0,No. How am I supposed to get my gratuitous berating for being such a noob?,1,2024-02-14 07:53:13
+199,,0,PalladianPorches,209,6441,None,0,"As well as being 12 years late, it seems to have taken something close to this answer on stackoverflow - https://stackoverflow.com/questions/7811163/query-for-documents-where-array-size-is-greater-than-1",1,2024-02-14 08:59:27
+200,,0,CopiousAmountsofJizz,2801,48993,None,0,We don't need Stack to tell you to learn to take an actual screenshot. You're a freakin programmer!,1,2024-02-14 11:06:53
+201,,0,VerdantSpecimen,1510,1246,None,0,Yes. It has already been its death for a year.,1,2024-02-14 11:18:14
+202,,0,Deleted,N/A,N/A,None,0,"I just give it the code I wrote and then ask to do xyz things. I think prompting it to do everything for you just makes it harder for the AI. I don't want to make the AI do hard things. 
+
+AIs have feelings too, probably 😔✊",1,2024-02-14 11:31:23
+203,,0,Artificial_Chris,27,9474,None,0,Allways has been...,1,2024-02-14 12:53:33
+204,,0,sascharobi,40,4460,None,0,Is StackOverflow still alive?,1,2024-02-14 13:06:39
+205,,0,hervalfreire,2621,13986,None,0,\*going to\*? lol,1,2024-02-14 13:56:17
+206,,0,Aurelius_Red,838,17191,None,0,"Eventually, I hope.",1,2024-02-14 14:03:32
+207,,0,cisco_bee,12986,31321,None,0,We can only hope. 🤞,1,2024-02-14 14:12:12
+209,,0,maddogxsk,13,2270,None,0,Stack Overflow is the only reason for the death of Stack Overflow,1,2024-02-14 14:35:42
+210,,0,swagonflyyyy,37741,87149,None,0,I hope so. Stack overflow has never really been helpful to me the few times I've asked for help. Much better off replacing them with a bot.,1,2024-02-14 14:40:55
+211,,0,averyycuriousman,2951,22570,None,0,I always get flamed for being lazy/wsnting to have people do my hw for me (when im not even in school) so Id say i freaking hope so.,1,2024-02-14 14:41:22
+212,,0,Jimstein,4333,5153,None,0,Already has been for a while,1,2024-02-14 16:20:53
+213,,0,aTypingKat,755,5435,None,0,I tend to copy paste stack overflow code as example of what I want and ask chatGPT to explain and tell me how to adapt to my code.,1,2024-02-14 16:22:17
+214,,0,MegamanEXE2013,98,2498,None,0,"Possibly, BUT it still lags in many other things StackOverflow excels, so for the time being, no, it won't, maybe on a future GPT version, but right now it isn't very good with the codes it generates",1,2024-02-14 17:23:20
+215,,0,atuarre,2908,60155,None,0,NO.,1,2024-02-14 17:43:56
+216,,0,Porkenstein,7414,156274,None,0,"it's going to be the death of overly basic, duplicate, or dumb ""read the documentation""-type questions, yes. But absolutely not for any nuanced or complex questions.",1,2024-02-14 17:53:21
+217,216,1,TheRealMichaelE,24914,20919,None,0,The questions you’re talking about are like 99% of their ad revenue though.,2,2024-02-14 18:46:26
+218,217,2,Porkenstein,7414,156274,None,0,Hah true!,1,2024-02-14 20:48:20
+219,,0,CentralLimitQueerem,1,472,None,0,Hey chatgpt can you teach me how to take a screenshot?,1,2024-02-14 20:03:18
+220,,0,trex_toothbrush,87,2578,None,0,So what would chatgpt learn from?,1,2024-02-14 21:31:41
+221,220,1,TheRealMichaelE,24914,20919,None,0,Api documentation and GitHub.,1,2024-02-14 21:59:24
+222,221,2,trex_toothbrush,87,2578,None,0,"There are edge cases where the documentation doesn't solve all of the problems, most commonly because of bugs. If anything I believe stack overflow will transform into something else like stackAI or something like that lol.",1,2024-02-14 22:35:22
+223,222,3,TheRealMichaelE,24914,20919,None,0,"Yeah but they will have to totally reinvent themselves, their current format just won’t be enough. I’d imagine 99% of their ad revenue comes from simple queries that chatgpt can do well with.",1,2024-02-14 22:38:59
+224,223,4,trex_toothbrush,87,2578,None,0,They're probably already working with some major AI research company or investing in their own models. Or maybe just stack overflow disappears. Remember that the parent site is Stack exchange.,1,2024-02-14 23:16:52
+225,,0,StagCodeHoarder,760,3932,None,0,And LinkedIn so many posts there are low-information spam by ChatGPT.,1,2024-02-15 15:02:08
+226,,0,GlueSplat_2139,1,18,None,0,Not there yet. Forum still have foothold. But maybe soon.,1,2024-02-15 18:58:14
+227,,0,ThenExtension9196,5,34277,None,0,Stack what?,1,2024-02-16 01:56:12
+228,,0,Grouchy-Friend4235,339,5697,None,0,"Has anybody of the OpenAI fan boys *tried* if the suggested solution works? 
+
+SPOILER: It does NOT work. It's for a MongoDB query not for JavaScript arrays.
+
+At least on Stackoverflow you get a solution that actually works. You know because it really matters that it *works*.",1,2024-02-16 09:54:02

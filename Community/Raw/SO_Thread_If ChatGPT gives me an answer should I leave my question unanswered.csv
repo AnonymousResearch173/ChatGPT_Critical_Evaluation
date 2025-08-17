@@ -1,0 +1,80 @@
+Type,Content,Username,User Reputation,Upvotes,Is Moderator,Creation Date
+Question,"I entered this question. And in writing it out it helped me clarify what I think is the solution. So I asked ChatGPT and it agreed with my approach and provided me complete code for the solution.
+This answer from ChatGPT, if entered by a human, I would accept. I am implementing this answer in my code. In addition, I'm guessing this won't be answered in SO because the number of people answering EF questions is relatively small.
+So under the present rules do I leave it unanswered? Do I give the ChatGPT answer? Do I tell someone what to ask ChatGPT to get the answer?
+I'm not going to post what ChatGPT answered and pretend I figured it out - that is violating the no-ChatGPT rule. Any effort I see to post the answer I have, including the suggestions in the comments, in my opinion, require either I lie or plagiarize (or both). I choose to not answer if those are my options. After all, I don't need the answer.
+Update:
+I posted the approach I think SO should take over in MSDN (example here). I'll do this in MSDN going forward as it's allowed there. But I think SO is poorer for not allowing entries like this.
+",David Thielen,32966,0,0,2023-03-25 20:51:48
+Comment on Question,"I agree with this, but unfortunately the users & moderators that manage this plaform do not agree. A working answer of mine to my own question that featured some ChatGPT code was deleted 3 times by moderators, quite insane really: stackoverflow.com/questions/48119360/…. And here also some further experiences of mine in relation to ChatGPT: meta.stackexchange.com/questions/387575/….",Tom Wenseleers,8009,1,0,2023-07-24 09:51:54
+Comment on Question,"@zcoop98 The OP (me) declines to plagiarize. ChatGPT answered the question so well and so fully, any changing it into my words would have been blatant plagiarism.",David Thielen,32966,1,0,2023-04-01 18:10:36
+Comment on Question,"@zcoop98 providing an answer in your own words has never actually been banned. OP seems to stick to this premise for an unknown reason. Posting the generated content was banned. Not only is banning ChatGPT as the source of an idea never been banned, such a ban is unenforceable. It requires literal mind reading to enforce. Which does not exist.",VLAZ,29086,1,0,2023-04-01 10:46:27
+Comment on Question,"The affinity to throw out (presumably) a good, helpful answer simply because it came from a source that is disliked is astounding and intrinsically counter-productive to the site's mission of curating a library of useful content. I am 100% on board with stemming the tide of crap content from any content generator, AI or no– but once we start considering quality answers as garbage simply because of their source, we have crossed the line into madness, in my opinion. The goal of the ban was to get generated content to be curated, not to throw out helpful content. This outcome is absurd.",zcoop98,3087,2,0,2023-03-29 16:14:22
+Comment on Question,@VLAZ doesn't mean one has to waste human time.,Franck Dernoncourt,83327,2,0,2023-03-28 04:55:33
+Comment on Question,@FranckDernoncourt SO was never a place where we strived to minimise the time it takes to write an answer to a question.,VLAZ,29086,1,0,2023-03-28 04:34:09
+Comment on Question,"@KevinB I'm happy to put in the time to write a full answer with a clear explanation. I'd like to do so to help others that hit the same problem. Unfortunately the solution, along with the explanation, came from ChatGPT.",David Thielen,32966,3,0,2023-03-27 23:05:26
+Comment on Question,"@KevinB Then you can add an answer saying yes to the OP's question ""If ChatGPT gives me an answer, should I leave my question unanswered?""",Franck Dernoncourt,83327,0,0,2023-03-27 22:49:51
+Comment on Question,"@FranckDernoncourt no one's forcing anyone to write an answer. If you don't wish to put in the time, don't do it.",Kevin B,95047,4,0,2023-03-27 22:09:27
+Comment on Question,"@VLAZ ""express the answer in your own words"" sounds like a waste of human time.",Franck Dernoncourt,83327,2,0,2023-03-27 21:49:02
+Comment on Question,"""If I ask ChatGPT what is 2 + 2 and it replies 4, there's really not much for me to add to that"" I still don't see how you're unable to express the answer in your own words. Or do you believe that any information that ChatGPT can generate should not be posted. Which seems rather uselessly dogmatic.",VLAZ,29086,1,0,2023-03-27 14:19:08
+Comment on Question,"@FranckDernoncourt Since the OP did give an example and referred to it multiple times – yeah, I think it does matter. After all, that is what ""my question"" is here. I would hate to see advice that amounts to ""yes, answer the question using ban-satisfying-approach-X"" but that is absolutely not what should happen for the example. Now if most such questions fall into the latter category, that would also affect the general advice, IMO. After all, that is why the ban exists: Because there was too much bad content to be outweight by the few pearls.",MisterMiyagi,51989,3,0,2023-03-27 13:40:37
+Comment on Question,"@MisterMiyagi the question is ""If ChatGPT gives me an answer, should I leave my question unanswered?"".  The example question that the OP gave doesn't matter.",Franck Dernoncourt,83327,1,0,2023-03-27 12:40:47
+Comment on Question,"Why exactly are we discussing this based on a question that clearly lacks focus? It shouldn’t be answered, it should be closed.  That ChatGPT is good for questions that aren’t a good fit for SO is somewhat meaningless.",MisterMiyagi,51989,4,0,2023-03-27 09:06:19
+Comment on Question,"@DavidThielen okay, but that is not a question that should go on Stack Overflow so no harm done there. And that would be my take on it. If ChatGPT CAN answer the question... I kind of doubt it was a good question for Stack Overflow. It is either off-topic, or already answered.",Gimby,5283,5,0,2023-03-27 08:34:40
+Comment on Question,"@DavidThielen you can write ""four"".",Franck Dernoncourt,83327,0,0,2023-03-27 00:58:43
+Comment on Question,"I'm giving up on replying to the comments here because they all, at root, want me to come up with a better solution than ChatGPT gave me. Sorry all, ChatGPT gave me what I think is the optimum solution and it gave it to me in full. If I ask ChatGPT what is 2 + 2 and it replies 4, there's really not much for me to add to that.",David Thielen,32966,5,0,2023-03-26 21:01:39
+Comment on Question,"“It doesn’t serve anyone well to post that inferior answer.” - Edit it so it’s no longer inferior. Bottom Line: ChatGPT can generate accurate content but only if trained to do so, but even if it’s superior to your answer, it’s not allowed. So use your superior ability to write your own content to write an answer yourself purely based off your own knowledge.",Security Hound,2548,0,0,2023-03-26 19:34:59
+Comment on Question,"Okay. So take the same steps, and write the better answer that you're now capable of writing, now that you've learned something from reading the ChatGPT output - since it's fed from a model that includes data that would have been helpful for you to know about ahead of time, this can be seen as a form of research.",Karl Knechtel,61615,3,0,2023-03-26 18:57:26
+Comment on Question,@KarlKnechtel the answer I was considering before ChatGPT was significantly inferior to the answer it gave me. It doesn’t serve anyone well to post that inferior answer.,David Thielen,32966,4,0,2023-03-26 13:59:50
+Comment on Question,"How would you have proceeded, step by step, if you had had this question before ChatGPT existed? I recommend doing that.",Karl Knechtel,61615,10,0,2023-03-26 03:27:05
+Comment on Question,"@DavidThielen - ""And in writing it out, it helped me clarify what I think is the solution."" - Sounds like you had a solution in your head, not answering your question, when you have an answer doesn't help the community. As I said, if your able to verify the ChatGPT, you likely have enough knowelege to answer your own question.",Security Hound,2548,9,0,2023-03-25 23:09:47
+Comment on Question,@SecurityHound I did not have an answer before Chat-GPT walked me through the plusses and minuses of the approaches and then gave me a full answer on the best approach with code and reasoning.,David Thielen,32966,3,0,2023-03-25 23:01:58
+Comment on Question,"""So under the present rules do I leave it unanswered?"" - You had an answer before you used ChatGPT.  So you should submit that as your answer. If you have the knowledge required to determine ChatGPT gave you the proper answer you should be able to answer your own question with your own code.",Security Hound,2548,15,0,2023-03-25 21:52:07
+Comment on Question,@RobertLongson So that eliminates the solution of just providing the question to ask. Good to know - thank you,David Thielen,32966,1,0,2023-03-25 21:08:39
+Comment on Question,"@StoryTeller-UnslanderMonica and VLAZ - Chat-GPT laid it out so perfectly that my ""rewording"" it would be clear plagiarism.",David Thielen,32966,3,0,2023-03-25 21:07:50
+Comment on Question,Note also that ChatGPT doesn't answer a fixed question with the same output consistently.,Robert Longson,124179,13,0,2023-03-25 20:57:41
+Comment on Question,Are you unable to write an answer in your own words and using your own examples? Potentially expanding it with other information and maybe references to other resources?,VLAZ,29086,4,0,2023-03-25 20:55:47
+Comment on Question,Can't you describe the solution using your own words?,StoryTeller - Unslander Monica,170173,31,0,2023-03-25 20:55:45
+Answer,"I humbly suggest that you and others in a similar situation:
+
+Provide an answer containing any code that chatgpt generated in your answer. Provided you first verified the correctness of the code
+
+Cite or otherwise attribute ChatGPT
+
+
+AND
+
+Provide a concise explanation of what the code does and how/why it solves the problem presented in your question.
+
+Unless you feel you cannot provide the explanation of the code without plagiarizing the chatgpt answer.
+
+In which case I would suggest also copy/pasting the chatgpt explanation/context (correctly attributed) ALONG WITH a concise explanation of why it is correct in this case.
+
+Basically
+I think you should create a derivative work/answer of ChatGPT's answer by providing an explanation of the generated answer OR some amount of your thoughts as to why the generated answer is valid.
+why?
+You can't simply post a ChatGPT answer because of the rule AND you don't want to plagiarize ChatGPT. An answer that includes an explanation and/or justification for the cited ChatGPT answer would, in my opinion, provide an answer that both:
+
+Provides a non 100% ChatGPT answer (a human wrote the explanation and/or assurance that the answer is correct)
+Is a cited, derivative (enough IMO) work that wouldn't constitute plagiarism by some definition given the context of SO
+
+",codyThompson,95,0,0,2023-04-11 18:19:40
+Comment on Answer,"@TomWenseleers You already mentioned that here six months ago, you don't need to make the same comment a second time.",F1Krazy,146,3,0,2024-01-22 11:35:16
+Comment on Answer,ChatGPT is banned on SO. What you suggest here is simply not allowed.,Cerbrus,72927,3,0,2023-07-26 12:14:17
+Comment on Answer,"I agree with this, but unfortunately the users & moderators that manage this plaform do not agree. A working answer of mine to my own question that featured some ChatGPT code was deleted 3 times by moderators, quite insane really: stackoverflow.com/questions/48119360/…. And here also some further experiences of mine in relation to ChatGPT: meta.stackexchange.com/questions/387575/….",Tom Wenseleers,8009,0,0,2023-07-24 09:49:10
+Comment on Answer,"I agree, including all the steps you list. Unfortunately those running Stack Overflow don't allow this at present.",David Thielen,32966,1,0,2023-04-12 01:22:58
+Answer,"
+If ChatGPT gives me an answer, should I leave my question unanswered?
+
+That's one of the reasons why the ban on AI-generated content is not a good idea imho. Personally, I'd post the question on Reddit or some other public place accepting AI-generated content, along with the AI-generated answer, and link to it in a comment on SO, in case someone on SO feels like paraphrasing/decorating it into an ""original"" answer (which will help train future AI systems).
+",Franck Dernoncourt,83327,-22,0,2023-03-26 19:40:34
+Comment on Answer,@SecurityHound that doesn't make the comment useless.,Franck Dernoncourt,83327,2,0,2023-03-27 21:29:18
+Comment on Answer,"@FranckDernoncourt - ChatGPT generated content is banned, my entire point, is that comments when flagged, can be deleted.  So answering a question, with a comment, has never been the greatest idea.",Security Hound,2548,3,0,2023-03-27 21:21:52
+Comment on Answer,"@SecurityHound If ChatGPT gives a good answer, should I post the answer by ChatGPT (with attribution to ChatGPT)?",Franck Dernoncourt,83327,1,0,2023-03-27 21:19:57
+Comment on Answer,"@FranckDernoncourt - Comments that answer a question should be submitted as an answer, allowing for the original comment to be deleted, since comments shouldn't be consider to be permanent.  I find neither ChatGPT generated content or comments that really should be answers to a question to be helpful to the community.",Security Hound,2548,3,0,2023-03-27 21:18:19
+Comment on Answer,@SecurityHound a comment that links to an external site with the successful AI-generated answer the question.,Franck Dernoncourt,83327,2,0,2023-03-27 21:05:28
+Comment on Answer,@FranckDernoncourt - ChatGPT generated trash or a comment that links to an external site with the failed attempt to answer the question instead of submitting an actual answer?,Security Hound,2548,4,0,2023-03-27 18:40:57
+Comment on Answer,@SecurityHound why useless?,Franck Dernoncourt,83327,1,0,2023-03-27 17:55:28
+Comment on Answer,"""link to it in a comment on SO"" - I have no qualms flagging such a useless comment.",Security Hound,2548,4,0,2023-03-27 17:50:41
+Comment on Answer,"""paraphrasing/decorating it into an ""original"" answer (which will help train future AI systems)."" that is already how to deal with potential plagiarism. And OP's concern is essentially that: ""What if I found an answer - how can I post in on SO"".  2. ""help train future AI systems"" is a complex topic. You would be producing a positive feedback loop in this way by feeding output back as input to train the model. Which can skew the results. This can be a problem even if the output is right by losing variance and alternatives.",VLAZ,29086,2,0,2023-03-27 14:10:10
+Comment on Answer,"note that ""paraphrasing/decorating"" is likely not going to be enough to consider the answer original",blackgreen,44971,4,1,2023-03-27 07:50:44
