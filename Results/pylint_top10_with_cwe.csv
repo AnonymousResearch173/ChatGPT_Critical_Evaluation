@@ -1,0 +1,11 @@
+Category,StackOverflow,ChatGPT,CWE
+E0602,1158,1425,CWE-79: Improper Neutralization of Input
+E0001,981,322,CWE-94: Code Injection
+E0401,325,711,CWE-703: Improper Handling of Exceptional Conditions
+W0621,109,722,CWE-563: Unused Variable
+W0104,100,259,CWE-398: Code Quality Issue
+W0611,87,179,Unmapped
+W0613,67,172,CWE-563: Unused Variable
+E0102,68,107,CWE-398: Code Quality Issue
+W0404,76,84,CWE-670: Improper Cleanup on Thrown Exception
+W0311,133,4,Unmapped
