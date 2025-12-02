@@ -1,0 +1,24 @@
+SELECT 
+    q.Id AS QuestionId,
+    q.CreationDate AS QuestionCreationDate,
+    q.Score AS QuestionScore,
+    q.Title AS QuestionTitle,
+    q.Tags AS QuestionTags,
+
+    a.Id AS AcceptedAnswerId,
+    a.CreationDate AS AnswerCreationDate,
+    a.Score AS AnswerScore,
+    a.Body AS AnswerBody
+
+FROM Posts q
+JOIN Posts a 
+    ON a.Id = q.AcceptedAnswerId   
+
+WHERE q.PostTypeId = 1                
+  AND q.CreationDate >= '2022-01-01'
+  AND q.CreationDate <  '2024-01-01'
+  AND q.AcceptedAnswerId IS NOT NULL
+  AND q.Score >= 1
+  AND q.Tags LIKE '%<python>%'
+
+ORDER BY q.CreationDate ASC;
