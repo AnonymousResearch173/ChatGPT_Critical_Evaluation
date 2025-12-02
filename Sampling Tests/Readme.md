@@ -2,17 +2,6 @@
 
 # README: Statistical Validation of Sampling Strategy
 
-This repository contains an analysis notebook (`.ipynb`) that evaluates whether a **sample of Stack Overflow questions** (with accepted answers containing ≥15 lines of code) is statistically representative of the **full population** of such posts in Python and Java.
-
-The analysis includes:
-
-* Descriptive statistics for population vs. sample
-* Percentage deviation (Δ%)
-* Kolmogorov–Smirnov (KS) tests
-* Interpretation of representativeness
-
----
-
 ## 📌 1. Background
 
 We began with all Stack Overflow questions that satisfy:
@@ -127,12 +116,5 @@ Large populations (20k–25k) make even small differences statistically signific
 
 The sample is **reasonably representative** in terms of **code length**, which is central to your study (≥15 lines filter).
 However, the sample tends to **favor higher-scored questions**, especially in Python, which should be noted as a mild sampling bias.
-
----
-
-## 📝 6. Repository Contents
-
-* `sampling_analysis.ipynb` — Full statistical analysis with plots, KS-tests, and explanations
-* This `README.md` — Summary of methods and findings
 
 ---
