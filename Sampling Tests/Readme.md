@@ -1,3 +1,12 @@
+Your README is failing because GitHub interprets the very first line (`---`) as the start of a **YAML front-matter block**, but **you did not close it**.
+So GitHub tries to parse everything until the next `---` as YAML — and fails.
+
+### ✅ Fix: Remove the first `---`
+
+(or add a closing `---`, but removing is simpler).
+
+Here is a **clean, error-free version** of your README without the front-matter block.
+
 ---
 
 # README: Statistical Validation of Sampling Strategy
@@ -24,7 +33,7 @@ To verify whether this sample is representative, we compare:
 * **score** (upvotes on the question)
 * **code_length** (number of code lines in accepted answer)
 
-using descriptive statistics and the **KS-test**.
+using descriptive statistics and the **Kolmogorov–Smirnov (KS) test**.
 
 ---
 
@@ -34,12 +43,12 @@ using descriptive statistics and the **KS-test**.
 
 * Population mean: **1.89**
 * Sample mean: **6.45**
-* Deviation (Δ%): **+242.05%**
+* Δ (%): **+242.05%**
 * KS-test p-value: **0.0000**
 
 **Interpretation:**
-The sample contains Python questions with **much higher scores** compared to the population.
-The KS-test p-value near zero indicates the distributions differ significantly.
+Sample contains significantly higher-scored Python questions.
+Large difference both statistically and practically.
 
 ---
 
@@ -47,12 +56,12 @@ The KS-test p-value near zero indicates the distributions differ significantly.
 
 * Population mean: **34.36**
 * Sample mean: **36.35**
-* Deviation (Δ%): **+5.79%**
+* Δ (%): **+5.79%**
 * KS-test p-value: **0.0246**
 
 **Interpretation:**
-Code length in the sample is only slightly higher than the population average.
-KS-test p-value (~0.02) indicates a small but statistically significant difference, though practically the deviation is minor.
+The sample slightly over-represents longer Python code answers.
+Practical difference is small.
 
 ---
 
@@ -62,11 +71,11 @@ KS-test p-value (~0.02) indicates a small but statistically significant differen
 
 * Population mean: **2.03**
 * Sample mean: **2.28**
-* Deviation (Δ%): **+12.17%**
+* Δ (%): **+12.17%**
 * KS-test p-value: **0.0000**
 
 **Interpretation:**
-Java score distribution differs between sample and population, but the **mean deviation is small** (~12%).
+Distributions differ statistically, but the score deviation is small.
 
 ---
 
@@ -74,48 +83,54 @@ Java score distribution differs between sample and population, but the **mean de
 
 * Population mean: **41.71**
 * Sample mean: **42.28**
-* Deviation (Δ%): **+1.37%**
+* Δ (%): **+1.37%**
 * KS-test p-value: **0.0380**
 
 **Interpretation:**
-The code-length distribution is nearly identical between sample and population.
-Although the p-value indicates statistical difference, the **practical deviation is negligible**.
+Code-length distribution is extremely close to population.
+Statistical significance due to large sample size; practical difference negligible.
 
 ---
 
-## 🧪 4. What the KS-test Tells Us
+## 🧪 4. Understanding the KS Test
 
-The Kolmogorov–Smirnov test measures whether two distributions differ **in shape**.
+The **Kolmogorov–Smirnov test** checks whether two distributions differ in shape.
 
-* **p < 0.05** → distributions are statistically different
-* But **statistical significance ≠ practical significance**, especially with large populations
+* **p < 0.05** → statistically significant difference
+* But with very large datasets (20k+), *tiny practical differences* can still produce significant p-values.
 
-In our case:
+Thus, interpretation must combine:
 
-* Python/Java **code length** distributions are very close in practice
-* Python scores differ substantially
-* Java scores differ mildly
-
-Large populations (20k–25k) make even small differences statistically significant.
+* Statistical significance
+* Practical effect size (Δ%)
 
 ---
 
-## 📌 5. Summary: Is the Sample Representative?
+## 📌 5. Is the Sample Representative?
 
 ### **Python**
 
-* **Score** over-represented (bias toward popular questions)
-* **Code length** nearly representative
+* Score distribution: biased toward higher-scored posts
+* Code-length distribution: close enough for practical purposes
 
 ### **Java**
 
-* **Score** slightly over-represented
-* **Code length** representative
+* Score: slightly higher scores in sample
+* Code length: very representative
 
 ### **Overall Conclusion**
 
-The sample is **reasonably representative** in terms of **code length**, which is central to your study (≥15 lines filter).
-However, the sample tends to **favor higher-scored questions**, especially in Python, which should be noted as a mild sampling bias.
+The sample of **2,000 posts** is reasonably representative of the **code-length characteristics** of the 25k-post population — which is the critical metric given the ≥15-line inclusion criterion.
+
+Scores show some upward bias (especially for Python), which should be mentioned as a mild sampling limitation.
 
 ---
+
+## 📝 6. Repository Contents
+
+* `sampling_analysis.ipynb` – Notebook with sampling statistics and KS tests
+* `README.md` – This summary of methodology and findings
+
 ---
+
+If you want a **more compact version**, a **more academic style**, or a **Threats to Validity** subsection, I can generate that too.
