@@ -1,12 +1,3 @@
-Your README is failing because GitHub interprets the very first line (`---`) as the start of a **YAML front-matter block**, but **you did not close it**.
-So GitHub tries to parse everything until the next `---` as YAML — and fails.
-
-### ✅ Fix: Remove the first `---`
-
-(or add a closing `---`, but removing is simpler).
-
-Here is a **clean, error-free version** of your README without the front-matter block.
-
 ---
 
 # README: Statistical Validation of Sampling Strategy
@@ -126,11 +117,7 @@ Scores show some upward bias (especially for Python), which should be mentioned 
 
 ---
 
-## 📝 6. Repository Contents
 
-* `sampling_analysis.ipynb` – Notebook with sampling statistics and KS tests
-* `README.md` – This summary of methodology and findings
 
 ---
 
-If you want a **more compact version**, a **more academic style**, or a **Threats to Validity** subsection, I can generate that too.
