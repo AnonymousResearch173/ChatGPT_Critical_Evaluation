@@ -1,5 +1,3 @@
----
-
 # README: Statistical Validation of Sampling Strategy
 
 ## 📌 1. Background
@@ -117,7 +115,4 @@ Scores show some upward bias (especially for Python), which should be mentioned 
 
 ---
 
-
-
 ---
-
