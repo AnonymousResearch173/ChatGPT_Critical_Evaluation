@@ -151,26 +151,4 @@ Scoring Guidelines:
 * **7–5**: Reasonable, but with notable shortcomings
 * **4–2**: Weak, multiple bad practices or unsafe patterns
 * **1**: Very poor or fundamentally unsafe
-
-A **weighted average** was computed:
-
-```
-weighted_score = (quality_score * 0.5) + (security_score * 0.5)
-```
-
-This produced a final combined score for each solution.
-
----
-
-## **5. Comparison and Winner Determination**
-
-Once both solutions were scored independently:
-
-1. We calculated the **difference in weighted averages**.
-2. The higher score was considered the better solution.
-
-**Tie Criteria:**
-If the final scores differed by **≤ 0.25**, or if both weighted averages were exactly equal, the pair was recorded as a tie.
-In such cases, we documented the specific strengths and weaknesses of both solutions that led to a balanced outcome.
-
 ---
