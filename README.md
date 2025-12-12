@@ -86,7 +86,7 @@ Contains the material used for the manual evaluation of a subset of code pairs.
   A structured guideline describing how manual comparisons were conducted, including evaluation criteria for code quality and security.
 
 * **manual_subset.csv**
-  The subset of question–answer pairs (both ChatGPT and Stack Overflow) that were manually analyzed using the guideline.
+  Sample examples of the questions that were manually evaluated by the authors as per the guideline above mentioned.
 
 ---
 
