@@ -174,20 +174,3 @@ If the final scores differed by **≤ 0.25**, or if both weighted averages were 
 In such cases, we documented the specific strengths and weaknesses of both solutions that led to a balanced outcome.
 
 ---
-
-## **6. Documentation Format**
-
-For each pair, we recorded:
-
-* Detected programming language
-* Stack Overflow quality and security scores
-* ChatGPT quality and security scores
-* Weighted averages
-* Winner (Human / AI / Tie)
-* An explanation summarizing:
-
-  * Key quality characteristics
-  * Security findings
-  * Reasons for the final decision
-
----
