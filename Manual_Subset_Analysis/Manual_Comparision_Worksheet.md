@@ -190,10 +190,4 @@ For each pair, we recorded:
   * Security findings
   * Reasons for the final decision
 
-This produced a structured CSV file containing the manually analyzed results.
-
 ---
-* A PDF version of this document
-* A sample row from the CSV (with anonymized content)
-
-Just let me know.
